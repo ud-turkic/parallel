@@ -1,0 +1,1237 @@
+# sent_id = cairo-tr-1
+# text = Kız arkadaşına mektup yazdı.
+1	Kız	_	_	_	_	_	_	_	_
+2	arkadaşına	_	_	_	_	_	_	_	_
+3	mektup	_	_	_	_	_	_	_	_
+4	yazdı	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-2
+# text = Yağmur yağdığını zannediyorum.
+1	Yağmur	_	_	_	_	_	_	_	_
+2	yağdığını	_	_	_	_	_	_	_	_
+3	zannediyorum	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-3
+# text = (O) sigara ve alkol içmeyi bırakmayı denedi.
+1	(	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	sigara	_	_	_	_	_	_	_	_
+5	ve	_	_	_	_	_	_	_	_
+6	alkol	_	_	_	_	_	_	_	_
+7	içmeyi	_	_	_	_	_	_	_	_
+8	bırakmayı	_	_	_	_	_	_	_	_
+9	denedi	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-4
+# text = (Sen) gitmek istiyor musun?
+1	(	_	_	_	_	_	_	_	_
+2	Sen	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	gitmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	musun	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-5
+# text = Sam, pencereyi aç!
+1	Sam	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	pencereyi	_	_	_	_	_	_	_	_
+4	aç	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-6
+# text = (O) kocasına arabayı yıkattırdı.
+1	(	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	kocasına	_	_	_	_	_	_	_	_
+5	arabayı	_	_	_	_	_	_	_	_
+6	yıkattırdı	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-7
+# text = Peter'in komşusu çiti kırmızı boyadı.
+1	Peter'in	_	_	_	_	_	_	_	_
+2	komşusu	_	_	_	_	_	_	_	_
+3	çiti	_	_	_	_	_	_	_	_
+4	kırmızı	_	_	_	_	_	_	_	_
+5	boyadı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-8
+# text = Benim babam seninkinden daha harika.
+1	Benim	_	_	_	_	_	_	_	_
+2	babam	_	_	_	_	_	_	_	_
+3	seninkinden	_	_	_	_	_	_	_	_
+4	daha	_	_	_	_	_	_	_	_
+5	harika	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-9
+# text = Mary bronz kazandı, Peter gümüş, Jane altın.
+1	Mary	_	_	_	_	_	_	_	_
+2	bronz	_	_	_	_	_	_	_	_
+3	kazandı	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Peter	_	_	_	_	_	_	_	_
+6	gümüş	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Jane	_	_	_	_	_	_	_	_
+9	altın	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-10
+# text = İguazu büyük bir ülke mi, yoksa küçük mü?
+1	İguazu	_	_	_	_	_	_	_	_
+2	büyük	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ülke	_	_	_	_	_	_	_	_
+5	mi	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	yoksa	_	_	_	_	_	_	_	_
+8	küçük	_	_	_	_	_	_	_	_
+9	mü	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-11
+# text = Ne Peter Smith ne de Mary Brown seçilebilir.
+1	Ne	_	_	_	_	_	_	_	_
+2	Peter	_	_	_	_	_	_	_	_
+3	Smith	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	Mary	_	_	_	_	_	_	_	_
+7	Brown	_	_	_	_	_	_	_	_
+8	seçilebilir	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-12
+# text = (Onlar) kimin yazdığını hiç bilmiyorlar.
+1	(	_	_	_	_	_	_	_	_
+2	Onlar	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	kimin	_	_	_	_	_	_	_	_
+5	yazdığını	_	_	_	_	_	_	_	_
+6	hiç	_	_	_	_	_	_	_	_
+7	bilmiyorlar	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-13
+# text = (Sen) neye bakıyorsun?
+1	(	_	_	_	_	_	_	_	_
+2	Sen	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	neye	_	_	_	_	_	_	_	_
+5	bakıyorsun	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-14
+# text = (Sen) ne zaman gelebileceğini zannediyorsun?
+1	(	_	_	_	_	_	_	_	_
+2	Sen	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	zaman	_	_	_	_	_	_	_	_
+6	gelebileceğini	_	_	_	_	_	_	_	_
+7	zannediyorsun	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-15
+# text = (O) araba aldı ama erkek kardeşi sadece bisiklet.
+1	(	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	araba	_	_	_	_	_	_	_	_
+5	aldı	_	_	_	_	_	_	_	_
+6	ama	_	_	_	_	_	_	_	_
+7	erkek	_	_	_	_	_	_	_	_
+8	kardeşi	_	_	_	_	_	_	_	_
+9	sadece	_	_	_	_	_	_	_	_
+10	bisiklet	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-16
+# text = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
+1	Peter	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	Mary	_	_	_	_	_	_	_	_
+4	birbirlerini	_	_	_	_	_	_	_	_
+5	kucakladılar	_	_	_	_	_	_	_	_
+6	ve	_	_	_	_	_	_	_	_
+7	ondan	_	_	_	_	_	_	_	_
+8	sonra	_	_	_	_	_	_	_	_
+9	odadan	_	_	_	_	_	_	_	_
+10	çıktılar	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-17
+# text = (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+1	(	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	saçını	_	_	_	_	_	_	_	_
+5	yapıyor	_	_	_	_	_	_	_	_
+6	olmalıydı	_	_	_	_	_	_	_	_
+7	ama	_	_	_	_	_	_	_	_
+8	nedense	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	gün	_	_	_	_	_	_	_	_
+11	yapmadı	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-18
+# text = Ayak uyduramadım çünkü fazla hızlı koştu.
+1	Ayak	_	_	_	_	_	_	_	_
+2	uyduramadım	_	_	_	_	_	_	_	_
+3	çünkü	_	_	_	_	_	_	_	_
+4	fazla	_	_	_	_	_	_	_	_
+5	hızlı	_	_	_	_	_	_	_	_
+6	koştu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-19
+# text = Bu mektup Peter'den ve dün iletildi.
+1	Bu	_	_	_	_	_	_	_	_
+2	mektup	_	_	_	_	_	_	_	_
+3	Peter'den	_	_	_	_	_	_	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	dün	_	_	_	_	_	_	_	_
+6	iletildi	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cairo-tr-20
+# text = (O) Fransanın başkenti Paris'te büyüdü.
+1	(	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Fransanın	_	_	_	_	_	_	_	_
+5	başkenti	_	_	_	_	_	_	_	_
+6	Paris'te	_	_	_	_	_	_	_	_
+7	büyüdü	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-1
+# text = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
+1	Bizimki	_	_	_	_	_	_	_	_
+2	yazlıktaki	_	_	_	_	_	_	_	_
+3	çocuk	_	_	_	_	_	_	_	_
+4	odasını	_	_	_	_	_	_	_	_
+5	apar	_	_	_	_	_	_	_	_
+6	topar	_	_	_	_	_	_	_	_
+7	derleyip	_	_	_	_	_	_	_	_
+8	toplamış	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	mutfağın	_	_	_	_	_	_	_	_
+11	masasını	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	elden	_	_	_	_	_	_	_	_
+14	çıkarmıştı	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-2
+# text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+1	Sana	_	_	_	_	_	_	_	_
+2	bunu	_	_	_	_	_	_	_	_
+3	hep	_	_	_	_	_	_	_	_
+4	söylüyorum	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	sabahları	_	_	_	_	_	_	_	_
+7	arkadaşınla	_	_	_	_	_	_	_	_
+8	telefonda	_	_	_	_	_	_	_	_
+9	konuşurken	_	_	_	_	_	_	_	_
+10	benden	_	_	_	_	_	_	_	_
+11	bahsetme	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-3
+# text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
+1	Yatılı	_	_	_	_	_	_	_	_
+2	kalacak	_	_	_	_	_	_	_	_
+3	misafir	_	_	_	_	_	_	_	_
+4	kapıyı	_	_	_	_	_	_	_	_
+5	çalmıştı	_	_	_	_	_	_	_	_
+6	ama	_	_	_	_	_	_	_	_
+7	ev	_	_	_	_	_	_	_	_
+8	sahibi	_	_	_	_	_	_	_	_
+9	hala	_	_	_	_	_	_	_	_
+10	temizlik	_	_	_	_	_	_	_	_
+11	yapıyordu	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	restorandan	_	_	_	_	_	_	_	_
+14	sipariş	_	_	_	_	_	_	_	_
+15	ettiği	_	_	_	_	_	_	_	_
+16	yemek	_	_	_	_	_	_	_	_
+17	ise	_	_	_	_	_	_	_	_
+18	daha	_	_	_	_	_	_	_	_
+19	gelecekti	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-4
+# text = Ayşe bir doktor.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	doktor	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-5
+# text = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
+1	Çözmeye	_	_	_	_	_	_	_	_
+2	çalıştığımız	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	sorun	_	_	_	_	_	_	_	_
+5	)	_	_	_	_	_	_	_	_
+6	kitaplıkta	_	_	_	_	_	_	_	_
+7	beş	_	_	_	_	_	_	_	_
+8	kitaplık	_	_	_	_	_	_	_	_
+9	yer	_	_	_	_	_	_	_	_
+10	bile	_	_	_	_	_	_	_	_
+11	olmaması	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-6
+# text = Anneannesi hemşireydi.
+1	Anneannesi	_	_	_	_	_	_	_	_
+2	hemşireydi	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-7
+# text = Peki kitaplıktakiler nerede idi?
+1	Peki	_	_	_	_	_	_	_	_
+2	kitaplıktakiler	_	_	_	_	_	_	_	_
+3	nerede	_	_	_	_	_	_	_	_
+4	idi	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-8
+# text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+1	Sude	_	_	_	_	_	_	_	_
+2	üç	_	_	_	_	_	_	_	_
+3	saattir	_	_	_	_	_	_	_	_
+4	ofiste	_	_	_	_	_	_	_	_
+5	yokmuş	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Ayşe	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	evde	_	_	_	_	_	_	_	_
+10	değilmiş	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-9
+# text = Markette meyve var ama güzel değil.
+1	Markette	_	_	_	_	_	_	_	_
+2	meyve	_	_	_	_	_	_	_	_
+3	var	_	_	_	_	_	_	_	_
+4	ama	_	_	_	_	_	_	_	_
+5	güzel	_	_	_	_	_	_	_	_
+6	değil	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-10
+# text = Deniz doktor olacak, bilmiş ol!
+1	Deniz	_	_	_	_	_	_	_	_
+2	doktor	_	_	_	_	_	_	_	_
+3	olacak	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	bilmiş	_	_	_	_	_	_	_	_
+6	ol	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-11
+# text = Deniz uyumuş idi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyumuş	_	_	_	_	_	_	_	_
+3	idi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-12
+# text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+1	Toplantı	_	_	_	_	_	_	_	_
+2	duyurulurken	_	_	_	_	_	_	_	_
+3	çok	_	_	_	_	_	_	_	_
+4	şaşırmış	_	_	_	_	_	_	_	_
+5	olacak	_	_	_	_	_	_	_	_
+6	ki	_	_	_	_	_	_	_	_
+7	bana	_	_	_	_	_	_	_	_
+8	bakıp	_	_	_	_	_	_	_	_
+9	durdu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-13
+# text = Hırkam evde miymiş?
+1	Hırkam	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	miymiş	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-14
+# text = Bugün mü yapılacak etkinlik?
+1	Bugün	_	_	_	_	_	_	_	_
+2	mü	_	_	_	_	_	_	_	_
+3	yapılacak	_	_	_	_	_	_	_	_
+4	etkinlik	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-15
+# text = Sonuçlar açıklanmış, değil mi?
+1	Sonuçlar	_	_	_	_	_	_	_	_
+2	açıklanmış	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	değil	_	_	_	_	_	_	_	_
+5	mi	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-16
+# text = Ayşe bu kitabı okumamış değil.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	okumamış	_	_	_	_	_	_	_	_
+5	değil	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-17
+# text = Genel olarak okumayı değil, resim yapmayı seviyor.
+1	Genel	_	_	_	_	_	_	_	_
+2	olarak	_	_	_	_	_	_	_	_
+3	okumayı	_	_	_	_	_	_	_	_
+4	değil	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	resim	_	_	_	_	_	_	_	_
+7	yapmayı	_	_	_	_	_	_	_	_
+8	seviyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-18
+# text = Okuduklarını değil, okuyacaklarını anlatıyor.
+1	Okuduklarını	_	_	_	_	_	_	_	_
+2	değil	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	okuyacaklarını	_	_	_	_	_	_	_	_
+5	anlatıyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-19
+# text = Bunun mavisi daha güzel, bana maviyi verir misin?
+1	Bunun	_	_	_	_	_	_	_	_
+2	mavisi	_	_	_	_	_	_	_	_
+3	daha	_	_	_	_	_	_	_	_
+4	güzel	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	bana	_	_	_	_	_	_	_	_
+7	maviyi	_	_	_	_	_	_	_	_
+8	verir	_	_	_	_	_	_	_	_
+9	misin	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = udtw23-tr-20
+# text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+1	Gençlere	_	_	_	_	_	_	_	_
+2	erişilebilir	_	_	_	_	_	_	_	_
+3	olmayan	_	_	_	_	_	_	_	_
+4	hedefleri	_	_	_	_	_	_	_	_
+5	terk	_	_	_	_	_	_	_	_
+6	ettirmeliyiz	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-1
+# text = Deniz uyudu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyudu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-2
+# text = Deniz kitap okuyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okuyor	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-3
+# text = Deniz akşamları evde kitap okur.
+1	Deniz	_	_	_	_	_	_	_	_
+2	akşamları	_	_	_	_	_	_	_	_
+3	evde	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	okur	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-4
+# text = Deniz kardeşine kitabı verdi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kardeşine	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	verdi	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-5
+# text = Deniz kitabı eve götürdü.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitabı	_	_	_	_	_	_	_	_
+3	eve	_	_	_	_	_	_	_	_
+4	götürdü	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-6
+# text = Öğretmen çocuklara ders verdi.
+1	Öğretmen	_	_	_	_	_	_	_	_
+2	çocuklara	_	_	_	_	_	_	_	_
+3	ders	_	_	_	_	_	_	_	_
+4	verdi	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-7
+# text = Deniz arkadasına bir kitap aldı.
+1	Deniz	_	_	_	_	_	_	_	_
+2	arkadasına	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	aldı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-8
+# text = Deniz kardeşiyle barıştı.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kardeşiyle	_	_	_	_	_	_	_	_
+3	barıştı	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-9
+# text = Deniz arkadaşlarından yakınıyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	arkadaşlarından	_	_	_	_	_	_	_	_
+3	yakınıyor	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-10
+# text = Deniz erkenden uyudu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	erkenden	_	_	_	_	_	_	_	_
+3	uyudu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-11
+# text = Deniz arkadaşının yaptığı yemekten iki tabak yedi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	arkadaşının	_	_	_	_	_	_	_	_
+3	yaptığı	_	_	_	_	_	_	_	_
+4	yemekten	_	_	_	_	_	_	_	_
+5	iki	_	_	_	_	_	_	_	_
+6	tabak	_	_	_	_	_	_	_	_
+7	yedi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-12
+# text = Deniz üç saat uyudu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	üç	_	_	_	_	_	_	_	_
+3	saat	_	_	_	_	_	_	_	_
+4	uyudu	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-13
+# text = Deniz çok hızlı.
+1	Deniz	_	_	_	_	_	_	_	_
+2	çok	_	_	_	_	_	_	_	_
+3	hızlı	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-14
+# text = Deniz öğrenci.
+1	Deniz	_	_	_	_	_	_	_	_
+2	öğrenci	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-15
+# text = Deniz öğrencidir.
+1	Deniz	_	_	_	_	_	_	_	_
+2	öğrencidir	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-16
+# text = Deniz doktor olacak.
+1	Deniz	_	_	_	_	_	_	_	_
+2	doktor	_	_	_	_	_	_	_	_
+3	olacak	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-17
+# text = Deniz evde.
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-18
+# text = Deniz evdeydi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	evdeydi	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-19
+# text = Deniz evde idi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	idi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-20
+# text = Hediye Deniz içindi.
+1	Hediye	_	_	_	_	_	_	_	_
+2	Deniz	_	_	_	_	_	_	_	_
+3	içindi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-21
+# text = Deniz uyumuştu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyumuştu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-22
+# text = Deniz uyumuş idi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyumuş	_	_	_	_	_	_	_	_
+3	idi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-23
+# text = Deniz uyumuş olacak.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyumuş	_	_	_	_	_	_	_	_
+3	olacak	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-24
+# text = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
+1	Annesinin	_	_	_	_	_	_	_	_
+2	hayali	_	_	_	_	_	_	_	_
+3	Deniz'in	_	_	_	_	_	_	_	_
+4	iyi	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	okulda	_	_	_	_	_	_	_	_
+7	okumasıydı	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-25
+# text = Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
+1	Deniz'in	_	_	_	_	_	_	_	_
+2	iyi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	okulda	_	_	_	_	_	_	_	_
+5	okumaması	_	_	_	_	_	_	_	_
+6	annesini	_	_	_	_	_	_	_	_
+7	kaygılandırıyordu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-26
+# text = Masada çok kitap var, kitaplıkta yok.
+1	Masada	_	_	_	_	_	_	_	_
+2	çok	_	_	_	_	_	_	_	_
+3	kitap	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kitaplıkta	_	_	_	_	_	_	_	_
+7	yok	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-27
+# text = Deniz'in hiç kitabı yok.
+1	Deniz'in	_	_	_	_	_	_	_	_
+2	hiç	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	yok	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-28
+# text = Deniz evde değildi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	değildi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-29
+# text = Deniz zamanında uyumuyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	zamanında	_	_	_	_	_	_	_	_
+3	uyumuyor	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-30
+# text = Deniz uyuyamıyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyuyamıyor	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-31
+# text = Deniz zamanında uyuyamayabilir.
+1	Deniz	_	_	_	_	_	_	_	_
+2	zamanında	_	_	_	_	_	_	_	_
+3	uyuyamayabilir	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-32
+# text = Deniz annesini görmemiş oldu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	annesini	_	_	_	_	_	_	_	_
+3	görmemiş	_	_	_	_	_	_	_	_
+4	oldu	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-33
+# text = Deniz annesini görmemiş oldu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	annesini	_	_	_	_	_	_	_	_
+3	görmemiş	_	_	_	_	_	_	_	_
+4	oldu	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-34
+# text = Deniz annesini görmemiş olmadı.
+1	Deniz	_	_	_	_	_	_	_	_
+2	annesini	_	_	_	_	_	_	_	_
+3	görmemiş	_	_	_	_	_	_	_	_
+4	olmadı	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-35
+# text = Okuduklarını anlamıyor.
+1	Okuduklarını	_	_	_	_	_	_	_	_
+2	anlamıyor	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-36
+# text = Okuduklarını anlıyor değil.
+1	Okuduklarını	_	_	_	_	_	_	_	_
+2	anlıyor	_	_	_	_	_	_	_	_
+3	değil	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-37
+# text = Okuduklarını anlamıyor değil.
+1	Okuduklarını	_	_	_	_	_	_	_	_
+2	anlamıyor	_	_	_	_	_	_	_	_
+3	değil	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-38
+# text = Okumayı değil, resim yapmayı seviyor.
+1	Okumayı	_	_	_	_	_	_	_	_
+2	değil	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	resim	_	_	_	_	_	_	_	_
+5	yapmayı	_	_	_	_	_	_	_	_
+6	seviyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-39
+# text = Deniz odada değildi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	odada	_	_	_	_	_	_	_	_
+3	değildi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-40
+# text = Deniz odada yoktu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	odada	_	_	_	_	_	_	_	_
+3	yoktu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-41
+# text = Deniz kitap okumak istiyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okumak	_	_	_	_	_	_	_	_
+4	istiyor	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-42
+# text = Deniz kitap okumayı istiyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okumayı	_	_	_	_	_	_	_	_
+4	istiyor	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-43
+# text = Deniz babasının kendisine kitap okumasını istiyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	babasının	_	_	_	_	_	_	_	_
+3	kendisine	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	okumasını	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-44
+# text = Deniz kendi kendine olmayı seviyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kendi	_	_	_	_	_	_	_	_
+3	kendine	_	_	_	_	_	_	_	_
+4	olmayı	_	_	_	_	_	_	_	_
+5	seviyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-45
+# text = Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor.
+1	Annesinin	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okuması	_	_	_	_	_	_	_	_
+4	Deniz'in	_	_	_	_	_	_	_	_
+5	uyumasını	_	_	_	_	_	_	_	_
+6	kolaylaştırıyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-46
+# text = Çocuklara kitap okumak gelişimleri için önemli.
+1	Çocuklara	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okumak	_	_	_	_	_	_	_	_
+4	gelişimleri	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	önemli	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-47
+# text = Deniz kitap okuyarak uyuyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitap	_	_	_	_	_	_	_	_
+3	okuyarak	_	_	_	_	_	_	_	_
+4	uyuyor	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-48
+# text = Deniz tatil olduğunu unutup okula gitmiş.
+1	Deniz	_	_	_	_	_	_	_	_
+2	tatil	_	_	_	_	_	_	_	_
+3	olduğunu	_	_	_	_	_	_	_	_
+4	unutup	_	_	_	_	_	_	_	_
+5	okula	_	_	_	_	_	_	_	_
+6	gitmiş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-49
+# text = Deniz tatil olduğunu unutup çantasını alıp okula gitmiş.
+1	Deniz	_	_	_	_	_	_	_	_
+2	tatil	_	_	_	_	_	_	_	_
+3	olduğunu	_	_	_	_	_	_	_	_
+4	unutup	_	_	_	_	_	_	_	_
+5	çantasını	_	_	_	_	_	_	_	_
+6	alıp	_	_	_	_	_	_	_	_
+7	okula	_	_	_	_	_	_	_	_
+8	gitmiş	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-50
+# text = Deniz geç uyursa okula geç kalır.
+1	Deniz	_	_	_	_	_	_	_	_
+2	geç	_	_	_	_	_	_	_	_
+3	uyursa	_	_	_	_	_	_	_	_
+4	okula	_	_	_	_	_	_	_	_
+5	geç	_	_	_	_	_	_	_	_
+6	kalır	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-51
+# text = Deniz geç uyursa okula geç kalacak.
+1	Deniz	_	_	_	_	_	_	_	_
+2	geç	_	_	_	_	_	_	_	_
+3	uyursa	_	_	_	_	_	_	_	_
+4	okula	_	_	_	_	_	_	_	_
+5	geç	_	_	_	_	_	_	_	_
+6	kalacak	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-52
+# text = Çocuk uyumuş olsaydı film izleyecektik.
+1	Çocuk	_	_	_	_	_	_	_	_
+2	uyumuş	_	_	_	_	_	_	_	_
+3	olsaydı	_	_	_	_	_	_	_	_
+4	film	_	_	_	_	_	_	_	_
+5	izleyecektik	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-53
+# text = Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek.
+1	Eğer	_	_	_	_	_	_	_	_
+2	çocuk	_	_	_	_	_	_	_	_
+3	eve	_	_	_	_	_	_	_	_
+4	gitmeden	_	_	_	_	_	_	_	_
+5	uyursa	_	_	_	_	_	_	_	_
+6	vardığımızda	_	_	_	_	_	_	_	_
+7	uyandırmamız	_	_	_	_	_	_	_	_
+8	gerekecek	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-54
+# text = Boş ver.
+1	Boş	_	_	_	_	_	_	_	_
+2	ver	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-55
+# text = Boşver.
+1	Boşver	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-56
+# text = Çocuğun erken uyuyacağını zannediyorum.
+1	Çocuğun	_	_	_	_	_	_	_	_
+2	erken	_	_	_	_	_	_	_	_
+3	uyuyacağını	_	_	_	_	_	_	_	_
+4	zannediyorum	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-57
+# text = Deniz kardeşinden nefret ediyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	kardeşinden	_	_	_	_	_	_	_	_
+3	nefret	_	_	_	_	_	_	_	_
+4	ediyor	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-58
+# text = Yarını iple çekiyorum.
+1	Yarını	_	_	_	_	_	_	_	_
+2	iple	_	_	_	_	_	_	_	_
+3	çekiyorum	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-59
+# text = Hastane halkın hizmetine sunuludu.
+1	Hastane	_	_	_	_	_	_	_	_
+2	halkın	_	_	_	_	_	_	_	_
+3	hizmetine	_	_	_	_	_	_	_	_
+4	sunuludu	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-60
+# text = Büyük evdeki çocuk kitap okuyor.
+1	Büyük	_	_	_	_	_	_	_	_
+2	evdeki	_	_	_	_	_	_	_	_
+3	çocuk	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	okuyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-61
+# text = Büyük evdeki kitap okuyor.
+1	Büyük	_	_	_	_	_	_	_	_
+2	evdeki	_	_	_	_	_	_	_	_
+3	kitap	_	_	_	_	_	_	_	_
+4	okuyor	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-62
+# text = Büyük evdeki çocuğun saçları sarı,
+1	Büyük	_	_	_	_	_	_	_	_
+2	evdeki	_	_	_	_	_	_	_	_
+3	çocuğun	_	_	_	_	_	_	_	_
+4	saçları	_	_	_	_	_	_	_	_
+5	sarı	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+
+# sent_id = tr-63
+# text = Soğanları koyu pembeleşinceye kadar kavurun.
+1	Soğanları	_	_	_	_	_	_	_	_
+2	koyu	_	_	_	_	_	_	_	_
+3	pembeleşinceye	_	_	_	_	_	_	_	_
+4	kadar	_	_	_	_	_	_	_	_
+5	kavurun	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-64
+# text = Evin önünde üç arabalık park yeri var.
+1	Evin	_	_	_	_	_	_	_	_
+2	önünde	_	_	_	_	_	_	_	_
+3	üç	_	_	_	_	_	_	_	_
+4	arabalık	_	_	_	_	_	_	_	_
+5	park	_	_	_	_	_	_	_	_
+6	yeri	_	_	_	_	_	_	_	_
+7	var	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-65
+# text = Kutsal kitapsız dinler de var.
+1	Kutsal	_	_	_	_	_	_	_	_
+2	kitapsız	_	_	_	_	_	_	_	_
+3	dinler	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	var	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-66
+# text = Küçük pencereli evde yeterince ışık yok.
+1	Küçük	_	_	_	_	_	_	_	_
+2	pencereli	_	_	_	_	_	_	_	_
+3	evde	_	_	_	_	_	_	_	_
+4	yeterince	_	_	_	_	_	_	_	_
+5	ışık	_	_	_	_	_	_	_	_
+6	yok	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-67
+# text = Deniz eve geldi mi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	eve	_	_	_	_	_	_	_	_
+3	geldi	_	_	_	_	_	_	_	_
+4	mi	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-68
+# text = Deniz eve gelmiş miydi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	eve	_	_	_	_	_	_	_	_
+3	gelmiş	_	_	_	_	_	_	_	_
+4	miydi	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-69
+# text = Deniz evde mi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	mi	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-70
+# text = Deniz evde midir?
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	midir	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-71
+# text = Deniz evde miydi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	miydi	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-72
+# text = Deniz evde değil miydi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	değil	_	_	_	_	_	_	_	_
+4	miydi	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-73
+# text = Deniz evde yok mu?
+1	Deniz	_	_	_	_	_	_	_	_
+2	evde	_	_	_	_	_	_	_	_
+3	yok	_	_	_	_	_	_	_	_
+4	mu	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-74
+# text = Evde ekmek var mı?
+1	Evde	_	_	_	_	_	_	_	_
+2	ekmek	_	_	_	_	_	_	_	_
+3	var	_	_	_	_	_	_	_	_
+4	mı	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-75
+# text = Evde mi ekmek var?
+1	Evde	_	_	_	_	_	_	_	_
+2	mi	_	_	_	_	_	_	_	_
+3	ekmek	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-76
+# text = Evde ekmek mi var?
+1	Evde	_	_	_	_	_	_	_	_
+2	ekmek	_	_	_	_	_	_	_	_
+3	mi	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-77
+# text = Okuduğunuzu anlıyor muydunuz?
+1	Okuduğunuzu	_	_	_	_	_	_	_	_
+2	anlıyor	_	_	_	_	_	_	_	_
+3	muydunuz	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-78
+# text = Sabah Deniz kitabı Ayhan'a verdi mi?
+1	Sabah	_	_	_	_	_	_	_	_
+2	Deniz	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	Ayhan	_	_	_	_	_	_	_	_
+5	'	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	verdi	_	_	_	_	_	_	_	_
+8	mi	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-79
+# text = Sabah Deniz mi kitabı Ayhan'a verdi?
+1	Sabah	_	_	_	_	_	_	_	_
+2	Deniz	_	_	_	_	_	_	_	_
+3	mi	_	_	_	_	_	_	_	_
+4	kitabı	_	_	_	_	_	_	_	_
+5	Ayhan	_	_	_	_	_	_	_	_
+6	'	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	verdi	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-80
+# text = Sabah Deniz kitabı mi Ayhan'a verdi?
+1	Sabah	_	_	_	_	_	_	_	_
+2	Deniz	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	mi	_	_	_	_	_	_	_	_
+5	Ayhan	_	_	_	_	_	_	_	_
+6	'	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	verdi	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-81
+# text = Sabah Deniz kitabı Ayhan'a mi verdi?
+1	Sabah	_	_	_	_	_	_	_	_
+2	Deniz	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	Ayhan	_	_	_	_	_	_	_	_
+5	'	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	mi	_	_	_	_	_	_	_	_
+8	verdi	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-82
+# text = Deniz kitabı Ayhan'a sabah mi verdi?
+1	Deniz	_	_	_	_	_	_	_	_
+2	kitabı	_	_	_	_	_	_	_	_
+3	Ayhan	_	_	_	_	_	_	_	_
+4	'	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	sabah	_	_	_	_	_	_	_	_
+7	mi	_	_	_	_	_	_	_	_
+8	verdi	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-83
+# text = Bana maviyi verir misin?
+1	Bana	_	_	_	_	_	_	_	_
+2	maviyi	_	_	_	_	_	_	_	_
+3	verir	_	_	_	_	_	_	_	_
+4	misin	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-84
+# text = Bunun mavisi daha güzel.
+1	Bunun	_	_	_	_	_	_	_	_
+2	mavisi	_	_	_	_	_	_	_	_
+3	daha	_	_	_	_	_	_	_	_
+4	güzel	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-85
+# text = Benim arabam Deniz'inkinin mavisi.
+1	Benim	_	_	_	_	_	_	_	_
+2	arabam	_	_	_	_	_	_	_	_
+3	Deniz'inkinin	_	_	_	_	_	_	_	_
+4	mavisi	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-86
+# text = Kitap okunuyor.
+1	Kitap	_	_	_	_	_	_	_	_
+2	okunuyor	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-87
+# text = Kitap bütün okullarda okutturulacak.
+1	Kitap	_	_	_	_	_	_	_	_
+2	bütün	_	_	_	_	_	_	_	_
+3	okullarda	_	_	_	_	_	_	_	_
+4	okutturulacak	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-88
+# text = Deniz uyutuldu.
+1	Deniz	_	_	_	_	_	_	_	_
+2	uyutuldu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-89
+# text = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
+1	Deniz	_	_	_	_	_	_	_	_
+2	buralara	_	_	_	_	_	_	_	_
+3	gelir	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	boş	_	_	_	_	_	_	_	_
+6	vakitlerinde	_	_	_	_	_	_	_	_
+7	kitap	_	_	_	_	_	_	_	_
+8	okur	_	_	_	_	_	_	_	_
+9	idi	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-90
+# text = Sen de bizimle geliyorsun, değil mi?
+1	Sen	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	bizimle	_	_	_	_	_	_	_	_
+4	geliyorsun	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	değil	_	_	_	_	_	_	_	_
+7	mi	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = tr-91
+# text = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
+1	O	_	_	_	_	_	_	_	_
+2	öyle	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	ki	_	_	_	_	_	_	_	_
+6	okuyan	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	daha	_	_	_	_	_	_	_	_
+9	dünyaya	_	_	_	_	_	_	_	_
+10	aynı	_	_	_	_	_	_	_	_
+11	gözle	_	_	_	_	_	_	_	_
+12	bakamaz	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-92
+# text = Sen önce temizliği bitir de ütüyü hallederiz.
+1	Sen	_	_	_	_	_	_	_	_
+2	önce	_	_	_	_	_	_	_	_
+3	temizliği	_	_	_	_	_	_	_	_
+4	bitir	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	ütüyü	_	_	_	_	_	_	_	_
+7	hallederiz	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-93
+# text = Sözde Ayşe Hakan’ın ödevi yapmasına yardım etmişmiş.
+1	Sözde	_	_	_	_	_	_	_	_
+2	Ayşe	_	_	_	_	_	_	_	_
+3	Hakan	_	_	_	_	_	_	_	_
+4	’	_	_	_	_	_	_	_	_
+5	ın	_	_	_	_	_	_	_	_
+6	ödevi	_	_	_	_	_	_	_	_
+7	yapmasına	_	_	_	_	_	_	_	_
+8	yardım	_	_	_	_	_	_	_	_
+9	etmişmiş	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = tr-94
+# text = Genel olarak başarılı bir filmdi.
+1	Genel	_	_	_	_	_	_	_	_
+2	olarak	_	_	_	_	_	_	_	_
+3	başarılı	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	filmdi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
