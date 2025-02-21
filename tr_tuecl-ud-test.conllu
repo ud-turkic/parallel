@@ -485,9 +485,9 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = tr-7
-# text = Deniz arkadasına bir kitap aldı.
+# text = Deniz arkadaşına bir kitap aldı.
 1	Deniz	_	_	_	_	_	_	_	_
-2	arkadasına	_	_	_	_	_	_	_	_
+2	arkadaşına	_	_	_	_	_	_	_	_
 3	bir	_	_	_	_	_	_	_	_
 4	kitap	_	_	_	_	_	_	_	_
 5	aldı	_	_	_	_	_	_	_	_
@@ -902,11 +902,11 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = tr-59
-# text = Hastane halkın hizmetine sunuludu.
+# text = Hastane halkın hizmetine sunuldu.
 1	Hastane	_	_	_	_	_	_	_	_
 2	halkın	_	_	_	_	_	_	_	_
 3	hizmetine	_	_	_	_	_	_	_	_
-4	sunuludu	_	_	_	_	_	_	_	_
+4	sunuldu	_	_	_	_	_	_	_	_
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = tr-60
