@@ -1055,7 +1055,7 @@
 # text = Okuduğunuzu anlıyor muydunuz?
 1	Okuduğunuzu	oku	VERB	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Tense=Past|VerbForm=Part	2	obj	_	_
 2	anlıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres	0	root	_	_
-3	muydunuz	mu	AUX	_	Mood=Ind|Number=Plur|Person=2|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
+3	muydunuz	mi	AUX	_	Mood=Ind|Number=Plur|Person=2|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = tr-78
@@ -1074,7 +1074,7 @@
 # text = Sabah Deniz mi kitabı Ayhan'a verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
-3	mi	mi	PART	_	_	2	discourse:question	_	_
+3	mi	mi	PART	_	_	2	discourse:q	_	_
 4	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
 5	Ayhan	Ayhan	PROPN	_	Case=Nom|Number=Sing	7	nmod:poss	_	SpaceAfter=No
 6	'	'	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -1083,11 +1083,11 @@
 9	?	?	PUNCT	_	_	8	punct	_	_
 
 # sent_id = tr-80
-# text = Sabah Deniz kitabı mi Ayhan'a verdi?
+# text = Sabah Deniz kitabı mı Ayhan'a verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
-4	mi	mi	PART	_	_	3	discourse:question	_	_
+4	mı	mi	PART	_	_	3	discourse:q	_	_
 5	Ayhan	Ayhan	PROPN	_	Case=Nom|Number=Sing	7	nmod:poss	_	SpaceAfter=No
 6	'	'	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	a	a	ADP	_	Case=Dat	8	iobj	_	_
@@ -1095,26 +1095,26 @@
 9	?	?	PUNCT	_	_	8	punct	_	_
 
 # sent_id = tr-81
-# text = Sabah Deniz kitabı Ayhan'a mi verdi?
+# text = Sabah Deniz kitabı Ayhan'a mı verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
 4	Ayhan	Ayhan	PROPN	_	Case=Nom|Number=Sing	6	nmod:poss	_	SpaceAfter=No
 5	'	'	PUNCT	_	_	4	punct	_	SpaceAfter=No
 6	a	a	ADP	_	Case=Dat	8	iobj	_	_
-7	mi	mi	PART	_	_	6	discourse:question	_	_
+7	mı	mi	PART	_	_	6	discourse:q	_	_
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
 # sent_id = tr-82
-# text = Deniz kitabı Ayhan'a sabah mi verdi?
+# text = Deniz kitabı Ayhan'a sabah mı verdi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
 3	Ayhan	Ayhan	PROPN	_	Case=Nom|Number=Sing	5	nmod:poss	_	SpaceAfter=No
 4	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
 5	a	a	ADP	_	Case=Dat	8	iobj	_	_
 6	sabah	sabah	NOUN	_	Case=Nom|Number=Sing	8	obl:tmod	_	_
-7	mi	mi	PART	_	_	6	discourse:question	_	_
+7	mı	mi	PART	_	_	6	discourse:q	_	_
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
@@ -1183,7 +1183,7 @@
 4	geliyorsun	gel	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	değil	değil	AUX	_	Polarity=Neg	4	parataxis	_	_
-7	mi	mi	PART	_	_	6	discourse:question	_	SpaceAfter=No
+7	mi	mi	PART	_	_	6	discourse:q	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = tr-91
