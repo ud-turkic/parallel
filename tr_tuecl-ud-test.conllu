@@ -217,226 +217,226 @@
 
 # sent_id = udtw23-tr-1
 # text = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
-1	Bizimki	_	_	_	_	_	_	_	_
-2	yazlıktaki	_	_	_	_	_	_	_	_
-3	çocuk	_	_	_	_	_	_	_	_
-4	odasını	_	_	_	_	_	_	_	_
-5	apar	_	_	_	_	_	_	_	_
-6	topar	_	_	_	_	_	_	_	_
-7	derleyip	_	_	_	_	_	_	_	_
-8	toplamış	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	mutfağın	_	_	_	_	_	_	_	_
-11	masasını	_	_	_	_	_	_	_	_
-12	da	_	_	_	_	_	_	_	_
-13	elden	_	_	_	_	_	_	_	_
-14	çıkarmıştı	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	Bizimki	bizimki	PRON	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+2	yazlıktaki	yazlık	NOUN	_	Case=Loc|Derivation=Loc	4	nmod	_	_
+3	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+4	odasını	oda	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
+5	apar	apar	ADV	_	_	6	compound:redup	_	_
+6	topar	topar	ADV	_	_	8	advmod	_	_
+7	derleyip	derle	VERB	_	Aspect=Perf|VerbForm=Conv	8	compound	_	_
+8	toplamış	topla	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	mutfağın	mutfak	NOUN	_	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	masasını	masa	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obj	_	_
+12	da	da	ADV	_	_	11	advmod:emph	_	_
+13	elden	el	NOUN	_	Case=Abl|Number=Sing	14	obl	_	_
+14	çıkarmıştı	çıkar	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	8	conj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = udtw23-tr-2
 # text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
-1	Sana	_	_	_	_	_	_	_	_
-2	bunu	_	_	_	_	_	_	_	_
-3	hep	_	_	_	_	_	_	_	_
-4	söylüyorum	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	sabahları	_	_	_	_	_	_	_	_
-7	arkadaşınla	_	_	_	_	_	_	_	_
-8	telefonda	_	_	_	_	_	_	_	_
-9	konuşurken	_	_	_	_	_	_	_	_
-10	benden	_	_	_	_	_	_	_	_
-11	bahsetme	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	Sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+2	bunu	bu	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+3	hep	hep	ADV	_	_	4	advmod	_	_
+4	söylüyorum	söyle	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	sabahları	sabah	NOUN	_	Case=Acc|Number=Plur	9	obl:tmod	_	_
+7	arkadaşınla	arkadaş	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	obl	_	_
+8	telefonda	telefon	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
+9	konuşurken	konuş	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Conv	11	advcl	_	_
+10	benden	ben	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+11	bahsetme	bahset	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	4	parataxis	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-tr-3
 # text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
-1	Yatılı	_	_	_	_	_	_	_	_
-2	kalacak	_	_	_	_	_	_	_	_
-3	misafir	_	_	_	_	_	_	_	_
-4	kapıyı	_	_	_	_	_	_	_	_
-5	çalmıştı	_	_	_	_	_	_	_	_
-6	ama	_	_	_	_	_	_	_	_
-7	ev	_	_	_	_	_	_	_	_
-8	sahibi	_	_	_	_	_	_	_	_
-9	hala	_	_	_	_	_	_	_	_
-10	temizlik	_	_	_	_	_	_	_	_
-11	yapıyordu	_	_	_	_	_	_	_	_
-12	,	_	_	_	_	_	_	_	_
-13	restorandan	_	_	_	_	_	_	_	_
-14	sipariş	_	_	_	_	_	_	_	_
-15	ettiği	_	_	_	_	_	_	_	_
-16	yemek	_	_	_	_	_	_	_	_
-17	ise	_	_	_	_	_	_	_	_
-18	daha	_	_	_	_	_	_	_	_
-19	gelecekti	_	_	_	_	_	_	_	_
-20	.	_	_	_	_	_	_	_	_
+1	Yatılı	yatılı	ADJ	_	_	2	amod	_	_
+2	kalacak	kal	VERB	_	Aspect=Perf|Mood=Pot|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	3	acl	_	_
+3	misafir	misafir	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	kapıyı	kapı	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	çalmıştı	çal	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	0	root	_	_
+6	ama	ama	CCONJ	_	_	11	cc	_	_
+7	ev	ev	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	_
+8	sahibi	sahip	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
+9	hala	hala	ADV	_	_	11	advmod	_	_
+10	temizlik	temizlik	NOUN	_	Case=Nom|Number=Sing	11	obj	_	_
+11	yapıyordu	yap	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	restorandan	restoran	NOUN	_	Case=Abl|Number=Sing	14	obl	_	_
+14	sipariş	sipariş	NOUN	_	Case=Nom|Number=Sing	15	obj	_	_
+15	ettiği	et	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	16	acl	_	_
+16	yemek	yemek	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	_
+17	ise	ise	ADP	_	_	16	case	_	_
+18	daha	daha	ADV	_	_	19	advmod	_	_
+19	gelecekti	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	5	conj	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-tr-4
 # text = Ayşe bir doktor.
-1	Ayşe	_	_	_	_	_	_	_	_
-2	bir	_	_	_	_	_	_	_	_
-3	doktor	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-tr-5
 # text = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
-1	Çözmeye	_	_	_	_	_	_	_	_
-2	çalıştığımız	_	_	_	_	_	_	_	_
-3	(	_	_	_	_	_	_	_	_
-4	sorun	_	_	_	_	_	_	_	_
-5	)	_	_	_	_	_	_	_	_
-6	kitaplıkta	_	_	_	_	_	_	_	_
-7	beş	_	_	_	_	_	_	_	_
-8	kitaplık	_	_	_	_	_	_	_	_
-9	yer	_	_	_	_	_	_	_	_
-10	bile	_	_	_	_	_	_	_	_
-11	olmaması	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	Çözmeye	çöz	VERB	_	Case=Dat|VerbForm=Inf	2	xcomp	_	_
+2	çalıştığımız	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	4	acl	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	sorun	sorun	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+5	)	)	PUNCT	_	_	4	punct	_	_
+6	kitaplıkta	kitaplık	NOUN	_	Case=Loc|Number=Sing	11	obl	_	_
+7	beş	beş	NUM	_	NumType=Card	8	nummod	_	_
+8	kitaplık	kitaplık	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
+9	yer	yer	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+10	bile	bile	ADV	_	_	9	advmod:emph	_	_
+11	olmaması	ol	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = udtw23-tr-6
 # text = Anneannesi hemşireydi.
-1	Anneannesi	_	_	_	_	_	_	_	_
-2	hemşireydi	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Anneannesi	anneanne	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
+2	hemşireydi	hemşire	NOUN	_	Case=Nom|Number=Sing|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-tr-7
 # text = Peki kitaplıktakiler nerede idi?
-1	Peki	_	_	_	_	_	_	_	_
-2	kitaplıktakiler	_	_	_	_	_	_	_	_
-3	nerede	_	_	_	_	_	_	_	_
-4	idi	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Peki	peki	INTJ	_	_	4	discourse	_	_
+2	kitaplıktakiler	kitaplık	NOUN	_	Case=Loc|Derivation=Loc|Number=Plur	4	nsubj	_	_
+3	nerede	nere	ADV	_	PronType=Int	4	advmod	_	_
+4	idi	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-tr-8
 # text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
-1	Sude	_	_	_	_	_	_	_	_
-2	üç	_	_	_	_	_	_	_	_
-3	saattir	_	_	_	_	_	_	_	_
-4	ofiste	_	_	_	_	_	_	_	_
-5	yokmuş	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	Ayşe	_	_	_	_	_	_	_	_
-8	de	_	_	_	_	_	_	_	_
-9	evde	_	_	_	_	_	_	_	_
-10	değilmiş	_	_	_	_	_	_	_	_
-11	.	_	_	_	_	_	_	_	_
+1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
+3	saattir	saat	NOUN	_	Case=Nom|Number=Sing	5	obl:tmod	_	_
+4	ofiste	ofis	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
+5	yokmuş	yok	ADJ	_	Evident=Nfh|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+8	de	de	ADV	_	_	7	advmod:emph	_	_
+9	evde	ev	NOUN	_	Case=Loc|Number=Sing	10	obl	_	_
+10	değilmiş	değil	AUX	_	Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-tr-9
 # text = Markette meyve var ama güzel değil.
-1	Markette	_	_	_	_	_	_	_	_
-2	meyve	_	_	_	_	_	_	_	_
-3	var	_	_	_	_	_	_	_	_
-4	ama	_	_	_	_	_	_	_	_
-5	güzel	_	_	_	_	_	_	_	_
-6	değil	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Markette	market	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+2	meyve	meyve	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	var	var	ADJ	_	_	0	root	_	_
+4	ama	ama	CCONJ	_	_	6	cc	_	_
+5	güzel	güzel	ADJ	_	_	6	amod	_	_
+6	değil	değil	AUX	_	Polarity=Neg	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-tr-10
 # text = Deniz doktor olacak, bilmiş ol!
-1	Deniz	_	_	_	_	_	_	_	_
-2	doktor	_	_	_	_	_	_	_	_
-3	olacak	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	bilmiş	_	_	_	_	_	_	_	_
-6	ol	_	_	_	_	_	_	_	_
-7	!	_	_	_	_	_	_	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	3	xcomp	_	_
+3	olacak	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	bilmiş	bil	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|VerbForm=Part	6	compound	_	_
+6	ol	ol	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	_
+7	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-tr-11
 # text = Deniz uyumuş idi.
-1	Deniz	_	_	_	_	_	_	_	_
-2	uyumuş	_	_	_	_	_	_	_	_
-3	idi	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-tr-12
 # text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
-1	Toplantı	_	_	_	_	_	_	_	_
-2	duyurulurken	_	_	_	_	_	_	_	_
-3	çok	_	_	_	_	_	_	_	_
-4	şaşırmış	_	_	_	_	_	_	_	_
-5	olacak	_	_	_	_	_	_	_	_
-6	ki	_	_	_	_	_	_	_	_
-7	bana	_	_	_	_	_	_	_	_
-8	bakıp	_	_	_	_	_	_	_	_
-9	durdu	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+1	Toplantı	toplantı	NOUN	_	Case=Nom|Number=Sing	2	nsubj:pass	_	_
+2	duyurulurken	duyur	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass|VerbForm=Conv	5	advcl	_	_
+3	çok	çok	ADV	_	_	4	advmod	_	_
+4	şaşırmış	şaşır	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|VerbForm=Part	5	compound	_	_
+5	olacak	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+6	ki	ki	SCONJ	_	_	5	mark	_	_
+7	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+8	bakıp	bak	VERB	_	Aspect=Perf|VerbForm=Conv	9	compound	_	_
+9	durdu	dur	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = udtw23-tr-13
 # text = Hırkam evde miymiş?
-1	Hırkam	_	_	_	_	_	_	_	_
-2	evde	_	_	_	_	_	_	_	_
-3	miymiş	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Hırkam	hırka	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
+2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+3	miymiş	mi	AUX	_	Evident=Nfh|Mood=Int|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-tr-14
 # text = Bugün mü yapılacak etkinlik?
-1	Bugün	_	_	_	_	_	_	_	_
-2	mü	_	_	_	_	_	_	_	_
-3	yapılacak	_	_	_	_	_	_	_	_
-4	etkinlik	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Bugün	bugün	NOUN	_	Case=Nom|Number=Sing	2	obl:tmod	_	_
+2	mü	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	3	aux:q	_	_
+3	yapılacak	yap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass|VerbForm=Part	4	acl	_	_
+4	etkinlik	etkinlik	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-tr-15
 # text = Sonuçlar açıklanmış, değil mi?
-1	Sonuçlar	_	_	_	_	_	_	_	_
-2	açıklanmış	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	değil	_	_	_	_	_	_	_	_
-5	mi	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+1	Sonuçlar	sonuç	NOUN	_	Case=Nom|Number=Plur	2	nsubj:pass	_	_
+2	açıklanmış	açıkla	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	değil	değil	AUX	_	Polarity=Neg	5	fixed	_	_
+5	mi	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	2	discourse	_	_
+6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-tr-16
 # text = Ayşe bu kitabı okumamış değil.
-1	Ayşe	_	_	_	_	_	_	_	_
-2	bu	_	_	_	_	_	_	_	_
-3	kitabı	_	_	_	_	_	_	_	_
-4	okumamış	_	_	_	_	_	_	_	_
-5	değil	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	bu	bu	DET	_	PronType=Dem	3	det	_	_
+3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	okumamış	oku	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+5	değil	değil	AUX	_	Polarity=Neg	4	aux	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-tr-17
 # text = Genel olarak okumayı değil, resim yapmayı seviyor.
-1	Genel	_	_	_	_	_	_	_	_
-2	olarak	_	_	_	_	_	_	_	_
-3	okumayı	_	_	_	_	_	_	_	_
-4	değil	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	resim	_	_	_	_	_	_	_	_
-7	yapmayı	_	_	_	_	_	_	_	_
-8	seviyor	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Genel	genel	ADJ	_	_	2	amod	_	_
+2	olarak	olarak	ADV	_	_	8	advmod	_	_
+3	okumayı	oku	VERB	_	Case=Acc|VerbForm=Vnoun	4	obj	_	_
+4	değil	değil	AUX	_	Polarity=Neg	8	conj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	resim	resim	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	yapmayı	yap	VERB	_	Case=Acc|VerbForm=Vnoun	8	obj	_	_
+8	seviyor	sev	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = udtw23-tr-18
 # text = Okuduklarını değil, okuyacaklarını anlatıyor.
-1	Okuduklarını	_	_	_	_	_	_	_	_
-2	değil	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	okuyacaklarını	_	_	_	_	_	_	_	_
-5	anlatıyor	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	obj	_	_
+2	değil	değil	AUX	_	Polarity=Neg	5	conj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	okuyacaklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	5	obj	_	_
+5	anlatıyor	anlat	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-tr-19
 # text = Bunun mavisi daha güzel, bana maviyi verir misin?
-1	Bunun	_	_	_	_	_	_	_	_
-2	mavisi	_	_	_	_	_	_	_	_
-3	daha	_	_	_	_	_	_	_	_
-4	güzel	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	bana	_	_	_	_	_	_	_	_
-7	maviyi	_	_	_	_	_	_	_	_
-8	verir	_	_	_	_	_	_	_	_
-9	misin	_	_	_	_	_	_	_	_
-10	?	_	_	_	_	_	_	_	_
+1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:poss	_	_
+2	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
+3	daha	daha	ADV	_	_	4	advmod	_	_
+4	güzel	güzel	ADJ	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+7	maviyi	mavi	ADJ	_	Case=Acc|Number=Sing	8	obj	_	_
+8	verir	ver	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+9	misin	mi	AUX	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	8	aux:q	_	_
+10	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-tr-20
 # text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
-1	Gençlere	_	_	_	_	_	_	_	_
-2	erişilebilir	_	_	_	_	_	_	_	_
-3	olmayan	_	_	_	_	_	_	_	_
-4	hedefleri	_	_	_	_	_	_	_	_
-5	terk	_	_	_	_	_	_	_	_
-6	ettirmeliyiz	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Gençlere	genç	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
+2	erişilebilir	erişil	VERB	_	Aspect=Imp|Mood=Pot|Voice=Pass|VerbForm=Part	3	amod	_	_
+3	olmayan	ol	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Part	4	acl	_	_
+4	hedefleri	hedef	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	6	obj	_	_
+5	terk	terk	NOUN	_	Case=Nom|Number=Sing	6	compound	_	_
+6	ettirmeliyiz	et	VERB	_	Aspect=Perf|Mood=Nec|Number=Plur|Person=1|VerbForm=Fin|Voice=Cau	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = tr-1
 # text = Deniz uyudu.
