@@ -927,13 +927,13 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = tr-62
-# text = Büyük evdeki çocuğun saçları sarı,
+# text = Büyük evdeki çocuğun saçları sarı.
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing	3	nmod	_	_
 3	çocuğun	çocuk	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
 4	saçları	saç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 5	sarı	sarı	ADJ	_	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = tr-63
 # text = Soğanları koyu pembeleşinceye kadar kavurun.
