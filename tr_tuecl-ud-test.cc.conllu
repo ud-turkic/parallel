@@ -404,7 +404,7 @@
 # text = Genel olarak okumayı değil, resim yapmayı seviyor.
 1	Genel	genel	ADJ	_	_	8	advcl	_	_
 2	olarak	ol	AUX	_	VerbForm=Conv	1	aux	_	_
-3	okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	8	obj	_	_
+3	okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	8	xcomp	_	_
 4	değil	değil	ADJ	_	Polarity=Neg	3	advmod	_	_
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	resim	resim	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
@@ -414,7 +414,7 @@
 
 # sent_id = 38
 # text = Okuduklarını değil, okuyacaklarını anlatıyor.
-1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	5	obj	_	_
+1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	5	ccomp	_	_
 2	değil	değil	ADJ	_	Polarity=Neg	1	advmod	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	okuyacaklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	1	conj	_	_
