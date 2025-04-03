@@ -1,4 +1,4 @@
-# sent_id = cairo-tr-1
+# sent_id = cairo-1
 # text = Kız arkadaşına mektup yazdı.
 1	Kız	kız	NOUN	_	Number=Sing	2	nmod	_	_
 2	arkadaşına	arkadaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
@@ -6,14 +6,14 @@
 4	yazdı	yaz	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-tr-2
+# sent_id = cairo-2
 # text = Yağmur yağdığını zannediyorum.
 1	Yağmur	yağmur	NOUN	_	Number=Sing	2	nsubj	_	_
 2	yağdığını	yağ	VERB	_	Case=Acc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	3	obj	_	_
 3	zannediyorum	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = cairo-tr-3
+# sent_id = cairo-3
 # text = (O) sigara ve alkol içmeyi bırakmayı denedi.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	SpaceAfter=No
@@ -26,7 +26,7 @@
 9	denedi	dene	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = cairo-tr-4
+# sent_id = cairo-4
 # text = (Sen) gitmek istiyor musun?
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	SpaceAfter=No
@@ -36,7 +36,7 @@
 6	musun	mi	AUX	_	Number=Sing|Person=2|PronType=Int	5	aux:q	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-5
+# sent_id = cairo-5
 # text = Sam, pencereyi aç!
 1	Sam	Sam	PROPN	_	Number=Sing	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
@@ -44,7 +44,7 @@
 4	aç	aç	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-tr-6
+# sent_id = cairo-6
 # text = (O) kocasına arabayı yıkattırdı.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
@@ -54,7 +54,7 @@
 6	yıkattırdı	yıka	VERB	_	Aspect=Perf|Causative=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = cairo-tr-7
+# sent_id = cairo-7
 # text = Peter'in komşusu çiti kırmızı boyadı.
 1	Peter'in	Peter	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	komşusu	komşu	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
@@ -63,7 +63,7 @@
 5	boyadı	boya	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-8
+# sent_id = cairo-8
 # text = Benim babam seninkinden daha harika.
 1	Benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	babam	baba	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
@@ -72,7 +72,7 @@
 5	harika	harika	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-9
+# sent_id = cairo-9
 # text = Mary bronz kazandı, Peter gümüş, Jane altın.
 1	Mary	Mary	PROPN	_	Number=Sing	3	nsubj	_	_
 2	bronz	bronz	NOUN	_	Number=Sing	3	obj	_	_
@@ -85,7 +85,7 @@
 9	altın	altın	NOUN	_	Number=Sing	6	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = cairo-tr-10
+# sent_id = cairo-10
 # text = İguazu büyük bir ülke mi, yoksa küçük mü?
 1	İguazu	İguazu	PROPN	_	Number=Sing	4	nsubj	_	_
 2	büyük	büyük	ADJ	_	_	4	amod	_	_
@@ -98,7 +98,7 @@
 9	mü	mi	AUX	_	PronType=Int	8	aux:q	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-tr-11
+# sent_id = cairo-11
 # text = Ne Peter Smith ne de Mary Brown seçilebilir.
 1	Ne	ne	CCONJ	_	_	3	cc	_	_
 2	Peter	Peter	PROPN	_	Number=Sing	3	compound	_	_
@@ -110,7 +110,7 @@
 8	seçilebilir	seç	VERB	_	Aspect=Impf|Mood=Pot|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = cairo-tr-12
+# sent_id = cairo-12
 # text = (Onlar) kimin yazdığını hiç bilmiyorlar.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
@@ -121,7 +121,7 @@
 7	bilmiyorlar	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = cairo-tr-13
+# sent_id = cairo-13
 # text = (Sen) neye bakıyorsun?
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	SpaceAfter=No
@@ -130,7 +130,7 @@
 5	bakıyorsun	bak	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-14
+# sent_id = cairo-14
 # text = (Sen) ne zaman gelebileceğini zannediyorsun?
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	SpaceAfter=No
@@ -141,7 +141,7 @@
 7	zannediyorsun	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	7	punct	_	_
 
-# sent_id = cairo-tr-15
+# sent_id = cairo-15
 # text = (O) araba aldı ama erkek kardeşi sadece bisiklet.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
@@ -155,7 +155,7 @@
 10	bisiklet	bisiklet	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-16
+# sent_id = cairo-16
 # text = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
 1	Peter	Peter	PROPN	_	Number=Sing	5	nsubj	_	_
 2	ve	ve	CCONJ	_	_	3	cc	_	_
@@ -169,7 +169,7 @@
 10	çıktılar	çık	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-tr-17
+# sent_id = cairo-17
 # text = (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
@@ -184,7 +184,7 @@
 11	yapmadı	yap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = cairo-tr-18
+# sent_id = cairo-18
 # text = Ayak uyduramadım çünkü fazla hızlı koştu.
 1	Ayak	ayak	NOUN	_	Number=Sing	2	compound	_	_
 2	uyduramadım	uydur	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	0	root	_	_
@@ -194,7 +194,7 @@
 6	koştu	koş	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = cairo-tr-19
+# sent_id = cairo-19
 # text = Bu mektup Peter'den ve dün iletildi.
 1	Bu	bu	DET	_	Definite=Def|PronType=Dem	2	det	_	_
 2	mektup	mektup	NOUN	_	Number=Sing	6	nsubj	_	_
@@ -204,7 +204,7 @@
 6	iletildi	ilet	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = cairo-tr-20
+# sent_id = cairo-20
 # text = (O) Fransanın başkenti Paris'te büyüdü.
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
@@ -215,7 +215,7 @@
 7	büyüdü	büyü	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = udtw23-tr-1
+# sent_id = udtw23-1
 # text = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
 1	Bizimki	bizimki	PRON	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
 2	yazlıktaki	yazlık	NOUN	_	Case=Loc|Derivation=Loc	4	nmod	_	_
@@ -233,7 +233,7 @@
 14	çıkarmıştı	çıkar	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	8	conj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = udtw23-tr-2
+# sent_id = udtw23-2
 # text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
 1	Sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 2	bunu	bu	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
@@ -248,7 +248,7 @@
 11	bahsetme	bahset	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = udtw23-tr-3
+# sent_id = udtw23-3
 # text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
 1	Yatılı	yatılı	ADJ	_	_	2	amod	_	_
 2	kalacak	kal	VERB	_	Aspect=Perf|Mood=Pot|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	3	acl	_	_
@@ -271,14 +271,14 @@
 19	gelecekti	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	5	conj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = udtw23-tr-4
+# sent_id = udtw23-4
 # text = Ayşe bir doktor.
 1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
 3	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = udtw23-tr-5
+# sent_id = udtw23-5
 # text = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
 1	Çözmeye	çöz	VERB	_	Case=Dat|VerbForm=Inf	2	xcomp	_	_
 2	çalıştığımız	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	4	acl	_	_
@@ -293,13 +293,13 @@
 11	olmaması	ol	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = udtw23-tr-6
+# sent_id = udtw23-6
 # text = Anneannesi hemşireydi.
 1	Anneannesi	anneanne	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
 2	hemşireydi	hemşire	NOUN	_	Case=Nom|Number=Sing|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = udtw23-tr-7
+# sent_id = udtw23-7
 # text = Peki kitaplıktakiler nerede idi?
 1	Peki	peki	INTJ	_	_	4	discourse	_	_
 2	kitaplıktakiler	kitaplık	NOUN	_	Case=Loc|Derivation=Loc|Number=Plur	4	nsubj	_	_
@@ -307,7 +307,7 @@
 4	idi	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = udtw23-tr-8
+# sent_id = udtw23-8
 # text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
 1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
@@ -321,7 +321,7 @@
 10	değilmiş	değil	AUX	_	Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = udtw23-tr-9
+# sent_id = udtw23-9
 # text = Markette meyve var ama güzel değil.
 1	Markette	market	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	meyve	meyve	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -331,7 +331,7 @@
 6	değil	değil	AUX	_	Polarity=Neg	3	conj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = udtw23-tr-10
+# sent_id = udtw23-10
 # text = Deniz doktor olacak, bilmiş ol!
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	3	xcomp	_	_
@@ -341,14 +341,14 @@
 6	ol	ol	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = udtw23-tr-11
+# sent_id = udtw23-11
 # text = Deniz uyumuş idi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = udtw23-tr-12
+# sent_id = udtw23-12
 # text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
 1	Toplantı	toplantı	NOUN	_	Case=Nom|Number=Sing	2	nsubj:pass	_	_
 2	duyurulurken	duyur	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass|VerbForm=Conv	5	advcl	_	_
@@ -361,14 +361,14 @@
 9	durdu	dur	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = udtw23-tr-13
+# sent_id = udtw23-13
 # text = Hırkam evde miymiş?
 1	Hırkam	hırka	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	miymiş	mi	AUX	_	Evident=Nfh|Mood=Int|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = udtw23-tr-14
+# sent_id = udtw23-14
 # text = Bugün mü yapılacak etkinlik?
 1	Bugün	bugün	NOUN	_	Case=Nom|Number=Sing	2	obl:tmod	_	_
 2	mü	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	3	aux:q	_	_
@@ -376,7 +376,7 @@
 4	etkinlik	etkinlik	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = udtw23-tr-15
+# sent_id = udtw23-15
 # text = Sonuçlar açıklanmış, değil mi?
 1	Sonuçlar	sonuç	NOUN	_	Case=Nom|Number=Plur	2	nsubj:pass	_	_
 2	açıklanmış	açıkla	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -385,7 +385,7 @@
 5	mi	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	2	discourse	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = udtw23-tr-16
+# sent_id = udtw23-16
 # text = Ayşe bu kitabı okumamış değil.
 1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bu	bu	DET	_	PronType=Dem	3	det	_	_
@@ -394,7 +394,7 @@
 5	değil	değil	AUX	_	Polarity=Neg	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = udtw23-tr-17
+# sent_id = udtw23-17
 # text = Genel olarak okumayı değil, resim yapmayı seviyor.
 1	Genel	genel	ADJ	_	_	2	amod	_	_
 2	olarak	olarak	ADV	_	_	8	advmod	_	_
@@ -406,7 +406,7 @@
 8	seviyor	sev	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = udtw23-tr-18
+# sent_id = udtw23-18
 # text = Okuduklarını değil, okuyacaklarını anlatıyor.
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	obj	_	_
 2	değil	değil	AUX	_	Polarity=Neg	5	conj	_	SpaceAfter=No
@@ -415,7 +415,7 @@
 5	anlatıyor	anlat	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = udtw23-tr-19
+# sent_id = udtw23-19
 # text = Bunun mavisi daha güzel, bana maviyi verir misin?
 1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:poss	_	_
 2	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
@@ -428,7 +428,7 @@
 9	misin	mi	AUX	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	8	aux:q	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = udtw23-tr-20
+# sent_id = udtw23-20
 # text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
 1	Gençlere	genç	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
 2	erişilebilir	erişil	VERB	_	Aspect=Imp|Mood=Pot|Voice=Pass|VerbForm=Part	3	amod	_	_
@@ -438,20 +438,20 @@
 6	ettirmeliyiz	et	VERB	_	Aspect=Perf|Mood=Nec|Number=Plur|Person=1|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-1
+# sent_id = 1
 # text = Deniz uyudu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyudu	uyu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-2
+# sent_id = 2
 # text = Deniz kitap okuyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okuyor	oku	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-3
+# sent_id = 3
 # text = Deniz akşamları evde kitap okur.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	akşamları	akşam	NOUN	_	Case=Acc|Number=Plur	5	obl:tmod	_	_
@@ -460,7 +460,7 @@
 5	okur	oku	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-4
+# sent_id = 4
 # text = Deniz kardeşine kitabı verdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kardeşine	kardeş	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3|Poss=Yes	4	iobj	_	_
@@ -468,7 +468,7 @@
 4	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-5
+# sent_id = 5
 # text = Deniz kitabı eve götürdü.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -476,7 +476,7 @@
 4	götürdü	götür	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-6
+# sent_id = 6
 # text = Öğretmen çocuklara ders verdi.
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	çocuklara	çocuk	NOUN	_	Case=Dat|Number=Plur	4	iobj	_	_
@@ -484,7 +484,7 @@
 4	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-7
+# sent_id = 7
 # text = Deniz arkadaşına bir kitap aldı.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	arkadaşına	arkadaş	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3|Poss=Yes	5	iobj	_	_
@@ -493,28 +493,28 @@
 5	aldı	al	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-8
+# sent_id = 8
 # text = Deniz kardeşiyle barıştı.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kardeşiyle	kardeş	NOUN	_	Case=Ins|Number=Sing|Person[psor]=3|Poss=Yes	3	obl	_	_
 3	barıştı	barış	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-9
+# sent_id = 9
 # text = Deniz arkadaşlarından yakınıyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	arkadaşlarından	arkadaş	NOUN	_	Case=Abl|Number=Plur|Person[psor]=3|Poss=Yes	3	obl	_	_
 3	yakınıyor	yakın	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Rcp	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-10
+# sent_id = 10
 # text = Deniz erkenden uyudu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	erkenden	erken	ADV	_	_	3	advmod	_	_
 3	uyudu	uyu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-11
+# sent_id = 11
 # text = Deniz arkadaşının yaptığı yemekten iki tabak yedi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	arkadaşının	arkadaş	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3|Poss=Yes	3	nsubj	_	_
@@ -525,7 +525,7 @@
 7	yedi	ye	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = tr-12
+# sent_id = 12
 # text = Deniz üç saat uyudu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
@@ -533,79 +533,79 @@
 4	uyudu	uyu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-13
+# sent_id = 13
 # text = Deniz çok hızlı.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	çok	çok	ADV	_	_	3	advmod	_	_
 3	hızlı	hızlı	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-14
+# sent_id = 14
 # text = Deniz öğrenci.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-15
+# sent_id = 15
 # text = Deniz öğrencidir.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	öğrencidir	öğrenci	NOUN	_	Case=Nom|Number=Sing|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-16
+# sent_id = 16
 # text = Deniz doktor olacak.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	3	xcomp	_	_
 3	olacak	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-17
+# sent_id = 17
 # text = Deniz evde.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-18
+# sent_id = 18
 # text = Deniz evdeydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evdeydi	ev	NOUN	_	Case=Loc|Number=Sing|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-19
+# sent_id = 19
 # text = Deniz evde idi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	cop	_	_
 3	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-20
+# sent_id = 20
 # text = Hediye Deniz içindi.
 1	Hediye	hediye	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
 3	içindi	için	ADV	_	Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-21
+# sent_id = 21
 # text = Deniz uyumuştu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	uyumuştu	uyu	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+2	uyumuştu	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-22
+# sent_id = 22
 # text = Deniz uyumuş idi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	uyumuş	uyu	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	_
+2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	_
 3	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-23
+# sent_id = 23
 # text = Deniz uyumuş olacak.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	uyumuş	uyu	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	3	xcomp	_	_
+2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	3	xcomp	_	_
 3	olacak	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-24
+# sent_id = 24
 # text = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
 1	Annesinin	anne	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3|Poss=Yes	2	nmod:poss	_	_
 2	hayali	hayal	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3|Poss=Yes	7	nsubj	_	_
@@ -616,7 +616,7 @@
 7	okumasıydı	oku	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = tr-25
+# sent_id = 25
 # text = Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
 1	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	5	nsubj	_	_
 2	iyi	iyi	ADJ	_	_	4	amod	_	_
@@ -627,7 +627,7 @@
 7	kaygılandırıyordu	kaygılandır	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = tr-26
+# sent_id = 26
 # text = Masada çok kitap var, kitaplıkta yok.
 1	Masada	masa	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	çok	çok	ADV	_	_	3	advmod	_	_
@@ -638,7 +638,7 @@
 7	yok	yok	ADJ	_	_	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-27
+# sent_id = 27
 # text = Deniz'in hiç kitabı yok.
 1	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
 2	hiç	hiç	ADV	_	_	3	advmod	_	_
@@ -646,78 +646,78 @@
 4	yok	yok	ADJ	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-28
+# sent_id = 28
 # text = Deniz evde değildi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	değildi	değil	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-29
+# sent_id = 29
 # text = Deniz zamanında uyumuyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	zamanında	zaman	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3|Poss=Yes	3	obl:tmod	_	_
 3	uyumuyor	uyu	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-30
+# sent_id = 30
 # text = Deniz uyuyamıyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyuyamıyor	uyu	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-31
+# sent_id = 31
 # text = Deniz zamanında uyuyamayabilir.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	zamanında	zaman	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3|Poss=Yes	3	obl:tmod	_	_
 3	uyuyamayabilir	uyu	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-32
+# sent_id = 32
 # text = Deniz annesini görmemiş oldu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3|Poss=Yes	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
 4	oldu	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-33
+# sent_id = 33
 # text = Deniz annesini görmemiş oldu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3|Poss=Yes	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
 4	oldu	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-34
+# sent_id = 34
 # text = Deniz annesini görmemiş olmadı.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3|Poss=Yes	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
 4	olmadı	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-35
+# sent_id = 35
 # text = Okuduklarını anlamıyor.
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
 2	anlamıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-36
+# sent_id = 36
 # text = Okuduklarını anlıyor değil.
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
 2	anlıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	değil	değil	AUX	_	Polarity=Neg	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-37
+# sent_id = 37
 # text = Okuduklarını anlamıyor değil.
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
 2	anlamıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	cop	_	_
 3	değil	değil	AUX	_	Polarity=Neg	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-38
+# sent_id = 38
 # text = Okumayı değil, resim yapmayı seviyor.
 1	Okumayı	oku	VERB	_	Case=Acc|VerbForm=Vnoun	2	obj	_	_
 2	değil	değil	AUX	_	Polarity=Neg	6	conj	_	SpaceAfter=No
@@ -727,21 +727,21 @@
 6	seviyor	sev	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-39
+# sent_id = 39
 # text = Deniz odada değildi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	odada	oda	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	değildi	değil	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-40
+# sent_id = 40
 # text = Deniz odada yoktu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	odada	oda	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	yoktu	yok	ADJ	_	Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-41
+# sent_id = 41
 # text = Deniz kitap okumak istiyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -749,7 +749,7 @@
 4	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-42
+# sent_id = 42
 # text = Deniz kitap okumayı istiyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -757,7 +757,7 @@
 4	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-43
+# sent_id = 43
 # text = Deniz babasının kendisine kitap okumasını istiyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	babasının	baba	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
@@ -767,7 +767,7 @@
 6	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-44
+# sent_id = 44
 # text = Deniz kendi kendine olmayı seviyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	3	compound	_	_
@@ -776,7 +776,7 @@
 5	seviyor	sev	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-45
+# sent_id = 45
 # text = Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor.
 1	Annesinin	anne	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -786,7 +786,7 @@
 6	kolaylaştırıyor	kolaylaştır	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-46
+# sent_id = 46
 # text = Çocuklara kitap okumak gelişimleri için önemli.
 1	Çocuklara	çocuk	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -796,7 +796,7 @@
 6	önemli	önemli	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-47
+# sent_id = 47
 # text = Deniz kitap okuyarak uyuyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -804,17 +804,17 @@
 4	uyuyor	uyu	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-48
+# sent_id = 48
 # text = Deniz tatil olduğunu unutup okula gitmiş.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	tatil	tatil	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	olduğunu	ol	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	obj	_	_
 4	unutup	unut	VERB	_	VerbForm=Conv	6	advcl	_	_
 5	okula	okul	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
-6	gitmiş	git	VERB	_	Aspect=Perf|Evidential=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+6	gitmiş	git	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-49
+# sent_id = 49
 # text = Deniz tatil olduğunu unutup çantasını alıp okula gitmiş.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 2	tatil	tatil	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -823,10 +823,10 @@
 5	çantasını	çanta	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 6	alıp	al	VERB	_	VerbForm=Conv	8	advcl	_	_
 7	okula	okul	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
-8	gitmiş	git	VERB	_	Aspect=Perf|Evidential=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	gitmiş	git	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-50
+# sent_id = 50
 # text = Deniz geç uyursa okula geç kalır.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	geç	geç	ADV	_	_	3	advmod	_	_
@@ -836,7 +836,7 @@
 6	kalır	kal	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-51
+# sent_id = 51
 # text = Deniz geç uyursa okula geç kalacak.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	geç	geç	ADV	_	_	3	advmod	_	_
@@ -846,16 +846,16 @@
 6	kalacak	kal	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-52
+# sent_id = 52
 # text = Çocuk uyumuş olsaydı film izleyecektik.
 1	Çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	uyumuş	uyu	VERB	_	Aspect=Perf|Evidential=Nfh|Mood=Ind|Tense=Past|VerbForm=Part	3	compound	_	_
+2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past|VerbForm=Part	3	compound	_	_
 3	olsaydı	ol	VERB	_	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Past	5	advcl	_	_
 4	film	film	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	izleyecektik	izle	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-53
+# sent_id = 53
 # text = Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek.
 1	Eğer	eğer	SCONJ	_	_	5	mark	_	_
 2	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -867,18 +867,18 @@
 8	gerekecek	gerek	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-54
+# sent_id = 54
 # text = Boş ver.
 1	Boş	boş	ADJ	_	_	2	compound	_	_
 2	ver	ver	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-55
+# sent_id = 55
 # text = Boşver.
 1	Boşver	boşver	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = tr-56
+# sent_id = 56
 # text = Çocuğun erken uyuyacağını zannediyorum.
 1	Çocuğun	çocuk	NOUN	_	Case=Gen|Number=Sing	3	nsubj	_	_
 2	erken	erken	ADV	_	_	3	advmod	_	_
@@ -886,7 +886,7 @@
 4	zannediyorum	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-57
+# sent_id = 57
 # text = Deniz kardeşinden nefret ediyor.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kardeşinden	kardeş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nmod	_	_
@@ -894,14 +894,14 @@
 4	ediyor	et	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-58
+# sent_id = 58
 # text = Yarını iple çekiyorum.
 1	Yarını	yarın	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 2	iple	ip	NOUN	_	Case=Ins|Number=Sing	3	obl	_	_
 3	çekiyorum	çek	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-59
+# sent_id = 59
 # text = Hastane halkın hizmetine sunuldu.
 1	Hastane	hastane	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	halkın	halk	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
@@ -909,7 +909,7 @@
 4	sunuldu	sun	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-60
+# sent_id = 60
 # text = Büyük evdeki çocuk kitap okuyor.
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing	3	nmod	_	_
@@ -918,7 +918,7 @@
 5	okuyor	oku	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-61
+# sent_id = 61
 # text = Büyük evdeki kitap okuyor.
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing	3	nmod	_	_
@@ -926,7 +926,7 @@
 4	okuyor	oku	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-62
+# sent_id = 62
 # text = Büyük evdeki çocuğun saçları sarı.
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing	3	nmod	_	_
@@ -935,7 +935,7 @@
 5	sarı	sarı	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-63
+# sent_id = 63
 # text = Soğanları koyu pembeleşinceye kadar kavurun.
 1	Soğanları	soğan	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
 2	koyu	koyu	ADJ	_	_	3	amod	_	_
@@ -944,7 +944,7 @@
 5	kavurun	kavur	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-64
+# sent_id = 64
 # text = Evin önünde üç arabalık park yeri var.
 1	Evin	ev	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	önünde	ön	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
@@ -955,7 +955,7 @@
 7	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = tr-65
+# sent_id = 65
 # text = Kutsal kitapsız dinler de var.
 1	Kutsal	kutsal	ADJ	_	_	2	amod	_	_
 2	kitapsız	kitap	NOUN	_	Case=Nom|Number=Sing|Polarity=Neg	3	amod	_	_
@@ -964,7 +964,7 @@
 5	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = tr-66
+# sent_id = 66
 # text = Küçük pencereli evde yeterince ışık yok.
 1	Küçük	küçük	ADJ	_	_	2	amod	_	_
 2	pencereli	pencere	NOUN	_	Case=Nom|Number=Sing	3	amod	_	_
@@ -974,7 +974,7 @@
 6	yok	yok	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = tr-67
+# sent_id = 67
 # text = Deniz eve geldi mi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	eve	ev	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
@@ -982,36 +982,36 @@
 4	mi	mi	PART	_	PronType=Int	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-68
+# sent_id = 68
 # text = Deniz eve gelmiş miydi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	eve	ev	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
-3	gelmiş	gel	VERB	_	Aspect=Perf|Evidential=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	gelmiş	gel	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	miydi	mi	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Int|Tense=Past	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-69
+# sent_id = 69
 # text = Deniz evde mi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	mi	mi	PART	_	PronType=Int	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-70
+# sent_id = 70
 # text = Deniz evde midir?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	midir	mi	AUX	_	Gen=Gen|Number=Sing|Person=3|PronType=Int	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-71
+# sent_id = 71
 # text = Deniz evde miydi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	miydi	mi	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-72
+# sent_id = 72
 # text = Deniz evde değil miydi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
@@ -1019,7 +1019,7 @@
 4	miydi	mi	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Int|Tense=Past	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-73
+# sent_id = 73
 # text = Deniz evde yok mu?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
@@ -1027,7 +1027,7 @@
 4	mu	mu	PART	_	PronType=Int	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-74
+# sent_id = 74
 # text = Evde ekmek var mı?
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
 2	ekmek	ekmek	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -1035,7 +1035,7 @@
 4	mı	mı	PART	_	PronType=Int	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-75
+# sent_id = 75
 # text = Evde mi ekmek var?
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	mi	mi	PART	_	PronType=Int	1	aux:q	_	_
@@ -1043,7 +1043,7 @@
 4	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-76
+# sent_id = 76
 # text = Evde ekmek mi var?
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
 2	ekmek	ekmek	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -1051,14 +1051,14 @@
 4	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-77
+# sent_id = 77
 # text = Okuduğunuzu anlıyor muydunuz?
 1	Okuduğunuzu	oku	VERB	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Tense=Past|VerbForm=Part	2	obj	_	_
 2	anlıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres	0	root	_	_
 3	muydunuz	mi	AUX	_	Mood=Ind|Number=Plur|Person=2|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-78
+# sent_id = 78
 # text = Sabah Deniz kitabı Ayhan'a verdi mi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
@@ -1070,7 +1070,7 @@
 8	mi	mi	PART	_	_	7	aux:q	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	7	punct	_	_
 
-# sent_id = tr-79
+# sent_id = 79
 # text = Sabah Deniz mi kitabı Ayhan'a verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
@@ -1082,7 +1082,7 @@
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-80
+# sent_id = 80
 # text = Sabah Deniz kitabı mı Ayhan'a verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
@@ -1094,7 +1094,7 @@
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-81
+# sent_id = 81
 # text = Sabah Deniz kitabı Ayhan'a mı verdi?
 1	Sabah	sabah	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
@@ -1106,7 +1106,7 @@
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-82
+# sent_id = 82
 # text = Deniz kitabı Ayhan'a sabah mı verdi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
@@ -1118,7 +1118,7 @@
 8	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tr-83
+# sent_id = 83
 # text = Bana maviyi verir misin?
 1	Bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
 2	maviyi	mavi	ADJ	_	Case=Acc|Number=Sing	3	obj	_	_
@@ -1126,7 +1126,7 @@
 4	misin	mi	AUX	_	Number=Sing|Person=2|PronType=Int	3	aux:q	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-84
+# sent_id = 84
 # text = Bunun mavisi daha güzel.
 1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:poss	_	_
 2	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -1134,7 +1134,7 @@
 4	güzel	güzel	ADJ	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-85
+# sent_id = 85
 # text = Benim arabam Deniz'inkinin mavisi.
 1	Benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	arabam	araba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
@@ -1142,13 +1142,13 @@
 4	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-86
+# sent_id = 86
 # text = Kitap okunuyor.
 1	Kitap	kitap	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	okunuyor	oku	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-87
+# sent_id = 87
 # text = Kitap bütün okullarda okutturulacak.
 1	Kitap	kitap	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bütün	bütün	DET	_	_	3	det	_	_
@@ -1156,13 +1156,13 @@
 4	okutturulacak	oku	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Cau,Pass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-88
+# sent_id = 88
 # text = Deniz uyutuldu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyutuldu	uyu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau,Pass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = tr-89
+# sent_id = 89
 # text = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	buralara	bura	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
@@ -1175,7 +1175,7 @@
 9	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = tr-90
+# sent_id = 90
 # text = Sen de bizimle geliyorsun, değil mi?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	de	de	PART	_	_	1	discourse	_	_
@@ -1186,7 +1186,7 @@
 7	mi	mi	PART	_	_	6	discourse:q	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-91
+# sent_id = 91
 # text = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
 2	öyle	öyle	ADV	_	_	4	advmod	_	_
@@ -1202,7 +1202,7 @@
 12	bakamaz	bak	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	acl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-92
+# sent_id = 92
 # text = Sen önce temizliği bitir de ütüyü hallederiz.
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	önce	önce	ADV	_	_	4	advmod	_	_
@@ -1213,7 +1213,7 @@
 7	hallederiz	hallet	VERB	_	Aspect=Hab|Mood=Gen|Number=Plur|Person=1|Tense=Pres	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = tr-93
+# sent_id = 93
 # text = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
 1	Sözde	sözde	ADV	_	_	9	advmod	_	_
 2	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
@@ -1223,10 +1223,10 @@
 6	ödevi	ödev	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
 7	yapmasına	yap	VERB	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	9	obl	_	_
 8	yardım	yardım	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	_
-9	etmişmiş	et	VERB	_	Aspect=Perf|Evidential=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+9	etmişmiş	et	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = tr-94
+# sent_id = 94
 # text = Genel olarak başarılı bir filmdi.
 1	Genel	genel	ADJ	_	_	2	amod	_	_
 2	olarak	olarak	ADV	_	_	3	advmod	_	_
@@ -1234,4 +1234,19 @@
 4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
 5	filmdi	film	NOUN	_	Case=Nom|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 95
+# text = Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
+1	Elma	elma	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
+2	ağaçları	ağaç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
+3	Nisan	Nisan	PROPN	_	Case=Nom|Number=Sing	5	compound	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	Mayıs	Mayıs	PROPN	_	Case=Nom|Number=Sing	6	compound	_	_
+6	aylarında	ay	NOUN	_	Case=Loc|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+7	çiçek	çiçek	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	açıp	aç	VERB	_	Aspect=Perf|VerbForm=Conv	11	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	karşılıklı	karşılıklı	ADJ	_	_	11	advmod	_	_
+11	tozlaşır	tozlaş	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
 

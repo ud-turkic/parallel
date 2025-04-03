@@ -1,9 +1,18 @@
 from pathlib import Path
-import os, re
+import argparse, os, re
+
+def parse_args():
+    parser = argparse.ArgumentParser(description='Run validation on CoNLL-U files.')
+    parser.add_argument('-f', '--files', type=str, nargs='+', help='List of CoNLL-U files to validate.', required=True)
+    return parser.parse_args()
 
 def main():
+    args = parse_args()
     script_dir = Path(__file__).parent
-    conllu_files = list(script_dir.glob('*.conllu'))
+    conllu_files = [Path(file) for file in args.files]
+    if not all(file.exists() for file in conllu_files):
+        print('One or more files do not exist.')
+        return
     language_pattern = re.compile(r'(\w+)_.+\.conllu')
     languages = set()
     for file in conllu_files:
