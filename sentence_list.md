@@ -2,24 +2,33 @@
 
 - `cairo-1`: Kız arkadaşına mektup yazdı.
 - `cairo-2`: Yağmur yağdığını zannediyorum.
-- `cairo-3`: (O) sigara ve alkol içmeyi bırakmayı denedi.
-- `cairo-4`: (Sen) gitmek istiyor musun?
+- `cairo-3.1`: O sigara ve alkol içmeyi bırakmayı denedi.
+- `cairo-3.2`: Sigara ve alkol içmeyi bırakmayı denedi.
+- `cairo-4.1`: Sen gitmek istiyor musun?
+- `cairo-4.2`: Gitmek istiyor musun?
 - `cairo-5`: Sam, pencereyi aç!
-- `cairo-6`: (O) kocasına arabayı yıkattırdı.
+- `cairo-6.1`: O kocasına arabayı yıkattırdı.
+- `cairo-6.2`: Kocasına arabayı yıkattırdı.
 - `cairo-7`: Peter'in komşusu çiti kırmızı boyadı.
 - `cairo-8`: Benim babam seninkinden daha harika.
 - `cairo-9`: Mary bronz kazandı, Peter gümüş, Jane altın.
 - `cairo-10`: İguazu büyük bir ülke mi, yoksa küçük mü?
 - `cairo-11`: Ne Peter Smith ne de Mary Brown seçilebilir.
-- `cairo-12`: (Onlar) kimin yazdığını hiç bilmiyorlar.
-- `cairo-13`: (Sen) neye bakıyorsun?
-- `cairo-14`: (Sen) ne zaman gelebileceğini zannediyorsun?
-- `cairo-15`: (O) araba aldı ama erkek kardeşi sadece bisiklet.
+- `cairo-12.1`: Onlar kimin yazdığını hiç bilmiyorlar.
+- `cairo-12.2`: Kimin yazdığını hiç bilmiyorlar.
+- `cairo-13.1`: Sen neye bakıyorsun?
+- `cairo-13.2`: Neye bakıyorsun?
+- `cairo-14.1`: Sen ne zaman gelebileceğini zannediyorsun?
+- `cairo-14.2`: Ne zaman gelebileceğini zannediyorsun?
+- `cairo-15.1`: O araba aldı ama erkek kardeşi sadece bisiklet.
+- `cairo-15.2`: Araba aldı ama erkek kardeşi sadece bisiklet.
 - `cairo-16`: Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
-- `cairo-17`: (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+- `cairo-17.1`: O saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+- `cairo-17.2`: Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 - `cairo-18`: Ayak uyduramadım çünkü fazla hızlı koştu.
 - `cairo-19`: Bu mektup Peter'den ve dün iletildi.
-- `cairo-20`: (O) Fransanın başkenti Paris'te büyüdü.
+- `cairo-20.1`: O Fransanın başkenti Paris'te büyüdü.
+- `cairo-20.2`: Fransanın başkenti Paris'te büyüdü.
 - `udtw23-1`: Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
 - `udtw23-2`: Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
 - `udtw23-3`: Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
@@ -128,10 +137,12 @@
 - `86`: Kitap okunuyor.
 - `87`: Kitap bütün okullarda okutturulacak.
 - `88`: Deniz uyutuldu.
-- `89`: Deniz buralara gelir, boş vakitlerinde kitap okur idi.
-- `90`: Sen de bizimle geliyorsun, değil mi?
-- `91`: O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
-- `92`: Sen önce temizliği bitir de ütüyü hallederiz.
-- `93`: Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
-- `94`: Genel olarak başarılı bir filmdi.
-- `95`: Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
+- `89`: Onlar gitti.
+- `90`: O gitti.
+- `91`: Deniz buralara gelir, boş vakitlerinde kitap okur idi.
+- `92`: Sen de bizimle geliyorsun, değil mi?
+- `93`: O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
+- `94`: Sen önce temizliği bitir de ütüyü hallederiz.
+- `95`: Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
+- `96`: Genel olarak başarılı bir filmdi.
+- `97`: Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.

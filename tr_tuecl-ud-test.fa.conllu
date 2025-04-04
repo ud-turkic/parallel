@@ -13,28 +13,41 @@
 3	zannediyorum	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = cairo-3
-# text = (O) sigara ve alkol içmeyi bırakmayı denedi.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	sigara	sigara	NOUN	_	Number=Sing	7	nmod	_	_
-5	ve	ve	CCONJ	_	_	6	cc	_	_
-6	alkol	alkol	NOUN	_	Number=Sing	4	conj	_	_
-7	içmeyi	iç	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	8	obj	_	_
-8	bırakmayı	bırak	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	9	obj	_	_
-9	denedi	dene	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
+# sent_id = cairo-3.1
+# text = O sigara ve alkol içmeyi bırakmayı denedi.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+2	sigara	sigara	NOUN	_	Number=Sing	6	nmod	_	_
+3	ve	ve	CCONJ	_	_	4	cc	_	_
+4	alkol	alkol	NOUN	_	Number=Sing	2	conj	_	_
+5	içmeyi	iç	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	obj	_	_
+6	bırakmayı	bırak	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	7	obj	_	_
+7	denedi	dene	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = cairo-4
-# text = (Sen) gitmek istiyor musun?
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	gitmek	git	VERB	_	VerbForm=Inf	5	xcomp	_	_
-5	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-6	musun	mi	AUX	_	Number=Sing|Person=2|PronType=Int	5	aux:q	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	_
+# sent_id = cairo-3.2
+# text = Sigara ve alkol içmeyi bırakmayı denedi.
+1	Sigara	sigara	NOUN	_	Number=Sing	5	nmod	_	_
+2	ve	ve	CCONJ	_	_	3	cc	_	_
+3	alkol	alkol	NOUN	_	Number=Sing	1	conj	_	_
+4	içmeyi	iç	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	5	obj	_	_
+5	bırakmayı	bırak	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	obj	_	_
+6	denedi	dene	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = cairo-4.1
+# text = Sen gitmek istiyor musun?
+1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	gitmek	git	VERB	_	VerbForm=Inf	3	xcomp	_	_
+3	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	musun	mi	AUX	_	Number=Sing|Person=2|PronType=Int	3	aux:q	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cairo-4.2
+# text = Gitmek istiyor musun?
+1	Gitmek	git	VERB	_	VerbForm=Inf	2	xcomp	_	_
+2	istiyor	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	musun	mi	AUX	_	Number=Sing|Person=2|PronType=Int	2	aux:q	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-5
 # text = Sam, pencereyi aç!
@@ -44,15 +57,20 @@
 4	aç	aç	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-6
-# text = (O) kocasına arabayı yıkattırdı.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	kocasına	koca	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
-5	arabayı	araba	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
-6	yıkattırdı	yıka	VERB	_	Aspect=Perf|Causative=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+# sent_id = cairo-6.1
+# text = O kocasına arabayı yıkattırdı.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	kocasına	koca	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
+3	arabayı	araba	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+4	yıkattırdı	yıka	VERB	_	Aspect=Perf|Causative=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-6.2
+# text = Kocasına arabayı yıkattırdı.
+1	Kocasına	koca	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
+2	arabayı	araba	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	yıkattırdı	yıka	VERB	_	Aspect=Perf|Causative=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-7
 # text = Peter'in komşusu çiti kırmızı boyadı.
@@ -110,50 +128,75 @@
 8	seçilebilir	seç	VERB	_	Aspect=Impf|Mood=Pot|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = cairo-12
-# text = (Onlar) kimin yazdığını hiç bilmiyorlar.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	5	nsubj	_	_
-5	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	7	obj	_	_
-6	hiç	hiç	ADV	_	_	7	advmod	_	_
-7	bilmiyorlar	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# sent_id = cairo-12.1
+# text = Onlar kimin yazdığını hiç bilmiyorlar.
+1	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+2	kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	3	nsubj	_	_
+3	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	6	obj	_	_
+4	hiç	hiç	ADV	_	_	6	advmod	_	_
+5	bilmiyorlar	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-13
-# text = (Sen) neye bakıyorsun?
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	neye	ne	PRON	_	Case=Dat|Number=Sing|PronType=Int	5	obl	_	_
-5	bakıyorsun	bak	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+# sent_id = cairo-12.2
+# text = Kimin yazdığını hiç bilmiyorlar.
+1	Kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	2	nsubj	_	_
+2	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	5	obj	_	_
+3	hiç	hiç	ADV	_	_	5	advmod	_	_
+4	bilmiyorlar	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-13.1
+# text = Sen neye bakıyorsun?
+1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	neye	ne	PRON	_	Case=Dat|Number=Sing|PronType=Int	4	obl	_	_
+3	bakıyorsun	bak	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cairo-13.2
+# text = Neye bakıyorsun?
+1	Neye	ne	PRON	_	Case=Dat|Number=Sing|PronType=Int	3	obl	_	_
+2	bakıyorsun	bak	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cairo-14.1
+# text = Sen ne zaman gelebileceğini zannediyorsun?
+1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+2	ne	ne	ADV	_	PronType=Int	3	advmod	_	_
+3	zaman	zaman	ADV	_	_	4	advmod	_	_
+4	gelebileceğini	gel	VERB	_	Case=Acc|Number=Sing|Person=2|Tense=Fut|VerbForm=Part	6	obj	_	_
+5	zannediyorsun	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-14
-# text = (Sen) ne zaman gelebileceğini zannediyorsun?
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	ne	ne	ADV	_	PronType=Int	5	advmod	_	_
-5	zaman	zaman	ADV	_	_	6	advmod	_	_
-6	gelebileceğini	gel	VERB	_	Case=Acc|Number=Sing|Person=2|Tense=Fut|VerbForm=Part	7	obj	_	_
-7	zannediyorsun	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	7	punct	_	_
+# sent_id = cairo-14.2
+# text = Ne zaman gelebileceğini zannediyorsun?
+1	Ne	ne	ADV	_	PronType=Int	2	advmod	_	_
+2	zaman	zaman	ADV	_	_	3	advmod	_	_
+3	gelebileceğini	gel	VERB	_	Case=Acc|Number=Sing|Person=2|Tense=Fut|VerbForm=Part	5	obj	_	_
+4	zannediyorsun	zannet	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-15
-# text = (O) araba aldı ama erkek kardeşi sadece bisiklet.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	araba	araba	NOUN	_	Number=Sing	5	obj	_	_
-5	aldı	al	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-6	ama	ama	CCONJ	_	_	10	cc	_	_
-7	erkek	erkek	NOUN	_	Number=Sing	8	compound	_	_
-8	kardeşi	kardeş	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
-9	sadece	sadece	ADV	_	_	10	advmod	_	_
-10	bisiklet	bisiklet	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	5	punct	_	_
+# sent_id = cairo-15.1
+# text = O araba aldı ama erkek kardeşi sadece bisiklet.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	araba	araba	NOUN	_	Number=Sing	3	obj	_	_
+3	aldı	al	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	ama	ama	CCONJ	_	_	8	cc	_	_
+5	erkek	erkek	NOUN	_	Number=Sing	6	compound	_	_
+6	kardeşi	kardeş	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
+7	sadece	sadece	ADV	_	_	8	advmod	_	_
+8	bisiklet	bisiklet	NOUN	_	Number=Sing	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cairo-15.2
+# text = Araba aldı ama erkek kardeşi sadece bisiklet.
+1	Araba	araba	NOUN	_	Number=Sing	2	obj	_	_
+2	aldı	al	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	ama	ama	CCONJ	_	_	7	cc	_	_
+4	erkek	erkek	NOUN	_	Number=Sing	5	compound	_	_
+5	kardeşi	kardeş	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
+6	sadece	sadece	ADV	_	_	7	advmod	_	_
+7	bisiklet	bisiklet	NOUN	_	Number=Sing	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-16
 # text = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
@@ -169,20 +212,30 @@
 10	çıktılar	çık	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-17
-# text = (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	saçını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	_
-5	yapıyor	yap	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
-6	olmalıydı	ol	VERB	_	Aspect=Perf|Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	ama	ama	CCONJ	_	_	11	cc	_	_
-8	nedense	neden	ADV	_	_	11	advmod	_	_
-9	o	o	DET	_	Definite=Def|PronType=Dem	10	det	_	_
-10	gün	gün	NOUN	_	Number=Sing	11	obl:tmod	_	_
-11	yapmadı	yap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	6	punct	_	_
+# sent_id = cairo-17.1
+# text = O saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	saçını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
+3	yapıyor	yap	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+4	olmalıydı	ol	VERB	_	Aspect=Perf|Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	ama	ama	CCONJ	_	_	9	cc	_	_
+6	nedense	neden	ADV	_	_	9	advmod	_	_
+7	o	o	DET	_	Definite=Def|PronType=Dem	8	det	_	_
+8	gün	gün	NOUN	_	Number=Sing	9	obl:tmod	_	_
+9	yapmadı	yap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-17.2
+# text = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+1	Saçını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	_
+2	yapıyor	yap	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+3	olmalıydı	ol	VERB	_	Aspect=Perf|Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	ama	ama	CCONJ	_	_	8	cc	_	_
+5	nedense	neden	ADV	_	_	8	advmod	_	_
+6	o	o	DET	_	Definite=Def|PronType=Dem	7	det	_	_
+7	gün	gün	NOUN	_	Number=Sing	8	obl:tmod	_	_
+8	yapmadı	yap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-18
 # text = Ayak uyduramadım çünkü fazla hızlı koştu.
@@ -204,16 +257,22 @@
 6	iletildi	ilet	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = cairo-20
-# text = (O) Fransanın başkenti Paris'te büyüdü.
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	Fransanın	Fransa	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
-5	başkenti	başkent	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nmod:poss	_	_
-6	Paris'te	Paris	PROPN	_	Case=Loc|Number=Sing	7	obl	_	_
-7	büyüdü	büyü	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# sent_id = cairo-20.1
+# text = O Fransanın başkenti Paris'te büyüdü.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+2	Fransanın	Fransa	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	başkenti	başkent	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nmod:poss	_	_
+4	Paris'te	Paris	PROPN	_	Case=Loc|Number=Sing	6	obl	_	_
+5	büyüdü	büyü	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = cairo-20.2
+# text = Fransanın başkenti Paris'te büyüdü.
+1	Fransanın	Fransa	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	başkenti	başkent	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nmod:poss	_	_
+3	Paris'te	Paris	PROPN	_	Case=Loc|Number=Sing	5	obl	_	_
+4	büyüdü	büyü	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-1
 # text = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
@@ -1163,6 +1222,18 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89
+# text = Onlar gitti.
+1	Onlar	onlar	PRON	_	Case=Nom|Number=Plur|PronType=Prs	2	nsubj	_	_
+2	gitti	git	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 90
+# text = O gitti.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	gitti	git	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 91
 # text = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	buralara	bura	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
@@ -1175,7 +1246,7 @@
 9	idi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 90
+# sent_id = 92
 # text = Sen de bizimle geliyorsun, değil mi?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	de	de	PART	_	_	1	discourse	_	_
@@ -1186,7 +1257,7 @@
 7	mi	mi	PART	_	_	6	discourse:q	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 91
+# sent_id = 93
 # text = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
 2	öyle	öyle	ADV	_	_	4	advmod	_	_
@@ -1202,7 +1273,7 @@
 12	bakamaz	bak	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	acl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 92
+# sent_id = 94
 # text = Sen önce temizliği bitir de ütüyü hallederiz.
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	önce	önce	ADV	_	_	4	advmod	_	_
@@ -1213,7 +1284,7 @@
 7	hallederiz	hallet	VERB	_	Aspect=Hab|Mood=Gen|Number=Plur|Person=1|Tense=Pres	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 93
+# sent_id = 95
 # text = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
 1	Sözde	sözde	ADV	_	_	9	advmod	_	_
 2	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
@@ -1226,7 +1297,7 @@
 9	etmişmiş	et	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 94
+# sent_id = 96
 # text = Genel olarak başarılı bir filmdi.
 1	Genel	genel	ADJ	_	_	2	amod	_	_
 2	olarak	olarak	ADV	_	_	3	advmod	_	_
@@ -1235,7 +1306,7 @@
 5	filmdi	film	NOUN	_	Case=Nom|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 95
+# sent_id = 97
 # text = Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
 1	Elma	elma	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
 2	ağaçları	ağaç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
