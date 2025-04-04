@@ -1,0 +1,137 @@
+# Sentence list
+
+- cairo-1: Kız arkadaşına mektup yazdı.
+- cairo-2: Yağmur yağdığını zannediyorum.
+- cairo-3: (O) sigara ve alkol içmeyi bırakmayı denedi.
+- cairo-4: (Sen) gitmek istiyor musun?
+- cairo-5: Sam, pencereyi aç!
+- cairo-6: (O) kocasına arabayı yıkattırdı.
+- cairo-7: Peter'in komşusu çiti kırmızı boyadı.
+- cairo-8: Benim babam seninkinden daha harika.
+- cairo-9: Mary bronz kazandı, Peter gümüş, Jane altın.
+- cairo-10: İguazu büyük bir ülke mi, yoksa küçük mü?
+- cairo-11: Ne Peter Smith ne de Mary Brown seçilebilir.
+- cairo-12: (Onlar) kimin yazdığını hiç bilmiyorlar.
+- cairo-13: (Sen) neye bakıyorsun?
+- cairo-14: (Sen) ne zaman gelebileceğini zannediyorsun?
+- cairo-15: (O) araba aldı ama erkek kardeşi sadece bisiklet.
+- cairo-16: Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
+- cairo-17: (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+- cairo-18: Ayak uyduramadım çünkü fazla hızlı koştu.
+- cairo-19: Bu mektup Peter'den ve dün iletildi.
+- cairo-20: (O) Fransanın başkenti Paris'te büyüdü.
+- udtw23-1: Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
+- udtw23-2: Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+- udtw23-3: Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
+- udtw23-4: Ayşe bir doktor.
+- udtw23-5: Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
+- udtw23-6: Anneannesi hemşireydi.
+- udtw23-7: Peki kitaplıktakiler nerede idi?
+- udtw23-8: Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+- udtw23-9: Markette meyve var ama güzel değil.
+- udtw23-10: Deniz doktor olacak, bilmiş ol!
+- udtw23-11: Deniz uyumuş idi.
+- udtw23-12: Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+- udtw23-13: Hırkam evde miymiş?
+- udtw23-14: Bugün mü yapılacak etkinlik?
+- udtw23-15: Sonuçlar açıklanmış, değil mi?
+- udtw23-16: Ayşe bu kitabı okumamış değil.
+- udtw23-17: Genel olarak okumayı değil, resim yapmayı seviyor.
+- udtw23-18: Okuduklarını değil, okuyacaklarını anlatıyor.
+- udtw23-19: Bunun mavisi daha güzel, bana maviyi verir misin?
+- udtw23-20: Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+- 1: Deniz uyudu.
+- 2: Deniz kitap okuyor.
+- 3: Deniz akşamları evde kitap okur.
+- 4: Deniz kardeşine kitabı verdi.
+- 5: Deniz kitabı eve götürdü.
+- 6: Öğretmen çocuklara ders verdi.
+- 7: Deniz arkadaşına bir kitap aldı.
+- 8: Deniz kardeşiyle barıştı.
+- 9: Deniz arkadaşlarından yakınıyor.
+- 10: Deniz erkenden uyudu.
+- 11: Deniz arkadaşının yaptığı yemekten iki tabak yedi.
+- 12: Deniz üç saat uyudu.
+- 13: Deniz çok hızlı.
+- 14: Deniz öğrenci.
+- 15: Deniz öğrencidir.
+- 16: Deniz doktor olacak.
+- 17: Deniz evde.
+- 18: Deniz evdeydi.
+- 19: Deniz evde idi.
+- 20: Hediye Deniz içindi.
+- 21: Deniz uyumuştu.
+- 22: Deniz uyumuş idi.
+- 23: Deniz uyumuş olacak.
+- 24: Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
+- 25: Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
+- 26: Masada çok kitap var, kitaplıkta yok.
+- 27: Deniz'in hiç kitabı yok.
+- 28: Deniz evde değildi.
+- 29: Deniz zamanında uyumuyor.
+- 30: Deniz uyuyamıyor.
+- 31: Deniz zamanında uyuyamayabilir.
+- 32: Deniz annesini görmemiş oldu.
+- 33: Deniz annesini görmemiş oldu.
+- 34: Deniz annesini görmemiş olmadı.
+- 35: Okuduklarını anlamıyor.
+- 36: Okuduklarını anlıyor değil.
+- 37: Okuduklarını anlamıyor değil.
+- 38: Okumayı değil, resim yapmayı seviyor.
+- 39: Deniz odada değildi.
+- 40: Deniz odada yoktu.
+- 41: Deniz kitap okumak istiyor.
+- 42: Deniz kitap okumayı istiyor.
+- 43: Deniz babasının kendisine kitap okumasını istiyor.
+- 44: Deniz kendi kendine olmayı seviyor.
+- 45: Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor.
+- 46: Çocuklara kitap okumak gelişimleri için önemli.
+- 47: Deniz kitap okuyarak uyuyor.
+- 48: Deniz tatil olduğunu unutup okula gitmiş.
+- 49: Deniz tatil olduğunu unutup çantasını alıp okula gitmiş.
+- 50: Deniz geç uyursa okula geç kalır.
+- 51: Deniz geç uyursa okula geç kalacak.
+- 52: Çocuk uyumuş olsaydı film izleyecektik.
+- 53: Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek.
+- 54: Boş ver.
+- 55: Boşver.
+- 56: Çocuğun erken uyuyacağını zannediyorum.
+- 57: Deniz kardeşinden nefret ediyor.
+- 58: Yarını iple çekiyorum.
+- 59: Hastane halkın hizmetine sunuldu.
+- 60: Büyük evdeki çocuk kitap okuyor.
+- 61: Büyük evdeki kitap okuyor.
+- 62: Büyük evdeki çocuğun saçları sarı.
+- 63: Soğanları koyu pembeleşinceye kadar kavurun.
+- 64: Evin önünde üç arabalık park yeri var.
+- 65: Kutsal kitapsız dinler de var.
+- 66: Küçük pencereli evde yeterince ışık yok.
+- 67: Deniz eve geldi mi?
+- 68: Deniz eve gelmiş miydi?
+- 69: Deniz evde mi?
+- 70: Deniz evde midir?
+- 71: Deniz evde miydi?
+- 72: Deniz evde değil miydi?
+- 73: Deniz evde yok mu?
+- 74: Evde ekmek var mı?
+- 75: Evde mi ekmek var?
+- 76: Evde ekmek mi var?
+- 77: Okuduğunuzu anlıyor muydunuz?
+- 78: Sabah Deniz kitabı Ayhan'a verdi mi?
+- 79: Sabah Deniz mi kitabı Ayhan'a verdi?
+- 80: Sabah Deniz kitabı mı Ayhan'a verdi?
+- 81: Sabah Deniz kitabı Ayhan'a mı verdi?
+- 82: Deniz kitabı Ayhan'a sabah mı verdi?
+- 83: Bana maviyi verir misin?
+- 84: Bunun mavisi daha güzel.
+- 85: Benim arabam Deniz'inkinin mavisi.
+- 86: Kitap okunuyor.
+- 87: Kitap bütün okullarda okutturulacak.
+- 88: Deniz uyutuldu.
+- 89: Deniz buralara gelir, boş vakitlerinde kitap okur idi.
+- 90: Sen de bizimle geliyorsun, değil mi?
+- 91: O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
+- 92: Sen önce temizliği bitir de ütüyü hallederiz.
+- 93: Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
+- 94: Genel olarak başarılı bir filmdi.
+- 95: Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
