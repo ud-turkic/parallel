@@ -20,7 +20,7 @@ def main():
         with open(output_file, 'w') as f:
             f.write('# Sentence list\n\n')
             for sentence_id, sentence in sentences.items():
-                f.write(f'- {sentence_id}: {sentence.text}\n')
+                f.write(f'- `{sentence_id}`: {sentence.text}\n')
         print(f'Sentences saved to {output_file}')
 
 if __name__ == '__main__':
