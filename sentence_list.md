@@ -49,6 +49,8 @@
 - `udtw23-18`: Okuduklarını değil, okuyacaklarını anlatıyor.
 - `udtw23-19`: Bunun mavisi daha güzel, bana maviyi verir misin?
 - `udtw23-20`: Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+- `udtw23-21`: Öğretmen kitabı alıp okula gitti.
+- `udtw23-22`: Öğretmen kitabı okula götürdü.
 - `1`: Deniz uyudu.
 - `2`: Deniz kitap okuyor.
 - `3`: Deniz akşamları evde kitap okur.

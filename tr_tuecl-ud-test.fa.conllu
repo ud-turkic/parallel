@@ -503,6 +503,23 @@
 6	ettirmeliyiz	et	VERB	_	Aspect=Perf|Mood=Nec|Number=Plur|Person=1|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = udtw23-21
+# text = Öğretmen kitabı alıp okula gitti.
+1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	alıp	al	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Conv	4	acl	_	_
+4	okula	okul	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	gitti	git	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-22
+# text = Öğretmen kitabı okula götürdü.
+1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	okula	okul	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	götürdü	götür	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
 # sent_id = 1
 # text = Deniz uyudu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
