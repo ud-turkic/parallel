@@ -29,7 +29,7 @@
 - `cairo-19`: Bu mektup Peter'den ve dün iletildi.
 - `cairo-20.1`: O Fransanın başkenti Paris'te büyüdü.
 - `cairo-20.2`: Fransanın başkenti Paris'te büyüdü.
-- `udtw23-1`: Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
+- `udtw23-1`: Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
 - `udtw23-2`: Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
 - `udtw23-3`: Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
 - `udtw23-4`: Ayşe bir doktor.
