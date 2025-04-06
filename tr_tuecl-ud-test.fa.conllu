@@ -237,8 +237,8 @@
 # text = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 1	Saçını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	_
 2	yapıyor	yap	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	olmalıydı    ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Nec|Number=Sing|Person=3|Tense=Past	2	aux	_	_
-4	ama	ama	CCONJ	_	_	
+3	olmalıydı	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Nec|Number=Sing|Person=3|Tense=Past	2	aux	_	_
+4	ama	ama	CCONJ	_	_	9	cc	_	_
 5-6	nedense	_	_	_	_	_	_	_	_
 5	neden	neden	ADV	_	_	7	advmod	_	_
 6	se	i	AUX	_	Aspect=Imp|Evident=Nfh|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
@@ -287,9 +287,7 @@
 # sent_id = udtw23-1
 # text = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
 1	Eşim	eş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	nsubj	_	_
-2-3	yazlıktaki	_	_	_	_	_	_	_	_
-2	yazlıkta	yazlık	NOUN	_	Case=Loc|Number=Sing	5	nmod	_	_
-3	ki	ki	ADJ	_	_	3	case	_	_
+2	yazlıktaki	yazlık	NOUN	_	Case=Loc|Number=Sing	4	amod	_	_
 3	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 4	odasının	oda	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nmod:poss	_	_
 5	penceresini	pencere	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
@@ -310,7 +308,7 @@
 3	hep	hep	ADV	_	_	4	advmod	_	_
 4	söylüyorum	söyle	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	sabahları	sabah	ADV	_	Case=Acc|Number=Plur	9	obl:tmod	_	_
+6	sabahları	sabah	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	9	obl:tmod	_	_
 7	arkadaşınla	arkadaş	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	obl	_	_
 8	telefonda	telefon	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
 9	konuşurken	konuş	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Conv	11	advcl	_	_
@@ -352,7 +350,7 @@
 # text = Çözmeye çalıştığımız sorun kitaplıkta beş kitaplık yer bile olmaması.
 1	Çözmeye	çöz	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun	2	advcl	_	_
 2	çalıştığımız	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	3	acl	_	_
-3	sorun	sorun	NOUN	_	Case=Nom|Number=Sing	9	nsubj:outer	_	SpaceAfter=No
+3	sorun	sorun	NOUN	_	Case=Nom|Number=Sing	9	nsubj:outer	_	_
 4	kitaplıkta	kitaplık	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
 5	beş	beş	NUM	_	NumType=Card	6	nummod	_	_
 6	kitaplık	kitaplık	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
@@ -364,9 +362,9 @@
 # sent_id = udtw23-6
 # text = Anneannesi hemşireydi.
 1	Anneannesi	anneanne	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
-2-3	hemşireydi	_	_	_	_	_	_	_	_
+2-3	hemşireydi	_	_	_	_	_	_	_	SpaceAfter=No
 2	hemşire	hemşire	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-3	ydi	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
+3	ydi	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-7
@@ -384,19 +382,19 @@
 1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
 3-4	saattir	_	_	_	_	_	_	_	_
-3	saat	saat	NOUN	_	Case=Nom|Number=Sing	6	advmod	_	_
+3	saat	saat	ADV	_	Case=Nom	6	advmod	_	_
 4	tir	i	AUX	_	Mood=Gen|Number=Sing|Person=3	3	cop	_	_
 5	ofiste	ofis	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
-6-7	yokmuş	_	_	_	_	_	_	_	_
+6-7	yokmuş	_	_	_	_	_	_	_	SpaceAfter=No
 6	yok	yok	ADJ	_	Polarity=Neg	0	root	_	_
-7	muş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	SpaceAfter=No
+7	muş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
 8	,	,	PUNCT	_	_	6	punct	_	_
 9	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	11	nsubj	_	_
 10	de	de	ADV	_	_	9	advmod:emph	_	_
 11	evde	ev	NOUN	_	Case=Loc|Number=Sing	6	parataxis	_	_
-12-13	değilmiş	_	_	_	_	_	_	_	_
+12-13	değilmiş	_	_	_	_	_	_	_	SpaceAfter=No
 12	değil	değil	AUX	_	Case=Nom|Number=Sing|Polarity=Neg	11	aux	_	_
-13	miş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	11	cop	_	SpaceAfter=No
+13	miş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	11	cop	_	_
 14	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = udtw23-9
@@ -433,23 +431,23 @@
 3	çok	çok	ADV	_	_	4	advmod	_	_
 4	şaşırmış	şaşır	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	_
 5	olacak	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	aux	_	_
-6	ki	ki	SCONJ	_	_	5	mark	_	_
+6	ki	ki	SCONJ	_	_	4	mark	_	_
 7	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 8	bakıp	bak	VERB	_	VerbForm=Conv	4	advcl	_	_
-9	durdu	dur	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	SpaceAfter=No
+9	durdu	dur	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-13
 # text = Hırkam evde miymiş?
 1	Hırkam	hırka	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
-3	miymiş	mi	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Int|Number=Sing|Person=3|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
+3	miymiş	mi	AUX	_	Aspect=Perf|Evident=Nfh|Number=Sing|Person=3|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
 # text = Bugün mü yapılacak etkinlik?
-1	Bugün	bugün	ADV	_	Case=Nom|Number=Sing	3	obl:tmod	_	_
-2	mü	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	3	aux:q	_	_
+1	Bugün	bugün	ADV	_	Case=Nom	3	obl:tmod	_	_
+2	mü	mi	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux:q	_	_
 3	yapılacak	yap	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	_
 4	etkinlik	etkinlik	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
@@ -459,8 +457,8 @@
 1	Sonuçlar	sonuç	NOUN	_	Case=Nom|Number=Plur	2	nsubj:pass	_	_
 2	açıklanmış	açıkla	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	değil	değil	AUX	_	Polarity=Neg	5	fixed	_	_
-5	mi	mi	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Pres	2	discourse	_	SpaceAfter=No
+4	değil	değil	AUX	_	Polarity=Neg	2	aux	_	_
+5	mi	mi	AUX	_	Number=Sing|Person=3|Tense=Pres	2	aux:q	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-16
@@ -503,7 +501,7 @@
 6	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 7	maviyi	mavi	ADJ	_	Case=Acc|Number=Sing	8	obj	_	_
 8	verir	ver	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-9	misin	mi	AUX	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	8	aux:q	_	SpaceAfter=No
+9	misin	mi	AUX	_	Number=Sing|Person=2|Tense=Pres	8	aux:q	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-20
