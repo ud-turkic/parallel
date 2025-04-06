@@ -773,76 +773,80 @@
 # text = Deniz zamanında uyuyamayabilir.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	zamanında	zaman	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	3	obl:tmod	_	_
-3	uyuyamayabilir	uyu	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+3	uyuyamayabilir	uyu	VERB	_	Aspect=Hab|Evident=Fh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 32
 # text = Deniz annesini görmemiş oldu.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
-4	oldu	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
+4	oldu	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 33
 # text = Deniz annesini görmemiş oldu.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
-4	oldu	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
+4	oldu	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 34
 # text = Deniz annesini görmemiş olmadı.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	xcomp	_	_
-4	olmadı	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
+4	olmadı	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 35
 # text = Okuduklarını anlamıyor.
-1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
-2	anlamıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
+2	anlamıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 36
 # text = Okuduklarını anlıyor değil.
-1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
-2	anlıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-3	değil	değil	AUX	_	Polarity=Neg	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
+2	anlıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Tense=Pres	0	root	_	_
+3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 37
 # text = Okuduklarını anlamıyor değil.
-1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	obj	_	_
-2	anlamıyor	anla	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	cop	_	_
-3	değil	değil	AUX	_	Polarity=Neg	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
+2	anlamıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Polarity=Neg|Tense=Pres	0	root	_	_
+3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 38
 # text = Okumayı değil, resim yapmayı seviyor.
-1	Okumayı	oku	VERB	_	Case=Acc|VerbForm=Vnoun	2	obj	_	_
-2	değil	değil	AUX	_	Polarity=Neg	6	conj	_	SpaceAfter=No
+1	Okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
+2	değil	değil	AUX	_	Polarity=Neg	1	aux	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	resim	resim	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
-5	yapmayı	yap	VERB	_	Case=Acc|VerbForm=Vnoun	6	obj	_	_
-6	seviyor	sev	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	yapmayı	yap	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	1	conj	_	_
+6	seviyor	sev	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 39
 # text = Deniz odada değildi.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	odada	oda	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
-3	değildi	değil	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	odada	oda	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
+3-4	değildi	_	_	_	_	_	_	_	_
+3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	_
+4	di	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
 # text = Deniz odada yoktu.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	odada	oda	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
-3	yoktu	yok	ADJ	_	Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+3-4	yoktu	_	_	_	_	_	_	_	_
+3	yok	yok	ADJ	_	Polarity=Neg	0	root	_	_
+4	tu	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
 # text = Deniz kitap okumak istiyor.
