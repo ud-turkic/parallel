@@ -1,5 +1,5 @@
 # sent_id = cairo-1 
-# Qiz do‘stiga xat yozdi.
+# text = Qiz do‘stiga xat yozdi.
 1	Qiz	qiz	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	do‘stiga	do‘st	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	_
 3	xat	xat	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
@@ -7,7 +7,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-2
-# Menimcha, yomg‘ir yog‘yapti.
+# text = Menimcha, yomg‘ir yog‘yapti.
 1	Menimcha	menimcha	ADV	_	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	yomg‘ir	yomg‘ir	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -15,7 +15,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-3.1
-# U chekish va ichishni tashlashga harakat qildi.
+# text = U chekish va ichishni tashlashga harakat qildi.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 2	chekish	chek	VERB	_	Case=Nom|VerbForm=Vnoun	5	xcomp	_	_
 3	va	va	CCONJ	_	_	4	cc	_	_
@@ -26,7 +26,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-uz-3.2
-# Chekish va ichishni tashlashga harakat qildi.
+# text = Chekish va ichishni tashlashga harakat qildi.
 1	Chekish	chek	VERB	_	Case=Nom|VerbForm=Vnoun	4	xcomp	_	_
 2	va	va	CCONJ	_	_	3	cc	_	_
 3	ichishni	ich	VERB	_	Case=Acc|VerbForm=Vnoun	1	conj	_	_
@@ -36,20 +36,20 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-4.1
-# Sen ketishni istaysanmi?
+# text = Sen ketishni istaysanmi?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	ketishni	ket	VERB	_	Case=Acc|VerbForm=Vnoun	3	xcomp	_	_
 3	istaysanmi	ista	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-4.2
-# Ketishni istaysanmi?
+# text = Ketishni istaysanmi?
 1	Ketishni	ket	VERB	_	Case=Acc|VerbForm=Vnoun	2	xcomp	_	_
 2	istaysanmi	ista	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-5
-# Sem, derazani och!
+# text = Sem, derazani och!
 1	Sem	Sem	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	derazani	deraza	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -57,7 +57,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.1
-# U eriga mashinani yuvdirdi.
+# text = U eriga mashinani yuvdirdi.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	eriga	er	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	_
 3	mashinani	mashina	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -65,14 +65,14 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-uz-6.2
-# Eriga mashinani yuvdirdi.
+# text = Eriga mashinani yuvdirdi.
 1	Eriga	er	NOUN	_	Case=Dat|Number=Sing	3	iobj	_	_
 2	mashinani	mashina	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 3	yuvdirdi	yuv	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-7
-# Piterning qo‘shnisi panjarani qizilga bo‘yadi.
+# text = Piterning qo‘shnisi panjarani qizilga bo‘yadi.
 1	Piterning	Piter	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	qo‘shnisi	qo‘shni	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	5	nsubj	_	_
 3	panjarani	panjara	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
@@ -81,7 +81,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-8
-# Mening dadam senikidan zo‘rroq.
+# text = Mening dadam senikidan zo‘rroq.
 1	Mening	men	PRON	_	Case=Gen|Number=Sing|PronType=Prs	2	nmod:poss	_	_
 2	dadam	dada	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	nsubj	_	_
 3	senikidan	sen	PRON	_	Case=Abl|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	obl	_	_
@@ -89,7 +89,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-9
-# Meri bronza, Piter kumush, Jeyn oltin medalni qo‘lga kiritdi.
+# text = Meri bronza, Piter kumush, Jeyn oltin medalni qo‘lga kiritdi.
 1	Meri	Meri	PROPN	_	Case=Nom|Number=Sing	11	nsubj	_	_
 2	bronza	bronza	NOUN	_	Case=Nom|Number=Sing	9	amod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -104,7 +104,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = cairo-10
-# Iguazu katta mamlakatmi yoki kichik?
+# text = Iguazu katta mamlakatmi yoki kichik?
 1	Iguazu	Iguazu	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	katta	katta	ADJ	_	_	3	amod	_	_
 3	mamlakatmi	mamlakat	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -113,7 +113,7 @@
 6	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-11
-# Piter Smit ham, Meri Braun ham saylana olmaydi.
+# text = Piter Smit ham, Meri Braun ham saylana olmaydi.
 1	Piter	Piter	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 2	Smit	Smit	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
 3	ham	ham	CCONJ	_	_	1	cc	_	SpaceAfter=No
@@ -126,7 +126,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = cairo-12.1
-# Ular kim yozganini bilmaydi.
+# text = Ular kim yozganini bilmaydi.
 1	Ular	u	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	kim	kim	PRON	_	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 3	yozganini	yoz	VERB	_	Case=Acc|VerbForm=Part	4	ccomp	_	_
@@ -134,27 +134,27 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-uz-12.2
-# Kim yozganini bilmaydi.
+# text = Kim yozganini bilmaydi.
 1	Kim	kim	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
 2	yozganini	yoz	VERB	_	Case=Acc|VerbForm=Part	3	ccomp	_	_
 3	bilmaydi	bil	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.1
-# Sen nimaga qarayapsan?
+# text = Sen nimaga qarayapsan?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	nimaga	nima	PRON	_	Case=Dat|Number=Sing|PronType=Int	3	obl	_	_
 3	qarayapsan	qara	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-uz-13.2
-# Nimaga qarayapsan?
+# text = Nimaga qarayapsan?
 1	Nimaga	nima	PRON	_	Case=Dat|Number=Sing|PronType=Int	2	obl	_	_
 2	qarayapsan	qara	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-14.1
-# Sen qachon kelishing mumkin deb o‘ylaysan?
+# text = Sen qachon kelishing mumkin deb o‘ylaysan?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 2	qachon	qachon	PRON	_	PronType=Int	3	advmod	_	_
 3	kelishing	kel	VERB	_	VerbForm=Vnoun	6	xcomp	_	_
@@ -164,7 +164,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-uz-14.2
-# Qachon kelishing mumkin deb o‘ylaysan?
+# text = Qachon kelishing mumkin deb o‘ylaysan?
 1	Qachon	qachon	PRON	_	PronType=Int	2	advmod	_	_
 2	kelishing	kel	VERB	_	VerbForm=Vnoun	5	xcomp	_	_
 3	mumkin	mumkin	AUX	_	_	2	aux	_	_
@@ -173,7 +173,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-15.1
-# U mashina oldi, lekin ukasi faqat velosiped oldi.
+# text = U mashina oldi, lekin ukasi faqat velosiped oldi.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	mashina	mashina	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	oldi	ol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
@@ -186,7 +186,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-15.2
-# Mashina oldi, lekin ukasi faqat velosiped oldi.
+# text = Mashina oldi, lekin ukasi faqat velosiped oldi.
 1	Mashina	mashina	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
 2	oldi	ol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -198,7 +198,7 @@
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-16
-# Piter va Meri bir-birlarini quchoqladilar va keyin xonadan chiqib ketdilar.
+# text = Piter va Meri bir-birlarini quchoqladilar va keyin xonadan chiqib ketdilar.
 1	Piter	Piter	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	va	va	CCONJ	_	_	3	cc	_	_
 3	Meri	Meri	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
@@ -212,7 +212,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-17.1
-# U sochini turmaklashi kerak edi, lekin negadir o‘sha kuni turmaklamadi.
+# text = U sochini turmaklashi kerak edi, lekin negadir o‘sha kuni turmaklamadi.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	sochini	soch	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 3	turmaklashi	turmakla	VERB	_	Number=Sing|Person=3|VerbForm=Vnoun	0	root	_	_
@@ -227,7 +227,7 @@
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-uz-17.2
-# Sochini turmaklashi kerak edi, lekin negadir o‘sha kuni turmaklamadi.
+# text = Sochini turmaklashi kerak edi, lekin negadir o‘sha kuni turmaklamadi.
 1	Sochini	soch	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 2	turmaklashi	turmakla	VERB	_	Number=Sing|Person=3|VerbForm=Vnoun	0	root	_	_
 3	kerak	kerak	AUX	_	_	2	aux	_	_
@@ -241,7 +241,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-18
-# U juda tez yugurgani uchun yeta olmadim.
+# text = U juda tez yugurgani uchun yeta olmadim.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	juda	juda	ADV	_	_	3	advmod	_	_
 3	tez	tez	ADV	_	_	4	advmod	_	_
@@ -252,7 +252,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-19
-# Bu xat Piterdan va u kecha keldi.
+# text = Bu xat Piterdan va u kecha keldi.
 1	Bu	bu	DET	_	PronType=Dem	2	det	_	_
 2	xat	xat	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	Piterdan	Piter	NOUN	_	Case=Abl|Number=Sing	0	root	_	_
@@ -263,7 +263,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-20.1
-# U Fransiya poytaxti Parijda o‘sgan.
+# text = U Fransiya poytaxti Parijda o‘sgan.
 1	U	u	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 2	Fransiya	Fransiya	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
 3	poytaxti	poytaxt	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	nmod	_	_
@@ -272,7 +272,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-uz-20.2
-# Fransiya poytaxti Parijda o‘sgan.
+# text = Fransiya poytaxti Parijda o‘sgan.
 1	Fransiya	Fransiya	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
 2	poytaxti	poytaxt	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nmod	_	_
 3	Parijda	Parij	PROPN	_	Case=Loc|Number=Sing	4	obl	_	_
@@ -280,7 +280,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-1
-# Erim chorbog‘dagi bolalar xonasini apil-tapil yig‘ishtirib, oshxonadagi stolni ham chiqarib tashlabdi.
+# text = Erim chorbog‘dagi bolalar xonasini apil-tapil yig‘ishtirib, oshxonadagi stolni ham chiqarib tashlabdi.
 1	Erim	er	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	6	nsubj	_	_
 2	chorbog‘dagi	chorbog‘	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
 3	bolalar	bola	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	_
@@ -296,7 +296,7 @@
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-2
-# Senga doim shuni aytaman, ertalab do‘sting bilan telefonda gaplashayotganingda men haqimda gapirma.
+# text = Senga doim shuni aytaman, ertalab do‘sting bilan telefonda gaplashayotganingda men haqimda gapirma.
 1	Senga	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
 2	doim	doim	ADV	_	_	4	advmod	_	_
 3	shuni	shu	PRON	_	Case=Acc|Number=Sing|PronType=Dem	4	obj	_	_
@@ -313,7 +313,7 @@
 14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-3
-# Yotgani kelgan mehmon eshikni taqillatdi, lekin uy egasi hali ham tozalash ishlari bilan band edi, restorandan buyurtma qilgan taomi esa hali kelmagan edi.
+# text = Yotgani kelgan mehmon eshikni taqillatdi, lekin uy egasi hali ham tozalash ishlari bilan band edi, restorandan buyurtma qilgan taomi esa hali kelmagan edi.
 1	Yotgani	yot	VERB	_	VerbForm=Vnoun	2	advcl	_	_
 2	kelgan	kel	VERB	_	VerbForm=Part	3	acl	_	_
 3	mehmon	mehmon	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -342,14 +342,14 @@
 26	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-4
-# Oysha - shifokor.
+# text = Oysha - shifokor.
 1	Oysha	Oysha	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	-	-	PUNCT	_	_	1	punct	_	_
 3	shifokor	shifokor	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-5
-# Biz hal qilmoqchi bo‘layotgan muammo shuki, kutubxonada hatto beshta kitobga ham joy yo‘q.
+# text = Biz hal qilmoqchi bo‘layotgan muammo shuki, kutubxonada hatto beshta kitobga ham joy yo‘q.
 1	Biz	biz	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	hal	hal	PART	_	_	3	compound	_	_
 3	qilmoqchi	qil	VERB	_	_	4	compound	_	_
@@ -367,7 +367,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-6
-# Uning buvisi hamshira edi.
+# text = Uning buvisi hamshira edi.
 1	Uning	u	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 2	buvisi	buvi	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nsubj	_	_
 3	hamshira	hamshira	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -375,7 +375,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-7
-# Xo‘sh, javondagilar qayerda edi?
+# text = Xo‘sh, javondagilar qayerda edi?
 1	Xo‘sh	xo‘sh	INTJ	_	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	javondagilar	javon	NOUN	_	Case=Loc|Number=Plur	4	nsubj	_	_
@@ -384,7 +384,7 @@
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-8
-# Sude uch soatdan beri idorada yo‘q emish, Oysha ham uyda emas ekan.
+# text = Sude uch soatdan beri idorada yo‘q emish, Oysha ham uyda emas ekan.
 1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	uch	uch	NUM	_	NumType=Card	3	nummod	_	_
 3	soatdan	saot	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
@@ -401,7 +401,7 @@
 14	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-9
-# Bozorda meva bor, lekin chiroyli emas.
+# text = Bozorda meva bor, lekin chiroyli emas.
 1	Bozorda	bozor	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	meva	meva	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	bor	bor	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -412,7 +412,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-10
-# Deniz shifokor bo‘ladi, bilib qo‘y!
+# text = Deniz shifokor bo‘ladi, bilib qo‘y!
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	shifokor	shifokor	NOUN	_	Case=Nom|Number=Sing	2	xcomp	_	_
 3	bo‘ladi	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
@@ -422,14 +422,14 @@
 7	!	!	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-11
-# Deniz uyquda edi.
+# text = Deniz uyquda edi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyquda	uyqu	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	edi	edi	AUX	_	Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-12
-# Yig‘ilish e’lon qilinayotganda u juda hayron bo‘lgan bo‘lsa kerak, menga tikilib qoldi.
+# text = Yig‘ilish e’lon qilinayotganda u juda hayron bo‘lgan bo‘lsa kerak, menga tikilib qoldi.
 1	Yig‘ilish	yig‘ilish	NOUN	_	Case=Nom|Number=Sing	3	nsubj:pass	_	_
 2	e’lon	e’lon	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
 3	qilinayotganda	qil	VERB	_	Aspect=Prog|Case=Loc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	advcl	_	_
@@ -446,21 +446,21 @@
 14	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = udtw23-13
-# Kardiganim uyda ekanmi?
+# text = Kardiganim uyda ekanmi?
 1	Kardiganim	kardigan	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	ekanmi	ekan	AUX	_	Mood=Int|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
-# Tadbir bugun bo‘ladimi?
+# text = Tadbir bugun bo‘ladimi?
 1	Tadbir	tadbir	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	bugun	bugun	ADV	_	_	3	advmod	_	_
 3	bo‘ladimi	bo‘l	VERB	_	Mood=Int|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-15
-# Natijalar e’lon qilingan, shunday emasmi?
+# text = Natijalar e’lon qilingan, shunday emasmi?
 1	Natijalar	natija	NOUN	_	Case=Nom|Number=Plur	3	nsubj:pass	_	_
 2	e’lon	e’lon	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
 3	qilingan	qil	VERB	_	Mood=Ind|Tense=Past|Voice=Pass|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -470,7 +470,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-16
-# Oysha bu kitobni o‘qimagan emas.
+# text = Oysha bu kitobni o‘qimagan emas.
 1	Oysha	Oysha	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bu	bu	DET	_	PronType=Dem	3	det	_	_
 3	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -479,7 +479,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-17
-# Umuman olganda, o‘qishni emas, rasm chizishni yaxshi ko‘radi.
+# text = Umuman olganda, o‘qishni emas, rasm chizishni yaxshi ko‘radi.
 1	Umuman	umuman	ADV	_	_	10	advmod	_	_
 2	olganda	ol	VERB	_	_	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
@@ -493,7 +493,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = udtw23-18
-# Nimani o‘qiganini emas, nimani o‘qimoqchiligini aytyapti.
+# text = Nimani o‘qiganini emas, nimani o‘qimoqchiligini aytyapti.
 1	Nimani	nima	PRON	_	Case=Acc|Number=Sing	2	obj	_	_
 2	o‘qiganini	o‘qi	VERB	_	Case=Acc|Number=Sing|Person=3|VerbForm=Part	7	xcomp	_	_
 3	emas	emas	AUX	_	Polarity=Neg	2	cop	_	SpaceAfter=No
@@ -504,7 +504,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = udtw23-19
-# Buning ko‘ki chiroyliroq, menga ko‘kini bera olasanmi?
+# text = Buning ko‘ki chiroyliroq, menga ko‘kini bera olasanmi?
 1	Buning	bu	PRON	_	Case=Gen|Number=Sing|PronType=Dem	2	nmod:poss	_	_
 2	ko‘ki	ko‘k	ADJ	_	_	3	nsubj	_	_
 3	chiroyliroq	chiroyli	ADJ	_	Degree=Comp	0	root	_	SpaceAfter=No
@@ -516,7 +516,7 @@
 9	?	?	PUNCT	_	_	8	punct	_	_
 
 # sent_id = udtw23-20
-# Biz yoshlarni erisha olmaydigan maqsadlardan voz kechtirishimiz kerak.
+# text = Biz yoshlarni erisha olmaydigan maqsadlardan voz kechtirishimiz kerak.
 1	Biz	biz	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 2	yoshlarni	yosh	ADJ	_	Case=Acc|Number=Plur	7	obj	_	_
 3	erisha	erish	VERB	_	VerbForm=Conv	4	compound	_	_
@@ -546,20 +546,20 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1
-# Deniz uxladi.
+# text = Deniz uxladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uxladi	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
-# Deniz kitob o‘qiyapti.
+# text = Deniz kitob o‘qiyapti.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	o‘qiyapti	o‘qi	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 3
-# Deniz oqshomlari uyda kitob o‘qiydi.
+# text = Deniz oqshomlari uyda kitob o‘qiydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	oqshomlari	oqshom	NOUN	_	Case=Nom|Number=Plur	5	obl	_	_
 3	uyda	uy	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
@@ -568,7 +568,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 4
-# Deniz ukasiga kitobni berdi.
+# text = Deniz ukasiga kitobni berdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	ukasiga	uka	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	_
 3	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -576,7 +576,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 5
-# Deniz kitobni uyiga olib ketdi.
+# text = Deniz kitobni uyiga olib ketdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 3	uyiga	uy	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
@@ -585,7 +585,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 6
-# O‘qituvchi bolalarga dars berdi.
+# text = O‘qituvchi bolalarga dars berdi.
 1	O‘qituvchi	o‘qituvchi	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bolalarga	bola	NOUN	_	Case=Dat|Number=Plur	4	iobj	_	_
 3	dars	dars	NOUN	_	Case=Nom|Number=Sing	4	compound	_	_
@@ -593,7 +593,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 7
-# Deniz do‘stiga kitob sotib oldi.
+# text = Deniz do‘stiga kitob sotib oldi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	do‘stiga	do‘st	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	_
 3	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
@@ -602,7 +602,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 8
-# Deniz akasi bilan yarashdi.
+# text = Deniz akasi bilan yarashdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	 nsubj	_	_
 2	akasi	aka	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	obl	_	_
 3	bilan	bilan	ADP	_	_	2	case	_	_
@@ -610,7 +610,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 9
-# Deniz do‘stlaridan shikoyat qildi.
+# text = Deniz do‘stlaridan shikoyat qildi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	do‘stlaridan	do‘st	NOUN	_	Case=Abl|Number=Plur|Poss=Yes	4	obl	_	_
 3	shikoyat	shikoyat	NOUN	_	Case=Nom|Number=Sing	4	compound	_	_
@@ -618,14 +618,14 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 10
-# Deniz barvaqt uxladi.
+# text = Deniz barvaqt uxladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	barvaqt	barvaqt	ADV	_	_	3	advmod	_	_
 3	uxladi	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 11
-# Deniz do‘sti tayyorlagan ovqatdan ikki likopcha yedi.
+# text = Deniz do‘sti tayyorlagan ovqatdan ikki likopcha yedi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	do‘sti	do‘st	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nsubj	_	_
 3	tayyorlagan	tayyorla	VERB	_	VerbForm=Part	4	acl	_	_
@@ -636,7 +636,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 12
-# Deniz uch soat uxladi.
+# text = Deniz uch soat uxladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	uch	uch	NUM	_	NumType=Card	3	nummod	_	_
 3	soat	soat	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
@@ -644,53 +644,53 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13
-# Deniz juda chaqqon.
+# text = Deniz juda chaqqon.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	juda	juda	ADV	_	_	3	advmod	_	_
 3	chaqqon	chaqqon	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 14
-# Deniz talaba.
+# text = Deniz talaba.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	talaba	talaba	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 15
-# Deniz talabadir.
+# text = Deniz talabadir.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	talabadir	talaba	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 16
-# Deniz shifokor bo‘ladi.
+# text = Deniz shifokor bo‘ladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	shifokor	shifokor	NOUN	_	Case=Nom|Number=Sing	3	xcomp	_	_
 3	bo‘ladi	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 17
-# Deniz uyda.
+# text = Deniz uyda.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
-# Deniz uyda edi.
+# text = Deniz uyda edi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	edi	edi	AUX	_	Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 19
-# Deniz uyda bo‘lgandi.
+# text = Deniz uyda bo‘lgandi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	bo‘lgandi	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 20
-# Sovg‘a Deniz uchun edi.
+# text = Sovg‘a Deniz uchun edi.
 1	Sovg‘a	sovg‘a	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 3	uchun	uchun	ADP	_	_	2	case	_	_
@@ -698,27 +698,27 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 21
-# Deniz uxlagandi.
+# text = Deniz uxlagandi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uxlagandi	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 22
-# Deniz uxlagan edi.
+# text = Deniz uxlagan edi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uxlagan	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
 3	edi	edi	AUX	_	Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 23
-# Deniz uxlagan bo‘ladi.
+# text = Deniz uxlagan bo‘ladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uxlagan	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
 3	bo‘ladi	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 24
-# Onasining orzusi Denizning yaxshi maktabda o‘qishi edi.
+# text = Onasining orzusi Denizning yaxshi maktabda o‘qishi edi.
 1	Onasining	ona	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod	_	_
 2	orzusi	orzu	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	6	nsubj	_	_
 3	Denizning	Deniz	PROPN	_	Case=Gen|Number=Sing	6	nmod	_	_
@@ -729,7 +729,7 @@
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 25
-# Denizning yaxshi maktabda o‘qimasligi onasini havotirga solardi.
+# text = Denizning yaxshi maktabda o‘qimasligi onasini havotirga solardi.
 1	Denizning	Deniz	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 2	yaxshi	yaxshi	ADJ	_	_	3	amod	_	_
 3	maktabda	maktab	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
@@ -740,7 +740,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 26
-# Stolda ko‘p kitob bor, kitob javonida esa yo‘q.
+# text = Stolda ko‘p kitob bor, kitob javonida esa yo‘q.
 1	Stolda	stol	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	ko‘p	ko‘p	ADJ	_	_	3	amod	_	_
 3	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -753,7 +753,7 @@
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 27
-# Denizning hech qanday kitobi yo‘q.
+# text = Denizning hech qanday kitobi yo‘q.
 1	Denizning	Deniz	PROPN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
 2	hech	hech	DET	_	PronType=Neg	3	compound	_	_
 3	qanday	qanday	PRON	_	PronType=Int	4	amod	_	_
@@ -762,28 +762,28 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 28
-# Deniz uyda emasdi.
+# text = Deniz uyda emasdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	emasdi	emas	AUX	_	Polarity=Neg|Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 29
-# Deniz vaqtida uxlamaydi.
+# text = Deniz vaqtida uxlamaydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	vaqtida	vaqt	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	uxlamaydi	uxla	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 30
-# Deniz uxlay olmaydi.
+# text = Deniz uxlay olmaydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	uxlay	uxla	VERB	_	VerbForm=Conv	3	compound	_	_
 3	olmaydi	ol	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 31
-# Deniz vaqtida uxlay olmasligi mumkin.
+# text = Deniz vaqtida uxlay olmasligi mumkin.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	vaqtida	vaqt	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 3	uxlay	uxla	VERB	_	VerbForm=Conv	4	compound	_	_
@@ -792,7 +792,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 32
-# Deniz onasini ko‘rmay qolibdi.
+# text = Deniz onasini ko‘rmay qolibdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	onasini	ona	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	ko‘rmay	ko‘r	VERB	_	_	4	compound	_	_
@@ -800,7 +800,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 33
-# Deniz onasini ko‘rib qolgani yo‘q.
+# text = Deniz onasini ko‘rib qolgani yo‘q.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	onasini	ona	NOUN	_	Case=Acc|Number=Sing|Poss=Yes	4	obj	_	_
 3	ko‘rib	ko‘r	VERB	_	VerbForm=Conv	4	compound	_	_
@@ -809,7 +809,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 34
-# Deniz onasini ko‘rmay qolmabdi.
+# text = Deniz onasini ko‘rmay qolmabdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	onasini	ona	NOUN	_	Case=Acc|Number=Sing|Poss=Yes	4	obj	_	_
 3	ko‘rmay	ko‘r	VERB	_	VerbForm=Conv	4	compound	_	_
@@ -817,27 +817,27 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 35
-# O‘qiganlarini tushunmaydi.
+# text = O‘qiganlarini tushunmaydi.
 1	O‘qiganlarini	o‘qi	VERB	_	Case=Acc|Number=Plur|VerbForm=Part	2	xcomp	_	_
 2	tushunmaydi	tushun	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = uz-36
-# O‘qiganlarini tushungani yo‘q.
+# text = O‘qiganlarini tushungani yo‘q.
 1	O‘qiganlarini	o‘qi	VERB	_	Case=Acc|Number=Plur|VerbForm=Part	2	xcomp	_	_
 2	tushungani	tushun	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
 3	yo‘q	yo‘q	AUX	_	Polarity=Neg	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 37
-# O‘qiganlarini tushunmaydi emas.
+# text = O‘qiganlarini tushunmaydi emas.
 1	O‘qiganlarini	o‘qi	VERB	_	Case=Acc|Number=Plur|VerbForm=Part	2	xcomp	_	_
 2	tushunmaydi	tushun	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
 3	emas	emas	AUX	_	Polarity=Neg	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 38
-# O‘qishni emas, rasm chizishni yaxshi ko‘radi.
+# text = O‘qishni emas, rasm chizishni yaxshi ko‘radi.
 1	O‘qishni	o‘qi	VERB	_	Case=Acc|VerbForm=Vnoun	7	xcomp	_	_
 2	emas	emas	AUX	_	Polarity=Neg	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -848,14 +848,14 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 39
-# Deniz xonada emasdi.
+# text = Deniz xonada emasdi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	xonada	xona	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	emasdi	emas	AUX	_	Polarity=Neg|Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
-# Deniz xonada yo‘q edi.
+# text = Deniz xonada yo‘q edi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	xonada	xona	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	yo‘q	yo‘q	ADJ	_	_	0	root	_	_
@@ -863,14 +863,14 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
-# Deniz kitob o‘qimoqchi.
+# text = Deniz kitob o‘qimoqchi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	o‘qimoqchi	o‘qi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 42
-# Deniz kitob o‘qishni xohlaydi.
+# text = Deniz kitob o‘qishni xohlaydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	o‘qishni	o‘qi	VERB	_	Case=Acc|VerbForm=Vnoun	4	xcomp	_	_
@@ -878,7 +878,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 43
-# Deniz otasining kitob o‘qib berishini xohlaydi.
+# text = Deniz otasining kitob o‘qib berishini xohlaydi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	otasining	ota	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	5	nsubj	_	_
 3	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
@@ -888,7 +888,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 44
-# Deniz o‘zi bilan o‘zi bo‘lishni yaxshi ko‘radi.
+# text = Deniz o‘zi bilan o‘zi bo‘lishni yaxshi ko‘radi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	o‘zi	o‘zi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	compound	_	_
 3	bilan	bilan	ADP	_	_	2	case	_	_
@@ -899,7 +899,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 45
-# Onasining kitob o‘qishi Denizning uxlashini osonlashtiradi.
+# text = Onasining kitob o‘qishi Denizning uxlashini osonlashtiradi.
 1	Onasining	ona	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	3	nsubj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	o‘qishi	o‘qi	VERB	_	VerbForm=Vnoun	6	csubj	_	_
@@ -909,7 +909,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 46
-# Bolalarga kitob o‘qish ularning rivojlanishi uchun muhimdir.
+# text = Bolalarga kitob o‘qish ularning rivojlanishi uchun muhimdir.
 1	Bolalarga	bola	NOUN	_	Case=Dat|Number=Plur	3	iobj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	o‘qish	o‘qi	VERB	_	VerbForm=Vnoun	7	csubj	_	_
@@ -920,7 +920,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 47
-# Deniz kitob o‘qib uxlayapti.
+# text = Deniz kitob o‘qib uxlayapti.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
 3	o‘qib	o‘qi	VERB	_	VerbForm=Conv	4	advcl	_	_
@@ -928,7 +928,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 48
-# Deniz ta’til ekanligini unutib, maktabga ketgan.
+# text = Deniz ta’til ekanligini unutib, maktabga ketgan.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	ta’til	ta’til	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
 3	ekanligini	ekan	AUX	_	Case=Acc	2	cop	_	_
@@ -939,7 +939,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 49
-# Deniz ta’til ekanligini unutib, sumkasini olib, maktabga ketgan.
+# text = Deniz ta’til ekanligini unutib, sumkasini olib, maktabga ketgan.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 2	ta’til	ta’til	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
 3	ekanligini	ekan	AUX	_	Case=Acc	2	cop	_	_
@@ -953,7 +953,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 50
-# Deniz kech uxlasa, maktabga kech qolar.
+# text = Deniz kech uxlasa, maktabga kech qolar.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kech	kech	ADV	_	_	3	advmod	_	_
 3	uxlasa	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3	7	advcl	_	SpaceAfter=No
@@ -964,7 +964,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 51
-# Deniz kech uxlasa, maktabga kech qoladi.
+# text = Deniz kech uxlasa, maktabga kech qoladi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kech	kech	ADV	_	_	3	advmod	_	_
 3	uxlasa	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3	7	advcl	_	SpaceAfter=No
@@ -975,7 +975,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 52
-# Agar bola uxlaganida, kino ko‘rgan bo‘lardik.
+# text = Agar bola uxlaganida, kino ko‘rgan bo‘lardik.
 1	Agar	agar	SCONJ	_	_	3	mark	_	_
 2	bola	bola	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	uxlaganida	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Past	7	advcl	_	SpaceAfter=No
@@ -986,7 +986,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 53
-# Agar bola uyga ketmasdan uxlab qolsa, borganimizda uyg‘otishimiz kerak bo‘ladi.
+# text = Agar bola uyga ketmasdan uxlab qolsa, borganimizda uyg‘otishimiz kerak bo‘ladi.
 1	Agar	agar	SCONJ	_	_	6	mark	_	_
 2	bola	bola	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	uyga	uy	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
@@ -1001,20 +1001,20 @@
 12	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 54
-# Hechqisi yoʻq.
+# text = Hechqisi yoʻq.
 1	Hechqisi	hechqisi	PRON	_	PronType=Neg	2	compound	_	_
 2	yoʻq	yoʻq	ADJ	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 55
-# Hech qaysisi yoʻq.
+# text = Hech qaysisi yoʻq.
 1	Hech	hech	DET	_	PronType=Neg	2	compound	_	_
 2	qaysisi	qaysi	PRON	_	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 3	yoʻq	yoʻq	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 56
-# Menimcha, bola erta uxlaydi.
+# text = Menimcha, bola erta uxlaydi.
 1	Menimcha	menimcha	ADV	_	_	5	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	bola	bola	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -1023,7 +1023,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 57
-# Deniz birodarini yomon koʻradi.
+# text = Deniz birodarini yomon koʻradi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	birodarini	birodar	NOUN	_	Case=Acc|Number=Plur|Poss=Yes	4	obj	_	_
 3	yomon	yomon	ADJ	_	_	4	compound	_	_
@@ -1031,7 +1031,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 58
-# Ertangi kunni intiqlik bilan kutaman.
+# text = Ertangi kunni intiqlik bilan kutaman.
 1	Ertangi	ertangi	ADJ	_	_	2	amod	_	_
 2	kunni	kun	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 3	intiqlik	intiqlik	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
@@ -1040,7 +1040,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 59
-# Kasalxona davlat xizmatiga topshirildi.
+# text = Kasalxona davlat xizmatiga topshirildi.
 1	Kasalxona	kasalxona	NOUN	_	Case=Nom|Number=Sing	4	nsubj:pass	_	_
 2	davlat	davlat	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 3	xizmatiga	xizmat	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	_
@@ -1048,7 +1048,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 60
-# Katta uydagi bola kitob o‘qiyapti.
+# text = Katta uydagi bola kitob o‘qiyapti.
 1	Katta	katta	ADJ	_	_	2	amod	_	_
 2	uydagi	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	bola	bola	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -1057,7 +1057,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 61
-# Katta uydagi kitob o‘qiyapti.
+# text = Katta uydagi kitob o‘qiyapti.
 1	Katta	katta	ADJ	_	_	2	amod	_	_
 2	uydagi	uy	NOUN	_	Case=Loc|Number=Sing	4	nsubj	_	_
 3	kitob	kitob	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
@@ -1065,7 +1065,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 62
-# Katta uydagi bolaning sochi sargʻish, kichik uydaginiki jigarrang.
+# text = Katta uydagi bolaning sochi sargʻish, kichik uydaginiki jigarrang.
 1	Katta	katta	ADJ	_	_	2	amod	_	_
 2	uydagi	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	bolaning	bola	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
@@ -1078,7 +1078,7 @@
 10	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 63
-# Piyozni toʻq pushti rangga aylanguniga qadar qovuring.
+# text = Piyozni toʻq pushti rangga aylanguniga qadar qovuring.
 1	Piyozni	piyoz	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
 2	toʻq	toʻq	ADJ	_	_	3	amod	_	_
 3	pushti	pushti	ADJ	_	_	4	amod	_	_
@@ -1089,7 +1089,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 64
-# Uyning oldida uchta mashina uchun toʻxtash joyi bor.
+# text = Uyning oldida uchta mashina uchun toʻxtash joyi bor.
 1	Uyning	uy	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	oldida	old	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
 3	uchta	uch	NUM	_	NumType=Card	4	nummod	_	_
@@ -1101,7 +1101,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 65
-# Muqaddas kitobsiz dinlar ham bor.
+# text = Muqaddas kitobsiz dinlar ham bor.
 1	Muqaddas	muqaddas	ADJ	_	_	2	amod	_	_
 2	kitobsiz	kitobsiz	ADJ	_	_	3	amod	_	_
 3	dinlar	din	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
@@ -1110,7 +1110,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 66
-# Kichkina derazali uyda yorugʻlik yetarli emas.
+# text = Kichkina derazali uyda yorugʻlik yetarli emas.
 1	Kichkina	kichkina	ADJ	_	_	2	amod	_	_
 2	derazali	derazali	ADJ	_	_	3	amod	_	_
 3	uyda	uy	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
@@ -1120,81 +1120,81 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 67
-# Deniz uyga keldimi?
+# text = Deniz uyga keldimi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	uyga	uy	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	keldimi	kel	VERB	_	Mood=Int|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 68
-# Deniz uyga kelganmidi?
+# text = Deniz uyga kelganmidi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	uyga	uy	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	kelganmidi	kel	VERB	_	Mood=Int|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 69
-# Deniz uydami?
+# text = Deniz uydami?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uydami	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 70
-# Deniz uydamikan?
+# text = Deniz uydamikan?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uydamikan	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 71
-# Deniz uyda edimi?
+# text = Deniz uyda edimi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	edimi	edi	AUX	_	Mood=Int|Tense=Past	2	cop	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 72
-# Deniz uyda emasmidi?
+# text = Deniz uyda emasmidi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	emasmidi	emas	AUX	_	Mood=Int|Polarity=Neg|Tense=Past	2	cop	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 73
-# Deniz uyda yo‘qmi?
+# text = Deniz uyda yo‘qmi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	yo‘qmi	yo‘q	ADJ	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 74
-# Uyda non bormi?
+# text = Uyda non bormi?
 1	Uyda	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	non	non	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	bormi	bor	ADJ	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 75
-# Non uyda bormi?
+# text = Non uyda bormi?
 1	Non	non	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	uyda	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	bormi	bor	ADJ	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 76
-# Uyda non bormi?
+# text = Uyda non bormi?
 1	Uyda	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	non	non	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	bormi	bor	ADJ	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 77
-# O‘qiganingizni tushundingizmi?
+# text = O‘qiganingizni tushundingizmi?
 1	O‘qiganingizni	o‘qi	VERB	_	Case=Acc|VerbForm=Part	2	xcomp	_	_
 2	tushundingizmi	tushun	VERB	_	Mood=Int|Number=Plur|Person=2|Tense=Past	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 78
-# Ertalab Deniz kitobni Oyxonga berdimi?
+# text = Ertalab Deniz kitobni Oyxonga berdimi?
 1	Ertalab	ertalab	ADV	_	_	5	advmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
@@ -1203,7 +1203,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 79
-# Ertalab kitobni Oyxonga Deniz berdimi?
+# text = Ertalab kitobni Oyxonga Deniz berdimi?
 1	Ertalab	ertalab	ADV	_	_	5	advmod	_	_
 2	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 3	Oyxonga	Oyxon	PROPN	_	Case=Dat|Number=Sing	5	iobj	_	_
@@ -1212,7 +1212,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 80
-# Ertalab Deniz Oyxonga kitobni berdimi?
+# text = Ertalab Deniz Oyxonga kitobni berdimi?
 1	Ertalab	ertalab	ADV	_	_	5	advmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	Oyxonga	Oyxon	PROPN	_	Case=Dat|Number=Sing	5	iobj	_	_
@@ -1221,7 +1221,7 @@
 6	?	?	PUNCT	_	_	5	punt	_	_
 
 # sent_id = 81
-# Ertalab Deniz kitobni Oyxonga berdimi?
+# text = Ertalab Deniz kitobni Oyxonga berdimi?
 1	Ertalab	ertalab	ADV	_	_	5	advmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
@@ -1230,7 +1230,7 @@
 6	?	?	PUNCT	_	_	5	root	_	_
 
 # sent_id = 82
-# Deniz kitobni Oyxonga ertalab berdimi?
+# text = Deniz kitobni Oyxonga ertalab berdimi?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 3	Oyxonga	Oyxon	PROPN	_	Case=Dat|Number=Sing	5	iobj	_	_
@@ -1239,7 +1239,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 83
-# Menga ko‘kni bera olasizmi?
+# text = Menga ko‘kni bera olasizmi?
 1	Menga	men	PRON	_	Case=Dat|Number=Sing	4	iobj	_	_
 2	ko‘kni	ko‘k	ADJ	_	Case=Acc	4	obj	_	_
 3	bera	ber	VERB	_	VerbForm=Conv	4	compound	_	_
@@ -1247,7 +1247,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 84
-# Buning ko‘k rangi chiroyliroq.
+# text = Buning ko‘k rangi chiroyliroq.
 1	Buning	bu	PRON	_	Case=Gen|Number=Sing|ProntType=Dem	3	nmod:poss	_	_
 2	ko‘k	ko‘k	ADJ	_	_	3	amod	_	_
 3	rangi	rang	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -1255,7 +1255,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 85
-# Mening mashinam Deniznikining ko‘ki.
+# text = Mening mashinam Deniznikining ko‘ki.
 1	Mening	men	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	mashinam	mashina	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	nsubj	_	_
 3	Deniznikining	Deniz	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	4	nmod	_	_
@@ -1263,13 +1263,13 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 86
-# Kitob o‘qilyapti.
+# text = Kitob o‘qilyapti.
 1	Kitob	kitob	NOUN	_	Case=Nom|Number=Sing	2	nsubj:pass	_	_
 2	o‘qilyapti	o‘qi	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 87
-# Kitob barcha maktablarda o‘qitiladi.
+# text = Kitob barcha maktablarda o‘qitiladi.
 1	Kitob	kitob	NOUN	_	Case=Nom|Number=Sing	4	nsubj:pass	_	_
 2	barcha	barcha	DET	_	PronType=Tot	3	det	_	_
 3	maktablarda	maktab	NOUN	_	Case=Loc|Number=Plur	4	obl	_	_
@@ -1277,7 +1277,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 88
-# Denizni uxlatishdi.
+# text = Denizni uxlatishdi.
 1	Denizni	Deniz	PROPN	_	Case=Acc|Number=Sing	2	obj	_	_
 2	uxlatishdi	uxla	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
@@ -1295,7 +1295,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 91
-# Deniz bu yerga kelib, bo‘sh vaqtlarida kitob o‘qir edi.
+# text = Deniz bu yerga kelib, bo‘sh vaqtlarida kitob o‘qir edi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bu	bu	DET	_	PronType=Dem	3	det	_	_
 3	yerga	yer	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
@@ -1309,7 +1309,7 @@
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 92
-# Siz biz bilan kelasiz, to‘g‘rimi?
+# text = Siz biz bilan kelasiz, to‘g‘rimi?
 1	Siz	siz	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	biz	biz	PRON	_	Case=Nom|Number=Plur	4	obl	_	_
 3	bilan	bilan	ADP	_	_	2	case	_	_
@@ -1319,7 +1319,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 93
-# Bu shunday kitobki, uni o‘qigan dunyoga boshqacha nazar bilan qaraydi.
+# text = Bu shunday kitobki, uni o‘qigan dunyoga boshqacha nazar bilan qaraydi.
 1	Bu	bu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	shunday	shunday	DET	_	PronType=Dem	3	amod	_	_
 3	kitobki	kitob	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -1334,7 +1334,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 94
-# Sen avval tozalashni tugat, biz dazmollaymiz.
+# text = Sen avval tozalashni tugat, biz dazmollaymiz.
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	avval	avval	ADV	_	_	4	advmod	_	_
 3	tozalashni	tozala	VERB	_	VerbForm=Vnoun	4	xcomp	_	_
@@ -1345,7 +1345,7 @@
 8	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 95
-# Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan.
+# text = Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan.
 1	Aytishlaricha	ayt	VERB	_	Number=Plur|Person=3	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	Oysha	Oysha	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
@@ -1358,7 +1358,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 96
-# Umuman olganda, bu muvaffaqiyatli film edi.
+# text = Umuman olganda, bu muvaffaqiyatli film edi.
 1	Umuman	umuman	ADV	_	_	6	advmod	_	_
 2	olganda	ol	VERB	_	_	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
@@ -1369,7 +1369,7 @@
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 97
-# Olma daraxtlari aprel-may oylarida gullab, o‘zaro changlanadi.
+# text = Olma daraxtlari aprel-may oylarida gullab, o‘zaro changlanadi.
 1	Olma	olma	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
 2	daraxtlari	daraxt	NOUN	_	Case=Nom|Number=Plur|Poss=Yes	7	nsubj	_	_
 3	aprel	aprel	NOUN	_	Case=Nom|Number=Sing	5	compound	_	SpaceAfter=No
