@@ -383,7 +383,7 @@
 4	kitaplıkta	kitaplık	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
 5	beş	beş	NUM	_	NumType=Card	6	nummod	_	_
 6	kitaplık	kitaplık	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
-7	yer	yer	NOUN	_	Case=Nom|Number=Sing	9	nsubj:inner	_	_
+7	yer	yer	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 8	bile	bile	ADV	_	_	7	advmod:emph	_	_
 9	olmaması	ol	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
@@ -562,12 +562,16 @@
 
 # sent_id = 1
 # text = Deniz uyudu.
+# text[en] = Deniz slept.
+# type = simple sentence (intransitive)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyudu	uyu	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
 # text = Deniz kitap okuyor.
+# text[en] = Deniz is reading a book.
+# type = simple sentence (transitive)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okuyor	oku	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
@@ -575,6 +579,8 @@
 
 # sent_id = 3
 # text = Deniz akşamları evde kitap okur.
+# text[en] = Deniz reads books in the evenings.
+# type = simple sentence (with modifiers)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	akşamları	akşam	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	5	obl:tmod	_	_
 3	evde	ev	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
@@ -584,6 +590,8 @@
 
 # sent_id = 4
 # text = Deniz kardeşine kitabı verdi.
+# text[en] = Deniz gave the book to his/her sister/brother.
+# type = object/oblique (dative modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kardeşine	kardeş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -592,6 +600,8 @@
 
 # sent_id = 5
 # text = Deniz kitabı eve götürdü.
+# text[en] = Deniz took the book home.
+# type = object/oblique (dative modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	eve	ev	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
@@ -600,6 +610,8 @@
 
 # sent_id = 6
 # text = Öğretmen çocuklara ders verdi.
+# text[en] = The teacher lectured the children.
+# type = object/oblique (dative modifier)
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	çocuklara	çocuk	NOUN	_	Case=Dat|Number=Plur	4	obl	_	_
 3	ders	ders	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
@@ -608,6 +620,8 @@
 
 # sent_id = 7
 # text = Deniz arkadaşına bir kitap aldı.
+# text[en] = Deniz bought a book for her/his friend.
+# type = object/oblique (dative modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	arkadaşına	arkadaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
@@ -617,6 +631,8 @@
 
 # sent_id = 8
 # text = Deniz kardeşiyle barıştı.
+# text[en] = Deniz made peace with her sister/brother.
+# type = object/oblique (comitative)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kardeşiyle	kardeş	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 3	barıştı	barış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
@@ -624,6 +640,8 @@
 
 # sent_id = 9
 # text = Deniz arkadaşlarından yakınıyor.
+# text[en] = Deniz is complaining about his/her friend.
+# type = object/oblique (ablative modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	arkadaşlarından	arkadaş	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 3	yakınıyor	yakın	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
@@ -631,6 +649,8 @@
 
 # sent_id = 10
 # text = Deniz erkenden uyudu.
+# text[en] = Deniz slept early.
+# type = object/oblique (ablative as modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	erkenden	erken	ADV	_	_	3	advmod	_	_
 3	uyudu	uyu	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
@@ -638,6 +658,8 @@
 
 # sent_id = 11
 # text = Deniz arkadaşının yaptığı yemekten iki tabak yedi.
+# text[en] = Deniz ate two plates from (of) the meal his/her friend cooked.
+# type = object/oblique (ablative, part/whole)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	arkadaşının	arkadaş	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3	yaptığı	yap	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	4	acl	_	_
@@ -649,6 +671,8 @@
 
 # sent_id = 12
 # text = Deniz üç saat uyudu.
+# text[en] = Deniz slept for three hours.
+# type = object/oblique (non-case marked duration modifier)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
 3	saat	saat	NOUN	_	Case=Nom|Number=Sing	4	obl:tmod	_	_
@@ -657,6 +681,8 @@
 
 # sent_id = 13
 # text = Deniz çok hızlı.
+# text[en] = Deniz is very fast.
+# type = copula (adjectival predicate)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	çok	çok	ADV	_	_	3	advmod	_	_
 3	hızlı	hızlı	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -664,12 +690,16 @@
 
 # sent_id = 14
 # text = Deniz öğrenci.
+# text[en] = Deniz is a student.
+# type = copula (nominal predicate)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 15
 # text = Deniz öğrencidir.
+# text[en] = Deniz is a student.
+# type = copula (nominal predicate with -dir)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2-3	öğrencidir	_	_	_	_	_	_	_	SpaceAfter=No
 2	öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing|Polarity=Pos	0	root	_	_
@@ -678,6 +708,8 @@
 
 # sent_id = 16
 # text = Deniz doktor olacak.
+# text[en] = Deniz will become a doctor.
+# type = copula ('become')
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	olacak	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
@@ -685,12 +717,16 @@
 
 # sent_id = 17
 # text = Deniz evde.
+# text[en] = Deniz is at home.
+# type = copula (with case marking)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
 # text = Deniz evdeydi.
+# text[en] = Deniz was at home.
+# type = copula (non-zero copular suffix)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2-3	evdeydi	_	_	_	_	_	_	_	SpaceAfter=No
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -699,6 +735,8 @@
 
 # sent_id = 19
 # text = Deniz evde idi.
+# text[en] = Deniz was at home.
+# type = copula (non-suffix copula)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	idi	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
@@ -706,6 +744,8 @@
 
 # sent_id = 20
 # text = Hediye Deniz içindi.
+# text[en] = The present was for Deniz.
+# type = copula (copular suffix attached to postposition)
 1	Hediye	hediye	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 3-4	içindi	_	_	_	_	_	_	_	SpaceAfter=No
@@ -715,12 +755,16 @@
 
 # sent_id = 21
 # text = Deniz uyumuştu.
+# text[en] = Deniz had slept.
+# type = copula as auxiliary (complex tense with copular suffix)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuştu	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pqp	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 22
 # text = Deniz uyumuş idi.
+# text[en] = Deniz had slept.
+# type = copula as auxiliary (with non-affixal copula)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past	0	root	_	_
 3	idi	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
@@ -728,6 +772,8 @@
 
 # sent_id = 23
 # text = Deniz uyumuş olacak.
+# text[en] = Deniz will have been asleep.
+# type = copula as auxiliary (with auxiliary 'ol')
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	_
 3	olacak	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	_	SpaceAfter=No
@@ -735,9 +781,11 @@
 
 # sent_id = 24
 # text = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
+# text[en] = His/her mother's dream was for Deniz to study in a good school.
+# type = copula with subordinate clauses (verbal-noun with differing subjects)
 1	Annesinin	anne	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nmod:poss	_	_
 2	hayali	hayal	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj:outer	_	_
-3	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	7	nsubj:inner	_	_
+3	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	7	nsubj	_	_
 4	iyi	iyi	ADJ	_	_	6	amod	_	_
 5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	okulda	okul	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
@@ -748,6 +796,8 @@
 
 # sent_id = 25
 # text = Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
+# text[en] = The fact that Deniz did not study in a good school worried her mother.
+# type = copula with subordinate clauses (alternation with no double subject)
 1	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	5	nsubj	_	_
 2	iyi	iyi	ADJ	_	_	4	amod	_	_
 3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
@@ -759,6 +809,8 @@
 
 # sent_id = 26
 # text = Masada çok kitap var, kitaplıkta yok.
+# text[en] = There are many books on the table, none in the bookshelf.
+# type = existential (positive/negative)
 1	Masada	masa	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	çok	çok	ADV	_	_	3	advmod	_	_
 3	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -770,6 +822,8 @@
 
 # sent_id = 27
 # text = Deniz'in hiç kitabı yok.
+# text[en] = Deniz does not have any books.
+# type = existential (expression of possession)
 1	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
 2	hiç	hiç	ADV	_	_	3	advmod	_	_
 3	kitabı	kitap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
@@ -778,6 +832,8 @@
 
 # sent_id = 28
 # text = Deniz evde değildi.
+# text[en] = Deniz was not at home.
+# type = negation (nominal predicate)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3-4	değildi	_	_	_	_	_	_	_	SpaceAfter=No
@@ -787,6 +843,8 @@
 
 # sent_id = 29
 # text = Deniz zamanında uyumuyor.
+# text[en] = Deniz does not sleep on time.
+# type = negation (simple)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	zamanında	zaman	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl:tmod	_	_
 3	uyumuyor	uyu	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
@@ -794,12 +852,16 @@
 
 # sent_id = 30
 # text = Deniz uyuyamıyor.
+# text[en] = Deniz cannot sleep.
+# type = negation (with -abil)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyuyamıyor	uyu	VERB	_	Aspect=Prog|Evident=Fh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 31
 # text = Deniz zamanında uyuyamayabilir.
+# text[en] = Deniz may not be able to sleep on time.
+# type = negation (with double -abil)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	zamanında	zaman	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	3	obl:tmod	_	_
 3	uyuyamayabilir	uyu	VERB	_	Aspect=Hab|Evident=Fh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
@@ -807,6 +869,8 @@
 
 # sent_id = 32
 # text = Deniz annesini görmemiş oldu.
+# text[en] = (It turned out that) Deniz did not see her/his mother.
+# type = negation (with auxiliary -ol)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
@@ -815,6 +879,8 @@
 
 # sent_id = 33
 # text = Deniz annesini görmemiş oldu.
+# text[en] = (It turned out that) Deniz did not see her/his mother.
+# type = negation (negation on auxiliary)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
@@ -823,6 +889,8 @@
 
 # sent_id = 34
 # text = Deniz annesini görmemiş olmadı.
+# text[en] = (It turned out that) Deniz did not not-see her/his mother.
+# type = negation (double negation)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
@@ -831,12 +899,16 @@
 
 # sent_id = 35
 # text = Okuduklarını anlamıyor.
+# text[en] = He/she does not understand things he/she reads.
+# type = negation (simple)
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
 2	anlamıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 36
 # text = Okuduklarını anlıyor değil.
+# text[en] = He/she does not understand things he/she reads.
+# type = negation (alternative form)
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
 2	anlıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Tense=Pres	0	root	_	_
 3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	SpaceAfter=No
@@ -844,6 +916,8 @@
 
 # sent_id = 37
 # text = Okuduklarını anlamıyor değil.
+# text[en] = It is not that he/she does not understand things he/she reads.
+# type = negation (double negation)
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	ccomp	_	_
 2	anlamıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Polarity=Neg|Tense=Pres	0	root	_	_
 3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	SpaceAfter=No
@@ -851,6 +925,8 @@
 
 # sent_id = 38
 # text = Okumayı değil, resim yapmayı seviyor.
+# text[en] = (He/she does) not (like) reading, (but) he/she likes painting.
+# type = negation (coordination with 'değil' and elision)
 1	Okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
 2	değil	değil	AUX	_	Polarity=Neg	1	aux	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -861,6 +937,8 @@
 
 # sent_id = 39
 # text = Deniz odada değildi.
+# text[en] = Deniz was not in the room.
+# type = negation (simple negation with değil)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	odada	oda	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3-4	değildi	_	_	_	_	_	_	_	SpaceAfter=No
@@ -870,6 +948,8 @@
 
 # sent_id = 40
 # text = Deniz odada yoktu.
+# text[en] = Deniz was not in the room.
+# type = negation (with yok)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	odada	oda	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3-4	yoktu	_	_	_	_	_	_	_	SpaceAfter=No
@@ -879,6 +959,8 @@
 
 # sent_id = 41
 # text = Deniz kitap okumak istiyor.
+# text[en] = Deniz wants to read books.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okumak	oku	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	4	xcomp	_	_
@@ -887,6 +969,8 @@
 
 # sent_id = 42
 # text = Deniz kitap okumayı istiyor.
+# text[en] = Deniz wants to read books.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
@@ -895,6 +979,8 @@
 
 # sent_id = 43
 # text = Deniz babasının kendisine kitap okumasını istiyor.
+# text[en] = Deniz wants her/his father to read him/her (a) book.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	babasının	baba	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 3	kendisine	kendi	PRON	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	obl	_	_
@@ -905,6 +991,8 @@
 
 # sent_id = 44
 # text = Deniz kendi kendine olmayı seviyor.
+# text[en] = Deniz wants to be by himself/herself.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	4	obl	_	_
 3	kendine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|Reflex=Yes	2	fixed	_	_
@@ -914,6 +1002,8 @@
 
 # sent_id = 45
 # text = Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor.
+# text[en] = When her/his mother reads, it becomes easier for Deniz to sleep.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Annesinin	anne	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okuması	oku	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	6	csubj	_	_
@@ -924,6 +1014,8 @@
 
 # sent_id = 46
 # text = Çocuklara kitap okumak gelişimleri için önemli.
+# text[en] = Reading to children is important for their development.
+# type = clausal arguments/modifiers (non-finite verbs)
 1	Çocuklara	çocuk	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okumak	oku	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	6	csubj	_	_
@@ -934,6 +1026,8 @@
 
 # sent_id = 47
 # text = Deniz kitap okuyarak uyuyor.
+# text[en] = Deniz reads before sleep (lit: Deniz sleeps by reading).
+# type = clausal arguments/modifiers (converb)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	okuyarak	oku	VERB	_	VerbForm=Conv	4	advcl	_	_
@@ -942,6 +1036,8 @@
 
 # sent_id = 48
 # text = Deniz tatil olduğunu unutup okula gitmiş.
+# text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
+# type = clausal arguments/modifiers (converb)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	tatil	tatil	NOUN	_	Case=Nom|Number=Sing	4	ccomp	_	_
 3	olduğunu	ol	AUX	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	aux	_	_
@@ -952,6 +1048,8 @@
 
 # sent_id = 49
 # text = Deniz tatil olduğunu unutup çantasını alıp okula gitmiş.
+# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
+# type = clausal arguments/modifiers (multiple converbs)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 2	tatil	tatil	NOUN	_	Case=Nom|Number=Sing	4	ccomp	_	_
 3	olduğunu	ol	AUX	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	aux	_	_
@@ -964,6 +1062,8 @@
 
 # sent_id = 50
 # text = Deniz geç uyursa okula geç kalır.
+# text[en] = If Deniz sleeps late, he/she would be late.
+# type = clausal arguments/modifiers (conditional)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	geç	geç	ADV	_	_	3	advmod	_	_
 3	uyursa	uyu	VERB	_	Aspect=Imp|Evident=Fh|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	6	advcl	_	_
@@ -974,6 +1074,8 @@
 
 # sent_id = 51
 # text = Deniz geç uyursa okula geç kalacak.
+# text[en] = If Deniz sleeps late, he/she will be late.
+# type = clausal arguments/modifiers (conditional with future)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	geç	geç	ADV	_	_	3	advmod	_	_
 3	uyursa	uyu	VERB	_	Aspect=Imp|Evident=Fh|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	6	advcl	_	_
@@ -984,6 +1086,8 @@
 
 # sent_id = 52
 # text = Çocuk uyumuş olsaydı film izleyecektik.
+# text[en] = If the child had slept, we'd watch a movie.
+# type = clausal arguments/modifiers (past conditional)
 1	Çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past	5	ccomp	_	_
 3	olsaydı	ol	AUX	_	Aspect=Imp|Evident=Fh|Mood=Cnd|Number=Sing|Person=3|Tense=Past	2	aux	_	_
@@ -993,6 +1097,8 @@
 
 # sent_id = 53
 # text = Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek.
+# text[en] = If the child sleeps before we arrive home, we will need to wake him/her up.
+# type = clausal arguments/modifiers (complex conditional)
 1	Eğer	eğer	SCONJ	_	_	5	mark	_	_
 2	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	eve	ev	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
@@ -1005,17 +1111,23 @@
 
 # sent_id = 54
 # text = Boş ver.
+# text[en] = Nevermind.
+# type = MWE / segmentation
 1	Boş	boş	ADJ	_	_	2	xcomp	_	_
 2	ver	ver	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 55
 # text = Boşver.
+# text[en] = Nevermind.
+# type = MWE / segmentation (typo)
 1	Boşver	boşver	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 56
 # text = Çocuğun erken uyuyacağını zannediyorum.
+# text[en] = I think that the child will sleep early.
+# type = MWE / segmentation
 1	Çocuğun	çocuk	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	_
 2	erken	erken	ADV	_	_	3	advmod	_	_
 3	uyuyacağını	uyu	VERB	_	Aspect=Perf|Case=Acc|Evident=Fh|Mood=Ind|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Vnoun	4	ccomp	_	_
@@ -1024,6 +1136,8 @@
 
 # sent_id = 57
 # text = Deniz kardeşinden nefret ediyor.
+# text[en] = Deniz hates his/her brother/sister.
+# type = MWE / segmentation
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kardeşinden	kardeş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 3	nefret	nefret	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
@@ -1032,6 +1146,8 @@
 
 # sent_id = 58
 # text = Yarını iple çekiyorum.
+# text[en] = I am looking forward to tomorrow.
+# type = MWE / segmentation (idiomatic)
 1	Yarını	yarın	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 2	iple	ip	NOUN	_	Case=Ins|Number=Sing	3	obl	_	_
 3	çekiyorum	çek	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
@@ -1039,6 +1155,8 @@
 
 # sent_id = 59
 # text = Hastane halkın hizmetine sunuldu.
+# text[en] = The hospital was made available to the public.
+# type = MWE / segmentation
 1	Hastane	hastane	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	halkın	halk	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
 3	hizmetine	hizmet	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
@@ -1047,6 +1165,8 @@
 
 # sent_id = 60
 # text = Büyük evdeki çocuk kitap okuyor.
+# text[en] = The child in the big house is reading (a) book.
+# type = MWE / segmentation (-ki)
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
 3	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -1056,6 +1176,8 @@
 
 # sent_id = 61
 # text = Büyük evdeki kitap okuyor.
+# text[en] = The one in the big house is reading (a) book.
+# type = MWE / segmentation (-ki, zero derivation)
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2-3	evdeki	_	_	_	_	_	_	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
@@ -1065,16 +1187,27 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 62
-# text = Büyük evdeki çocuğun saçları sarı.
+# text = Büyük evdeki çocuğun saçları sarı, küçük evdekininki kahverengi.
+# text[en] = The hair of the child in the big house is blond, the one of the one in the small house is brown.
+# type = MWE / segmentation (-ki, possessive)
 1	Büyük	büyük	ADJ	_	_	2	amod	_	_
 2	evdeki	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
 3	çocuğun	çocuk	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
 4	saçları	saç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 5	sarı	sarı	ADJ	_	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	küçük	küçük	ADJ	_	_	8	amod	_	_
+8-10	evdekininki	_	_	_	_	_	_	_	_
+8	evde	ev	NOUN	_	Case=Loc|Number=Sing	9	nmod	_	_
+9	kinin	ki	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
+10	ki	ki	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+11	kahverengi	kahverengi	ADJ	_	_	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 63
 # text = Soğanları koyu pembeleşinceye kadar kavurun.
+# text[en] = Fry the onions until they become dark pink.
+# type = MWE / segmentation
 1	Soğanları	soğan	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
 2	koyu	koyu	ADJ	_	_	3	amod	_	_
 3	pembeleşinceye	pembeleş	VERB	_	Case=Dat|VerbForm=Conv	5	advcl	_	_
@@ -1084,6 +1217,8 @@
 
 # sent_id = 64
 # text = Evin önünde üç arabalık park yeri var.
+# text[en] = There is a three-car parking place in front of the house.
+# type = MWE / segmentation
 1	Evin	ev	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	önünde	ön	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 3	üç	üç	NUM	_	NumType=Card	4	nummod	_	_
@@ -1095,6 +1230,8 @@
 
 # sent_id = 65
 # text = Kutsal kitapsız dinler de var.
+# text[en] = There are religions without holy books.
+# type = MWE / segmentation
 1	Kutsal	kutsal	ADJ	_	_	2	amod	_	_
 2	kitapsız	kitap	NOUN	_	Number=Sing|Polarity=Neg	3	amod	_	_
 3	dinler	din	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
@@ -1104,6 +1241,8 @@
 
 # sent_id = 66
 # text = Küçük pencereli evde yeterince ışık yok.
+# text[en] = There is not enough light in the house with small windows.
+# type = MWE / segmentation
 1	Küçük	küçük	ADJ	_	_	2	amod	_	_
 2	pencereli	pencere	NOUN	_	Case=Nom|Number=Sing	3	amod	_	_
 3	evde	ev	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
@@ -1114,6 +1253,8 @@
 
 # sent_id = 67
 # text = Deniz eve geldi mi?
+# text[en] = Did Deniz come home?
+# type = question particle
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	eve	ev	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	geldi	gel	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
@@ -1122,6 +1263,8 @@
 
 # sent_id = 68
 # text = Deniz eve gelmiş miydi?
+# text[en] = Had Deniz come home?
+# type = question particle (with copula/auxiliary)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	eve	ev	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	gelmiş	gel	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
@@ -1130,6 +1273,8 @@
 
 # sent_id = 69
 # text = Deniz evde mi?
+# text[en] = Is Deniz at home?
+# type = question particle (copular)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	mi	mi	AUX	_	Number=Sing|Person=3|PronType=Int	2	aux:q	_	SpaceAfter=No
@@ -1137,6 +1282,8 @@
 
 # sent_id = 70
 # text = Deniz evde midir?
+# text[en] = Is Deniz at home?
+# type = question particle (copular with additional affix)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	midir	mi	AUX	_	Mood=Gen|Number=Sing|Person=3|PronType=Int	2	aux:q	_	SpaceAfter=No
@@ -1144,6 +1291,8 @@
 
 # sent_id = 71
 # text = Deniz evde miydi?
+# text[en] = Was Deniz at home?
+# type = question particle (copular)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	miydi	mi	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
@@ -1151,6 +1300,8 @@
 
 # sent_id = 72
 # text = Deniz evde değil miydi?
+# text[en] = Was Deniz not at home?
+# type = question particle (with negation)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	değil	değil	AUX	_	Polarity=Neg	2	aux	_	_
@@ -1159,6 +1310,8 @@
 
 # sent_id = 73
 # text = Deniz evde yok mu?
+# text[en] = Is Deniz not at home?
+# type = question particle (negation with 'yok')
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	yok	yok	ADJ	_	Polarity=Neg	0	root	_	_
@@ -1167,6 +1320,8 @@
 
 # sent_id = 74
 # text = Evde ekmek var mı?
+# text[en] = Is there (any) bread at home?
+# type = question particle (existential)
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	ekmek	ekmek	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	var	var	ADJ	_	_	0	root	_	_
@@ -1175,6 +1330,8 @@
 
 # sent_id = 75
 # text = Evde mi ekmek var?
+# text[en] = Is there (any) bread at home?
+# type = question particle (focus on location)
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	mi	mi	AUX	_	Number=Sing|Person=3|PronType=Int	1	aux:q	_	_
 3	ekmek	ekmek	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -1183,6 +1340,8 @@
 
 # sent_id = 76
 # text = Evde ekmek mi var?
+# text[en] = Is there (any) bread at home?
+# type = question particle (focus on object)
 1	Evde	ev	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	ekmek	ekmek	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	mi	mi	AUX	_	Number=Sing|Person=3|PronType=Int	2	aux:q	_	_
@@ -1191,6 +1350,8 @@
 
 # sent_id = 77
 # text = Okuduğunuzu anlıyor muydunuz?
+# text[en] = Were you understanding what you read?
+# type = question particle (multiple affixes)
 1	Okuduğunuzu	oku	VERB	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Tense=Past|VerbForm=Part	2	ccomp	_	_
 2	anlıyor	anla	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Tense=Pres	0	root	_	_
 3	muydunuz	mi	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=2|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
@@ -1198,6 +1359,8 @@
 
 # sent_id = 78
 # text = Sabah Deniz kitabı Ayhan'a verdi mi?
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# type = question particle
 1	Sabah	sabah	NOUN	_	Case=Nom|Number=Sing	5	obl:tmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
@@ -1208,6 +1371,8 @@
 
 # sent_id = 79
 # text = Sabah Deniz mi kitabı Ayhan'a verdi?
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# type = question particle (focus on subject)
 1	Sabah	sabah	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	mi	mi	AUX	_	Number=Sing|Person=3|PronType=Int	2	aux:q	_	_
@@ -1218,6 +1383,8 @@
 
 # sent_id = 80
 # text = Sabah Deniz kitabı mı Ayhan'a verdi?
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# type = question particle (focus on object)
 1	Sabah	sabah	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
@@ -1228,6 +1395,8 @@
 
 # sent_id = 81
 # text = Sabah Deniz kitabı Ayhan'a mı verdi?
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# type = question particle (focus on indirect object)
 1	Sabah	sabah	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
@@ -1238,6 +1407,8 @@
 
 # sent_id = 82
 # text = Deniz kitabı Ayhan'a sabah mı verdi?
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# type = question particle (focus on time)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 3	Ayhan'a	Ayhan	PROPN	_	Case=Dat|Number=Sing	6	obl	_	_
@@ -1248,6 +1419,8 @@
 
 # sent_id = 83
 # text = Bana maviyi verir misin?
+# text[en] = Can you give me the blue one?
+# type = miscellaneous (zero A->N derivation)
 1	Bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
 2	maviyi	mavi	ADJ	_	Case=Acc|Number=Sing	3	obj	_	_
 3	verir	ver	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Tense=Pres	0	root	_	_
@@ -1256,6 +1429,8 @@
 
 # sent_id = 84
 # text = Bunun mavisi daha güzel.
+# text[en] = The blue (version) of this is nicer.
+# type = miscellaneous (-si, (pro)nominals)
 1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:poss	_	_
 2	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 3	daha	daha	ADV	_	_	4	advmod	_	_
@@ -1264,6 +1439,8 @@
 
 # sent_id = 85
 # text = Benim arabam Deniz'inkinin mavisi.
+# text[en] = My car is the blue (version) of Deniz'.
+# type = miscellaneous (complex possessive)
 1	Benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	arabam	araba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
 3-4	Deniz'inkinin	_	_	_	_	_	_	_	_
@@ -1274,12 +1451,16 @@
 
 # sent_id = 86
 # text = Kitap okunuyor.
+# text[en] = The book is being read.
+# type = miscellaneous (passive)
 1	Kitap	kitap	NOUN	_	Case=Nom|Number=Sing	2	nsubj:pass	_	_
 2	okunuyor	oku	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 87
 # text = Kitap bütün okullarda okutturulacak.
+# text[en] = The book will be made to be made to be read in all schools.
+# type = miscellaneous (double causative)
 1	Kitap	kitap	NOUN	_	Case=Nom|Number=Sing	4	nsubj:pass	_	_
 2	bütün	bütün	DET	_	_	3	det	_	_
 3	okullarda	okul	NOUN	_	Case=Loc|Number=Plur	4	obl	_	_
@@ -1288,24 +1469,30 @@
 
 # sent_id = 88
 # text = Deniz uyutuldu.
+# text[en] = Deniz was made to sleep.
+# type = miscellaneous (passive/causative)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj:pass	_	_
 2	uyutuldu	uyu	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauPass	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89
 # text = Onlar gitti.
+# text[en] = They left.
 1	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	gitti	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 90
 # text = O gitti.
+# text[en] = He/She left.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	gitti	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 91
 # text = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
+# text[en] = Deniz used to come here and read a book in her free time.
+# type = miscellaneous (idi + epenthesis)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	buralara	bura	PRON	_	Case=Dat|Number=Plur	3	obl	_	_
 3	gelir	gel	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
@@ -1319,6 +1506,8 @@
 
 # sent_id = 92
 # text = Sen de bizimle geliyorsun, değil mi?
+# text[en] = You are coming with us, aren't you?
+# type = miscellaneous (tag question)
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	de	de	ADV	_	_	1	advmod:emph	_	_
 3	bizimle	biz	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
@@ -1330,6 +1519,8 @@
 
 # sent_id = 93
 # text = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
+# text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
+# type = miscellaneous (ki connecting sentences, MWE)
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
 2	öyle	öyle	ADV	_	_	4	advmod	_	_
 3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
@@ -1346,6 +1537,8 @@
 
 # sent_id = 94
 # text = Sen önce temizliği bitir de ütüyü hallederiz.
+# text[en] = You finish the cleaning first, then we will handle the ironing.
+# type = miscellaneous (de connecting sentences, -lIk derivation)
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	önce	önce	ADV	_	_	4	advmod	_	_
 3	temizliği	temizlik	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -1357,9 +1550,11 @@
 
 # sent_id = 95
 # text = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
+# text[en] = Seemingly Ayşe helped Hakan do his homework.
+# type = miscellaneous (mişmiş/mışmış evidentiality)
 1	Sözde	sözde	ADV	_	_	7	advmod	_	_
 2	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	7	nsubj:outer	_	_
-3	Hakan'ın	Hakan	PROPN	_	Case=Gen|Number=Sing	5	nsubj:inner	_	_
+3	Hakan'ın	Hakan	PROPN	_	Case=Gen|Number=Sing	5	nsubj	_	_
 4	ödevi	ödev	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 5	yapmasına	yap	VERB	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	7	advcl	_	_
 6	yardım	yardım	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	_
@@ -1368,6 +1563,8 @@
 
 # sent_id = 96
 # text = Genel olarak başarılı bir filmdi.
+# text[en] = It was a successful film overall.
+# type = miscellaneous (N/Adj + olarak)
 1	Genel	genel	ADJ	_	_	5	advcl	_	_
 2	olarak	ol	AUX	_	VerbForm=Conv	1	aux	_	_
 3	başarılı	başarılı	ADJ	_	_	5	amod	_	_
@@ -1379,6 +1576,7 @@
 
 # sent_id = 97
 # text = Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
+# text[en] = Apple trees bloom (approximately) April to May and cross-pollinate.
 1	Elma	elma	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
 2	ağaçları	ağaç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
 3	Nisan	Nisan	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	SpaceAfter=No
