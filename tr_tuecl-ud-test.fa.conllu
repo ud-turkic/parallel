@@ -315,6 +315,8 @@
 
 # sent_id = udtw23-1
 # text = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
+# text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, but didn't clean the kitchen's.
+# type = both uses of -ki, compound (vs nmod:poss), multi-word expressions
 1	Eşim	eş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	nsubj	_	_
 2	yazlıktaki	yazlık	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
 3	çocuk	çocuk	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
@@ -332,6 +334,8 @@
 
 # sent_id = udtw23-2
 # text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+# text[en] = I always tell you this, don't talk about me on the phone with your friend in the morning.
+# type = oblique vs object, oblique (?) as temporal modifier
 1	Sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 2	bunu	bu	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
 3	hep	hep	ADV	_	_	4	advmod	_	_
@@ -347,6 +351,8 @@
 
 # sent_id = udtw23-3
 # text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
+# text[en] = The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.
+# type = participle, multiple TAM marker/copula, oblique
 1	Yatılı	yatılı	ADJ	_	_	2	xcomp	_	_
 2	kalacak	kal	VERB	_	Aspect=Perf|Tense=Fut|VerbForm=Part	3	acl	_	_
 3	misafir	misafir	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -370,6 +376,8 @@
 
 # sent_id = udtw23-4
 # text = Ayşe bir doktor.
+# text[en] = Ayşe is a doctor.
+# type = null morpheme copula
 1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
 3	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -377,6 +385,8 @@
 
 # sent_id = udtw23-5
 # text = Çözmeye çalıştığımız sorun kitaplıkta beş kitaplık yer bile olmaması.
+# text[en] = The (problem) we're trying to solve is that the library doesn't even have room for five books.
+# type = null morpheme copula with multiple subjects, productive/lexicalized derivation
 1	Çözmeye	çöz	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun	2	advcl	_	_
 2	çalıştığımız	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	3	acl	_	_
 3	sorun	sorun	NOUN	_	Case=Nom|Number=Sing	9	nsubj:outer	_	_
@@ -390,6 +400,8 @@
 
 # sent_id = udtw23-6
 # text = Anneannesi hemşireydi.
+# text[en] = His/her grandmother was a nurse.
+# type = copula
 1	Anneannesi	anneanne	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
 2-3	hemşireydi	_	_	_	_	_	_	_	SpaceAfter=No
 2	hemşire	hemşire	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -398,6 +410,8 @@
 
 # sent_id = udtw23-7
 # text = Peki kitaplıktakiler nerede idi?
+# text[en] = So where were the [ones] on the bookshelf?
+# type = copula "idi", derivation, -ki
 1	Peki	peki	INTJ	_	_	4	discourse	_	_
 2-3	kitaplıktakiler	_	_	_	_	_	_	_	_
 2	kitaplıkta	kitaplık	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
@@ -408,6 +422,8 @@
 
 # sent_id = udtw23-8
 # text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+# text[en] = Sude was not at the office for three hours, and Ayşe was not at home.
+# type = temporal modifier / oblique, existential, "değil" negation
 1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
 3-4	saattir	_	_	_	_	_	_	_	_
@@ -428,6 +444,8 @@
 
 # sent_id = udtw23-9
 # text = Markette meyve var ama güzel değil.
+# text[en] = There is fruit in the market, but it's not pretty.
+# type = existential, "değil" negation
 1	Markette	market	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 2	meyve	meyve	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	var	var	ADJ	_	_	0	root	_	_
@@ -438,6 +456,8 @@
 
 # sent_id = udtw23-10
 # text = Deniz doktor olacak, bilmiş ol!
+# text[en] = Deniz will be a doctor, (so that) you know!
+# type = copula, light verb auxiliary
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	doktor	doktor	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	olacak	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
@@ -448,6 +468,8 @@
 
 # sent_id = udtw23-11
 # text = Deniz uyumuş idi.
+# text[en] = Deniz was asleep.
+# type = copula
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	uyumuş	uyu	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	idi	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	SpaceAfter=No
@@ -455,6 +477,8 @@
 
 # sent_id = udtw23-12
 # text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+# text[en] = He/She must have been so surprised as the meeting was being announced that he/she kept looking at me.
+# type = converb, copula / AUX
 1	Toplantı	toplantı	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	duyurulurken	duyur	VERB	_	Aspect=Imp|Evident=Fh|Mood=Ind|Tense=Pres|VerbForm=Conv|Voice=Pass	4	advcl	_	_
 3	çok	çok	ADV	_	_	4	advmod	_	_
@@ -468,6 +492,8 @@
 
 # sent_id = udtw23-13
 # text = Hırkam evde miymiş?
+# text[en] = Was my cardigan at home?
+# type = question particle
 1	Hırkam	hırka	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
 2	evde	ev	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	miymiş	mi	AUX	_	Aspect=Perf|Evident=Nfh|Number=Sing|Person=3|PronType=Int|Tense=Past	2	aux:q	_	SpaceAfter=No
@@ -475,6 +501,8 @@
 
 # sent_id = udtw23-14
 # text = Bugün mü yapılacak etkinlik?
+# text[en] = Is the event to be held today?
+# type = question particle
 1	Bugün	bugün	ADV	_	Case=Nom	3	obl:tmod	_	_
 2	mü	mi	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux:q	_	_
 3	yapılacak	yap	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	_
@@ -483,6 +511,8 @@
 
 # sent_id = udtw23-15
 # text = Sonuçlar açıklanmış, değil mi?
+# text[en] = The results have been announced, haven't they?
+# type = question particle, tag question
 1	Sonuçlar	sonuç	NOUN	_	Case=Nom|Number=Plur	2	nsubj:pass	_	_
 2	açıklanmış	açıkla	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -492,6 +522,8 @@
 
 # sent_id = udtw23-16
 # text = Ayşe bu kitabı okumamış değil.
+# text[en] = It's not the case that Ayşe hasn't read this book.
+# type = negation, participle
 1	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bu	bu	DET	_	PronType=Dem	3	det	_	_
 3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -501,6 +533,8 @@
 
 # sent_id = udtw23-17
 # text = Genel olarak okumayı değil, resim yapmayı seviyor.
+# text[en] = In general, he/she likes to paint, not to read.
+# type = negation, participle
 1	Genel	genel	ADJ	_	_	8	advcl	_	_
 2	olarak	ol	AUX	_	VerbForm=Conv	1	aux	_	_
 3	okumayı	oku	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	8	xcomp	_	_
@@ -513,6 +547,8 @@
 
 # sent_id = udtw23-18
 # text = Okuduklarını değil, okuyacaklarını anlatıyor.
+# text[en] = He/She tells what she will read, not what he/she has read.
+# type = negation, participle
 1	Okuduklarını	oku	VERB	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	5	ccomp	_	_
 2	değil	değil	AUX	_	Polarity=Neg	1	aux	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -522,6 +558,8 @@
 
 # sent_id = udtw23-19
 # text = Bunun mavisi daha güzel, bana maviyi verir misin?
+# text[en] = The blue [one] of this is prettier, can you give me the blue?
+# type = zero A -> N derivation, -si
 1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:poss	_	_
 2	mavisi	mavi	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 3	daha	daha	ADV	_	_	4	advmod	_	_
@@ -535,6 +573,8 @@
 
 # sent_id = udtw23-20
 # text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+# text[en] = We must make the young abandon unattainable goals.
+# type = multiple TAM markers, multi-word expressions
 1	Gençlere	genç	NOUN	_	Case=Dat|Number=Plur	6	obl	_	_
 2	erişilebilir	eriş	VERB	_	Aspect=Hab|Evident=Fh|Mood=GenPot|VerbForm=Part|Voice=Pass	4	acl	_	_
 3	olmayan	ol	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Part	2	aux	_	_
@@ -545,6 +585,7 @@
 
 # sent_id = udtw23-21
 # text = Öğretmen kitabı alıp okula gitti.
+# text[en] = The teacher took the book and left for school.
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 3	alıp	al	VERB	_	Mood=Ind|VerbForm=Conv	5	acl	_	_
@@ -554,6 +595,7 @@
 
 # sent_id = udtw23-22
 # text = Öğretmen kitabı okula götürdü.
+# text[en] = The teacher took the book to school.
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	okula	okul	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
