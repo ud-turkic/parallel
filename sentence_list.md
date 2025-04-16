@@ -33,7 +33,7 @@
 - `udtw23-2`: Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
 - `udtw23-3`: Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
 - `udtw23-4`: Ayşe bir doktor.
-- `udtw23-5`: Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
+- `udtw23-5`: Çözmeye çalıştığımız sorun kitaplıkta beş kitaplık yer bile olmaması.
 - `udtw23-6`: Anneannesi hemşireydi.
 - `udtw23-7`: Peki kitaplıktakiler nerede idi?
 - `udtw23-8`: Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
@@ -83,7 +83,7 @@
 - `30`: Deniz uyuyamıyor.
 - `31`: Deniz zamanında uyuyamayabilir.
 - `32`: Deniz annesini görmemiş oldu.
-- `33`: Deniz annesini görmemiş oldu.
+- `33`: Deniz annesini görmüş olmadı.
 - `34`: Deniz annesini görmemiş olmadı.
 - `35`: Okuduklarını anlamıyor.
 - `36`: Okuduklarını anlıyor değil.
@@ -112,7 +112,7 @@
 - `59`: Hastane halkın hizmetine sunuldu.
 - `60`: Büyük evdeki çocuk kitap okuyor.
 - `61`: Büyük evdeki kitap okuyor.
-- `62`: Büyük evdeki çocuğun saçları sarı.
+- `62`: Büyük evdeki çocuğun saçları sarı, küçük evdekininki kahverengi.
 - `63`: Soğanları koyu pembeleşinceye kadar kavurun.
 - `64`: Evin önünde üç arabalık park yeri var.
 - `65`: Kutsal kitapsız dinler de var.
