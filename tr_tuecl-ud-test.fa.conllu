@@ -920,13 +920,13 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 33
-# text = Deniz annesini görmemiş oldu.
+# text = Deniz annesini görmüş olmadı.
 # text[en] = (It turned out that) Deniz did not see her/his mother.
 # type = negation (negation on auxiliary)
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-3	görmemiş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
-4	oldu	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	SpaceAfter=No
+3	görmüş	gör	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past	0	root	_	_
+4	olmadı	ol	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 34
@@ -1613,7 +1613,7 @@
 4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
 5-6	filmdi	_	_	_	_	_	_	_	SpaceAfter=No
 5	film	film	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-6	di	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|PronType=Prs|Tense=Past	5	cop	_	_
+6	di	i	AUX	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 97
