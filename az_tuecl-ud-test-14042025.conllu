@@ -1,4 +1,4 @@
-# sent_id = Cairo-1
+# sent_id = cairo-1
 # text = Qız yoldaşına namә yazdı.
 # glossing = girl friend-POSS.3SG-DAT letter write-PST.3SG
 # text_en = The girl wrote a letter to her friend.
@@ -8,7 +8,7 @@
 4	yazdı	yaz	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = Cairo-2
+# sent_id = cairo-2
 # text = Fikr elirәm yağış yağır.
 # glossing = think do-PRS.1SG rain rain-PRS.3SG
 # text_en = I think that it is raining.
@@ -18,7 +18,7 @@
 4	yağır	yağ	VERB	_	_	2	ccomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-3
+# sent_id = cairo-3
 # text = O çalışdı kı siqar çekmә vә әlkol içmәni tәrkidә.
 # glossing = s/he try-PST.3SG that cigarette smoke-INF and alcohol drink-INF-ACC leave-CAUS-SUBJ.3SG
 # text_en = S/He tried to stop smoking and drinking.
@@ -33,7 +33,7 @@
 9	tәrkidә	tərk	VERB	_	_	2	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-4
+# sent_id = cairo-4
 # text = Siz getmək istəyirsiniz?
 # glossing = you.2PL go-INF want-PRS-2PL
 # text_en = Do you want to go?
@@ -42,7 +42,7 @@
 3	istəyirsiniz	istә	VERB	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Cairo-5
+# sent_id = cairo-5
 # text = Sam, pәncәrәni aç!
 # glossing = Sam window-ACC open.IMP.2SG
 # text_en = Sam, open the window!
@@ -52,7 +52,7 @@
 4	aç	aç	VERB	_	_	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = Cairo-6
+# sent_id = cairo-6
 # text = Әrinә maşını yudurtdu.
 # glossing = husband-DAT car-ACC wash-CAUS-PST.3SG
 # text_en = She made her husband wash the car.
@@ -61,7 +61,7 @@
 3	yudurtdu	yu	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Cairo-7
+# sent_id = cairo-7
 # text = Peterin qonşusu hasarı qırmız rənglədi.
 # glossing = Peter-POSS.3SG neighbor-GEN fence-ACC red paint-PAT.3SG
 # text_en = Peter’s neighbor painted the fence red.
@@ -72,7 +72,7 @@
 5	rənglədi	rənglə	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = Cairo-8
+# sent_id = cairo-8
 # text = Mәnin babam sәninkindәn bәtәrdi.
 # glossing = I-POSS.1SG dad-GEN you-POSS.2SG-ki-ABL cool-PRS.COP.3SG
 # text_en = My dad is cooler than yours.
@@ -84,7 +84,7 @@
 5	bәtәrdi	bətər	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = Cairo-9
+# sent_id = cairo-9
 # text = Mary bronz qazandı, Peter gümüş, Jane qızıl.
 # glossing = MAry bronze win-PST.3SG Peter silver Jane gold
 # text_en = Mary won bronze, Peter silver, and Jane gold.
@@ -99,7 +99,7 @@
 9	qızıl	qızıl	NOUN	_	_	8	orphan	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = Cairo-10
+# sent_id = cairo-10
 # text = İguazu böyük bir kisvərdir, ya kiçik?
 # glossing = Iguazu big one country-PRS.COP.3SG or small
 # text_en = Is Iguazu a big or a small country?
@@ -112,7 +112,7 @@
 7	kiçik	kiçik	ADJ	_	_	4	conj	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = Cairo-11
+# sent_id = cairo-11
 # text = Nә Peter Smith nә də Mary Brown, intixab ola bildi.
 # glossing = neither Peter Smith nor aslo Mary Brown selected be-SBJV be.able-PST.3SG
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
@@ -129,7 +129,7 @@
 11	bildi	bil	AUX	_	_	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = Cairo-12
+# sent_id = cairo-12
 # text = Kimin yazdığını bilmirlər.
 # glossing = who-GEN write-PTCP-POSS.3SG-ACC know-NEG-PRS-3PL
 # text_en = They have no idea who wrote it.
@@ -138,7 +138,7 @@
 3	bilmirlər	bil	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Cairo-13
+# sent_id = cairo-13
 # text = Nәmәyә baxıran?
 # glossing = what-DAT look.at-PRS-2SG
 # text_en = What are you looking at?
@@ -146,7 +146,7 @@
 2	baxıran	bax	VERB	_	_	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-14
+# sent_id = cairo-14
 # text = Fikr eliriz nə vaxt gələ bilərsiz?
 # glossing = think do-PRS-2PL when time come-SBJV be.able-PRS-2PL
 # text_en = When do you think you can come?
@@ -158,7 +158,7 @@
 6	bilərsiz	bil	AUX	_	_	5	aux	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-15
+# sent_id = cairo-15
 # text = O bir dәnә maşın aldı amma qardaşı fәqәt çәrx aldı.
 # glossing = He one grain car buy-PAST.3SG but brother-POSS.3SG just bike buy-PAST.3SG
 # text_en = He bought a car but his brother just a bike.
@@ -174,7 +174,7 @@
 10	aldı	al	VERB	_	_	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = Cairo-16
+# sent_id = cairo-16
 # text = Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar.
 # glossing = Peter-COM Mary hug-RECP-PST-3PL and then room-ABL exit-PST-3PL
 # text_en =  Peter and Mary hugged each other and then left the room.
@@ -187,7 +187,7 @@
 7	çıxdılar	çıx	VERB	_	_	3	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = Cairo-17
+# sent_id = cairo-17
 # text = Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
 # glossing = hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
@@ -203,7 +203,7 @@
 10	eləmәdi	elə	VERB	_	_	2	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-18
+# sent_id = cairo-18
 # text = O çox yeyin qaçdığı için ona çata bilmәdim.
 # glossing = s/he very fasr run-PTC
 # text_en = I wasn't able to keep up, because he ran too fast..
@@ -217,7 +217,7 @@
 8	bilmәdim	bil	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = Cairo-19
+# sent_id = cairo-19
 # text = Bu namә Peterdendir vә dünәn yetişibdir.
 # glossing = this letter Peter-ABL-COP.PRS.3SG and yesterday arrive-PFV-PRS.3SG
 # text_en = This letter is from Peter and it was delivered yesterday..
@@ -229,7 +229,7 @@
 6	yetişibdir	yetiş	VERB	_	_	3	conj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Cairo-20
+# sent_id = cairo-20
 # text = O Fәransәnin paytәxti, Parisdә böyüdü.
 # glossing = She France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
 # text_en =  She grew up in Paris, the capital of France.
