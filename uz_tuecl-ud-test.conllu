@@ -198,17 +198,17 @@
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-16
-# text = Piter va Meri bir-birlarini quchoqladilar va keyin xonadan chiqib ketdilar.
+# text = Piter va Meri bir-birlarini quchoqladilar va shundan so‘ng xonadan chiqdilar.
 1	Piter	Piter	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	va	va	CCONJ	_	_	3	cc	_	_
 3	Meri	Meri	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
 4	bir-birlarini	bir-biri	PRON	_	Case=Acc|Number=Plur	5	obj	_	_
 5	quchoqladilar	quchoqla	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 6	va	va	CCONJ	_	_	10	cc	_	_
-7	keyin	keyin	ADV	_	_	10	advmod	_	_
-8	xonadan	xona	NOUN	_	Case=Abl|Number=Sing	10	obl	_	_
-9	chiqib	chiq	VERB	_	_	10	compound	_	_
-10	ketdilar	ket	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	conj	_	SpaceAfter=No
+7	shundan	shu	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Dem	10	obl	_	_
+8	so‘ng	so‘ng	ADV	_	_	7	case	_	_
+9	xonadan	xona	NOUN	_	Case=Abl|Number=Sing	10	obl	_	_
+10	chiqdilar	chiq	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-17.1
@@ -429,21 +429,20 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-12
-# text = Yig‘ilish e’lon qilinayotganda u juda hayron bo‘lgan bo‘lsa kerak, menga tikilib qoldi.
+# text = Yig‘ilish e’lon qilinayotganda juda hayron bo‘lgan bo‘lsa kerak, menga tikilib qoldi.
 1	Yig‘ilish	yig‘ilish	NOUN	_	Case=Nom|Number=Sing	3	nsubj:pass	_	_
 2	e’lon	e’lon	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
-3	qilinayotganda	qil	VERB	_	Aspect=Prog|Case=Loc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	advcl	_	_
-4	u	u	PRON	_	Case=Nom|Number=Sing	7	nsubj	_	_
-5	juda	juda	ADV	_	_	7	advmod	_	_
-6	hayron	hayron	ADJ	_	_	7	compound	_	_
-7	bo‘lgan	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	bo‘lsa	bo‘l	VERB	_	Mood=Cnd	7	aux	_	_
-9	kerak	kerak	AUX	_	_	7	aux	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	menga	men	PRON	_	Case=Dat|Number=Sing	13	obl	_	_
-12	tikilib	tikil	VERB	_	VerbForm=Conv	13	compound	_	_
-13	qoldi	qol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	_	_
+3	qilinayotganda	qil	VERB	_	Aspect=Prog|Case=Loc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	advcl	_	_
+4	juda	juda	ADV	_	_	6	advmod	_	_
+5	hayron	hayron	ADJ	_	_	6	compound:lvc	_	_
+6	bo‘lgan	bo‘l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	bo‘lsa	bo‘l	VERB	_	Mood=Cnd	6	aux	_	_
+8	kerak	kerak	AUX	_	_	6	aux	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	menga	men	PRON	_	Case=Dat|Number=Sing	12	obl	_	_
+11	tikilib	tikil	VERB	_	VerbForm=Conv	12	compound	_	_
+12	qoldi	qol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-13
 # text = Kardiganim uyda ekanmi?
@@ -522,7 +521,7 @@
 3	erisha	erish	VERB	_	VerbForm=Conv	4	compound	_	_
 4	olmaydigan	ol	VERB	_	Polarity=Neg|VerbForm=Part	5	acl	_	_
 5	maqsadlardan	maqsad	NOUN	_	Case=Abl|Number=Plur	7	obl	_	_
-6	voz	voz	PART	_	_	7	compound	_	_
+6	voz	voz	PART	_	_	7	compound:lvc	_	_
 7	kechtirishimiz	kech	VERB	_	Number=Plur|Person=1|VerbForm=Vnoun	_	_	_	_
 8	kerak	kerak	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
@@ -952,15 +951,14 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 50
-# text = Deniz kech uxlasa, maktabga kech qolar.
+# text = Deniz kech uxlasa, maktabga kechikadi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	kech	kech	ADV	_	_	3	advmod	_	_
-3	uxlasa	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3	7	advcl	_	SpaceAfter=No
+3	uxlasa	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	maktabga	maktab	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
-6	kech	kech	ADV	_	_	7	compound	_	_
-7	qolar	qol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+5	maktabga	maktab	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+6	kechikadi	kechik	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 51
 # text = Deniz kech uxlasa, maktabga kech qoladi.
@@ -969,7 +967,7 @@
 3	uxlasa	uxla	VERB	_	Mood=Cnd|Number=Sing|Person=3	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	maktabga	maktab	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
-6	kech	kech	ADV	_	_	7	compound	_	_
+6	kech	kech	ADV	_	_	7	compound:lvc	_	_
 7	qoladi	qol	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -1025,7 +1023,7 @@
 # text = Deniz birodarini yomon koʻradi.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	birodarini	birodar	NOUN	_	Case=Acc|Number=Plur|Poss=Yes	4	obj	_	_
-3	yomon	yomon	ADJ	_	_	4	compound	_	_
+3	yomon	yomon	ADJ	_	_	4	compound:lvc	_	_
 4	koʻradi	koʻr	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -1257,7 +1255,7 @@
 # text = Mening mashinam Deniznikining ko‘ki.
 1	Mening	men	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	mashinam	mashina	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	nsubj	_	_
-3	Deniznikining	Deniz	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	4	nmod	_	_
+3	Deniznikining	Deniz	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	4	obl	_	_
 4	ko‘ki	ko‘k	ADJ	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -1352,7 +1350,7 @@
 5	uy	uy	NOUN	_	Case=Nom|Number=Sing	6	compound	_	_
 6	vazifalarini	vazifa	NOUN	_	Case=Acc|Number=Plur|Poss=Yes	7	obj	_	_
 7	bajarishda	bajar	VERB	_	Case=Loc|VerbForm=Vnoun	9	xcomp	_	_
-8	yordam	yordam	NOUN	_	Case=Nom|Number=Sing	9	compound	_	_
+8	yordam	yordam	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	_
 9	bergan	ber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
