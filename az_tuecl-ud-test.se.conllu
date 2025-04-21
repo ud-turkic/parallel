@@ -573,7 +573,7 @@
 # sent_id = udtw23-17
 # text = Kollən, oxumağı yox, amma nəqqaşi çekmağı söyür.
 # glossing = in.general read-ACC no but paint draw-ACC like-PRS.3SG
-# text[en] = In general they like to paint, not to read.
+# text[en] = In general s/he likes to paint, not to read.
 1	Kollən	Kollən	ADV	_	_	9	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	oxumağı	oxu	VERB	_	Case=Acc|VerbForm=Vnoun	9	xcomp	_	_
@@ -625,7 +625,7 @@
 # text = Moəllim kitabı alıp, mədrəsəyə getdi.
 # glossing = teacher book-ACC take-3SG. school-DAT go-3SG.PAST
 # text[en] = The teacher took the book and left for school.
-1	Moəllim	moəllim	NOUN	_	Number=Sing	6	nsubj	_	_
+1	Moəllim	moəllim	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 3	alıp	al	VERB	_	Aspect=Perf|VerbForm=Conv	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -637,7 +637,7 @@
 # text = Moəllim kitabı alıp, mədrəsəyə apardı.
 # glossing = teacher book-ACC take-3SG. school-DAT take-3SG.PAST
 # text[en] = The teacher took the book to school.
-1	Moəllim	moəllim	NOUN	_	Number=Sing	6	nsubj	_	_
+1	Moəllim	moəllim	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 3	alıp	al	VERB	_	Aspect=Perf|VerbForm=Conv	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -658,8 +658,8 @@
 # glossing = Deniz book read-PRS.3SG
 # text[en] = Deniz is reading a book.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	kitab	kitab	NOUN	_	Number=Sing	3	obj	_	_
-3	oxur	oxu	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	oxur	oxu	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 3
@@ -667,9 +667,9 @@
 # glossing = Deniz evening-PL home-LOC book read-PRS.3SG
 # text[en] = Deniz reads books in the evenings.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-2	axşamlar	axşam	NOUN	_	Number=Plur	5	obl	_	_
+2	axşamlar	axşam	NOUN	_	Case=Nom|Number=Plur	5	obl	_	_
 3	evdə	ev	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
-4	kitab	kitab	NOUN	_	Number=Sing	5	obj	_	_
+4	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	oxur	oxu	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -699,7 +699,7 @@
 # text[en] = The teacher lectured the children.
 1	Moəllim	Moəllim	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	uşaqlara	uşaq	NOUN	_	Case=Dat|Number=Plur	4	obl	_	_
-3	dərs	dərs	NOUN	_	Number=Sing	4	compound	_	_
+3	dərs	dərs	NOUN	_	Case=Nom|Number=Sing	4	compound	_	_
 4	verdi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -711,7 +711,7 @@
 2	yoldaşına	yoldaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
 3	bir	bir	NUM	_	NumType=Card	5	nummod	_	_
 4	dənə	dənə	NOUN	_	Number=Sing	3	nmod	_	_
-5	kitab	kitab	NOUN	_	Number=Sing	6	obj	_	_
+5	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
 6	aldı	al	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -730,7 +730,7 @@
 # text[en] = Deniz is complaining about his/her friend.
 1	Deniz	_	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	yoldaşlarınnan	_	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
-3	şikayət	_	NOUN	_	Number=Sing	4	compound:lvc	_	_
+3	şikayət	_	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
 4	elir	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -752,7 +752,7 @@
 3	pişirdigi	piş	VERB	_	Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	4	advcl	_	_
 4	qəzadan	qəza	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
 5	ikki	ikki	NUM	_	NumType=Card	6	nummod	_	_
-6	boşqab	boşqab	NOUN	_	Number=Sing	7	obj	_	_
+6	boşqab	boşqab	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
 7	yedi	ye	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -762,7 +762,7 @@
 # text[en] = Deniz slept for three hours.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
-3	saat	saat	NOUN	_	Number=Sing	4	obl	_	_
+3	saat	saat	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
 4	yuxladı	yuxla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -793,11 +793,11 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 17
-# text = Deniz evdədir.
-# glossing = Deniz home-LOC-be.COP-PRS.3SG
+# text = Deniz evdə.
+# glossing = Deniz home-LOC
 # text[en] = Deniz is at home.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	evdədir	ev	NOUN	_	Case=Loc|Cop=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	evdə	ev	NOUN	_	Case=Loc|Cop=Yes|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
@@ -840,7 +840,7 @@
 # text[en] = Deniz hat slept.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	yatmış	yat	VERB	_	Aspect=Perf|Evident=Nfh|Tense=Past|VerbForm=Part	0	root	_	_
-3	iydı	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
+3	iydı	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 23
@@ -862,7 +862,7 @@
 4	yaxçı	yaxçı	ADJ	_	_	6	amod	_	_
 5	bir	bir	DET	_	NumType=Card	6	det	_	_
 6	mədrəsəde	mədrəsə	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
-7	dərs	dərs	NOUN	_	Number=Sing	8	compound	_	_
+7	dərs	dərs	NOUN	_	Case=Nom|Number=Sing	8	compound	_	_
 8	oxumasıydı	oxu	VERB	_	Case=Nom|Cop=Yes|Mood=Ind|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -874,7 +874,7 @@
 2	yaxçı	yaxçı	ADJ	_	_	4	amod	_	_
 3	bir	bir	DET	_	NumType=Card	4	det	_	_
 4	mədrəsədə	mədrəsə	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
-5	dərs	dərs	NOUN	_	Number=Sing	6	compound	_	_
+5	dərs	dərs	NOUN	_	Case=Nom|Number=Sing	6	compound	_	_
 6	oxumaması	oxu	VERB	_	Case=Nom|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|VerbForm=Vnoun	9	ccomp	_	_
 7	anasını	ana	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	_
 8	nigəran	nigəran	ADJ	_	_	9	compound:lvc	_	_
@@ -888,7 +888,7 @@
 1	Mizin	miz	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
 2	üstündə	üst	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 3	çox	çox	ADJ	_	_	4	amod	_	_
-4	kitab	kitab	NOUN	_	Number=Sing	5	nsubj	_	_
+4	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 5	var	var	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	kitabxanda	kitabxana	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
@@ -960,6 +960,18 @@
 2	düşünmürü	düşün	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = 38
+# text = Oxumağı yox, nəqqaşi çekmağı söyür.
+# glossing = read-ACC no paint draw-ACC like-PRS.3SG
+# text[en] = S/he likes to paint, not to read.
+1	oxumağı	oxu	VERB	_	Case=Acc|VerbForm=Vnoun	6	xcomp	_	_
+2	yox	yox	ADV	_	Polarity=Neg	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	nəqqaşi	nəqqaşi	NOUN	_	Case=Nom|Number=Sing	5	compound:lvc	_	_
+5	çekmağı	çek	VERB	_	Case=Acc|VerbForm=Vnoun	1	conj	_	_
+6	söyür	söy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
 # sent_id = 39
 # text = Deniz otaqda dəyildi.
 # glossing = Deniz room-LOC NEG.be-PST.3SG
@@ -983,9 +995,60 @@
 # glossing = Deniz book read-INF want-PRS.3SG
 # text[en] = Deniz wants to read books.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-2	kitab	kitab	NOUN	_	Number=Sing	3	obj	_	_
+2	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	oxumaq	oxu	VERB	_	VerbForm=Vnoun	4	xcomp	_	_
 4	istəyir	ist	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43
+# text = Deniz babasının ona kitab oxumasını istəyir.
+# text[en] = Deniz wants her/his father to read him/her (a) book.
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+2	babasının	baba	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
+3	ona	o	PRON	_	Case=Dat|Number=Sing|Number[psor]=Sing	5	obl	_	_
+4	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	oxumasını	oxu	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	6	ccomp	_	_
+6	istəyir	istə	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 44
+# text = Deniz özünə olmağı söyür.
+# text[en] = Deniz wants to be by himself/herself.
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	özünə	öz	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	3	obl	_	_
+3	olmağı	ol	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
+4	söyür	söy	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 45
+# text = Anasının kitab oxuması Dənizin yuxusunu rahatlaşdırır.
+# text[en] = When her/his mother reads, it becomes easier for Deniz to sleep.
+1	Anasının	ana	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+2	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	oxuması	oku	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	6	csubj	_	_
+4	Denizin	Deniz	PROPN	_	Case=Gen|Number=Sing	5	nsubj	_	_
+5	yuxlamasını	yuxla	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	6	ccomp	_	_
+6	rahatlaşdırır	rahatlaş	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46
+# text =  Uşaqlara kitab oxumaq təkamulları için əhəmmiyətlidir.
+# text[en] = Reading to children is important for their development.
+1	Uşaqlara	uşaq	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
+2	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	oxumaq	oxu	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	6	csubj	_	_
+4	təkamulları	təkamul	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	6	obl	_	_
+5	için	için	ADP	_	_	4	case	_	_
+6	əhəmmiyətlidir	əhəmmiyətl	ADJ	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 47
+# text = Deniz kitap okuyarak uyuyor.
+# text[en] = Deniz reads before sleep (lit: Deniz sleeps by reading).
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	oxuyarakən	oku	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	yuxlur	yux	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 48
@@ -993,7 +1056,7 @@
 # glossing = Deniz holiday be-PTCP-ACC memory-POSS.3SG-ABL 
 # text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-2	tətil	tətil	NOUN	_	Number=Sing	3	compound	_	_
+2	tətil	tətil	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
 3	olduğunu	ol	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl	_	_
 4	yadınnan	yad	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	compound	_	_
 5	cıxardıp	çıxar	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	SpaceAfter=No
@@ -1001,6 +1064,21 @@
 7	mədrəsəyə	mədrəsə	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
 8	getmişdi	get	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 49
+# text = Deniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getmişdi.
+# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.#
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+2	tətil	tətil	NOUN	_	Case=Nom|Number=Sing	4	ccomp	_	_
+3	olduğunu	ol	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	2	aux	_	_
+4	yadınnan	yad	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	compound	_	_
+5	cıxardıp	çıxar	VERB	_	Aspect=Perf|VerbForm=Conv	9	advcl	_	SpaceAfter=No
+6	kifini	kif	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obj	_	_
+7	götürüb	götür	VERB	_	VerbForm=Conv	5	conj	_	_
+8	mədrəsəyə	mədrəsə	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
+9	getmişdi	get	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
 
 # sent_id = 50
 # text = Deniz gec yatsa mədrəsəyə gecikip.
@@ -1040,7 +1118,7 @@
 # glossing = if child we home-DAT go-NEG-EVID sleep-COND.3SG arrive-as.sson.as must s/he-ACC wake.up-CAUS-1PL
 # text[en] = If the child sleeps before we arrive home, we will need to wake him/her up.
 1	Əyər	əyər	SCONJ	_	_	6	mark	_	_
-2	uşaq	uşaq	NOUN	_	Number=Sing	6	nsubj	_	_
+2	uşaq	uşaq	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	biz	biz	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 4	evə	ev	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
 5	getməmış	get	VERB	_	Aspect=Perf|Evident=Nfh|Polarity=Neg|Tense=Past|VerbForm=Conv	6	advcl	_	_
@@ -1063,10 +1141,10 @@
 # text = Fikr elirəm ki uşaq tez yatacax.
 # glossing = thought do-PRS-1SG that child early sleep-FUT.3SG
 # text[en] = I think that the child will sleep early.
-1	Fikr	Fikr	NOUN	_	Number=Sing	2	compound:lvc	_	_
+1	Fikr	Fikr	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
 2	elirəm	elə	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	ki	ki	SCONJ	_	_	6	mark	_	_
-4	uşaq	uşaq	NOUN	_	Number=Sing	6	nsubj	_	_
+4	uşaq	uşaq	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 5	tez	tez	ADV	_	_	6	advmod	_	_
 6	yatacax	yat	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	ccomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
@@ -1081,11 +1159,19 @@
 4	gelir	gəl	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = 58
+# text = Sabahı səbirsizliklə gözləyirəm.
+# text[en] = I am looking forward to tomorrow.
+1	Sabahı	sabah	NOUN	_	_	3	obj	_	_
+2	səbirsizliklə	səbirsizlik	ADV	_	_	3	advmod	_	_
+3	gözləyirəm	gözlə	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
 # sent_id = 59
 # text = Xəstəxana xalqın xidmətinə verildi.
 # glossing = hospital people-GEN service-POSS.3SG-DAT give-PASS-PST.3SG
 # text[en] = The hospital was made available to the public.
-1	Xəstəxana	xəstəxana	NOUN	_	Number=Sing	4	nsubj	_	_
+1	Xəstəxana	xəstəxana	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	xalqın	xalq	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
 3	xidmətinə	xidmət	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 4	verildi	ver	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past||Voice=Pass	0	root	_	SpaceAfter=No
@@ -1099,8 +1185,8 @@
 2-3	evdəki	_	_	_	_	_	_	_	_
 2	evdə	ev	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing	4	nmod	_	_
 3	ki	ki	ADP	_	_	2	case	_	_
-4	uşaq	uşaq	NOUN	_	Number=Sing	6	nsubj	_	_
-5	kitab	kitab	NOUN	_	Number=Sing	6	obj	_	_
+4	uşaq	uşaq	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
 6	oxur	ox	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -1115,6 +1201,23 @@
 4	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	oxur	ox	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 62
+# text = Böyük evdəki uşağın tüklәri sarıdır, kiçik evdəkininki qəhveyidir.
+# text[en] = The hair of the child in the big house is blond, the one of the one in the small house is brown.
+1	Büyük	büyük	ADJ	_	_	2	amod	_	_
+2	evdəki	ev	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
+3	uşağın	uşaq	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	tüklәri	tük	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
+5	sarıdır	sarı	ADJ	_	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	kiçik	kiçik	ADJ	_	_	8	amod	_	_
+8-10	evdəkininki	_	_	_	_	_	_	_	_
+8	evdə	ev	NOUN	_	Case=Loc|Number=Sing	9	nmod	_	_
+9	kinin	ki	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
+10	ki	ki	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+11	qəhveyidir	qəhveyi	ADJ	_	_	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 63
 # text =  Soğanları qərələnə çan qızardın.
@@ -1146,7 +1249,7 @@
 1	Muqəddəs	muqəddəs	ADJ	_	_	2	amod	_	_
 2	kitabı	kitab	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	3	obj	_	_
 3	olmuyan	ol	VERB	_	Polarity=Neg|VerbForm=Part	4	acl	_	_
-4	dinlər	din	NOUN	_	Number=Plur	6	nsubj	_	_
+4	dinlər	din	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 5	də	də	ADV	_	_	4	advmod:emph	_	_
 6	var	var	ADJ	_	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
@@ -1234,6 +1337,14 @@
 3	var	var	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
+# sent_id = 76
+# text = çörək var evdə?
+# text[en] = Is there (any) bread at home?
+1	çörək	çörək	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	var	var	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+3	evdə	ev	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
+4	?	?	PUNCT	_	_	2	punct	_	_
+
 # sent_id = 77
 # text = Oxuduğuzu düsünürdüz?
 # glossing = read-PTCP-POSS.2PL-ACC understand-PROG-PST-2PL
@@ -1252,6 +1363,28 @@
 4	Ayhana	Ayhan	PROPN	_	Case=Dat|Number=Sing	5	obl	_	_
 5	verdi	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 80
+# text = Söbh kitabı Deniz Ayhana verdi?
+# glossing = morning book-ACC Deniz Ayhan-DAT give-PST.3SG
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+1	Söbh	söbh	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+2	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+3	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	Ayhana	Ayhan	PROPN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	verdi	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 81
+# text = Söbh kitabı Deniz Ayhana verdi?
+# glossing = morning book-ACC Deniz Ayhan-DAT give-PST.3SG
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+1	Söbh	söbh	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+2	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	Ayhana	Ayhan	PROPN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	verdi	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+5	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 83
 # text = Mənə abisini verərsən?
