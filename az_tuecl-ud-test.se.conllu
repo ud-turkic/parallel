@@ -1451,3 +1451,98 @@
 2	getdi	get	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = 91
+# text = Deniz buralara gəlip, boş vəxtində kitab oxuyar iydi.
+# text[en] = Deniz used to come here and read a book in her free time.
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	buralara	bura	PRON	_	Case=Dat|Number=Plur	3	obl	_	_
+3	gəlip	gəl	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	boş	boş	ADJ	_	_	6	amod	_	_
+6	vəxtində	vəxt	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
+7	kitab	kitab	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	oxuyar	oxu	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+9	iydi	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 92
+# text = Sən də bizinən gəlirən, elə dəğil?
+1	Sən	sən	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	də	də	PART	_	_	1	advmod:emph	_	_
+3	bizinən	biz	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+4	gəlirən	gəl	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	elə	elə	ADV	_	_	7	advmod	_	_
+7	dəğil	dəğil	AUX	_	Polarity=Neg	4	discourse	_	_
+8	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 93
+# text = O elə bir kitabdır ki, onu oxuyan bir də dünyaya eyni şəkildə baxmiyacaq.
+# text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
+1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	elə	elə	ADV	_	_	4	advmod	_	_
+3	bir	bir	DET	_	Definite=Ind|Number=Sing	4	det	_	_
+4	kitabdır	kitab	NOUN	N	Case=Nom|Number=Sing|Person=3|Copula=Yes	0	root	_	_
+5	ki	ki	SCONJ	_	_	14	mark	_	_
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	onu	o	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	oxuyan	oxu	VERB	_	VerbForm=Part	14	csubj	_	_
+9	bir	bir	DET	_	_	10	det	_	_
+10	də	də	ADV	_	_	14	advmod:emph	_	_
+11	dünyaya	dünya	NOUN	_	Case=Dat|Number=Sing	14	obl	_	_
+12	eyni	eyni	ADJ	_	_	13	amod	_	_
+13	gözünən	göz	NOUN	_	Case=Ins|Number=Sing	14	obl	_	_
+14	baxmaz	bax	VERB	_	Aspect=Hab|Evident=Fh|Mood=GenPot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	advcl	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 94
+# text = Sən əvvəl təmizləməgi qutar da ütüyü hal elərik.
+# text[en] = You finish the cleaning first, then we will handle the ironing.
+# type = miscellaneous (de connecting sentences, -lIk derivation)
+1	Sən	sən	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	əvvəl	önce	ADV	_	_	4	advmod	_	_
+3	təmizləməgi	təmizləmək	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	qutar	qutar	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+5	da	da	ADV	_	_	4	advmod:emph	_	_
+6	ütüyü	ütü	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	hal	hal	NOUN	_	Aspect=Hab|Mood=Gen|Number=Plur|Person=1|Tense=Pres	8	compound	_	SpaceAfter=No
+8	elərik	elə	VERB	_	_	4	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 95
+# text = Deyəsən Ayşə Hakanın məşq yazmasına kömək eləmişimiş..
+# text[en] = Seemingly Ayşe helped Hakan do his homework.
+1	Deyəsən	de	VERB	_	_	7	advmod	_	_
+2	Ayşə	Ayşə	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+3	Hakanın	Hakan	PROPN	_	Case=Gen|Number=Sing	5	nsubj	_	_
+4	məşq	məşq	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	yazmasına	yap	VERB	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	7	advcl	_	_
+6	kömək	kömək	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	_
+7	eləmişimiş	et	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pqp	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 96
+# text = kollən movəffəq bir film iydi.
+# text[en] = It was a successful film overall.
+1	kollən	kollən	ADV	_	_	4	advcl	_	_
+2	movəffəq	movəffəq	ADJ	_	_	4	amod	_	_
+3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	film	film	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	iydi	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 97
+# text = Alma ağaclar Fərvərdin-Ordibeheşt aylarında gül açır, çarpaz tozlanır.
+# text[en] = Apple trees bloom (approximately) April to May and cross-pollinate
+1	Alma	alma	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	ağaclar	ağaç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
+3	Fərvərdin	Fərvərdin	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	Ordibeheşt	Ordibeheşt	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
+6	aylarında	ay	NOUN	_	Case=Loc|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
+7	gül	gül	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	açır	aç	VERB	_	VerbForm=Conv	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	çarpaz	çarpaz	ADJ	_	_	11	advmod	_	_
+11	tozlanır	tozlaş	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	_
