@@ -440,7 +440,8 @@
 11	велосипед	велосипед	NOUN	_	_	8	orphan	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-15.2 (delate 'Al' in annotation)
+# sent_id = cairo-15.2
+# note = delate 'Al' in annotation
 # text = Унаа сатып алды, бирок анын иниси жөн гана велосипед.
 # translit = Unaa satı-p al-dı, birok a-nın ini-si jön ğana velosiped.
 # glossing = car buy-INF take-PST.3SG but he/she-GEN younger.brother-POSS.3SG just only bike
