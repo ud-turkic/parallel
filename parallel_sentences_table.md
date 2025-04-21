@@ -2,7 +2,6 @@
 
 | Sentence ID | English | Azerbaijani | Kyrgyz | Turkish | Uzbek |
 |------------|------------|------------|------------|------------|------------|
-| cairo-15.2 (delate 'Al' in annotation) |  |  | Унаа сатып алды, бирок анын иниси жөн гана велосипед. |  |  |
 | cairo-1 | The girl wrote a letter to her friend. | Qız yoldaşına namә yazdı. | Кыз досуна кат жазды. | Kız arkadaşına mektup yazdı. | Qiz do'stiga xat yozdi. |
 | cairo-2 | I think that it is raining. | Fikr elirәm yağış yağır. | Жамгыр жаап жатат деп ойлойм. | Yağmur yağdığını zannediyorum. | Menimcha, yomg'ir yog'yapti. |
 | cairo-2.1 |  |  | Жамгыр жаап жатат окшойт. |  |  |
@@ -29,7 +28,7 @@
 | cairo-14.1 | When do you think you can come? | Siz Fikr eliriz nə vaxt gələ bilərsiz? | Сен качан келе алам деп ойлойсуң? | Sen ne zaman gelebileceğini zannediyorsun? | Sen qachon kelishing mumkin deb o'ylaysan? |
 | cairo-14.2 | When do you think you can come? | Fikr eliriz nə vaxt gələ bilərsiz? | Качан келе алам деп ойлойсуң? | Ne zaman gelebileceğini zannediyorsun? | Qachon kelishing mumkin deb o'ylaysan? |
 | cairo-15.1 | He bought a car but his brother just a bike. | O maşın aldı amma qardaşı fәqәt çәrx aldı. | Ал унаа сатып алды, бирок анын иниси жөн гана велосипед. | O araba aldı ama erkek kardeşi sadece bisiklet. | U mashina oldi, lekin ukasi faqat velosiped oldi. |
-| cairo-15.2 | He bought a car but his brother just a bike. | Bir dәnә maşın aldı amma qardaşı fәqәt çәrx aldı. |  | Araba aldı ama erkek kardeşi sadece bisiklet. | Mashina oldi, lekin ukasi faqat velosiped oldi. |
+| cairo-15.2 | He bought a car but his brother just a bike. | Bir dәnә maşın aldı amma qardaşı fәqәt çәrx aldı. | Унаа сатып алды, бирок анын иниси жөн гана велосипед. | Araba aldı ama erkek kardeşi sadece bisiklet. | Mashina oldi, lekin ukasi faqat velosiped oldi. |
 | cairo-16 | Peter and Mary hugged each other and then left the room. | Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar. | Питер менен Мэри бири-бирин кучакташты, андан соң бөлмөдөн чыгып кетишти. | Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar. | Piter va Meri bir-birlarini quchoqladilar va shundan so'ng xonadan chiqdilar. |
 | cairo-16.1 |  |  | Питер менен Мэри кучакташты, андан соң бөлмөдөн чыгып кетишти. |  |  |
 | cairo-17.1 | She should have been doing her hair but for some reason she wouldn't that day. | O Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi. | Ал чачын жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес. | O saçını yapıyor olmalıydı ama nedense o gün yapmadı. | U sochini turmaklashi kerak edi, lekin negadir o'sha kuni turmaklamadi. |
