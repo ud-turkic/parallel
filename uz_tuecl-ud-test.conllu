@@ -25,7 +25,7 @@
 7	qildi	qil	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = cairo-uz-3.2
+# sent_id = cairo-3.2
 # text = Chekish va ichishni tashlashga harakat qildi.
 1	Chekish	chek	VERB	_	Case=Nom|VerbForm=Vnoun	4	xcomp	_	_
 2	va	va	CCONJ	_	_	3	cc	_	_
@@ -64,7 +64,7 @@
 4	yuvdirdi	yuv	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-uz-6.2
+# sent_id = cairo-6.2
 # text = Eriga mashinani yuvdirdi.
 1	Eriga	er	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 2	mashinani	mashina	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
@@ -133,7 +133,7 @@
 4	bilmaydi	bil	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = cairo-uz-12.2
+# sent_id = cairo-12.2
 # text = Kim yozganini bilmaydi.
 1	Kim	kim	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
 2	yozganini	yoz	VERB	_	Case=Acc|VerbForm=Part	3	ccomp	_	_
@@ -147,7 +147,7 @@
 3	qarayapsan	qara	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = cairo-uz-13.2
+# sent_id = cairo-13.2
 # text = Nimaga qarayapsan?
 1	Nimaga	nima	PRON	_	Case=Dat|Number=Sing|PronType=Int	2	obl	_	_
 2	qarayapsan	qara	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
@@ -163,7 +163,7 @@
 6	o‘ylaysan	o‘yla	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	_
 
-# sent_id = cairo-uz-14.2
+# sent_id = cairo-14.2
 # text = Qachon kelishing mumkin deb o‘ylaysan?
 1	Qachon	qachon	PRON	_	PronType=Int	2	advmod	_	_
 2	kelishing	kel	VERB	_	VerbForm=Vnoun	5	xcomp	_	_
@@ -226,7 +226,7 @@
 11	turmaklamadi	turmakla	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = cairo-uz-17.2
+# sent_id = cairo-17.2
 # text = Sochini turmaklashi kerak edi, lekin negadir o‘sha kuni turmaklamadi.
 1	Sochini	soch	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 2	turmaklashi	turmakla	VERB	_	Number=Sing|Person=3|VerbForm=Vnoun	0	root	_	_
@@ -271,7 +271,7 @@
 5	o‘sgan	o‘s	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = cairo-uz-20.2
+# sent_id = cairo-20.2
 # text = Fransiya poytaxti Parijda o‘sgan.
 1	Fransiya	Fransiya	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
 2	poytaxti	poytaxt	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nmod	_	_
