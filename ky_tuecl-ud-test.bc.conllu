@@ -1792,7 +1792,7 @@
 # issue: Negation
 # text[en] = He/She does not understand things he/she reads.
 # text[az] = 
-# text[uz] = O‘qiganlarini tushungani yo‘q.
+# text[uz] = O'qiganlarini tushungani yo'q.
 # text[tr] = Okuduklarini anliyor değil. 
 1-2	Окугандарын	_	_	_	_	_	_	_	_
 1	Окуган	оку	VERB	_	_	2	acl	_	_
@@ -1809,7 +1809,7 @@
 # issue: Negation [double Negation]
 # text[en] = It is not that he/she does not understand things he/she reads.
 # text[az] = 
-# text[uz] = O‘qiganlarini tushunmaydi emas.
+# text[uz] = O'qiganlarini tushunmaydi emas.
 # text[tr] = Okuduklarini anlamiyor değil. 
 1-2	Окугандарын	_	_	_	_	_	_	_	_
 1	Окуган	оку	VERB	_	_	2	acl	_	_
@@ -1826,7 +1826,7 @@
 # issue: Negation
 # text[en] = (He/she does) not (like) reading, (but) he/she likes painting. (coordination with 'degil' and elision)
 # text[az] = 
-# text[uz] = O‘qishni emas, rasm chizishni yaxshi ko‘radi.
+# text[uz] = O'qishni emas, rasm chizishni yaxshi ko'radi.
 # text[tr] = Okumayi değil, resim yapmayı seviyor.
 1	Окуганды	оку	VERB	_	_	7	xcomp	_	_
 2	эмес	эмес	ADV	_	_	1	advmod	_	_
@@ -1890,7 +1890,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Deniz wants read books.
 # text[az] = 
-# text[uz] = Deniz kitob o‘qishni xohlaydi.
+# text[uz] = Deniz kitob o'qishni xohlaydi.
 # text[tr] = Deniz kitap okumayi istiyor.
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
@@ -1905,7 +1905,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Deniz wants her/his father to read him/her (a) book. 
 # text[az] = 
-# text[uz] = Deniz otasining kitob o‘qib berishini xohlaydi.
+# text[uz] = Deniz otasining kitob o'qib berishini xohlaydi.
 # text[tr] = Deniz babasinin kendisine kitap okumasini istiyor.
 1	Дениз	Дениз	PROPN	_	_	7	nsubj	_	_
 2	атасынын	ата	NOUN	_	_	6	nsubj	_	_
@@ -1924,7 +1924,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Deniz wants to be by himself/herself. 
 # text[az] = 
-# text[uz] = Deniz o‘zi bilan o‘zi bo‘lishni yaxshi ko‘radi.
+# text[uz] = Deniz o'zi bilan o'zi bo'lishni yaxshi ko'radi.
 # text[tr] = Deniz kendi kendine olmayi seviyor.
 1	Дениз	Дениз	PROPN	_	_	7	nsubj	_	_
 2	өзү	 өз	PRON	_	_	4	compound	_	_
@@ -1942,7 +1942,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = When her/his mother reads, it becomes easier for Deniz to sleep. (lit: Her mother's reading eases Deniz' sleep.)
 # text[az] = 
-# text[uz] = Onasining kitob o‘qishi Denizning uxlashini osonlashtiradi.
+# text[uz] = Onasining kitob o'qishi Denizning uxlashini osonlashtiradi.
 # text[tr] = Annesinin kitap okumasi Deniz'in uyumasini kolaylaştiriyor.
 1	Апасынын	апа	NOUN	_	_	3	nsubj	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
@@ -1960,7 +1960,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Reading to children is important for their development.
 # text[az] = 
-# text[uz] = Bolalarga kitob o‘qish ularning rivojlanishi uchun muhimdir.
+# text[uz] = Bolalarga kitob o'qish ularning rivojlanishi uchun muhimdir.
 # text[tr] = Çocuklara kitap okumak gelişimleri için önemli.
 1	Балдарга	бала	NOUN	_	_	3	obl	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
@@ -1981,7 +1981,7 @@
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Deniz reads before sleep.(lit: Deniz sleeps by reading)
 # text[az] = 
-# text[uz] = Deniz kitob o‘qib uxlayapti.
+# text[uz] = Deniz kitob o'qib uxlayapti.
 # text[uz] =
 # text[tr] = Deniz kitap okuyarak uyuyor.
 1	Дениз	Дениз	NOUN	_	_	5	nsubj	_	_
@@ -2720,7 +2720,7 @@
 # issue:
 # text[en] = The blue (version) of this is nicer. [-si, (pro)nominals]
 # text[az] = Bunun abisi daha gözəldir.
-# text[uz] = Buning ko‘k rangi chiroyliroq.
+# text[uz] = Buning ko'k rangi chiroyliroq.
 # text[tr] = Bunun mavisi daha güzel.
 1	Мунун	бул	PRON	_	_	2	nmod:poss	_	_
 2	көгү	көк	ADJ	_	_	3	nsubj	_	_
@@ -2734,7 +2734,7 @@
 # issue:
 # text[en] = My car is the blue (version) of Deniz'es.
 # text[az] = Mənim maşınım Denizinkinin abisi.
-# text[uz] = Mening mashinam Deniznikining ko‘ki.
+# text[uz] = Mening mashinam Deniznikining ko'ki.
 # text[tr] = Benim arabam Deniz'inkinin mavisi.
 1	Менин	мен	PRON	_	_	2	nmod:poss	_	_
 2	унаам	унаа	NOUN	_	_	5	nsubj	_	_
@@ -2751,7 +2751,7 @@
 # issue: 
 # text[en] = The book is being read. [Passive]
 # text[az] = Kitab oxunur.
-# text[uz] = Kitob o‘qilyapti.
+# text[uz] = Kitob o'qilyapti.
 # text[tr] = Kitap okunuyor.
 1	Китеп	китеп	NOUN	_	_	2	nsubj	_	_
 2	окулуп	оку	VERB	_	_	0	root	_	_
@@ -2765,7 +2765,7 @@
 # issue: Double causative
 # text[en] = The book will be made to be made to be read in all schools. [Double causative]
 # text[az] = Kitab tamam mədrəsələrdə oxutdurulacax.
-# text[uz] = Kitob barcha maktablarda o‘qitiladi.
+# text[uz] = Kitob barcha maktablarda o'qitiladi.
 # text[tr] = Kitap bütün okullarda okutturulacak. [Double causative]
 1	Китеп	китеп	NOUN	_	_	4	nsubj:pass	_	_
 2	бардык	бардык	DET	_	_	3	det	_	_
@@ -2832,7 +2832,7 @@
 # issue: miscellaneous (idi + epenthesis)
 # text[en] = Deniz used to come here and read a book in her free time.
 # text[az] = 
-# text[uz] = Deniz bu yerga kelib, bo‘sh vaqtlarida kitob o‘qir edi.
+# text[uz] = Deniz bu yerga kelib, bo'sh vaqtlarida kitob o'qir edi.
 # text[tr] = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	бул	бул	DET	_	_	3	det	_	_
@@ -2853,7 +2853,7 @@
 # issue: miscellaneous (tag question)
 # text[en] = You are coming with us, aren't you?
 # text[az] = 
-# text[uz] = Siz biz bilan kelasiz, to‘g‘rimi?
+# text[uz] = Siz biz bilan kelasiz, to'g'rimi?
 # text[tr] = Sen de bizimle geliyorsun, değil mi?
 1	Сен	сен	PRON	_	_	5	nsubj	_	_
 2	да	да	ADV	_	_	1	advmod:emph	_	_
@@ -2873,7 +2873,7 @@
 # issue: miscellaneous (ki connecting sentences, MWE)
 # text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
 # text[az] = 
-# text[uz] = Bu shunday kitobki, uni o‘qigan dunyoga boshqacha nazar bilan qaraydi.
+# text[uz] = Bu shunday kitobki, uni o'qigan dunyoga boshqacha nazar bilan qaraydi.
 # text[tr] = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
 1	Ал	ал	PROPN	_	_	4	nsubj	_	_
 2	ошондой	_	ADV	_	_	4	advmod	_	_
@@ -2899,7 +2899,7 @@
 # issue: miscellaneous (ki connecting sentences, MWE)
 # text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
 # text[az] = 
-# text[uz] = Bu shunday kitobki, uni o‘qigan dunyoga boshqacha nazar bilan qaraydi.
+# text[uz] = Bu shunday kitobki, uni o'qigan dunyoga boshqacha nazar bilan qaraydi.
 # text[tr] = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
 # note: added 'adam'
 1	Ал	ал	PROPN	_	_	4	nsubj	_	_
@@ -3005,7 +3005,7 @@
 # issue: "алма дарактар" - 'alma daraqtar'
 # text[en] = Apple trees bloom (approximately) April to May and cross-pollinate.
 # text[az] = 
-# text[uz] = Olma daraxtlari aprel-may oylarida gullab, o‘zaro changlanadi.
+# text[uz] = Olma daraxtlari aprel-may oylarida gullab, o'zaro changlanadi.
 # text[tr] = Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
 # note: (april to may) not april and may - (in this case functions if as a '&') conj. If numerical ranges - in Eng: - as a POS: (SYM)BOL and as a dep: case
 1	Алма	алма	NOUN	_	_	2	nmod	_	_
