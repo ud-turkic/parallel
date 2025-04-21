@@ -63,7 +63,6 @@
 2	istəyirsiniz	istә	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
-
 # sent_id = cairo-5
 # text = Sam, pәncәrәni aç!
 # glossing = Sam window-ACC open.IMP.2SG
@@ -83,7 +82,6 @@
 3	maşını	maşın	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 4	yudurtdu	yu	VERB	_	Aspect=Perf|Causative=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
-
 
 # sent_id = cairo-6.2
 # text = Әrinә maşını yudurtdu.
@@ -253,7 +251,7 @@
 # sent_id = cairo-16
 # text = Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar.
 # glossing = Peter-COM Mary hug-RECP-PST-3PL and then room-ABL exit-PST-3PL
-# text[en] =  Peter and Mary hugged each other and then left the room.
+# text[en] = Peter and Mary hugged each other and then left the room.
 1	Peterinәn	Peter	PROPN	_	Case=Com|Number=Sing	3	nsubj	_	_
 2	Mary	Mary	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
 3	qucaxlaşdılar	qucaxla	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Rcp	0	root	_	_
@@ -325,7 +323,7 @@
 # sent_id = cairo-20.1
 # text = O Fәransәnin paytәxti, Parisdә böyüdü.
 # glossing = She France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
-# text[en] =  She grew up in Paris, the capital of France.
+# text[en] = She grew up in Paris, the capital of France.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 2	Fәransәnin	Fәransә	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	_
 3	paytәxti	paytәxt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl	_	SpaceAfter=No
@@ -337,7 +335,7 @@
 # sent_id = cairo-20.2
 # text = Fәransәnin paytәxti, Parisdә böyüdü.
 # glossing = France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
-# text[en] =  She grew up in Paris, the capital of France.
+# text[en] = She grew up in Paris, the capital of France.
 1	Fәransәnin	Fәransә	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	_
 2	paytәxti	paytәxt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -676,7 +674,7 @@
 # sent_id = 4
 # text = Deniz qardaşına kitabı verdi.
 # glossing = Deniz brother-POSS.3SG-DAT book-ACC give-PST.3SG
-# text[en] =  Deniz gave the book to his/her sister/brother.
+# text[en] = Deniz gave the book to his/her sister/brother.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	qardaşına	qardaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 3	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
@@ -1078,7 +1076,6 @@
 8	mədrəsəyə	mədrəsə	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
 9	getmişdi	get	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
-
 
 # sent_id = 50
 # text = Deniz gec yatsa mədrəsəyə gecikip.
