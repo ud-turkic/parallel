@@ -5,7 +5,6 @@
 # issue: obl vs. ind.object
 # text[en] = The girl wrote a letter to her friend.
 # text[az] = Qız yoldaşına namә yazdı.
-# text[uz] = 
 # text[tr] = Kız arkadaşına mektup yazdı.
 1	Кыз	кыз	NOUN	_	_	4	nsubj	_	_
 2	досуна	дос	NOUN	_	_	4	obl	_	_
@@ -20,7 +19,6 @@
 # issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
-# text[uz] = 
 # text[tr] = Yağmur yağdığını zannediyorum.
 1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	4	ccomp	_	_
@@ -36,7 +34,6 @@
 # issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
-# text[uz] = 
 # text[tr] = Sanırım yağmur yağıyor.
 1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	0	root	_	_
@@ -51,7 +48,6 @@
 # issue:
 # text[en] = He/She tried to stop smoking and drinking.
 # text[az] = O çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
-# text[uz] = 
 # text[tr] = O sigara ve alkol içmeyi bırakmayı denedi.
 1	Ал	ал	PRON	_	_	9	nsubj	_	_
 2	тамеки	тамеки	NOUN	_	_	3	obj	_	_
@@ -71,7 +67,6 @@
 # issue:
 # text[en] = He/She tried to stop smoking and drinking.
 # text[az] = (O) çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
-# text[uz] = 
 # text[tr] = Siğara ve alkol içmeyi bırakmayı denedi.
 1	Тамеки	тамеки	NOUN	_	_	2	obj	_	_
 2	чегүүнү	чек	VERB	_	_	6	ccomp	_	_
@@ -90,7 +85,6 @@
 # issue:
 # text[en] = Do you want to go?
 # text[az] = Siz getmək istəyirsiniz?
-# text[uz] = 
 # text[tr] = Sen gitmek istiyor musun?
 # note: this one needs more discussion.
 1	Сен	сен	PRON	_	_	2	nsubj	_	_
@@ -108,7 +102,6 @@
 # issue:
 # text[en] = Do you want to go?
 # text[az] = (Siz) getmək istəyirsiniz?
-# text[uz] = 
 # text[tr] = Gitmek istiyor musun?
 1	Кеткиң	кет	VERB	_	_	2	csubj	_	_
 2	келип	кел	VERB	_	_	0	root	_	_
@@ -124,7 +117,6 @@
 # issue:
 # text[en] = Sam, open the window!
 # text[az] = Sam, pәncәrәni aç!
-# text[uz] = 
 # text[tr] = Sam, pencereyi aç!
 1	Сэм	Сэм	PROPN	_	_	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
@@ -139,7 +131,6 @@
 # issue:
 # text[en] = She made her husband wash the car.
 # text[az] = Әrinә maşını yudurtdu.
-# text[uz] = 
 # text[tr] = O kocasına arabayı yıkattırdı.
 1	Ал	ал	PRON	_	_	4	nsubj	_	_
 2	күйөөсүнө	күйө	NOUN	_	_	4	obl:cau	_	_
@@ -154,7 +145,6 @@
 # issue:
 # text[en] = She made her husband wash the car.
 # text[az] = Әrinә maşını yudurtdu.
-# text[uz] = 
 # text[tr] = Kocasına arabayı yıkattırdı.
 1	Күйөөсүнө	күйө	NOUN	_	_	3	obl:cau	_	_
 2	унааны	унаа	NOUN	_	_	3	obj	_	_
@@ -165,10 +155,9 @@
 # text = Питердин кошунасы тосмону кызылга боёду.
 # translit = Piter-din koşuna-sı tosmo-nu qızıl-ğa boyo-du.
 # glossing = Peter-GEN neighbour-POSS.3 fence-ACC red-DAT paint-PST[3]
-# issue:
+# issue: "qızıl-ğa"
 # text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
-# text[uz] = 
 # text[tr] = Peter'in komşusu çiti kırmızıya boyadı.
 1	Питердин	Питер	PRON	_	_	2	nmod	_	_
 2	кошунасы	кошуна	NOUN	_	_	5	nsubj	_	_
@@ -181,10 +170,9 @@
 # text = Питердин кошунасы тосмону кызыл түскө боёду.
 # translit = Piter-din koşuna-sı tosmo-nu qızıl tüs-kö boyo-du.
 # glossing = Peter-GEN neighbour-POSS.3 fence-ACC red colour-DAT paint-PST[3]
-# issue:
+# issue: "qızıl-ğa" -> "qızıl tüs-kö"
 # text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
-# text[uz] = 
 # text[tr] = Peter'in komşusu çiti kırmızı boyadı.
 1	Питердин	Питер	PRON	_	_	2	nmod	_	_
 2	кошунасы	кошуна	NOUN	_	_	6	nsubj	_	_
@@ -201,7 +189,6 @@
 # issue:
 # text[en] = My dad is cooler than yours.
 # text[az] = Mәnin babam sәninkindən bәtәrdi.
-# text[uz] = 
 # text[tr] = Benim babam seninkinden daha harika.
 1	Менин	мен	PRON	_	_	2	nmod:poss	_	_
 2	атам	ата	NOUN	_	_	5	nsubj	_	_
@@ -218,7 +205,6 @@
 # issue:
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
-# text[uz] = 
 # text[tr] = Mary bronz kazandı, Peter gümüş, Jane altın.
 1	Мэри	Мэри	PROPN	_	_	3	nsubj	_	_
 2	коло	коло	NOUN	_	_	3	obl	_	_
@@ -238,7 +224,6 @@
 # issue:
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
-# text[uz] = 
 # text[tr] = Mary bronz, Peter gümüş, Jane altın kazandı.
 1	Мэри	Мэри	PROPN	_	_	9	nsubj	_	_
 2	коло	коло	NOUN	_	_	9	obj	_	SpaceAfter=No
@@ -258,7 +243,6 @@
 # issue:
 # text[en] = Is Iguazu a big or a small country?
 # text[az] = İguazu büyük bir kisvərdir, ya kiçik?
-# text[uz] = 
 # text[tr] = İguazu büyük bir ülke mi, yoksa küçük mü?
 1	Игуазу	Игуазу	PROPN	_	_	3	nsubj	_	_
 2	чоң	чоң	ADJ	_	_	3	amod	_	_
@@ -278,7 +262,6 @@
 # issue:
 # text[en] = Neither Peter Smith nor Mary Brown could be selected.
 # text[az] = Nә Peter Smith nә Mary Brown, intixab ola bildi.
-# text[uz] = 
 # text[tr] = Ne Peter Smith ne de Mary Brown seçilebilir.
 1	Питер	Питер	PROPN	_	_	8	nsubj	_	_
 2	Смит	Смит	PROPN	_	_	1	flat	_	_
@@ -299,13 +282,13 @@
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.
-# text[uz] = 
 # text[tr] = Onlar kimin yazdığını hiç bilmiyorlar.
-1	кимдин	ким	PRON	_	_	2	nsubj	_	_
-2	жазганын	жаз	VERB	_	_	4	ccomp	_	_
-3	эч	эч	ADV	_	_	4	advmod	_	_
-4	билишпейт	бил	VERB	_	_	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+2	кимдин	ким	PRON	_	_	3	nsubj	_	_
+3	жазганын	жаз	VERB	_	_	5	ccomp	_	_
+4	эч	эч	ADV	_	_	5	advmod	_	_
+5	билишпейт	бил	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-12.2
 # text = Кимдин жазганын эч билишпейт.
@@ -314,7 +297,6 @@
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.
-# text[uz] = 
 # text[tr] = Kimin yazdığını hiç bilmiyorlar.
 1	Кимдин	ким	PRON	_	_	2	nsubj	_	_
 2	жазганын	жаз	VERB	_	_	4	ccomp	_	_
@@ -329,8 +311,8 @@
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.irleri yok.
-# text[uz] = 
 # text[tr] = Onlar kimin yazdığı konusunda hiç bir fik.
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 1	кимдин	ким	PRON	_	_	2	nsubj	_	_
 2	жазгандыгы	жаз	VERB	_	_	7	obl	_	_
 3	жөнүндө	жөнүндө	ADP	_	_	2	case	_	_
@@ -347,7 +329,6 @@
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.irleri yok.
-# text[uz] = 
 # text[tr] = Kimin yazdığı konusunda hiç bir fik.
 1	Кимдин	ким	PRON	_	_	2	nsubj	_	_
 2	жазгандыгы	жаз	VERB	_	_	7	obl	_	_
@@ -365,8 +346,8 @@
 # issue:
 # text[en] = What are you looking at?
 # text[az] = Nәmәyә baxɪran?
-# text[uz] = 
 # text[tr] = Sen neye bakıyorsun?
+1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 1	эмнени	эмне	PRON	_	_	2	obl	_	_
 2	карап	кара	VERB	_	_	0	root	_	_
 3	жатасың	жат	AUX	_	_	2	aux	_	SpaceAfter=No
@@ -379,7 +360,6 @@
 # issue:
 # text[en] = What are you looking at?
 # text[az] = Nәmәyә baxɪran?
-# text[uz] = 
 # text[tr] = Neye bakıyorsun?
 1	Эмнени	эмне	PRON	_	_	2	obl	_	_
 2	карап	кара	VERB	_	_	0	root	_	_
@@ -393,8 +373,8 @@
 # issue:
 # text[en] = When do you think you can come?
 # text[az] = Fikr eliriz nə vaxt gələ bilərsiz?
-# text[uz] = 
 # text[tr] = Sen ne zaman gelebileceğini düşünüyorsun?
+1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 1	качан	качан	ADV	_	_	2	advmod	_	_
 2	келе	кел	VERB	_	_	4	ccomp	_	_
 3	алам	ал	AUX	_	_	2	aux	_	_
@@ -409,7 +389,6 @@
 # issue:
 # text[en] = When do you think you can come?
 # text[az] = Fikr eliriz nə vaxt gələ bilərsiz?
-# text[uz] = 
 # text[tr] = Ne zaman gelebileceğini düşünüyorsun?
 1	Качан	качан	ADV	_	_	2	advmod	_	_
 2	келе	кел	VERB	_	_	4	ccomp	_	_
@@ -425,7 +404,6 @@
 # issue:
 # text[en] = He/She bought a car but his/her younger brother just a bike.
 # text[az] = O bir dәnә maşɪn aldɪ amma qardaşı fәqәt çәrx aldɪ.
-# text[uz] = 
 # text[tr] = O araba aldı ama erkek kardeşi sadece bisiklet.
 1	Ал	ал	PRON	_	_	4	nsubj	_	_
 2	унаа	унаа	NOUN	_	_	4	obj	_	_
@@ -441,27 +419,24 @@
 12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-15.2
-# note = delate 'Al' in annotation
 # text = Унаа сатып алды, бирок анын иниси жөн гана велосипед.
 # translit = Unaa satı-p al-dı, birok a-nın ini-si jön ğana velosiped.
 # glossing = car buy-INF take-PST.3SG but he/she-GEN younger.brother-POSS.3SG just only bike
 # issue:
 # text[en] = He/She bought a car but his/her younger brother just a bike.
 # text[az] = O bir dәnә maşɪn aldɪ amma qardaşı fәqәt çәrx aldɪ.
-# text[uz] = 
 # text[tr] = Araba aldı ama erkek kardeşi sadece bisiklet.
-1	Ал	ал	PRON	_	_	4	nsubj	_	_
-2	унаа	унаа	NOUN	_	_	4	obj	_	_
-3	сатып	сат	VERB	_	_	4	compound	_	_
-4	алды	ал	VERB	_	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	бирок	бирок	CCONJ	_	_	8	cc	_	_
-7	анын	ал	PRON	_	_	8	nmod	_	_
-8	иниси	ини	NOUN	_	_	4	conj	_	_
-9	жөн	жөн	ADV	_	_	11	advmod	_	_
-10	гана	гана	ADV	_	_	9	advmod:emph	_	_
-11	велосипед	велосипед	NOUN	_	_	8	orphan	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	_
+1	Унаа	унаа	NOUN	_	_	3	obj	_	_
+2	сатып	сат	VERB	_	_	3	compound	_	_
+3	алды	ал	VERB	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	бирок	бирок	CCONJ	_	_	7	cc	_	_
+6	анын	ал	PRON	_	_	7	nmod	_	_
+7	иниси	ини	NOUN	_	_	3	conj	_	_
+8	жөн	жөн	ADV	_	_	10	advmod	_	_
+9	гана	гана	ADV	_	_	8	advmod:emph	_	_
+10	велосипед	велосипед	NOUN	_	_	7	orphan	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-16
 # text = Питер менен Мэри бири-бирин кучакташты, андан соң бөлмөдөн чыгып кетишти.
@@ -470,7 +445,6 @@
 # issue:
 # text[en] = Peter and Mary hugged each other and then left the room.
 # text[az] = Peterinәn Mary qucaxlaşdɪlar vә sora otaqdan çɪxdɪlar.
-# text[uz] = 
 # text[tr] = Peter ve Mary birbirlerini kucakladılar ve sonra odadan çıktılar.	
 # note: "бири-бирин" - lemma: "бир-бир"
 1	Питер	Питер	PROPN	_	_	7	nsubj	_	_
@@ -495,7 +469,6 @@
 # issue:
 # text[en] = Peter and Mary hugged each other and then left the room.
 # text[az] = Peterinәn Mary qucaxlaşdɪlar vә sora otaqdan çɪxdɪlar.
-# text[uz] = 
 # text[tr] = Peter ve Mary kucaklaştılar ve sonra odadan çıktılar.
 # note: omitted "бири-бирин" - lemma: "бир-бир"
 1	Питер	Питер	PROPN	_	_	4	nsubj	_	_
@@ -517,7 +490,6 @@
 # issue:
 # text[en] = He/She should have been doing his/her hair but for some reason he/she wouldn't that day.
 # text[az] = Tüklәrin cürlǝmǝliydi, amma neçә dәlilә görә o gün elǝmәdi.
-# text[uz] = 
 # text[tr] = O saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 1	Ал	ал	PRON	_	_	3	nsubj	_	_
 2	чачын	чач	NOUN	_	_	3	obj	_	_
@@ -541,22 +513,20 @@
 # issue:
 # text[en] = He/She should have been doing his/her hair but for some reason he/she wouldn't that day.
 # text[az] = Tüklәrin cürlǝmǝliydi, amma neçә dәlilә görә o gün elǝmәdi.
-# text[uz] = 
 # text[tr] = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
-1	Ал	ал	PRON	_	_	3	nsubj	_	_
-2	Чачын	чач	NOUN	_	_	3	obj	_	_
-3	жасалгалап	жасалгала	VERB	_	_	5	csubj	_	_
-4	туруш	тур	AUX	_	_	3	aux	_	_
-5	керек	керек	ADJ	_	_	6	nsubj	_	_
-6	болчу	бол	VERB	_	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	бирок	бирок	CCONJ	_	_	12	cc	_	_
-9	эмнегедир	эмнеге	ADV	_	_	12	advmod	_	_
-10	ошол	ошо	DET	_	_	11	det	_	_
-11	күнү	күн	NOUN	_	_	12	obl:tmod	_	_
-12	жасаган	жаса	VERB	_	_	6	conj	_	_
-13	эмес	эмес	ADV	_	_	12	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	_
+1	Чачын	чач	NOUN	_	_	2	obj	_	_
+2	жасалгалап	жасалгала	VERB	_	_	4	csubj	_	_
+3	туруш	тур	AUX	_	_	2	aux	_	_
+4	керек	керек	ADJ	_	_	5	nsubj	_	_
+5	болчу	бол	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	бирок	бирок	CCONJ	_	_	11	cc	_	_
+8	эмнегедир	эмнеге	ADV	_	_	11	advmod	_	_
+9	ошол	ошо	DET	_	_	10	det	_	_
+10	күнү	күн	NOUN	_	_	11	obl:tmod	_	_
+11	жасаган	жаса	VERB	_	_	5	conj	_	_
+12	эмес	эмес	ADV	_	_	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-18
 # text = Ага теңеле алган жокмун, анткени ал абдан тез чуркады.
@@ -565,7 +535,6 @@
 # issue:
 # text[en] = I wasn't able to keep up, because he/she ran too fast.
 # text[az] = O çox yeyin qaçdɪğɪ için ona çata bilmәdim.
-# text[uz] = 
 # text[tr] = Ayak uyduramadım çünkü çok hızlı koştu.
 1	Ага	ал	PRON	_	_	2	obl	_	_
 2	теңеле	теңе	VERB	_	_	0	root	_	_
@@ -586,7 +555,6 @@
 # issue:
 # text[en] = This letter is from Peter and it was delivered yesterday.
 # text[az] = Bu namә Perterdәndir vә dünәn yetişib(dir).
-# text[uz] = 
 # text[tr] = Bu mektup Peter'den ve dün iletildi.
 1	Бул	бул	DET	_	_	2	det	_	_
 2	кат	кат	NOUN	_	_	3	nsubj	_	_
@@ -604,7 +572,6 @@
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.	
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
-# text[uz] = 
 # text[tr] = O Fransanın başkenti Paris'te büyüdü.
 1	Ал	ал	PRON	_	_	5	nsubj	_	_
 2	Франциянын	Франция	PROPN	_	_	3	nmod	_	_
@@ -620,31 +587,29 @@
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.	
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
-# text[uz] = 
 # text[tr] = Fransanın başkenti Paris'te büyüdü.
-1	Ал	ал	PRON	_	_	5	nsubj	_	_
-2	Франциянын	Франция	PROPN	_	_	3	nmod	_	_
-3	борбору	борбор	NOUN	_	_	4	nmod	_	_
-4	Парижде	Париж	PROPN	_	_	5	obl	_	_
-5	чоңойду	чоңой	VERB	_	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+1	Франциянын	Франция	PROPN	_	_	2	nmod	_	_
+2	борбору	борбор	NOUN	_	_	3	nmod	_	_
+3	Парижде	Париж	PROPN	_	_	4	obl	_	_
+4	чоңойду	чоңой	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-20.3
 # text = Ал Парижде, Франциянын борборунда, чоңойду.
-# translit = Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
-# glossing = Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
+# translit = Al Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
+# glossing = he/she Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
-# text[uz] = 
 # text[tr] = Paris'te, Fransanın başkentinde, büyüdü.
-1	Парижде	Париж	PROPN	_	_	6	obl	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	Франциянын	Франция	PROPN	_	_	4	nmod	_	_
-4	борборунда	борбор	NOUN	_	_	1	appos	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	чоңойду	чоңой	VERB	_	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+1	Ал	ал	PRON	_	_	7	nsubj	_	_
+2	Парижде	Париж	PROPN	_	_	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	Франциянын	Франция	PROPN	_	_	5	nmod	_	_
+5	борборунда	борбор	NOUN	_	_	2	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	чоңойду	чоңой	VERB	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-20.4
 # text = Парижде, Франциянын борборунда, чоңойду.
@@ -653,7 +618,6 @@
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
-# text[uz] = 
 # text[tr] = Paris'te, Fransanın başkentinde, büyüdü.
 1	Парижде	Париж	PROPN	_	_	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
