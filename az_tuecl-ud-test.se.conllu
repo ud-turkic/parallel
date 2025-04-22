@@ -18,6 +18,7 @@
 4	yağır	yağ	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = cairo-3.1
 # text = O çalışdı kı siqar çekmә vә әlkol içmәni tәrkidә.
 # glossing = s/he try-PST.3SG that cigarette smoke-INF and alcohol drink-INF-ACC leave-CAUS-SUBJ.3SG
 # text[en] = S/he tried to stop smoking and drinking.
@@ -1598,9 +1599,9 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 96
-# text = kollən movəffəq bir film iydi.
+# text = Kollən movəffəq bir film iydi.
 # text[en] = It was a successful film overall.
-1	kollən	kollən	ADV	_	_	4	advcl	_	_
+1	Kollən	kollən	ADV	_	_	4	advcl	_	_
 2	movəffəq	movəffəq	ADJ	_	_	4	amod	_	_
 3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	film	film	NOUN	_	Case=Nom|Number=Sing	0	root	_	_

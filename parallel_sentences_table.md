@@ -84,7 +84,7 @@
 | 14.1 |  |  | Дениз студент кыз. |  |  |
 | 15 | Deniz is a student. |  | Дениз студент. | Deniz öğrencidir. | Deniz talabadir. |
 | 16 | Deniz will become a doctor. | Deniz düktür olacax. | Дениз доктур болот. | Deniz doktor olacak. | Deniz shifokor bo'ladi. |
-| 17 | Deniz is at home. | Deniz evdədir. | Дениз үйдө. | Deniz evde. | Deniz uyda. |
+| 17 | Deniz is at home. | Deniz evdə. | Дениз үйдө. | Deniz evde. | Deniz uyda. |
 | 18 | Deniz was at home. | Deniz evdəyidi. | Дениз үйдө болчу. | Deniz evdeydi. | Deniz uyda edi. |
 | 19 | Deniz was at home. | Deniz evdə iydi. | Дениз үйдө эле. | Deniz evde idi. | Deniz uyda bo'lgandi. |
 | 20 | The present was for Deniz. | Hediye Deniz içindi. | Белек Дениз үчүн болчу. | Hediye Deniz içindi. | Sovg'a Deniz uchun edi. |
@@ -98,43 +98,43 @@
 | 27 | Deniz does not have any books. | Denizin heç kitabı yox. | Дениздин эч бир китеби жок. | Deniz'in hiç kitabı yok. | Denizning hech qanday kitobi yo'q. |
 | 28 | Deniz was not at home. |  Deniz evdə dəyildi. | Дениз үйдө эмес эле. | Deniz evde değildi. | Deniz uyda emasdi. |
 | 29 | Deniz does not sleep on time. | Deniz vəxtikən yatmır. | Дениз өз убагында уктабайт. | Deniz zamanında uyumuyor. | Deniz vaqtida uxlamaydi. |
-| 30 | Deniz cannot sleep. |  | Дениз уктай албай жатат. | Deniz uyuyamıyor. | Deniz uxlay olmaydi. |
+| 30 | Deniz cannot sleep. | Deniz yata bilmir. | Дениз уктай албай жатат. | Deniz uyuyamıyor. | Deniz uxlay olmaydi. |
 | 31 | Deniz may not be able to sleep on time. | Deniz vəxtikən yatmıya bilir. | Дениз өз убагында уктай албашы мүмкүн. | Deniz zamanında uyuyamayabilir. | Deniz vaqtida uxlay olmasligi mumkin. |
 | 32 | (It turned out that) Deniz did not see her/his mother. | Deniz anasın görmədi. | Дениз апасын көрбөй калды. | Deniz annesini görmemiş oldu. | Deniz onasini ko'rmay qoldi. |
 | 33 | (It turned out that) Deniz did not see her/his mother. |  | Дениз апасын көрүп калган жок. | Deniz annesini görmüş olmadı. | Deniz onasini ko'rib qolmadi. |
 | 34 | (It turned out that) Deniz did not not-see her/his mother. | Deniz anasın görməmiş olmadı. | Дениз апасын көрбөй калган жок. | Deniz annesini görmemiş olmadı. | Deniz onasini ko'rmay qolmadi. |
 | 35 | He/she does not understand things he/she reads. | Oxuduxlarını düşünmürü. | Окугандарын түшүнбөй жатат. | Okuduklarını anlamıyor. | O'qiganlarini tushunmaydi. |
-| 36 | He/she does not understand things he/she reads. |  | Окугандарын түшүнүп жаткан жок. | Okuduklarını anlıyor değil. | O'qiganlarini tushungani yo'q. |
-| 37 | It is not that he/she does not understand things he/she reads. |  | Окугандарын түшүнбөй жаткан жок. | Okuduklarını anlamıyor değil. | O'qiganlarini tushunmaydi emas. |
-| 38 | (He/she does) not (like) reading, (but) he/she likes painting. |  | Окуганды эмес, сүрөт тартканды жакшы көрөт. | Okumayı değil, resim yapmayı seviyor. | O'qishni emas, rasm chizishni yaxshi ko'radi. |
+| 36 | He/she does not understand things he/she reads. | Oxuduxlarını düşünmürü. | Окугандарын түшүнүп жаткан жок. | Okuduklarını anlıyor değil. | O'qiganlarini tushungani yo'q. |
+| 37 | It is not that he/she does not understand things he/she reads. | Oxuduxlarını düşünmürü. | Окугандарын түшүнбөй жаткан жок. | Okuduklarını anlamıyor değil. | O'qiganlarini tushunmaydi emas. |
+| 38 | (He/she does) not (like) reading, (but) he/she likes painting. | Oxumağı yox, nəqqaşi çekmağı söyür. | Окуганды эмес, сүрөт тартканды жакшы көрөт. | Okumayı değil, resim yapmayı seviyor. | O'qishni emas, rasm chizishni yaxshi ko'radi. |
 | 39 | Deniz was not in the room. | Deniz otaqda dəyildi. | Дениз бөлмөдө эмес эле. | Deniz odada değildi. | Deniz xonada emasdi. |
 | 40 | Deniz was not in the room. | Deniz otaqda yoxdu(r). | Дениз бөлмөдө жок эле. | Deniz odada yoktu. | Deniz xonada yo'q edi. |
 | 41 | Deniz wants to read books. | Deniz kitab oxumaq istəyir. | Дениздин китеп окугусу келип жатат. | Deniz kitap okumak istiyor. | Deniz kitob o'qimoqchi. |
-| 42 | Deniz wants to read books. |  | Дениз китеп окууну каалайт. | Deniz kitap okumayı istiyor. | Deniz kitob o'qishni xohlaydi. |
-| 43 | Deniz wants her/his father to read him/her (a) book. |  | Дениз атасын ага китеп окуп беришин каалайт. | Deniz babasının kendisine kitap okumasını istiyor. | Deniz otasining kitob o'qib berishini xohlaydi. |
-| 44 | Deniz wants to be by himself/herself. |  | Дениз өзү менен өзү болууну жакшы көрөт. | Deniz kendi kendine olmayı seviyor. | Deniz o'zi bilan o'zi bo'lishni yaxshi ko'radi. |
-| 45 | When her/his mother reads, it becomes easier for Deniz to sleep. |  |  Апасынын китеп окушу Дениздин уктоосун жеңилдетет. | Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor. | Onasining kitob o'qishi Denizning uxlashini osonlashtiradi. |
-| 46 | Reading to children is important for their development. |  | Балдарга китеп окуп берүү алардын өсүп - өнүгүүсү үчүн маанилүү. | Çocuklara kitap okumak gelişimleri için önemli. | Bolalarga kitob o'qish ularning rivojlanishi uchun muhimdir. |
-| 47 | Deniz reads before sleep (lit: Deniz sleeps by reading). |  | Дениз китеп окуп жатып уктайт. | Deniz kitap okuyarak uyuyor. | Deniz kitob o'qib uxlayapti. |
+| 42 | Deniz wants to read books. | Deniz kitab oxumaq istəyir. | Дениз китеп окууну каалайт. | Deniz kitap okumayı istiyor. | Deniz kitob o'qishni xohlaydi. |
+| 43 | Deniz wants her/his father to read him/her (a) book. | Deniz babasının ona kitab oxumasını istəyir. | Дениз атасын ага китеп окуп беришин каалайт. | Deniz babasının kendisine kitap okumasını istiyor. | Deniz otasining kitob o'qib berishini xohlaydi. |
+| 44 | Deniz wants to be by himself/herself. | Deniz özünə olmağı söyür. | Дениз өзү менен өзү болууну жакшы көрөт. | Deniz kendi kendine olmayı seviyor. | Deniz o'zi bilan o'zi bo'lishni yaxshi ko'radi. |
+| 45 | When her/his mother reads, it becomes easier for Deniz to sleep. | Anasının kitab oxuması Dənizin yuxusunu rahatlaşdırır. |  Апасынын китеп окушу Дениздин уктоосун жеңилдетет. | Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor. | Onasining kitob o'qishi Denizning uxlashini osonlashtiradi. |
+| 46 | Reading to children is important for their development. |  Uşaqlara kitab oxumaq təkamulları için əhəmmiyətlidir. | Балдарга китеп окуп берүү алардын өсүп - өнүгүүсү үчүн маанилүү. | Çocuklara kitap okumak gelişimleri için önemli. | Bolalarga kitob o'qish ularning rivojlanishi uchun muhimdir. |
+| 47 | Deniz reads before sleep (lit: Deniz sleeps by reading). | Deniz kitap okuyarak uyuyor. | Дениз китеп окуп жатып уктайт. | Deniz kitap okuyarak uyuyor. | Deniz kitob o'qib uxlayapti. |
 | 48 | Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday. | Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi. | Дениз каникул экенин унутуп мектепке барыптыр. | Deniz tatil olduğunu unutup okula gitmiş. | Deniz ta’til ekanligini unutib, maktabga ketgan. |
-| 49 | Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday. |  | Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр. | Deniz tatil olduğunu unutup çantasını alıp okula gitmiş. | Deniz ta’til ekanligini unutib, sumkasini olib, maktabga ketgan. |
+| 49 | Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday. | Deniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getmişdi. | Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр. | Deniz tatil olduğunu unutup çantasını alıp okula gitmiş. | Deniz ta’til ekanligini unutib, sumkasini olib, maktabga ketgan. |
 | 49.1 |  |  | Дениз каникул болгонун унутуп, сумкасын алып мектепке барыптыр. |  |  |
 | 50 | If Deniz sleeps late, he/she would be late. | Deniz gec yatsa mədrəsəyə gecikip. | Дениз кеч уктаса мектепке кечигет эле. | Deniz geç uyursa okula geç kalır. | Deniz kech uxlasa, maktabga kechikadi. |
 | 51 | If Deniz sleeps late, he/she will be late. | Deniz gec yatsa mədrəsəyə gec qalacax. | Дениз кеч уктаса мектепке кечигип барат. | Deniz geç uyursa okula geç kalacak. | Deniz kech uxlasa, maktabga kech qoladi. |
 | 51.1 |  |  | Дениз кеч жатса мектепке кеч калат. |  |  |
 | 52 | If the child had slept, we'd watch a movie. | Uşaq yatsaydı filmə baxacaqıdıx. | Бала уктаса кино көрөт элек. | Çocuk uyumuş olsaydı film izleyecektik. | Agar bola uxlaganida, kino ko'rgan bo'lardik. |
 | 53 | If the child sleeps before we arrive home, we will need to wake him/her up. | Əyər uşaq biz evə getməmış yatsa, yetişincə gərək onu oyandırax. | Эгер бала биз үйгө жеткиче уктап калса, барганыбызда ойготушубуз керек болот. | Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek. | Agar bola uyga ketmasdan uxlab qolsa, borganimizda uyg'otishimiz kerak bo'ladi. |
-| 54 | Nevermind. |  | Көңүлгө алба. | Boş ver. | Hechqisi yoʻq. |
+| 54 | Nevermind. | Boşla. | Көңүлгө алба. | Boş ver. | Hechqisi yoʻq. |
 | 55 | Nevermind. | Boşla. | Көңүлгө алба. | Boşver. | Hech qaysisi yoʻq. |
 | 56 | I think that the child will sleep early. | Fikr elirəm ki uşaq tez yatacax. | Бала эрте уктайт деп ойлоп жатам. | Çocuğun erken uyuyacağını zannediyorum. | Menimcha, bola erta uxlaydi. |
 | 56.1 |  |  | Баланын эрте уктарын ойлоп жатам. |  |  |
 | 57 | Deniz hates his/her brother/sister. | Deniz qardaşınnan acığı gelir. | Дениз бир тууганын жек көрөт. | Deniz kardeşinden nefret ediyor. | Deniz birodarini yomon koʻradi. |
-| 58 | I am looking forward to tomorrow. |  | Эртеңки күндү чыдамсыздык менен күтүп жатам. | Yarını iple çekiyorum. | Ertangi kunni intiqlik bilan kutaman. |
+| 58 | I am looking forward to tomorrow. | Sabahı səbirsizliklə gözləyirəm. | Эртеңки күндү чыдамсыздык менен күтүп жатам. | Yarını iple çekiyorum. | Ertangi kunni intiqlik bilan kutaman. |
 | 59 | The hospital was made available to the public. | Xəstəxana xalqın xidmətinə verildi. | Оорукана эл кызматына берилди. | Hastane halkın hizmetine sunuldu. | Kasalxona davlat xizmatiga topshirildi. |
 | 60 | The child in the big house is reading (a) book. | Böyük evdəki uşaq kitab oxur. | Чоң үйдөгү бала китеп окуп жатат. | Büyük evdeki çocuk kitap okuyor. | Katta uydagi bola kitob o'qiyapti. |
 | 60.1 |  |  | Чоң үйдөгү бала китеп окуп жатат. |  |  |
 | 61 | The one in the big house is reading (a) book. | Böyük evdəki kitab oxur. | Чоң үйдөгү китеп окуп жатат. | Büyük evdeki kitap okuyor. | Katta uydagi kitob o'qiyapti. |
-| 62 | The hair of the child in the big house is blond, the one of the one in the small house is brown. |  | Чоң үйдөгү баланын чачы сары, кичинекей үйдөгүнүкү күрөң. | Büyük evdeki çocuğun saçları sarı, küçük evdekininki kahverengi. | Katta uydagi bolaning sochi sargʻish, kichik uydaginiki jigarrang. |
+| 62 | The hair of the child in the big house is blond, the one of the one in the small house is brown. | Böyük evdəki uşağın tüklәri sarıdır, kiçik evdəkininki qəhveyidir. | Чоң үйдөгү баланын чачы сары, кичинекей үйдөгүнүкү күрөң. | Büyük evdeki çocuğun saçları sarı, küçük evdekininki kahverengi. | Katta uydagi bolaning sochi sargʻish, kichik uydaginiki jigarrang. |
 | 63 | Fry the onions until they become dark pink. |  Soğanları qərələnə çan qızardın. | Пиязды кызарганга чейин кууруңуз. | Soğanları koyu pembeleşinceye kadar kavurun. | Piyozni toʻq pushti rangga aylanguniga qadar qovuring. |
 | 64 | There is a three-car parking place in front of the house. |  Evin qabağında üç maşınlıq park yeri var. | Үйдүн алдында үч унаалык унаа токтоотуучу жай бар. | Evin önünde üç arabalık park yeri var. | Uyning oldida uchta mashina uchun toʻxtash joyi bor. |
 | 65 | There are religions without holy books. | Muqəddəs kitabı olmuyan dinlər də var. | Ыйык китепсиз диндер да бар. | Kutsal kitapsız dinler de var. | Muqaddas kitobsiz dinlar ham bor. |
@@ -149,29 +149,29 @@
 | 72 | Was Deniz not at home? | Deniz evdə dəyildi? | Дениз үйдө эмес беле? | Deniz evde değil miydi? | Deniz uyda emasmidi? |
 | 73 | Is Deniz not at home? | Deniz evdə yoxdu(r)? | Дениз үйдө жокпу? | Deniz evde yok mu? | Deniz uyda yo'qmi? |
 | 74 | Is there (any) bread at home? | Evdə çörək var? | Үйдө нан барбы? | Evde ekmek var mı? | Uyda non bormi? |
-| 75 | Is there (any) bread at home? |  | Үйдө нан барбы? | Evde mi ekmek var? | Non uyda bormi? |
-| 76 | Is there (any) bread at home? |  | Үйдө нан барбы? | Evde ekmek mi var? | Uyda non bormi? |
+| 75 | Is there (any) bread at home? | Evdə çörək var? | Үйдө нан барбы? | Evde mi ekmek var? | Non uyda bormi? |
+| 76 | Is there (any) bread at home? | çörək var evdə? | Үйдө нан барбы? | Evde ekmek mi var? | Uyda non bormi? |
 | 77 | Were you understanding what you read? | Oxuduğuzu düsünürdüz? | Окуганыңызды түшүнүп жаттыңызбы? | Okuduğunuzu anlıyor muydunuz? | O'qiganingizni tushundingizmi? |
 | 78 | Did Deniz give the book to Ayhan in the morning? | Söbh Deniz kitabı Ayhana verdi? | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz kitabı Ayhan'a verdi mi? | Ertalab Deniz kitobni Oyxonga berdimi? |
-| 79 | Did Deniz give the book to Ayhan in the morning? |  | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz mi kitabı Ayhan'a verdi? | Ertalab kitobni Oyxonga Deniz berdimi? |
-| 80 | Did Deniz give the book to Ayhan in the morning? |  | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz kitabı mı Ayhan'a verdi? | Ertalab Deniz Oyxonga kitobni berdimi? |
-| 81 | Did Deniz give the book to Ayhan in the morning? |  | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz kitabı Ayhan'a mı verdi? | Ertalab Deniz kitobni Oyxonga berdimi? |
-| 82 | Did Deniz give the book to Ayhan in the morning? |  | Дениз китепти Айханга эртең менен бердиби? | Deniz kitabı Ayhan'a sabah mı verdi? | Deniz kitobni Oyxonga ertalab berdimi? |
+| 79 | Did Deniz give the book to Ayhan in the morning? | Söbh Deniz kitabı Ayhana verdi? | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz mi kitabı Ayhan'a verdi? | Ertalab kitobni Oyxonga Deniz berdimi? |
+| 80 | Did Deniz give the book to Ayhan in the morning? | Söbh kitabı Deniz Ayhana verdi? | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz kitabı mı Ayhan'a verdi? | Ertalab Deniz Oyxonga kitobni berdimi? |
+| 81 | Did Deniz give the book to Ayhan in the morning? | Söbh kitabı Deniz Ayhana verdi? | Эртең менен Дениз китепти Айханга бердиби? | Sabah Deniz kitabı Ayhan'a mı verdi? | Ertalab Deniz kitobni Oyxonga berdimi? |
+| 82 | Did Deniz give the book to Ayhan in the morning? | Deniz kitabı Ayhana söbh verdi? | Дениз китепти Айханга эртең менен бердиби? | Deniz kitabı Ayhan'a sabah mı verdi? | Deniz kitobni Oyxonga ertalab berdimi? |
 | 83 | Can you give me the blue one? | Mənə abisini verərsən? | Мага көктү бересиңби? | Bana maviyi verir misin? | Menga ko'kni bera olasizmi? |
 | 84 | The blue (version) of this is nicer. | Bunun abisi daha gözəldir. | Мунун көгү жакшыраак. | Bunun mavisi daha güzel. | Buning ko'k rangi chiroyliroq. |
 | 85 | My car is the blue (version) of Deniz'. | Mənim maşınım Denizinkinin abisi. | Менин унаам Дениздикинин көгү. | Benim arabam Deniz'inkinin mavisi. | Mening mashinam Deniznikining ko'ki. |
 | 86 | The book is being read. | Kitab oxunur. | Китеп окулуп жатат. | Kitap okunuyor. | Kitob o'qilyapti. |
 | 87 | The book will be made to be made to be read in all schools. | Kitab tamam mədrəsələrdə oxutdurulacax. | Китеп бардык мектептерде окуттурулат. | Kitap bütün okullarda okutturulacak. | Kitob barcha maktablarda o'qitiladi. |
-| 88 | Deniz was made to sleep. |  | Дениз уктатылды. | Deniz uyutuldu. | Denizni uxlatishdi. |
+| 88 | Deniz was made to sleep. | Deniz yoxladıldı. | Дениз уктатылды. | Deniz uyutuldu. | Denizni uxlatishdi. |
 | 89 | They left. | Olar getdi. | Алар кетти. | Onlar gitti. | Ular ketdi. |
 | 89.1 |  |  | Алар кетишти. |  |  |
 | 90 | He/She left. | O getdi. | Ал кетти. | O gitti. | U ketdi. |
-| 91 | Deniz used to come here and read a book in her free time. |  | Дениз бул жакка келип, бош убактыларында китеп окуйт эле. | Deniz buralara gelir, boş vakitlerinde kitap okur idi. | Deniz bu yerga kelib, bo'sh vaqtlarida kitob o'qir edi. |
-| 92 | You are coming with us, aren't you? |  | Сен да биз менен келесиң, туурабы? | Sen de bizimle geliyorsun, değil mi? | Siz biz bilan kelasiz, to'g'rimi? |
-| 93 | It was such a book that the person who read it wouldn't be able to see the world as they did before. |  | Ал ошондой бир китеп, аны окуган дүйнөгө кайра мурункудай көз караш менен карай албайт. | O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz. | Bu shunday kitobki, uni o'qigan dunyoga boshqacha nazar bilan qaraydi. |
+| 91 | Deniz used to come here and read a book in her free time. | Deniz buralara gəlip, boş vəxtində kitab oxuyar iydi. | Дениз бул жакка келип, бош убактыларында китеп окуйт эле. | Deniz buralara gelir, boş vakitlerinde kitap okur idi. | Deniz bu yerga kelib, bo'sh vaqtlarida kitob o'qir edi. |
+| 92 | You are coming with us, aren't you? | Sən də bizinən gəlirən, elə dəğil? | Сен да биз менен келесиң, туурабы? | Sen de bizimle geliyorsun, değil mi? | Siz biz bilan kelasiz, to'g'rimi? |
+| 93 | It was such a book that the person who read it wouldn't be able to see the world as they did before. | O elə bir kitabdır ki, onu oxuyan bir də dünyaya eyni şəkildə baxmiyacaq. | Ал ошондой бир китеп, аны окуган дүйнөгө кайра мурункудай көз караш менен карай албайт. | O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz. | Bu shunday kitobki, uni o'qigan dunyoga boshqacha nazar bilan qaraydi. |
 | 93.1 |  |  | Ал ошондой бир китеп, аны окуган адам дүйнөгө кайра мурункудай көз караш менен карай албайт. |  |  |
-| 94 | You finish the cleaning first, then we will handle the ironing. |  | Сен биринчи тазалоону бүтүр, анан биз үтүктөйбүз. | Sen önce temizliği bitir de ütüyü hallederiz. | Sen avval tozalashni tugat, biz dazmollaymiz. |
-| 95 | Seemingly Ayşe helped Hakan do his homework. |  | Айткандарга караганда, Айше Хаканга үй тапшырмасын жасоого жардам бериптир. | Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş. | Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan. |
+| 94 | You finish the cleaning first, then we will handle the ironing. | Sən əvvəl təmizləməgi qutar da ütüyü hal elərik. | Сен биринчи тазалоону бүтүр, анан биз үтүктөйбүз. | Sen önce temizliği bitir de ütüyü hallederiz. | Sen avval tozalashni tugat, biz dazmollaymiz. |
+| 95 | Seemingly Ayşe helped Hakan do his homework. | Deyəsən Ayşə Hakanın məşq yazmasına kömək eləmişimiş.. | Айткандарга караганда, Айше Хаканга үй тапшырмасын жасоого жардам бериптир. | Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş. | Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan. |
 | 95.1 |  |  | Айткандарга караганда, Айше Хаканга үй тапшырмасын жасоого жардам бериптир. |  |  |
-| 96 | It was a successful film overall. |  | Жалпы алганда ийгиликтүү бир фильм болду. | Genel olarak başarılı bir filmdi. | Umuman olganda, bu muvaffaqiyatli film edi. |
-| 97 | Apple trees bloom (approximately) April to May and cross-pollinate. |  | Алма дарактар апрель-майда гүлдөп, кайчылаш чаңдашат. | Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır. | Olma daraxtlari aprel-may oylarida gullab, o'zaro changlanadi. |
+| 96 | It was a successful film overall. | kollən movəffəq bir film iydi. | Жалпы алганда ийгиликтүү бир фильм болду. | Genel olarak başarılı bir filmdi. | Umuman olganda, bu muvaffaqiyatli film edi. |
+| 97 | Apple trees bloom (approximately) April to May and cross-pollinate. | Alma ağaclar Fərvərdin-Ordibeheşt aylarında gül açır, çarpaz tozlanır. | Алма дарактар апрель-майда гүлдөп, кайчылаш чаңдашат. | Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır. | Olma daraxtlari aprel-may oylarida gullab, o'zaro changlanadi. |
