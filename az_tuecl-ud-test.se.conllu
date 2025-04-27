@@ -13,7 +13,7 @@
 # glossing = think do-PRS.1SG rain rain-PRS.3SG
 # text[en] = I think that it is raining.
 1	Fikr	fikr	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
-2	elirәm	el	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	elirәm	el	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	yağış	yağış	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 4	yağır	yağ	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -51,7 +51,7 @@
 # glossing = you.2PL go-INF want-PRS-2PL
 # text[en] = Do you want to go?
 1	Siz	siz	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
-2	getmək	git	VERB	_	VerbForm=Vnoun	3	xcomp	_	_
+2	getmək	git	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 3	istəyirsiniz	istә	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
@@ -59,7 +59,7 @@
 # text = getmək istəyirsiniz?
 # glossing = go-INF want-PRS-2PL
 # text[en] = Do you want to go?
-1	getmək	git	VERB	_	VerbForm=Vnoun	2	xcomp	_	_
+1	getmək	git	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 2	istəyirsiniz	istә	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
@@ -100,7 +100,7 @@
 2	qonşusu	qonşu	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 3	hasarı	hasar	NOUN	_	Case=Acc|Number=Sing	5	obl	_	_
 4	qırmız	qırmız	ADJ	_	_	5	xcomp	_	_
-5	rənglədi	rənglə	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+5	rənglədi	rənglə	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauCau	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-8
@@ -108,11 +108,11 @@
 # glossing = I-POSS.1SG dad-GEN you-POSS.2SG-ki-ABL cool-PRS.COP.3SG
 # text[en] = My dad is cooler than yours.
 1	Mәnin	mən	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	babam	baba	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	5	nsubj	_	_
+2	babam	baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
 3-4	sәninkindәn	_	_	_	_	_	_	_	_
 3	sәnin	sən	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 4	kindәn	-ki	PRON	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	5	nmod	_	_
-5	bәtәrdi	bətər	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres||Copula=Yes	0	root	_	SpaceAfter=No
+5	bәtәrdi	bətər	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Copula=Yes	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-9
@@ -166,7 +166,7 @@
 # text[en] = They have no idea who wrote it.
 1	Olar	olar	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	Kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	3	nsubj	_	_
-3	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|VerbForm=Part	4	ccomp	_	_
+3	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	4	ccomp	_	_
 4	bilmirlər	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -175,7 +175,7 @@
 # glossing = who-GEN write-PTCP-POSS.3SG-ACC know-NEG-PRS-3PL
 # text[en] = They have no idea who wrote it.
 1	Kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	2	nsubj	_	_
-2	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|VerbForm=Part	3	ccomp	_	_
+2	yazdığını	yaz	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	3	ccomp	_	_
 3	bilmirlər	bil	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -225,11 +225,11 @@
 # text = O maşın aldı amma qardaşı fәqәt çәrx aldı.
 # glossing = He one grain car buy-PAST.3SG but brother-POSS.3SG just bike buy-PAST.3SG
 # text[en] = He bought a car but his brother just a bike.
-1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	3	nsubj	_	_
+1	O	O	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	maşın	maşın	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	aldı	al	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	amma	amma	CCONJ	_	_	8	cc	_	_
-5	qardaşı	qardaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes	8	nsubj	_	_
+5	qardaşı	qardaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
 6	fәqәt	fәqәt	ADV	_	_	7	advmod	_	_
 7	çәrx	çәrx	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
 8	aldı	al	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	SpaceAfter=No
@@ -242,7 +242,7 @@
 1	maşın	maşın	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
 2	aldı	al	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	amma	amma	CCONJ	_	_	7	cc	_	_
-4	qardaşı	qardaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes	7	nsubj	_	_
+4	qardaşı	qardaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
 5	fәqәt	fәqәt	ADV	_	_	6	advmod	_	_
 6	çәrx	çәrx	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
 7	aldı	al	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	SpaceAfter=No
@@ -266,7 +266,7 @@
 # glossing = she hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
 1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	3	nmod	_	_
-2	Tüklәrin	tük	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	obj	_	_
+2	Tüklәrin	tük	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	cürləməliydi	cürləmə	VERB	_	Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	amma	amma	CCONJ	_	_	11	cc	_	_
@@ -282,7 +282,7 @@
 # text = Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
 # glossing = hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
-1	Tüklәrin	tük	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	2	obj	_	_
+1	Tüklәrin	tük	NOUN	_	Case=Acc|Number[psor]=Plur|Person[psor]=3	2	obj	_	_
 2	cürləməliydi	cürləmə	VERB	_	Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	amma	amma	CCONJ	_	_	10	cc	_	_
@@ -352,15 +352,15 @@
 2	bağda	baq	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nmod	_	_
 3	kı	-ki	ADP	_	_	2	case	_	_
 4	uşağ	uşaq	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
-5	otağının	otaq	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	6	nmod	_	_
-6	pəncərəsini	pəncərə	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	10	obj	_	_
+5	otağının	otaq	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nmod	_	_
+6	pəncərəsini	pəncərə	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obj	_	_
 7	tez	tez	ADV	_	_	9	compound:redup	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
 9	tez	tez	ADV	_	_	10	advmod	_	_
 10	təmizləmişdi	təmizlə	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12-13	aşpazxananınkını	_	_	_	_	_	_	_	_
-12	aşpazxananın	aşpazxana	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	13	nmod	_	_
+12	aşpazxananın	aşpazxana	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nmod	_	_
 13	kını	-ki	PRON	_	_	14	obj	_	_
 14	təmizləməmişdi	təmizlə	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	10	conj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	10	punct	_	_
@@ -375,11 +375,11 @@
 4	diyirəm	di	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	söbhlər	söbh	NOUN	_	Case=Nom|Number=Plur	9	obl	_	_
-7	yoldaşıynan	yoldaş	NOUN	_	Case=Com|Number=Sing|Person=2|Poss=Yes	9	obl	_	_
+7	yoldaşıynan	yoldaş	NOUN	_	Case=Com|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
 8	telfunda	telfun	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
 9	danışanda	danış	VERB	_	Case=Loc|VerbForm=Part	12	advcl	_	_
 10	mənim	mən	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
-11	moridimdə	morid	NOUN	_	Case=Loc|Number=Sing|Person=1|Poss=Yes	12	obl	_	_
+11	moridimdə	morid	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	_
 12	danışma	danış	VERB	_	Mood=Prog|Number=Sing|Person=2|Polarity=Neg	4	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -424,7 +424,7 @@
 1	Həll	həl	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
 2	eləməyə	elə	VERB	_	Case=Dat|VerbForm=Vnoun	4	xcomp	_	_
 3	təlaş	təlaş	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
-4	elədigimiz	elə	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Part	5	acl	_	_
+4	elədigimiz	elə	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	5	acl	_	_
 5	məsələ	məsələ	NOUN	_	Case=Nom|Number=Sing	12	nsubj:outer	_	_
 6	kitabxanada	kitabxana	NOUN	_	Case=Loc|Number=Sing	12	obl	_	_
 7	beş	beş	NUM	_	NumType=Card	9	nummod	_	_
@@ -440,7 +440,7 @@
 # glossing = grand mother-POSS.3SG nurse-COP.PST.3SG
 # text[en] = His/her grandmother was a nurse.
 1	Böyük	Böyük	ADJ	_	_	2	amod	_	_
-2	nənəsı	nənə	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	3	nsubj	_	_
+2	nənəsı	nənə	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3-4	pərəstarıdı	_	_	_	_	_	_	_	SpaceAfter=No
 3	pərəstar	pərəstar	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
 4	ıdı	i	AUX	_	Number=Sing|Person=3|Tense=Past	3	cop	_	_
@@ -531,7 +531,7 @@
 # text = Jakətim evdə iymiş?
 # glossing = jacket-POSS.1SG home-LOC be.PST...3SG
 # text[en] = Was my cardigan at home?
-1	Jakətim	jackət	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	2	nsubj	_	_
+1	Jakətim	jackət	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
 2	evdə	öy	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 3	iymiş	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
@@ -897,7 +897,7 @@
 # text = Denizin heç kitabı yox.
 # glossing = Deniz-GEN any book-POSS.3SG not.exist.PRS.3SG
 # text[en] = Deniz does not have any books.
-1	Denizin	Deniz	PROPN	_	Case=Gen|Number=Sing	4	nsubj	_	_
+1	Denizin	Deniz	PROPN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 2	heç	heç	DET	_	PronType=Neg	3	det	_	_
 3	kitabı	kitab	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 4	yox	yox	ADJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
@@ -1273,11 +1273,11 @@
 # glossing = house-GEN front-POSS.3SG-LOC three car.for park place-POSS.3SG exist.PRS.3SG
 # text[en] = There is a three-car parking place in front of the house.
 1	Evin	ev	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
-2	qabağında	qabaq	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Yes	7	obl	_	_
+2	qabağında	qabaq	NOUN	_	Case=Loc|Number=Sing||Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 3	üç	üç	NUM	_	_	4	nummod	_	_
 4	maşınlıq	maşınlıq	ADJ	_	Derivation=Liq	6	nmod	_	_
 5	park	park	NOUN	_	_	6	nmod	_	_
-6	yeri	yer	NOUN	_	Number=Sing|Person=3|Poss=Yes	7	nsubj	_	_
+6	yeri	yer	NOUN	_	Number=Sing||Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
 7	var	var	ADJ	_	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -1286,7 +1286,7 @@
 # glossing = holy book-POSS.3SG be-NEG-PTCP religion-PL also exist.PRS.3SG
 # text[en] = There are religions without holly books.
 1	Muqəddəs	muqəddəs	ADJ	_	_	2	amod	_	_
-2	kitabı	kitab	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	3	obj	_	_
+2	kitabı	kitab	NOUN	_	Case=Nom|Number=Sing||Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	olmuyan	ol	VERB	_	Polarity=Neg|VerbForm=Part	4	acl	_	_
 4	dinlər	din	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 5	də	də	ADV	_	_	4	advmod:emph	_	_
@@ -1461,7 +1461,7 @@
 # glossing = I-DAT blue-POSS.3SG-ACC give-AOR-2SG
 # text[en] = Can you give me the blue one?
 1	Mənə	mən	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-2	abisini	abi	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	3	obj	_	_
+2	abisini	abi	NOUN	_	Case=Acc|Number=Sing||Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	verərsən	ver	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
@@ -1470,7 +1470,7 @@
 # glossing = this-GEN blue-POSS.3SG more pretty-COP.3SG
 # text[en] = The blue (version) of this is nicer.
 1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod	_	_
-2	abisi	abi	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	4	nsubj	_	_
+2	abisi	abi	NOUN	_	Case=Nom|Number=Sing||Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 3	daha	daha	ADV	_	_	4	advmod	_	_
 4	gözəldir	gözəl	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -1480,11 +1480,11 @@
 # glossing = I-GEN car-POSS.1SG Deniz-GEN-ATTR-POSS.3SG blue-POSS.3SG
 # text[en] = My car is the blue (version) of Deniz's.
 1	Mənim	mən	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	maşınım	maşın	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	5	nsubj	_	_
+2	maşınım	maşın	NOUN	_	Case=Nom|Number=Sing||Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
 3-4	Denizinkinin	_	_	_	_	_	_	_	_
-3	Denizin	Deniz	PROPN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	4	nmod	_	_
+3	Denizin	Deniz	PROPN	_	Case=Gen|Number=Sing||Number[psor]=Sing|Person[psor]=3	4	nmod	_	_
 4	kinin	-ki	PRON	_	_	5	nmod	_	_
-5	abisi	abi	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	0	root	_	SpaceAfter=No
+5	abisi	abi	NOUN	_	Case=Nom|Number=Sing||Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 86
