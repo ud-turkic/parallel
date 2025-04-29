@@ -353,7 +353,7 @@
 1	Biz	biz	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	hal	hal	PART	_	_	3	compound:lvc	_	_
 3	qilmoqchi	qil	VERB	_	_	5	acl	_	_
-4	bo'layotgan	bo'l	AUX	_	Aspect=Prog|VerbForm=Part	3	aux	_	_
+4	bo'layotgan	bo'l	AUX	_	_	3	aux	_	_
 5	muammo	muammo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 6	shuki	shu	PRON	_	PronType=Dem	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
@@ -436,7 +436,7 @@
 4	juda	juda	ADV	_	_	6	advmod	_	_
 5	hayron	hayron	ADJ	_	_	6	compound:lvc	_	_
 6	bo'lgan	bo'l	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	bo'lsa	bo'l	AUX	_	Mood=Cnd	6	aux	_	_
+7	bo'lsa	bo'l	AUX	_	_	6	aux	_	_
 8	kerak	kerak	AUX	_	_	6	aux	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
 10	menga	men	PRON	_	Case=Dat|Number=Sing	12	obl	_	_
@@ -473,7 +473,7 @@
 1	Oysha	Oysha	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	bu	bu	DET	_	PronType=Dem	3	det	_	_
 3	kitobni	kitob	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
-4	o'qimagan	o'qi	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_	
+4	o'qimagan	o'qi	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
 5	emas	emas	AUX	_	Polarity=Neg	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -602,7 +602,7 @@
 
 # sent_id = 8
 # text = Deniz akasi bilan yarashdi.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	4 nsubj	_	_
+1	Deniz	Deniz	PROPN  _  Case=Nom|Number=Sing	4  nsubj  _  _
 2	akasi	aka	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	4	obl	_	_
 3	bilan	bilan	ADP	_	_	2	case	_	_
 4	yarashdi	yarash	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
