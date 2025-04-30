@@ -178,7 +178,6 @@
 6	боёду	боё	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-
 # sent_id = cairo-7.1
 # text = Питердин кошунасы тосмону кызылга боёду.
 # translit = Piter-din koşuna-sı tosmo-nu qızıl-ğa boyo-du.
@@ -333,15 +332,15 @@
 # text[az] = Olar kimin yazdığını bilmirlər.irleri yok.
 # text[uz] = Ular kim yozganini bilmaydi.
 # text[tr] = Onlar kimin yazdığı konusunda hiç bir fik.
-1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-1	кимдин	ким	PRON	_	_	2	nsubj	_	_
-2	жазгандыгы	жаз	VERB	_	_	7	obl	_	_
-3	жөнүндө	жөнүндө	ADP	_	_	2	case	_	_
-4	эч	эч	DET	_	_	5	det	_	_
-5	ойлору	ой	NOUN	_	_	7	nsubj	_	_
-6	да	да	ADV	_	_	5	advmod:emph	_	_
-7	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+2	кимдин	ким	PRON	_	_	3	nsubj	_	_
+3	жазгандыгы	жаз	VERB	_	_	8	obl	_	_
+4	жөнүндө	жөнүндө	ADP	_	_	3	case	_	_
+5	эч	эч	DET	_	_	6	det	_	_
+6	ойлору	ой	NOUN	_	_	8	nsubj	_	_
+7	да	да	ADV	_	_	6	advmod:emph	_	_
+8	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-12.4
 # text = Кимдин жазгандыгы жөнүндө эч ойлору да жок.
@@ -370,11 +369,11 @@
 # text[az] = Sәn nәmәyә baxɪran?
 # text[uz] = Sen nimaga qarayapsan?
 # text[tr] = Sen neye bakıyorsun?
-1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-1	эмнени	эмне	PRON	_	_	2	obl	_	_
-2	карап	кара	VERB	_	_	0	root	_	_
-3	жатасың	жат	AUX	_	_	2	aux	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	2	punct	_	_
+1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	эмнени	эмне	PRON	_	_	3	obl	_	_
+3	карап	кара	VERB	_	_	0	root	_	_
+4	жатасың	жат	AUX	_	_	3	aux	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.2
 # text = Эмнени карап жатасың?
@@ -399,13 +398,13 @@
 # text[az] = Siz fikr eliriz nə vaxt gələ bilərsiz?
 # text[uz] = Sen qachon kelishing mumkin deb o'ylaysan?
 # text[tr] = Sen ne zaman gelebileceğini düşünüyorsun?
-1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
-1	качан	качан	ADV	_	_	2	advmod	_	_
-2	келе	кел	VERB	_	_	4	ccomp	_	_
-3	алам	ал	AUX	_	_	2	aux	_	_
-4	деп	де	VERB	_	_	5	advcl	_	_
-5	ойлойсуң	ойло	VERB	_	_	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	5	punct	_	_
+1	Сен	сен	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+2	качан	качан	ADV	_	_	3	advmod	_	_
+3	келе	кел	VERB	_	_	5	ccomp	_	_
+4	алам	ал	AUX	_	_	3	aux	_	_
+5	деп	де	VERB	_	_	6	advcl	_	_
+6	ойлойсуң	ойло	VERB	_	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-14.2
 # text = Качан келе алам деп ойлойсуң?
@@ -2832,7 +2831,7 @@
 7	убактыларында	убакыт	NOUN	_	_	9	obl:tmod	_	_
 8	китеп	китеп	NOUN	_	_	9	obj	_	_
 9	окуйт	оку	VERB	_	_	4	conj	_	_
-10  эле	э	AUX	_	_	9	aux	_	SpaceAfter=No
+10	эле	э	AUX	_	_	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 92
