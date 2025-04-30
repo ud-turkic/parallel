@@ -30,7 +30,7 @@
 6	vә	və	CCONJ	_	_	8	cc	_	_
 7	әlkol	alkol	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
 8	içmәni	iç	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	5	conj	_	_
-9	tәrkidә	tərk	VERB	_	Mood=Subj|Number=Sing|Person=3 2 xcomp	_	_	_	_
+9	tәrkidә	tərk	VERB	_	Mood=Sub|Number=Sing|Person=3	2	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-3.2
@@ -43,7 +43,7 @@
 4	әlkol	әlkol	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	içmәni	iç	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	2	conj	_	_
 6	tәrkitmәyә	tәrk	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun	7	xcomp	_	_
-7	çalışdı	çalış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	çalışdı	çalış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-4.1
@@ -78,7 +78,7 @@
 # glossing =She husband-DAT car-ACC wash-CAUS-PST.3SG
 # text[en] = She made her husband wash the car.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	Әrinә	ər	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
+2	әrinә	ər	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 3	maşını	maşın	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 4	yudurtdu	yu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauCau	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -112,7 +112,7 @@
 3-4	sәninkindәn	_	_	_	_	_	_	_	_
 3	sәnin	sən	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 4	kindәn	-ki	PRON	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	5	nmod	_	_
-5	bәtәrdi	bətər	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Copula=Yes	0	root	_	SpaceAfter=No
+5	bәtәrdi	bətər	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-9
@@ -136,8 +136,8 @@
 # text[en] = Is Iguazu a big or a small country?
 1	İguazu	İguazu	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	böyük	böyük	ADJ	_	_	4	amod	_	_
-3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-4	kisvərdir	keşvər	NOUN	_	Case=Nom|Number=Sing|Person=3|Copula=Yes	0	root	_	SpaceAfter=No
+3	bir	bir	DET	_	Definite=Ind	4	det	_	_
+4	kisvərdir	keşvər	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	ya	ya	CCONJ	_	_	7	cc	_	_
 7	kiçik	kiçik	ADJ	_	_	4	conj	_	SpaceAfter=No
@@ -156,7 +156,7 @@
 7	Brown	Brown	PROPN	_	Case=Nom|Number=Sing	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	intixab	intixab	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	_
-10	ola	ol	VERB	_	Mood=Subj|VerbForm=Conv	0	root	_	_
+10	ola	ol	VERB	_	Mood=Sub|VerbForm=Conv	0	root	_	_
 11	bildi	bil	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -203,9 +203,9 @@
 1	Siz	siz	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
 2	Fikr	fikr	NOUN	_	Case=Nom|Number=Sing	3	compound:lvc	_	_
 3	eliriz	el	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	_
-4	nə	nə	PRON	_	PronType=In	5	det	_	_
+4	nə	nə	PRON	_	PronType=Int	5	det	_	_
 5	vaxt	vaxt	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
-6	gələ	gəl	VERB	_	Mood=Sbjv|VerbForm=Conv	3	xcomp	_	_
+6	gələ	gəl	VERB	_	Mood=Sub|VerbForm=Conv	3	xcomp	_	_
 7	bilərsiz	bil	AUX	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	6	aux	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	3	punct	_	_
 
@@ -215,9 +215,9 @@
 # text[en] = When do you think you can come?
 1	Fikr	fikr	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
 2	eliriz	el	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	_
-3	nə	nə	PRON	_	PronType=In	4	det	_	_
+3	nə	nə	PRON	_	PronType=Int	4	det	_	_
 4	vaxt	vaxt	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
-5	gələ	gəl	VERB	_	Mood=Sbjv|VerbForm=Conv	2	xcomp	_	_
+5	gələ	gəl	VERB	_	Mood=Sub|VerbForm=Conv	2	xcomp	_	_
 6	bilərsiz	bil	AUX	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	5	aux	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	2	punct	_	_
 
@@ -236,10 +236,10 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-15.2
-# text = Bir dәnә maşın aldı amma qardaşı fәqәt çәrx aldı.
+# text = Maşın aldı amma qardaşı fәqәt çәrx aldı.
 # glossing = one grain car buy-PAST.3SG but brother-POSS.3SG just bike buy-PAST.3SG
 # text[en] = He bought a car but his brother just a bike.
-1	maşın	maşın	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
+1	Maşın	maşın	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
 2	aldı	al	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	amma	amma	CCONJ	_	_	7	cc	_	_
 4	qardaşı	qardaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
@@ -265,7 +265,7 @@
 # text = O Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
 # glossing = she hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
-1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	3	nmod	_	_
+1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 2	Tüklәrin	tük	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	cürləməliydi	cürləmə	VERB	_	Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
@@ -298,12 +298,12 @@
 # text = O çox yeyin qaçdığı için ona çata bilmәdim.
 # glossing = s/he very fasr run-PTC
 # text[en] = I wasn't able to keep up, because he ran too fast..
-1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	7	nsubj	_	_
+1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 2	çox	çox	ADV	_	_	3	advmod	_	_
 3	yeyin	yeyin	ADV	_	_	4	advmod	_	_
 4	qaçdığı	qaç	VERB	_	Case=Gen|Number=Sing|Person=3|Tense=Past|VerbForm=Part	7	advcl	_	_
 5	için	için	ADP	_	_	4	case	_	_
-6	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Pers	7	obl	_	_
+6	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 7	çata	çata	VERB	_	VerbForm=Conv	0	root	_	_
 8	bilmәdim	bil	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
@@ -925,7 +925,7 @@
 # text = Deniz yata bilmir.
 # text[en] = Deniz cannot sleep.
 1	Deniz	Deniz	NOUN	_		Case=Nom|Number=Sing	2	nsubj	_	_
-2	yata	yat	VERB	_	Mood=Sbjv|VerbForm=Conv	0	root	_	_
+2	yata	yat	VERB	_	Mood=Sub|VerbForm=Conv	0	root	_	_
 3	bilmir	bil	AUX	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	aux	_	_
 4	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -935,7 +935,7 @@
 # text[en] = Deniz may not be able to sleep on time.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	vəxtikən	vəxt	NOUN	_	_	3	obl	_	_
-3	yatmıya	yat	VERB	_	Mood=Sbjv|Polarity=Neg|VerbForm=Conv	0	root	_	_
+3	yatmıya	yat	VERB	_	Mood=Sub|Polarity=Neg|VerbForm=Conv	0	root	_	_
 4	bilir	bil	AUX	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -1337,7 +1337,7 @@
 # glossing = Deniz home-LOC-COP.PRS.3SG
 # text[en] = Is Deniz at home?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	evdədir	ev	NOUN	_	Case=Loc|Copula=Yes|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	evdədir	ev	NOUN	_	Case=Loc|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 71
@@ -1559,7 +1559,7 @@
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
 2	elə	elə	ADV	_	_	4	advmod	_	_
 3	bir	bir	DET	_	Definite=Ind|Number=Sing	4	det	_	_
-4	kitabdır	kitab	NOUN	N	Case=Nom|Number=Sing|Person=3|Copula=Yes	0	root	_	_
+4	kitabdır	kitab	NOUN	N	Case=Nom|Number=Sing|Person=3	0	root	_	_
 5	ki	ki	SCONJ	_	_	14	mark	_	_
 6	,	,	PUNCT	_	_	14	punct	_	_
 7	onu	o	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
@@ -1603,7 +1603,7 @@
 # text[en] = It was a successful film overall.
 1	Kollən	kollən	ADV	_	_	4	advcl	_	_
 2	movəffəq	movəffəq	ADJ	_	_	4	amod	_	_
-3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+3	bir	bir	DET	_	Definite=Ind	4	det	_	_
 4	film	film	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	iydi	i	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
