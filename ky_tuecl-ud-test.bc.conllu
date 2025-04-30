@@ -332,12 +332,12 @@
 # text[az] = Olar kimin yazdığını bilmirlər.irleri yok.
 # text[uz] = Ular kim yozganini bilmaydi.
 # text[tr] = Onlar kimin yazdığı konusunda hiç bir fik.
-1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj:outer	_	_
 2	кимдин	ким	PRON	_	_	3	nsubj	_	_
 3	жазгандыгы	жаз	VERB	_	_	8	obl	_	_
 4	жөнүндө	жөнүндө	ADP	_	_	3	case	_	_
 5	эч	эч	DET	_	_	6	det	_	_
-6	ойлору	ой	NOUN	_	_	8	nsubj	_	_
+6	ойлору	ой	NOUN	_	_	8	nsubj:inner	_	_
 7	да	да	ADV	_	_	6	advmod:emph	_	_
 8	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
