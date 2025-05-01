@@ -204,7 +204,7 @@
 # text[uz] = Mening dadam senikidan zo'rroq.
 # text[tr] = Benim babam seninkinden daha harika.
 1	Менин	мен	PRON	_	Case=Gen|Number=Sing|PronType=Prs	2	nmod:poss	_	_
-2	атам	ата	NOUN	_		5	nsubj	_	_
+2	атам	ата	NOUN	_	_	5	nsubj	_	_
 3-4	сеникинен	_	_	_	_	_	_	_	_
 3	сени	сен	PRON	_	_	4	nmod:poss	_	_
 4	кинен	ки	PRON	_	_	5	obl	_	_
@@ -337,7 +337,7 @@
 3	жазгандыгы	жаз	VERB	_	_	8	obl	_	_
 4	жөнүндө	жөнүндө	ADP	_	_	3	case	_	_
 5	эч	эч	DET	_	_	6	det	_	_
-6	ойлору	ой	NOUN	_	_	8	nsubj:inner	_	_
+6	ойлору	ой	NOUN	_	_	8	nsubj	_	_
 7	да	да	ADV	_	_	6	advmod:emph	_	_
 8	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
@@ -997,7 +997,7 @@
 2	үйдө	үй	NOUN	_	_	0	root	_	_
 3-4	бекен	_	_	_	_	_	_	_	SpaceAfter=No
 3	б	бы	PART	qst	_	2	discourse	_	_
-4	екен	экен	AUX	_	_	2	aux	_	SpaceAfter=No
+4	екен	экен	AUX	_	_	2	aux	_	_
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-13.1
@@ -1015,7 +1015,7 @@
 3	болгон	бол	AUX	_	_	2	aux	_	_
 4-5	бекен	_	_	_	_	_	_	_	SpaceAfter=No
 4	б	бы	PART	qst	_	2	discourse	_	_
-5	екен	экен	AUX	_	_	2	aux	_	SpaceAfter=No
+5	екен	экен	AUX	_	_	2	aux	_	_
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
@@ -1143,7 +1143,7 @@
 7	көгүн	көк	NOUN	_	_	8	obj	_	_
 8	берип	бер	VERB	_	_	3	parataxis	_	_
 9-10	коёсуңбу	_	_	_	_	_	_	_	SpaceAfter=No
-9	коёсуң	кой	AUX	_	_	8	aux	_	SpaceAfter=No
+9	коёсуң	кой	AUX	_	_	8	aux	_	_
 10	бу	бы	PART	_	_	3	discourse	_	_
 11	?	?	PUNCT	_	_	3	punct	_	_
 
@@ -1589,7 +1589,7 @@
 # text[tr] = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
 1	Апасынын	апа	NOUN	_	_	2	nmod:poss	_	_
 2	кыялы	кыял	NOUN	_	_	6	nsubj:outer	_	_
-3	Дениздин	Дениз	PROPN	_	_	6	nsubj:inner	_	_
+3	Дениздин	Дениз	PROPN	_	_	6	nsubj	_	_
 4	жакшы	жакшы	ADJ	_	_	5	amod	_	_
 5	мектепте	мектеп	NOUN	_	_	6	obl	_	_
 6	окушу	оку	VERB	_	_	0	root	_	_
@@ -1808,7 +1808,7 @@
 2	дарын	_	PRON	_	_	3	ccomp	_	_
 3	түшүнүп	түшүн	VERB	_	_	0	root	_	_
 4	жаткан	жат	AUX	_	_	3	aux	_	_
-5	жок	жок	AUX	_	_	3	aux	_	_
+5	жок	жок	AUX	_	_	3	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 37
@@ -1825,7 +1825,7 @@
 2	дарын	_	PRON	_	_	3	ccomp	_	_
 3	түшүнбөй	түшүн	VERB	_	_	0	root	_	_
 4	жаткан	жат	AUX	_	_	3	aux	_	_
-5	жок	жок	AUX	_	_	3	aux	_	_
+5	жок	жок	AUX	_	_	3	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 38
@@ -1838,12 +1838,12 @@
 # text[uz] = O‘qishni emas, rasm chizishni yaxshi ko‘radi.
 # text[tr] = Okumayı değil, resim yapmayı seviyor.
 1	Окуганды	оку	VERB	_	_	7	xcomp	_	_
-2	эмес	эмес	ADV	_	_	1	advmod	_	_
+2	эмес	эмес	ADV	_	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	сүрөт	сүрөт	NOUN	_	_	5	compound	_	_
 5	тартканды	тарт	VERB	_	_	1	conj	_	_
 6	жакшы	жакшы	ADJ	_	_	7	compound	_	_
-7	көрөт	көр	VERB	_	_	0	root	_	_
+7	көрөт	көр	VERB	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 39
@@ -1904,11 +1904,12 @@
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
 3	окууну	оку	VERB	_	_	4	ccomp	_	_
-4	каалайт	каала	VERB	_	_	0	root	_	_
+4	каалайт	каала	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 43
-# text = Дениз атасын ага китеп окуп беришин каалайт.
+# text = Дениз атасынын ага китеп окуп берүүсүн каалап жатат.
+# Note: changed from: 'text = Дениз атасын ага китеп окуп беришин каалайт.'
 # translit = Deniz ata-sın ağa kitep okup ber-i-şin qaala-y-t.
 # glossing = Deniz father-ACC he/she.DAT book read-INF give-VN-POSS.3SG want-3SG.PRES
 # issue: Clausal arguments/modifiers, non-finite verbs.
@@ -1922,8 +1923,8 @@
 4	китеп	китеп	NOUN	_	_	5	obj	_	_
 5	окуп	оку	VERB	_	_	7	ccomp	_	_
 6	берүүсүн	бер	AUX	_	_	5	aux	_	_
-7	каалап	каала	_	VERB	_	0	root	_	_
-8	жатат	жат	AUX	_	_	7	aux	_	_
+7	каалап	каала	VERB	_	_	0	root	_	_
+8	жатат	жат	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 44
@@ -1935,13 +1936,14 @@
 # text[az] = Deniz özünə olmağı söyür.
 # text[uz] = Deniz o‘zi bilan o‘zi bo‘lishni yaxshi ko‘radi.
 # text[tr] = Deniz kendi kendine olmayı seviyor.
+# Note: this needs double check: is 'өзү менен өзү' really fixed? is бол here VERB or AUX?
 1	Дениз	Дениз	PROPN	_	_	7	nsubj	_	_
-2	өзү	 өз	PRON	_	_	4	fixed	_	_
-3	менен	менен	ADP	_	_	2	case	_	_
-4	өзү	 өз	PRON	_	_	5	obl	_	_
+2	өзү	өз	PRON	_	_	5	obl	_	_
+3	менен	менен	ADP	_	_	2	fixed	_	_
+4	өзү	өз	PRON	_	_	2	fixed	_	_
 5	болууну	бол	VERB	_	_	7	xcomp	_	_
 6	жакшы	жакшы	ADJ	_	_	7	compound	_	_
-7	көрөт	көр	VERB	_	_	0	root	_	_
+7	көрөт	көр	VERB	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 45
@@ -1958,7 +1960,7 @@
 3	окушу	оку	VERB	_	_	6	csubj	_	_
 4	Дениздин	Дениз	PROPN	_	_	5	nmod:poss	_	_
 5	укташын	укта	VERB	_	_	6	ccomp	_	_
-6	жеңилдетет	жеңилде	VERB	_	_	0	root	_	_
+6	жеңилдетет	жеңилде	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 46
@@ -1975,11 +1977,11 @@
 3	окуп	оку	VERB	_	_	10	csubj	_	_
 4	берүү	бер	AUX	_	_	3	aux	_	_
 5	алардын	алар	PRON	_	_	6	nmod:poss	_	_
-6	өсүп	өс	VERB	_	_	8	advcl	_	_
-7	-	-	PUNCT	_	_	6	punct	_	_
+6	өсүп	өс	VERB	_	_	8	advcl	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	өнүгүүсү	өнүк	VERB	_	_	10	advcl	_	_
 9	үчүн	үчүн	ADP	_	_	8	case	_	_
-10	маанилүү	маанилүү	ADJ	_	_	0	root	_	_
+10	маанилүү	маанилүү	ADJ	_	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 47
@@ -1995,7 +1997,7 @@
 2	китеп	китеп	NOUN	_	_	3	obl	_	_
 3	окуп	оку	VERB	_	_	5	advcl	_	_
 4	жатып	жат	AUX	_	_	3	aux	_	_
-5	уктайт	укта	VERB	_	_	0	root	_	_
+5	уктайт	укта	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 48
@@ -2302,14 +2304,14 @@
 2	үйдөгү	үй	NOUN	_	_	3	nmod	_	_
 3	баланын	бала	NOUN	_	_	4	nmod:poss	_	_
 4	чачы	чач	NOUN	_	_	5	nsubj	_	_
-5	сары	сары	ADJ	_	_	0	root	_	_
+5	сары	сары	ADJ	_	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	кичинекей	кичинекей	ADJ	_	_	8	amod	_	_
 8-10	үйдөгүнүкү	_	_	_	_	_	_	_	_
 8	үйдө	үй	NOUN	_	Case=Loc|Number=Sing	9	nmod	_	_
 9	гүнү	ки	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
 10	кү	ки	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
-11	күрөң	күрөң	ADJ	_	_	5	conj	_	_
+11	күрөң	күрөң	ADJ	_	_	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 63
@@ -2788,11 +2790,11 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89.1
-# text = Алар кетишти. 
+# text = Алар кетишти.
 # translit = Alar keti-ş-ti.
 # glossing = they leave-RECP-PST.3SG
 # issue: Plural Subject, Plural Verb and additionally the reciprocal marker (RECP). Lit: They left (together).
-# text[en] = They are gone together. / They left together. 
+# text[en] = They are gone together. / They left together.
 # text[az] = Onlar gittiler. [note: It doesn't work with RECP in az]
 # text[uz] = 
 # text[tr] = Onlar gittiler. [note: It doesn't work with RECP in tr]
@@ -2825,7 +2827,7 @@
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	бул	бул	DET	_	_	3	det	_	_
 3	жакка	жак	NOUN	_	_	4	obl	_	_
-4	келип	кел	VERB	_	_	0	root	_	_
+4	келип	кел	VERB	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	бош	бош	ADJ	_	_	7	amod	_	_
 7	убактыларында	убакыт	NOUN	_	_	9	obl:tmod	_	_
@@ -2847,7 +2849,7 @@
 2	да	да	ADV	_	_	1	advmod:emph	_	_
 3	биз	биз	PRON	_	_	5	obl	_	_
 4	менен	менен	CCONJ	_	_	3	case	_	_
-5	келесиң	кел	VERB	_	_	0	root	_	_
+5	келесиң	кел	VERB	_	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7-8	туурабы	_	_	_	_	_	_	_	SpaceAfter=No
 7	туура	туура	ADJ	_	_	5	discourse	_	_
@@ -2870,7 +2872,7 @@
 3	укмуш	укмуш	ADJ	_	_	5	amod	_	_
 4	бир	бир	DET	_	_	5	det	_	_
 5	китеп	китеп	NOUN	_	_	6	xcomp	_	_
-6	дейсиң	де	VERB	_	_	17	parataxis	_	_
+6	дейсиң	де	VERB	_	_	17	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	аны	ал	PRON	_	_	9	obj	_	_
 9	окуган	оку	VERB	_	_	10	acl	_	_
@@ -2882,7 +2884,7 @@
 15	караш	кара	NOUN	_	_	17	obl	_	_
 16	менен	менен	ADP	_	_	15	case	_	_
 17	карай	кара	VERB	_	_	0	root	_	_
-18	албайт	ал	AUX	_	_	17	aux	_	_
+18	албайт	ал	AUX	_	_	17	aux	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 94
@@ -2897,11 +2899,11 @@
 1	Сен	сен	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	биринчи	биринчи	ADV	_	_	4	advmod	_	_
 3	тазалоону	тазалоо	NOUN	_	_	4	obj	_	_
-4	бүтүр	бүт	VERB	_	_	0	root	_	_
+4	бүтүр	бүт	VERB	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	анан	анан	ADV	_	_	4	advmod:emph	_	_
 7	биз	биз	PRON	_	_	8	obj	_	_
-8	үтүктөйбүз	үтүктө	VERB	_	_	4	conj	_	_
+8	үтүктөйбүз	үтүктө	VERB	_	_	4	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 95
@@ -2914,7 +2916,7 @@
 # text[uz] = Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan.
 # text[tr] = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
 1	Айткандарга	айт	VERB	_	_	2	advcl	_	_
-2	караганда	кара	VERB	_	_	10	advmod	_	_
+2	караганда	кара	VERB	_	_	10	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	10	punct	_	_
 4	Айше	Айше	PROPN	_	_	10	nsubj	_	_
 5	Хаканга	Хакан	PROPN	_	_	10	obl	_	_
@@ -2922,7 +2924,7 @@
 7	тапшырмасын	тапшырма	NOUN	_	_	8	obj	_	_
 8	жасоого	жаса	VERB	_	_	10	xcomp	_	_
 9	жардам	жардам	NOUN	_	_	10	obj	_	_
-10	бериптир	бер	VERB	_	_	0	root	_	_
+10	бериптир	бер	VERB	_	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 95.1
@@ -2935,15 +2937,15 @@
 # text[uz] = Aytishlaricha, Oysha Xoqonga uy vazifalarini bajarishda yordam bergan.
 # text[tr] = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
 1	Айткандарга	айт	VERB	_	_	2	advcl	_	_
-2	караганда	кара	VERB	_	_	10	advmod	_	_
+2	караганда	кара	VERB	_	_	10	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	10	punct	_	_
 4	Айше	Айше	PROPN	_	_	10	nsubj:outer	_	_
-5	Хаканга	Хакан	PROPN	_	_	10	nsubj:inner	_	_
+5	Хаканга	Хакан	PROPN	_	_	10	nsubj	_	_
 6	үй	үй	NOUN	_	_	7	nmod	_	_
 7	тапшырмасын	тапшырма	NOUN	_	_	8	obj	_	_
 8	жасоого	жаса	VERB	_	_	10	advcl	_	_
 9	жардам	жардам	NOUN	_	_	10	obj	_	_
-10	бериптир	бер	VERB	_	_	0	root	_	_
+10	бериптир	бер	VERB	_	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 96
@@ -2958,9 +2960,9 @@
 1	Жалпы	жалпы	ADV	_	_	2	advmod	_	_
 2	алганда	ал	VERB	_	_	5	advcl	_	_
 3	ийгиликтүү	ийгиликтүү	ADJ	_	_	5	amod	_	_
-4	бир	бир	NUM	_	_	5	det	_	_
+4	бир	бир	DET	_	_	5	det	_	_
 5	фильм	фильм	NOUN	_	_	0	root	_	_
-6	болду	бол	AUX	_	_	5	cop	_	_
+6	болду	бол	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 97
@@ -2975,14 +2977,14 @@
 # note: 'april TO may' not 'april AND may' - (in this case functions if as a 'AND') conj. If numerical ranges '-' in Eng: - as a POS: (SYM)BOL and as a dep: case, see sent_id = 97.2
 1	Алма	алма	NOUN	_	_	2	nmod	_	_
 2	дарактар	дарак	NOUN	_	_	7	nsubj	_	_
-3	апрель	апрель	NOUN	_	_	6	nmod	_	_
-4	-	-	SYM	_	_	3	case	_	_
+3	апрель	апрель	NOUN	_	_	6	nmod	_	SpaceAfter=No
+4	-	-	SYM	_	_	3	case	_	SpaceAfter=No
 5	май	май	NOUN	_	_	6	nmod	_	_
 6	айларында	ай	NOUN	_	_	7	obl	_	_
-7	гүлдөп	гүлдө	VERB	_	_	0	root	_	_
+7	гүлдөп	гүлдө	VERB	_	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	кайчылаш	кайчылаш	ADV	_	_	10	advmod	_	_
-10	чаңдашат	чаңда	VERB	_	_	7	advcl	_	_
+10	чаңдашат	чаңда	VERB	_	_	7	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 97.1
@@ -2997,13 +2999,13 @@
 # note: (april to may) not april and may - (in this case functions if as a '&') conj. If numerical ranges - in Eng: - as a POS: (SYM)BOL and as a dep: case, see sent_id = 97.2
 1	Алма	алма	NOUN	_	_	2	nmod	_	_
 2	дарактар	дарак	NOUN	_	_	6	nsubj	_	_
-3	апрель	апрель	NOUN	_	_	5	nmod	_	_
-4	-	-	SYM	_	_	3	case	_	_
+3	апрель	апрель	NOUN	_	_	5	nmod	_	SpaceAfter=No
+4	-	-	SYM	_	_	3	case	_	SpaceAfter=No
 5	майда	май	NOUN	_	_	6	obl	_	_
-6	гүлдөп	гүлдө	VERB	_	_	0	root	_	_
+6	гүлдөп	гүлдө	VERB	_	_	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	кайчылаш	кайчылаш	ADV	_	_	9	advmod	_	_
-9	чаңдашат	чаңда	VERB	_	_	6	advcl	_	_
+9	чаңдашат	чаңда	VERB	_	_	6	advcl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 97.2
@@ -3021,8 +3023,9 @@
 4	жана	жана	CCONJ	_	_	5	cc	_	_
 5	май	май	NOUN	_	_	3	conj	_	_
 6	айларында	ай	NOUN	_	_	7	obl	_	_
-7	гүлдөп	гүлдө	VERB	_	_	0	root	_	_
+7	гүлдөп	гүлдө	VERB	_	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	кайчылаш	кайчылаш	ADV	_	_	10	advmod	_	_
-10	чаңдашат	чаңда	VERB	_	_	7	advcl	_	_
+10	чаңдашат	чаңда	VERB	_	_	7	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
+
