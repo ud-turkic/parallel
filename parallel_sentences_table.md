@@ -82,7 +82,7 @@
 | 13 | Deniz is very fast. | Deniz çok yeyindir. | Дениз өтө ылдам. | Deniz çok hızlı. | Deniz juda chaqqon. |
 | 14 | Deniz is a student. | Deniz mohəssildir. | Дениз студент. | Deniz öğrenci. | Deniz talaba. |
 | 14.1 |  |  | Дениз студент кыз. |  |  |
-| 15 | Deniz is a student. |  | Дениз студент. | Deniz öğrencidir. | Deniz talabadir. |
+| 15 | Deniz is a student. | Deniz mohəssildir. | Дениз студент. | Deniz öğrencidir. | Deniz talabadir. |
 | 16 | Deniz will become a doctor. | Deniz düktür olacax. | Дениз доктур болот. | Deniz doktor olacak. | Deniz shifokor bo'ladi. |
 | 17 | Deniz is at home. | Deniz evdə. | Дениз үйдө. | Deniz evde. | Deniz uyda. |
 | 18 | Deniz was at home. | Deniz evdəyidi. | Дениз үйдө болчу. | Deniz evdeydi. | Deniz uyda edi. |
@@ -101,7 +101,7 @@
 | 30 | Deniz cannot sleep. | Deniz yata bilmir. | Дениз уктай албай жатат. | Deniz uyuyamıyor. | Deniz uxlay olmaydi. |
 | 31 | Deniz may not be able to sleep on time. | Deniz vəxtikən yatmıya bilir. | Дениз өз убагында уктай албашы мүмкүн. | Deniz zamanında uyuyamayabilir. | Deniz vaqtida uxlay olmasligi mumkin. |
 | 32 | (It turned out that) Deniz did not see her/his mother. | Deniz anasın görmədi. | Дениз апасын көрбөй калды. | Deniz annesini görmemiş oldu. | Deniz onasini ko'rmay qoldi. |
-| 33 | (It turned out that) Deniz did not see her/his mother. |  | Дениз апасын көрүп калган жок. | Deniz annesini görmüş olmadı. | Deniz onasini ko'rib qolmadi. |
+| 33 | (It turned out that) Deniz did not see her/his mother. | Deniz anasın görməyib. | Дениз апасын көрүп калган жок. | Deniz annesini görmüş olmadı. | Deniz onasini ko'rib qolmadi. |
 | 34 | (It turned out that) Deniz did not not-see her/his mother. | Deniz anasın görməmiş olmadı. | Дениз апасын көрбөй калган жок. | Deniz annesini görmemiş olmadı. | Deniz onasini ko'rmay qolmadi. |
 | 35 | He/she does not understand things he/she reads. | Oxuduxlarını düşünmürü. | Окугандарын түшүнбөй жатат. | Okuduklarını anlamıyor. | O'qiganlarini tushunmaydi. |
 | 36 | He/she does not understand things he/she reads. | Oxuduxlarını düşünmürü. | Окугандарын түшүнүп жаткан жок. | Okuduklarını anlıyor değil. | O'qiganlarini tushungani yo'q. |
@@ -119,7 +119,7 @@
 | 48 | Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday. | Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi. | Дениз каникул экенин унутуп мектепке барыптыр. | Deniz tatil olduğunu unutup okula gitmiş. | Deniz ta’til ekanligini unutib, maktabga ketgan. |
 | 49 | Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday. | Deniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getmişdi. | Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр. | Deniz tatil olduğunu unutup çantasını alıp okula gitmiş. | Deniz ta’til ekanligini unutib, sumkasini olib, maktabga ketgan. |
 | 49.1 |  |  | Дениз каникул болгонун унутуп, сумкасын алып мектепке барыптыр. |  |  |
-| 50 | If Deniz sleeps late, he/she would be late. | Deniz gec yatsa mədrəsəyə gecikip. | Дениз кеч уктаса мектепке кечигет эле. | Deniz geç uyursa okula geç kalır. | Deniz kech uxlasa, maktabga kechikadi. |
+| 50 | If Deniz sleeps late, he/she would be late. | Deniz gec yatsa mədrəsəyə gec qalar. | Дениз кеч уктаса мектепке кечигет эле. | Deniz geç uyursa okula geç kalır. | Deniz kech uxlasa, maktabga kechikadi. |
 | 51 | If Deniz sleeps late, he/she will be late. | Deniz gec yatsa mədrəsəyə gec qalacax. | Дениз кеч уктаса мектепке кечигип барат. | Deniz geç uyursa okula geç kalacak. | Deniz kech uxlasa, maktabga kech qoladi. |
 | 51.1 |  |  | Дениз кеч жатса мектепке кеч калат. |  |  |
 | 52 | If the child had slept, we'd watch a movie. | Uşaq yatsaydı filmə baxacaqıdıx. | Бала уктаса кино көрөт элек. | Çocuk uyumuş olsaydı film izleyecektik. | Agar bola uxlaganida, kino ko'rgan bo'lardik. |
