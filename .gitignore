@@ -1,3 +1,4 @@
-tools/
-*.log
 *.epub
+*.log
+*.txt
+tools/
