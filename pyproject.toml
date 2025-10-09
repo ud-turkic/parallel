@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ud-turkic-parallel"
+version = "0.1.0"
+description = "UD Turkic parallel treebanks"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }  # or adjust to your license
+authors = [{ name = "Furkan", email = "furkan.akkurt@bogazici.edu.tr" }]
+dependencies = [
+    "beautifulsoup4",
+    "ebooklib",
+    "nltk",
+]
+
+# Optional: entry points for CLI tools
+# [project.scripts]
+# ud-turkic-parallel = "ud_turkic_parallel.__main__:main"
+
+[tool.hatch.build]
+include = ["src/**"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["ud_turkic_parallel"]
+
+[tool.hatch.envs.default]
+dependencies = [
+    "beautifulsoup4",
+    "ebooklib",
+    "nltk",
+]
+
+# Optional: specify Python version or dev dependencies
+# [tool.hatch.envs.default.scripts]
+# test = "pytest tests"
+
+# If you have a source layout, e.g. src/ud_turkic_parallel/
+[tool.hatch.metadata]
+allow-direct-references = true

@@ -1,0 +1,6819 @@
+{
+  "book": "The Little Prince",
+  "translator": "Katherine Woods",
+  "total_sentences": 1703,
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest."
+    },
+    {
+      "id": 2,
+      "text": "It was a picture of a boa constrictor in the act of swallowing an animal."
+    },
+    {
+      "id": 3,
+      "text": "Here is a copy of the drawing."
+    },
+    {
+      "id": 4,
+      "text": "In the book it said: \"Boa constrictors swallow their prey whole, without chewing it."
+    },
+    {
+      "id": 5,
+      "text": "After that they are not able to move, and they sleep through the six months that they need for digestion.\""
+    },
+    {
+      "id": 6,
+      "text": "I pondered deeply, then, over the adventures of the jungle."
+    },
+    {
+      "id": 7,
+      "text": "And after some work with a coloured pencil I succeeded in making my first drawing."
+    },
+    {
+      "id": 8,
+      "text": "My Drawing Number One."
+    },
+    {
+      "id": 9,
+      "text": "It looked like this:"
+    },
+    {
+      "id": 10,
+      "text": "I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them."
+    },
+    {
+      "id": 11,
+      "text": "But they answered: \"Frighten?"
+    },
+    {
+      "id": 12,
+      "text": "Why should any one be frightened by a hat?\""
+    },
+    {
+      "id": 13,
+      "text": "My drawing was not a picture of a hat."
+    },
+    {
+      "id": 14,
+      "text": "It was a picture of a boa constrictor digesting an elephant."
+    },
+    {
+      "id": 15,
+      "text": "But since the grown-ups were not able to understand it, I made another drawing:  I drew the inside of the boa constrictor, so that the grown-ups could see it clearly."
+    },
+    {
+      "id": 16,
+      "text": "They always need to have things explained."
+    },
+    {
+      "id": 17,
+      "text": "My Drawing Number Two looked like this:"
+    },
+    {
+      "id": 18,
+      "text": "The grown-ups' response, this time, was to advise me to lay aside my drawings of boa constrictors, whether from the inside or the outside, and devote myself instead to geography, history, arithmetic and grammar."
+    },
+    {
+      "id": 19,
+      "text": "That is why, at the age of six, I gave up what might have been a magnificent career as a painter."
+    },
+    {
+      "id": 20,
+      "text": "I had been disheartened by the failure of my Drawing Number One and my Drawing Number Two."
+    },
+    {
+      "id": 21,
+      "text": "Grown-ups never understand anything by themselves, and it is tiresome for children to be always and forever explaining things to them."
+    },
+    {
+      "id": 22,
+      "text": "So then I chose another profession, and learned to pilot airplanes."
+    },
+    {
+      "id": 23,
+      "text": "I have flown a little over all parts of the world; and it is true that geography has been very useful to me."
+    },
+    {
+      "id": 24,
+      "text": "At a glance I can distinguish China from Arizona."
+    },
+    {
+      "id": 25,
+      "text": "If one gets lost in the night, such knowledge is valuable."
+    },
+    {
+      "id": 26,
+      "text": "In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence."
+    },
+    {
+      "id": 27,
+      "text": "I have lived a great deal among grown-ups."
+    },
+    {
+      "id": 28,
+      "text": "I have seen them intimately, close at hand."
+    },
+    {
+      "id": 29,
+      "text": "And that hasn't much improved my opinion of them."
+    },
+    {
+      "id": 30,
+      "text": "Whenever I met one of them who seemed to me at all clear-sighted, I tried the experiment of showing him my Drawing Number One, which I have always kept."
+    },
+    {
+      "id": 31,
+      "text": "I would try to find out, so, if this was a person of true understanding."
+    },
+    {
+      "id": 32,
+      "text": "But, whoever it was, he, or she, would always say: \"That is a hat.\""
+    },
+    {
+      "id": 33,
+      "text": "Then I would never talk to that person about boa constrictors, or primeval forests, or stars."
+    },
+    {
+      "id": 34,
+      "text": "I would bring myself down to his level."
+    },
+    {
+      "id": 35,
+      "text": "I would talk to him about bridge, and golf, and politics, and neckties."
+    },
+    {
+      "id": 36,
+      "text": "And the grown-up would be greatly pleased to have met such a sensible man."
+    },
+    {
+      "id": 37,
+      "text": "Chapter II"
+    },
+    {
+      "id": 38,
+      "text": "So I lived my life alone, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago."
+    },
+    {
+      "id": 39,
+      "text": "Something was broken in my engine."
+    },
+    {
+      "id": 40,
+      "text": "And as I had with me neither a mechanic nor any passengers, I set myself to attempt the difficult repairs all alone."
+    },
+    {
+      "id": 41,
+      "text": "It was a question of life or death for me:  I had scarcely enough drinking water to last a week."
+    },
+    {
+      "id": 42,
+      "text": "The first night, then, I went to sleep on the sand, a thousand miles from any human habitation."
+    },
+    {
+      "id": 43,
+      "text": "I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean."
+    },
+    {
+      "id": 44,
+      "text": "Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice."
+    },
+    {
+      "id": 45,
+      "text": "It said:"
+    },
+    {
+      "id": 46,
+      "text": "\"If you please-- draw me a sheep!\""
+    },
+    {
+      "id": 47,
+      "text": "\"What!\""
+    },
+    {
+      "id": 48,
+      "text": "\"Draw me a sheep!\""
+    },
+    {
+      "id": 49,
+      "text": "I jumped to my feet, completely thunderstruck."
+    },
+    {
+      "id": 50,
+      "text": "I blinked my eyes hard."
+    },
+    {
+      "id": 51,
+      "text": "I looked carefully all around me."
+    },
+    {
+      "id": 52,
+      "text": "And I saw a most extraordinary small person, who stood there examining me with great seriousness."
+    },
+    {
+      "id": 53,
+      "text": "Here you may see the best portrait that, later, I was able to make of him."
+    },
+    {
+      "id": 54,
+      "text": "But my drawing is certainly very much less charming than its model."
+    },
+    {
+      "id": 55,
+      "text": "That, however, is not my fault."
+    },
+    {
+      "id": 56,
+      "text": "The grown-ups discouraged me in my painter's career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside."
+    },
+    {
+      "id": 57,
+      "text": "Now I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment."
+    },
+    {
+      "id": 58,
+      "text": "Remember, I had crashed in the desert a thousand miles from any inhabited region."
+    },
+    {
+      "id": 59,
+      "text": "And yet my little man seemed neither to be straying uncertainly among the sands, nor to be fainting from fatigue or hunger or thirst or fear."
+    },
+    {
+      "id": 60,
+      "text": "Nothing about him gave any suggestion of a child lost in the middle of the desert, a thousand miles from any human habitation."
+    },
+    {
+      "id": 61,
+      "text": "When at last I was able to speak, I said to him:"
+    },
+    {
+      "id": 62,
+      "text": "\"But-- what are you doing here?\""
+    },
+    {
+      "id": 63,
+      "text": "And in answer he repeated, very slowly, as if he were speaking of a matter of great consequence:"
+    },
+    {
+      "id": 64,
+      "text": "\"If you please-- draw me a sheep...\""
+    },
+    {
+      "id": 65,
+      "text": "When a mystery is too overpowering, one dare not disobey."
+    },
+    {
+      "id": 66,
+      "text": "Absurd as it might seem to me, a thousand miles from any human habitation and in danger of death, I took out of my pocket a sheet of paper and my fountain pen."
+    },
+    {
+      "id": 67,
+      "text": "But then I remembered how my studies had been concentrated on geography, history, arithmetic, and grammar, and I told the little chap (a little crossly, too) that I did not know how to draw."
+    },
+    {
+      "id": 68,
+      "text": "He answered me:"
+    },
+    {
+      "id": 69,
+      "text": "\"That doesn't matter."
+    },
+    {
+      "id": 70,
+      "text": "Draw me a sheep...\""
+    },
+    {
+      "id": 71,
+      "text": "But I had never drawn a sheep."
+    },
+    {
+      "id": 72,
+      "text": "So I drew for him one of the two pictures I had drawn so often."
+    },
+    {
+      "id": 73,
+      "text": "It was that of the boa constrictor from the outside."
+    },
+    {
+      "id": 74,
+      "text": "And I was astounded to hear the little fellow greet it with,"
+    },
+    {
+      "id": 75,
+      "text": "\"No, no, no!"
+    },
+    {
+      "id": 76,
+      "text": "I do not want an elephant inside a boa constrictor."
+    },
+    {
+      "id": 77,
+      "text": "A boa constrictor is a very dangerous creature, and an elephant is very cumbersome."
+    },
+    {
+      "id": 78,
+      "text": "Where I live, everything is very small."
+    },
+    {
+      "id": 79,
+      "text": "What I need is a sheep."
+    },
+    {
+      "id": 80,
+      "text": "Draw me a sheep.\""
+    },
+    {
+      "id": 81,
+      "text": "So then I made a drawing."
+    },
+    {
+      "id": 82,
+      "text": "He looked at it carefully, then he said:"
+    },
+    {
+      "id": 83,
+      "text": "\"No."
+    },
+    {
+      "id": 84,
+      "text": "This sheep is already very sickly."
+    },
+    {
+      "id": 85,
+      "text": "Make me another.\""
+    },
+    {
+      "id": 86,
+      "text": "So I made another drawing."
+    },
+    {
+      "id": 87,
+      "text": "My friend smiled gently and indulgently."
+    },
+    {
+      "id": 88,
+      "text": "\"You see yourself,\" he said, \"that this is not a sheep."
+    },
+    {
+      "id": 89,
+      "text": "This is a ram."
+    },
+    {
+      "id": 90,
+      "text": "It has horns.\""
+    },
+    {
+      "id": 91,
+      "text": "So then I did my drawing over once more."
+    },
+    {
+      "id": 92,
+      "text": "But it was rejected too, just like the others."
+    },
+    {
+      "id": 93,
+      "text": "\"This one is too old."
+    },
+    {
+      "id": 94,
+      "text": "I want a sheep that will live a long time.\""
+    },
+    {
+      "id": 95,
+      "text": "By this time my patience was exhausted, because I was in a hurry to start taking my engine apart."
+    },
+    {
+      "id": 96,
+      "text": "So I tossed off this drawing."
+    },
+    {
+      "id": 97,
+      "text": "And I threw out an explanation with it."
+    },
+    {
+      "id": 98,
+      "text": "\"This is only his box."
+    },
+    {
+      "id": 99,
+      "text": "The sheep you asked for is inside.\""
+    },
+    {
+      "id": 100,
+      "text": "I was very surprised to see a light break over the face of my young judge:"
+    },
+    {
+      "id": 101,
+      "text": "\"That is exactly the way I wanted it!"
+    },
+    {
+      "id": 102,
+      "text": "Do you think that this sheep will have to have a great deal of grass?\""
+    },
+    {
+      "id": 103,
+      "text": "\"Why?\""
+    },
+    {
+      "id": 104,
+      "text": "\"Because where I live everything is very small...\""
+    },
+    {
+      "id": 105,
+      "text": "\"There will surely be enough grass for him,\" I said."
+    },
+    {
+      "id": 106,
+      "text": "\"It is a very small sheep that I have given you.\""
+    },
+    {
+      "id": 107,
+      "text": "He bent his head over the drawing:"
+    },
+    {
+      "id": 108,
+      "text": "\"Not so small that-- Look!"
+    },
+    {
+      "id": 109,
+      "text": "He has gone to sleep...\""
+    },
+    {
+      "id": 110,
+      "text": "And that is how I made the acquaintance of the little prince."
+    },
+    {
+      "id": 111,
+      "text": "Chapter III"
+    },
+    {
+      "id": 112,
+      "text": "It took me a long time to learn where he came from."
+    },
+    {
+      "id": 113,
+      "text": "The little prince, who asked me so many questions, never seemed to hear the ones I asked him."
+    },
+    {
+      "id": 114,
+      "text": "It was from words dropped by chance that, little by little, everything was revealed to me."
+    },
+    {
+      "id": 115,
+      "text": "The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:"
+    },
+    {
+      "id": 116,
+      "text": "\"What is that object?\""
+    },
+    {
+      "id": 117,
+      "text": "\"That is not an object."
+    },
+    {
+      "id": 118,
+      "text": "It flies."
+    },
+    {
+      "id": 119,
+      "text": "It is an airplane."
+    },
+    {
+      "id": 120,
+      "text": "It is my airplane.\""
+    },
+    {
+      "id": 121,
+      "text": "And I was proud to have him learn that I could fly."
+    },
+    {
+      "id": 122,
+      "text": "He cried out, then:"
+    },
+    {
+      "id": 123,
+      "text": "\"What!"
+    },
+    {
+      "id": 124,
+      "text": "You dropped down from the sky?\""
+    },
+    {
+      "id": 125,
+      "text": "\"Yes,\" I answered, modestly."
+    },
+    {
+      "id": 126,
+      "text": "\"Oh!"
+    },
+    {
+      "id": 127,
+      "text": "That is funny!\""
+    },
+    {
+      "id": 128,
+      "text": "And the little prince broke into a lovely peal of laughter, which irritated me very much."
+    },
+    {
+      "id": 129,
+      "text": "I like my misfortunes to be taken seriously."
+    },
+    {
+      "id": 130,
+      "text": "Then he added:"
+    },
+    {
+      "id": 131,
+      "text": "\"So you, too, come from the sky!"
+    },
+    {
+      "id": 132,
+      "text": "Which is your planet?\""
+    },
+    {
+      "id": 133,
+      "text": "At that moment I caught a gleam of light in the impenetrable mystery of his presence; and I demanded, abruptly:"
+    },
+    {
+      "id": 134,
+      "text": "\"Do you come from another planet?\""
+    },
+    {
+      "id": 135,
+      "text": "But he did not reply."
+    },
+    {
+      "id": 136,
+      "text": "He tossed his head gently, without taking his eyes from my plane:"
+    },
+    {
+      "id": 137,
+      "text": "\"It is true that on that you can't have come from very far away...\""
+    },
+    {
+      "id": 138,
+      "text": "And he sank into a reverie, which lasted a long time."
+    },
+    {
+      "id": 139,
+      "text": "Then, taking my sheep out of his pocket, he buried himself in the contemplation of his treasure."
+    },
+    {
+      "id": 140,
+      "text": "You can imagine how my curiosity was aroused by this half-confidence about the \"other planets.\""
+    },
+    {
+      "id": 141,
+      "text": "I made a great effort, therefore, to find out more on this subject."
+    },
+    {
+      "id": 142,
+      "text": "\"My little man, where do you come from?"
+    },
+    {
+      "id": 143,
+      "text": "What is this 'where I live,' of which you speak?"
+    },
+    {
+      "id": 144,
+      "text": "Where do you want to take your sheep?\""
+    },
+    {
+      "id": 145,
+      "text": "After a reflective silence he answered:"
+    },
+    {
+      "id": 146,
+      "text": "\"The thing that is so good about the box you have given me is that at night he can use it as his house.\""
+    },
+    {
+      "id": 147,
+      "text": "\"That is so."
+    },
+    {
+      "id": 148,
+      "text": "And if you are good I will give you a string, too, so that you can tie him during the day, and a post to tie him to.\""
+    },
+    {
+      "id": 149,
+      "text": "But the little prince seemed shocked by this offer:"
+    },
+    {
+      "id": 150,
+      "text": "\"Tie him!"
+    },
+    {
+      "id": 151,
+      "text": "What a queer idea!\""
+    },
+    {
+      "id": 152,
+      "text": "\"But if you don't tie him,\" I said, \"he will wander off somewhere, and get lost.\""
+    },
+    {
+      "id": 153,
+      "text": "My friend broke into another peal of laughter:"
+    },
+    {
+      "id": 154,
+      "text": "\"But where do you think he would go?\""
+    },
+    {
+      "id": 155,
+      "text": "\"Anywhere."
+    },
+    {
+      "id": 156,
+      "text": "Straight ahead of him.\""
+    },
+    {
+      "id": 157,
+      "text": "Then the little prince said, earnestly:"
+    },
+    {
+      "id": 158,
+      "text": "\"That doesn't matter."
+    },
+    {
+      "id": 159,
+      "text": "Where I live, everything is so small!\""
+    },
+    {
+      "id": 160,
+      "text": "And, with perhaps a hint of sadness, he added:"
+    },
+    {
+      "id": 161,
+      "text": "\"Straight ahead of him, nobody can go very far...\""
+    },
+    {
+      "id": 162,
+      "text": "Chapter IV"
+    },
+    {
+      "id": 163,
+      "text": "I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house!"
+    },
+    {
+      "id": 164,
+      "text": "But that did not really surprise me much."
+    },
+    {
+      "id": 165,
+      "text": "I knew very well that in addition to the great planets-- such as the Earth, Jupiter, Mars, Venus-- to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope."
+    },
+    {
+      "id": 166,
+      "text": "When an astronomer discovers one of these he does not give it a name, but only a number."
+    },
+    {
+      "id": 167,
+      "text": "He might call it, for example, \"Asteroid 325.\""
+    },
+    {
+      "id": 168,
+      "text": "I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612."
+    },
+    {
+      "id": 169,
+      "text": "This asteroid has only once been seen through the telescope."
+    },
+    {
+      "id": 170,
+      "text": "That was by a Turkish astronomer, in 1909."
+    },
+    {
+      "id": 171,
+      "text": "On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration."
+    },
+    {
+      "id": 172,
+      "text": "But he was in Turkish costume, and so nobody would believe what he said."
+    },
+    {
+      "id": 173,
+      "text": "Grown-ups are like that..."
+    },
+    {
+      "id": 174,
+      "text": "Fortunately, however, for the reputation of Asteroid B-612, a Turkish dictator made a law that his subjects, under pain of death, should change to European costume."
+    },
+    {
+      "id": 175,
+      "text": "So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance."
+    },
+    {
+      "id": 176,
+      "text": "And this time everybody accepted his report."
+    },
+    {
+      "id": 177,
+      "text": "If I have told you these details about the asteroid, and made a note of its number for you, it is on account of the grown-ups and their ways."
+    },
+    {
+      "id": 178,
+      "text": "When you tell them that you have made a new friend, they never ask you any questions about essential matters."
+    },
+    {
+      "id": 179,
+      "text": "They never say to you, \"What does his voice sound like?"
+    },
+    {
+      "id": 180,
+      "text": "What games does he love best?"
+    },
+    {
+      "id": 181,
+      "text": "Does he collect butterflies?\""
+    },
+    {
+      "id": 182,
+      "text": "Instead, they demand: \"How old is he?"
+    },
+    {
+      "id": 183,
+      "text": "How many brothers has he?"
+    },
+    {
+      "id": 184,
+      "text": "How much does he weigh?"
+    },
+    {
+      "id": 185,
+      "text": "How much money does his father make?\""
+    },
+    {
+      "id": 186,
+      "text": "Only from these figures do they think they have learned anything about him."
+    },
+    {
+      "id": 187,
+      "text": "If you were to say to the grown-ups: \"I saw a beautiful house made of rosy brick, with geraniums in the windows and doves on the roof,\" they would not be able to get any idea of that house at all."
+    },
+    {
+      "id": 188,
+      "text": "You would have to say to them: \"I saw a house that cost $20,000.\""
+    },
+    {
+      "id": 189,
+      "text": "Then they would exclaim: \"Oh, what a pretty house that is!\""
+    },
+    {
+      "id": 190,
+      "text": "Just so, you might say to them: \"The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep."
+    },
+    {
+      "id": 191,
+      "text": "If anybody wants a sheep, that is a proof that he exists.\""
+    },
+    {
+      "id": 192,
+      "text": "And what good would it do to tell them that?"
+    },
+    {
+      "id": 193,
+      "text": "They would shrug their shoulders, and treat you like a child."
+    },
+    {
+      "id": 194,
+      "text": "But if you said to them: \"The planet he came from is Asteroid B-612,\" then they would be convinced, and leave you in peace from their questions."
+    },
+    {
+      "id": 195,
+      "text": "They are like that."
+    },
+    {
+      "id": 196,
+      "text": "One must not hold it against them."
+    },
+    {
+      "id": 197,
+      "text": "Children should always show great forbearance toward grown-up people."
+    },
+    {
+      "id": 198,
+      "text": "But certainly, for us who understand life, figures are a matter of indifference."
+    },
+    {
+      "id": 199,
+      "text": "I should have liked to begin this story in the fashion of the fairy-tales."
+    },
+    {
+      "id": 200,
+      "text": "I should have like to say: \"Once upon a time there was a little prince who lived on a planet that was scarcely any bigger than himself, and who had need of a sheep...\""
+    },
+    {
+      "id": 201,
+      "text": "To those who understand life, that would have given a much greater air of truth to my story."
+    },
+    {
+      "id": 202,
+      "text": "For I do not want any one to read my book carelessly."
+    },
+    {
+      "id": 203,
+      "text": "I have suffered too much grief in setting down these memories."
+    },
+    {
+      "id": 204,
+      "text": "Six years have already passed since my friend went away from me, with his sheep."
+    },
+    {
+      "id": 205,
+      "text": "If I try to describe him here, it is to make sure that I shall not forget him."
+    },
+    {
+      "id": 206,
+      "text": "To forget a friend is sad."
+    },
+    {
+      "id": 207,
+      "text": "Not every one has had a friend."
+    },
+    {
+      "id": 208,
+      "text": "And if I forget him, I may become like the grown-ups who are no longer interested in anything but figures..."
+    },
+    {
+      "id": 209,
+      "text": "It is for that purpose, again, that I have bought a box of paints and some pencils."
+    },
+    {
+      "id": 210,
+      "text": "It is hard to take up drawing again at my age, when I have never made any pictures except those of the boa constrictor from the outside and the boa constrictor from the inside, since I was six."
+    },
+    {
+      "id": 211,
+      "text": "I shall certainly try to make my portraits as true to life as possible."
+    },
+    {
+      "id": 212,
+      "text": "But I am not at all sure of success."
+    },
+    {
+      "id": 213,
+      "text": "One drawing goes along all right, and another has no resemblance to its subject."
+    },
+    {
+      "id": 214,
+      "text": "I make some errors, too, in the little prince's height: in one place he is too tall and in another too short."
+    },
+    {
+      "id": 215,
+      "text": "And I feel some doubts about the colours of his costume."
+    },
+    {
+      "id": 216,
+      "text": "So I fumble along as best I can, now good, now bad, and I hope generally fair-to-middling."
+    },
+    {
+      "id": 217,
+      "text": "In certain more important details I shall make mistakes, also."
+    },
+    {
+      "id": 218,
+      "text": "But that is something that will not be my fault."
+    },
+    {
+      "id": 219,
+      "text": "My friend never explained anything to me."
+    },
+    {
+      "id": 220,
+      "text": "He thought, perhaps, that I was like himself."
+    },
+    {
+      "id": 221,
+      "text": "But I, alas, do not know how to see sheep through the walls of boxes."
+    },
+    {
+      "id": 222,
+      "text": "Perhaps I am a little like the grown-ups."
+    },
+    {
+      "id": 223,
+      "text": "I have had to grow old."
+    },
+    {
+      "id": 224,
+      "text": "Chapter V"
+    },
+    {
+      "id": 225,
+      "text": "As each day passed I would learn, in our talk, something about the little prince's planet, his departure from it, his journey."
+    },
+    {
+      "id": 226,
+      "text": "The information would come very slowly, as it might chance to fall from his thoughts."
+    },
+    {
+      "id": 227,
+      "text": "It was in this way that I heard, on the third day, about the catastrophe of the baobabs."
+    },
+    {
+      "id": 228,
+      "text": "This time, once more, I had the sheep to thank for it."
+    },
+    {
+      "id": 229,
+      "text": "For the little prince asked me abruptly-- as if seized by a grave doubt-- \"It is true, isn't it, that sheep eat little bushes?\""
+    },
+    {
+      "id": 230,
+      "text": "\"Yes, that is true.\""
+    },
+    {
+      "id": 231,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 232,
+      "text": "I am glad!\""
+    },
+    {
+      "id": 233,
+      "text": "I did not understand why it was so important that sheep should eat little bushes."
+    },
+    {
+      "id": 234,
+      "text": "But the little prince added:"
+    },
+    {
+      "id": 235,
+      "text": "\"Then it follows that they also eat baobabs?\""
+    },
+    {
+      "id": 236,
+      "text": "I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole herd of elephants away with him, the herd would not eat up one single baobab."
+    },
+    {
+      "id": 237,
+      "text": "The idea of the herd of elephants made the little prince laugh."
+    },
+    {
+      "id": 238,
+      "text": "\"We would have to put them one on top of the other,\" he said."
+    },
+    {
+      "id": 239,
+      "text": "But he made a wise comment:"
+    },
+    {
+      "id": 240,
+      "text": "\"Before they grow so big, the baobabs start out by being little.\""
+    },
+    {
+      "id": 241,
+      "text": "\"That is strictly correct,\" I said."
+    },
+    {
+      "id": 242,
+      "text": "\"But why do you want the sheep to eat the little baobabs?\""
+    },
+    {
+      "id": 243,
+      "text": "He answered me at once, \"Oh, come, come!"
+    },
+    {
+      "id": 244,
+      "text": "\", as if he were speaking of something that was self-evident."
+    },
+    {
+      "id": 245,
+      "text": "And I was obliged to make a great mental effort to solve this problem, without any assistance."
+    },
+    {
+      "id": 246,
+      "text": "Indeed, as I learned, there were on the planet where the little prince lived-- as on all planets-- good plants and bad plants."
+    },
+    {
+      "id": 247,
+      "text": "In consequence, there were good seeds from good plants, and bad seeds from bad plants."
+    },
+    {
+      "id": 248,
+      "text": "But seeds are invisible."
+    },
+    {
+      "id": 249,
+      "text": "They sleep deep in the heart of the earth's darkness, until some one among them is seized with the desire to awaken."
+    },
+    {
+      "id": 250,
+      "text": "Then this little seed will stretch itself and begin-- timidly at first-- to push a charming little sprig inoffensively upward toward the sun."
+    },
+    {
+      "id": 251,
+      "text": "If it is only a sprout of radish or the sprig of a rose-bush, one would let it grow wherever it might wish."
+    },
+    {
+      "id": 252,
+      "text": "But when it is a bad plant, one must destroy it as soon as possible, the very first instant that one recognizes it."
+    },
+    {
+      "id": 253,
+      "text": "Now there were some terrible seeds on the planet that was the home of the little prince; and these were the seeds of the baobab."
+    },
+    {
+      "id": 254,
+      "text": "The soil of that planet was infested with them."
+    },
+    {
+      "id": 255,
+      "text": "A baobab is something you will never, never be able to get rid of if you attend to it too late."
+    },
+    {
+      "id": 256,
+      "text": "It spreads over the entire planet."
+    },
+    {
+      "id": 257,
+      "text": "It bores clear through it with its roots."
+    },
+    {
+      "id": 258,
+      "text": "And if the planet is too small, and the baobabs are too many, they split it in pieces..."
+    },
+    {
+      "id": 259,
+      "text": "\"It is a question of discipline,\" the little prince said to me later on."
+    },
+    {
+      "id": 260,
+      "text": "\"When you've finished your own toilet in the morning, then it is time to attend to the toilet of your planet, just so, with the greatest care."
+    },
+    {
+      "id": 261,
+      "text": "You must see to it that you pull up regularly all the baobabs, at the very first moment when they can be distinguished from the rosebushes which they resemble so closely in their earliest youth."
+    },
+    {
+      "id": 262,
+      "text": "It is very tedious work,\" the little prince added, \"but very easy.\""
+    },
+    {
+      "id": 263,
+      "text": "And one day he said to me: \"You ought to make a beautiful drawing, so that the children where you live can see exactly how all this is."
+    },
+    {
+      "id": 264,
+      "text": "That would be very useful to them if they were to travel some day."
+    },
+    {
+      "id": 265,
+      "text": "Sometimes,\" he added, \"there is no harm in putting off a piece of work until another day."
+    },
+    {
+      "id": 266,
+      "text": "But when it is a matter of baobabs, that always means a catastrophe."
+    },
+    {
+      "id": 267,
+      "text": "I knew a planet that was inhabited by a lazy man."
+    },
+    {
+      "id": 268,
+      "text": "He neglected three little bushes...\""
+    },
+    {
+      "id": 269,
+      "text": "So, as the little prince described it to me, I have made a drawing of that planet."
+    },
+    {
+      "id": 270,
+      "text": "I do not much like to take the tone of a moralist."
+    },
+    {
+      "id": 271,
+      "text": "But the danger of the baobabs is so little understood, and such considerable risks would be run by anyone who might get lost on an asteroid, that for once I am breaking through my reserve."
+    },
+    {
+      "id": 272,
+      "text": "\"Children,\" I say plainly, \"watch out for the baobabs!\""
+    },
+    {
+      "id": 273,
+      "text": "My friends, like myself, have been skirting this danger for a long time, without ever knowing it; and so it is for them that I have worked so hard over this drawing."
+    },
+    {
+      "id": 274,
+      "text": "The lesson which I pass on by this means is worth all the trouble it has cost me."
+    },
+    {
+      "id": 275,
+      "text": "Perhaps you will ask me, \"Why are there no other drawing in this book as magnificent and impressive as this drawing of the baobabs?\""
+    },
+    {
+      "id": 276,
+      "text": "The reply is simple."
+    },
+    {
+      "id": 277,
+      "text": "I have tried."
+    },
+    {
+      "id": 278,
+      "text": "But with the others I have not been successful."
+    },
+    {
+      "id": 279,
+      "text": "When I made the drawing of the baobabs I was carried beyond myself by the inspiring force of urgent necessity."
+    },
+    {
+      "id": 280,
+      "text": "Chapter VI"
+    },
+    {
+      "id": 281,
+      "text": "Oh, little prince!"
+    },
+    {
+      "id": 282,
+      "text": "Bit by bit I came to understand the secrets of your sad little life... For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset."
+    },
+    {
+      "id": 283,
+      "text": "I learned that new detail on the morning of the fourth day, when you said to me:"
+    },
+    {
+      "id": 284,
+      "text": "\"I am very fond of sunsets."
+    },
+    {
+      "id": 285,
+      "text": "Come, let us go look at a sunset now.\""
+    },
+    {
+      "id": 286,
+      "text": "\"But we must wait,\" I said."
+    },
+    {
+      "id": 287,
+      "text": "\"Wait?"
+    },
+    {
+      "id": 288,
+      "text": "For what?\""
+    },
+    {
+      "id": 289,
+      "text": "\"For the sunset."
+    },
+    {
+      "id": 290,
+      "text": "We must wait until it is time.\""
+    },
+    {
+      "id": 291,
+      "text": "At first you seemed to be very much surprised."
+    },
+    {
+      "id": 292,
+      "text": "And then you laughed to yourself."
+    },
+    {
+      "id": 293,
+      "text": "You said to me:"
+    },
+    {
+      "id": 294,
+      "text": "\"I am always thinking that I am at home!\""
+    },
+    {
+      "id": 295,
+      "text": "Just so."
+    },
+    {
+      "id": 296,
+      "text": "Everybody knows that when it is noon in the United States the sun is setting over France."
+    },
+    {
+      "id": 297,
+      "text": "If you could fly to France in one minute, you could go straight into the sunset, right from noon."
+    },
+    {
+      "id": 298,
+      "text": "Unfortunately, France is too far away for that."
+    },
+    {
+      "id": 299,
+      "text": "But on your tiny planet, my little prince, all you need do is move your chair a few steps."
+    },
+    {
+      "id": 300,
+      "text": "You can see the day end and the twilight falling whenever you like..."
+    },
+    {
+      "id": 301,
+      "text": "\"One day,\" you said to me, \"I saw the sunset forty-four times!\""
+    },
+    {
+      "id": 302,
+      "text": "And a little later you added:"
+    },
+    {
+      "id": 303,
+      "text": "\"You know-- one loves the sunset, when one is so sad...\""
+    },
+    {
+      "id": 304,
+      "text": "\"Were you so sad, then?\""
+    },
+    {
+      "id": 305,
+      "text": "I asked, \"on the day of the forty-four sunsets?\""
+    },
+    {
+      "id": 306,
+      "text": "But the little prince made no reply."
+    },
+    {
+      "id": 307,
+      "text": "Chapter VII"
+    },
+    {
+      "id": 308,
+      "text": "On the fifth day-- again, as always, it was thanks to the sheep-- the secret of the little prince's life was revealed to me."
+    },
+    {
+      "id": 309,
+      "text": "Abruptly, without anything to lead up to it, and as if the question had been born of long and silent meditation on his problem, he demanded:"
+    },
+    {
+      "id": 310,
+      "text": "\"A sheep-- if it eats little bushes, does it eat flowers, too?\""
+    },
+    {
+      "id": 311,
+      "text": "\"A sheep,\" I answered, \"eats anything it finds in its reach.\""
+    },
+    {
+      "id": 312,
+      "text": "\"Even flowers that have thorns?\""
+    },
+    {
+      "id": 313,
+      "text": "\"Yes, even flowers that have thorns.\""
+    },
+    {
+      "id": 314,
+      "text": "\"Then the thorns-- what use are they?\""
+    },
+    {
+      "id": 315,
+      "text": "I did not know."
+    },
+    {
+      "id": 316,
+      "text": "At that moment I was very busy trying to unscrew a bolt that had got stuck in my engine."
+    },
+    {
+      "id": 317,
+      "text": "I was very much worried, for it was becoming clear to me that the breakdown of my plane was extremely serious."
+    },
+    {
+      "id": 318,
+      "text": "And I had so little drinking water left that I had to fear for the worst."
+    },
+    {
+      "id": 319,
+      "text": "\"The thorns-- what use are they?\""
+    },
+    {
+      "id": 320,
+      "text": "The little prince never let go of a question, once he had asked it."
+    },
+    {
+      "id": 321,
+      "text": "As for me, I was upset over that bolt."
+    },
+    {
+      "id": 322,
+      "text": "And I answered with the first thing that came into my head:"
+    },
+    {
+      "id": 323,
+      "text": "\"The thorns are of no use at all."
+    },
+    {
+      "id": 324,
+      "text": "Flowers have thorns just for spite!\""
+    },
+    {
+      "id": 325,
+      "text": "\"Oh!\""
+    },
+    {
+      "id": 326,
+      "text": "There was a moment of complete silence."
+    },
+    {
+      "id": 327,
+      "text": "Then the little prince flashed back at me, with a kind of resentfulness:"
+    },
+    {
+      "id": 328,
+      "text": "\"I don't believe you!"
+    },
+    {
+      "id": 329,
+      "text": "Flowers are weak creatures."
+    },
+    {
+      "id": 330,
+      "text": "They are naive."
+    },
+    {
+      "id": 331,
+      "text": "They reassure themselves as best they can."
+    },
+    {
+      "id": 332,
+      "text": "They believe that their thorns are terrible weapons...\""
+    },
+    {
+      "id": 333,
+      "text": "I did not answer."
+    },
+    {
+      "id": 334,
+      "text": "At that instant I was saying to myself: \"If this bolt still won't turn, I am going to knock it out with the hammer.\""
+    },
+    {
+      "id": 335,
+      "text": "Again the little prince disturbed my thoughts."
+    },
+    {
+      "id": 336,
+      "text": "\"And you actually believe that the flowers--\""
+    },
+    {
+      "id": 337,
+      "text": "\"Oh, no!\""
+    },
+    {
+      "id": 338,
+      "text": "I cried."
+    },
+    {
+      "id": 339,
+      "text": "\"No, no no!"
+    },
+    {
+      "id": 340,
+      "text": "I don't believe anything."
+    },
+    {
+      "id": 341,
+      "text": "I answered you with the first thing that came into my head."
+    },
+    {
+      "id": 342,
+      "text": "Don't you see-- I am very busy with matters of consequence!\""
+    },
+    {
+      "id": 343,
+      "text": "He stared at me, thunderstruck."
+    },
+    {
+      "id": 344,
+      "text": "\"Matters of consequence!\""
+    },
+    {
+      "id": 345,
+      "text": "He looked at me there, with my hammer in my hand, my fingers black with engine-grease, bending down over an object, which seemed to him extremely ugly..."
+    },
+    {
+      "id": 346,
+      "text": "\"You talk just like the grown-ups!\""
+    },
+    {
+      "id": 347,
+      "text": "That made me a little ashamed."
+    },
+    {
+      "id": 348,
+      "text": "But he went on, relentlessly:"
+    },
+    {
+      "id": 349,
+      "text": "\"You mix everything up together... You confuse everything...\""
+    },
+    {
+      "id": 350,
+      "text": "He was really very angry."
+    },
+    {
+      "id": 351,
+      "text": "He tossed his golden curls in the breeze."
+    },
+    {
+      "id": 352,
+      "text": "\"I know a planet where there is a certain red-faced gentleman."
+    },
+    {
+      "id": 353,
+      "text": "He has never smelled a flower."
+    },
+    {
+      "id": 354,
+      "text": "He has never looked at a star."
+    },
+    {
+      "id": 355,
+      "text": "He has never loved any one."
+    },
+    {
+      "id": 356,
+      "text": "He has never done anything in his life but add up figures."
+    },
+    {
+      "id": 357,
+      "text": "And all day he says over and over, just like you: 'I am busy with matters of consequence!'"
+    },
+    {
+      "id": 358,
+      "text": "And that makes him swell up with pride."
+    },
+    {
+      "id": 359,
+      "text": "But he is not a man-- he is a mushroom!\""
+    },
+    {
+      "id": 360,
+      "text": "\"A what?\""
+    },
+    {
+      "id": 361,
+      "text": "\"A mushroom!\""
+    },
+    {
+      "id": 362,
+      "text": "The little prince was now white with rage."
+    },
+    {
+      "id": 363,
+      "text": "\"The flowers have been growing thorns for millions of years."
+    },
+    {
+      "id": 364,
+      "text": "For millions of years the sheep have been eating them just the same."
+    },
+    {
+      "id": 365,
+      "text": "And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns, which are never of any use to them?"
+    },
+    {
+      "id": 366,
+      "text": "Is the warfare between the sheep and the flowers not important?"
+    },
+    {
+      "id": 367,
+      "text": "Is this not of more consequence than a fat red-faced gentleman's sums?"
+    },
+    {
+      "id": 368,
+      "text": "And if I know-- I, myself-- one flower which is unique in the world, which grows nowhere but on my planet, but which one little sheep can destroy in a single bite some morning, without even noticing what he is doing-- Oh!"
+    },
+    {
+      "id": 369,
+      "text": "You think that is not important!\""
+    },
+    {
+      "id": 370,
+      "text": "His face turned from white to red as he continued:"
+    },
+    {
+      "id": 371,
+      "text": "\"If some one loves a flower, of which just one single blossom grows in all the millions and millions of stars, it is enough to make him happy just to look at the stars."
+    },
+    {
+      "id": 372,
+      "text": "He can say to himself, 'Somewhere, my flower is there...'  But if the sheep eats the flower, in one moment all his stars will be darkened... And you think that is not important!\""
+    },
+    {
+      "id": 373,
+      "text": "He could not say anything more."
+    },
+    {
+      "id": 374,
+      "text": "His words were choked by sobbing."
+    },
+    {
+      "id": 375,
+      "text": "The night had fallen."
+    },
+    {
+      "id": 376,
+      "text": "I had let my tools drop from my hands."
+    },
+    {
+      "id": 377,
+      "text": "Of what moment now was my hammer, my bolt, or thirst, or death?"
+    },
+    {
+      "id": 378,
+      "text": "On one star, one planet, my planet, the Earth, there was a little prince to be comforted."
+    },
+    {
+      "id": 379,
+      "text": "I took him in my arms, and rocked him."
+    },
+    {
+      "id": 380,
+      "text": "I said to him:"
+    },
+    {
+      "id": 381,
+      "text": "\"The flower that you love is not in danger."
+    },
+    {
+      "id": 382,
+      "text": "I will draw you a muzzle for your sheep."
+    },
+    {
+      "id": 383,
+      "text": "I will draw you a railing to put around your flower."
+    },
+    {
+      "id": 384,
+      "text": "I will--\""
+    },
+    {
+      "id": 385,
+      "text": "I did not know what to say to him."
+    },
+    {
+      "id": 386,
+      "text": "I felt awkward and blundering."
+    },
+    {
+      "id": 387,
+      "text": "I did not know how I could reach him, where I could overtake him and go on hand in hand with him once more."
+    },
+    {
+      "id": 388,
+      "text": "It is such a secret place, the land of tears."
+    },
+    {
+      "id": 389,
+      "text": "Chapter VIII"
+    },
+    {
+      "id": 390,
+      "text": "I soon learned to know this flower better."
+    },
+    {
+      "id": 391,
+      "text": "On the little prince's planet the flowers had always been very simple."
+    },
+    {
+      "id": 392,
+      "text": "They had only one ring of petals; they took up no room at all; they were a trouble to nobody."
+    },
+    {
+      "id": 393,
+      "text": "One morning they would appear in the grass, and by night they would have faded peacefully away."
+    },
+    {
+      "id": 394,
+      "text": "But one day, from a seed blown from no one knew where, a new flower had come up; and the little prince had watched very closely over this small sprout which was not like any other small sprouts on his planet."
+    },
+    {
+      "id": 395,
+      "text": "It might, you see, have been a new kind of baobab."
+    },
+    {
+      "id": 396,
+      "text": "The shrub soon stopped growing, and began to get ready to produce a flower."
+    },
+    {
+      "id": 397,
+      "text": "The little prince, who was present at the first appearance of a huge bud, felt at once that some sort of miraculous apparition must emerge from it."
+    },
+    {
+      "id": 398,
+      "text": "But the flower was not satisfied to complete the preparations for her beauty in the shelter of her green chamber."
+    },
+    {
+      "id": 399,
+      "text": "She chose her colours with the greatest care."
+    },
+    {
+      "id": 400,
+      "text": "She adjusted her petals one by one."
+    },
+    {
+      "id": 401,
+      "text": "She did not wish to go out into the world all rumpled, like the field poppies."
+    },
+    {
+      "id": 402,
+      "text": "It was only in the full radiance of her beauty that she wished to appear."
+    },
+    {
+      "id": 403,
+      "text": "Oh, yes!"
+    },
+    {
+      "id": 404,
+      "text": "She was a coquettish creature!"
+    },
+    {
+      "id": 405,
+      "text": "And her mysterious adornment lasted for days and days."
+    },
+    {
+      "id": 406,
+      "text": "Then one morning, exactly at sunrise, she suddenly showed herself."
+    },
+    {
+      "id": 407,
+      "text": "And, after working with all this painstaking precision, she yawned and said:"
+    },
+    {
+      "id": 408,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 409,
+      "text": "I am scarcely awake."
+    },
+    {
+      "id": 410,
+      "text": "I beg that you will excuse me."
+    },
+    {
+      "id": 411,
+      "text": "My petals are still all disarranged...\""
+    },
+    {
+      "id": 412,
+      "text": "But the little prince could not restrain his admiration:"
+    },
+    {
+      "id": 413,
+      "text": "\"Oh!"
+    },
+    {
+      "id": 414,
+      "text": "How beautiful you are!\""
+    },
+    {
+      "id": 415,
+      "text": "\"Am I not?\""
+    },
+    {
+      "id": 416,
+      "text": "the flower responded, sweetly."
+    },
+    {
+      "id": 417,
+      "text": "\"And I was born at the same moment as the sun...\""
+    },
+    {
+      "id": 418,
+      "text": "The little prince could guess easily enough that she was not any too modest-- but how moving-- and exciting-- she was!"
+    },
+    {
+      "id": 419,
+      "text": "\"I think it is time for breakfast,\" she added an instant later."
+    },
+    {
+      "id": 420,
+      "text": "\"If you would have the kindness to think of my needs--\""
+    },
+    {
+      "id": 421,
+      "text": "And the little prince, completely abashed, went to look for a sprinkling-can of fresh water."
+    },
+    {
+      "id": 422,
+      "text": "So, he tended the flower."
+    },
+    {
+      "id": 423,
+      "text": "So, too, she began very quickly to torment him with her vanity-- which was, if the truth be known, a little difficult to deal with."
+    },
+    {
+      "id": 424,
+      "text": "One day, for instance, when she was speaking of her four thorns, she said to the little prince:"
+    },
+    {
+      "id": 425,
+      "text": "\"Let the tigers come with their claws!\""
+    },
+    {
+      "id": 426,
+      "text": "\"There are no tigers on my planet,\" the little prince objected."
+    },
+    {
+      "id": 427,
+      "text": "\"And, anyway, tigers do not eat weeds.\""
+    },
+    {
+      "id": 428,
+      "text": "\"I am not a weed,\" the flower replied, sweetly."
+    },
+    {
+      "id": 429,
+      "text": "\"Please excuse me...\""
+    },
+    {
+      "id": 430,
+      "text": "\"I am not at all afraid of tigers,\" she went on, \"but I have a horror of drafts."
+    },
+    {
+      "id": 431,
+      "text": "I suppose you wouldn't have a screen for me?\""
+    },
+    {
+      "id": 432,
+      "text": "\"A horror of drafts-- that is bad luck, for a plant,\" remarked the little prince, and added to himself, \"This flower is a very complex creature...\""
+    },
+    {
+      "id": 433,
+      "text": "\"At night I want you to put me under a glass globe."
+    },
+    {
+      "id": 434,
+      "text": "It is very cold where you live."
+    },
+    {
+      "id": 435,
+      "text": "In the place I came from--\""
+    },
+    {
+      "id": 436,
+      "text": "But she interrupted herself at that point."
+    },
+    {
+      "id": 437,
+      "text": "She had come in the form of a seed."
+    },
+    {
+      "id": 438,
+      "text": "She could not have known anything of any other worlds."
+    },
+    {
+      "id": 439,
+      "text": "Embarrassed over having let herself be caught on the verge of such a naïve untruth, she coughed two or three times, in order to put the little prince in the wrong."
+    },
+    {
+      "id": 440,
+      "text": "\"The screen?\""
+    },
+    {
+      "id": 441,
+      "text": "\"I was just going to look for it when you spoke to me...\""
+    },
+    {
+      "id": 442,
+      "text": "Then she forced her cough a little more so that he should suffer from remorse just the same."
+    },
+    {
+      "id": 443,
+      "text": "So the little prince, in spite of all the good will that was inseparable from his love, had soon come to doubt her."
+    },
+    {
+      "id": 444,
+      "text": "He had taken seriously words, which were without importance, and it made him very unhappy."
+    },
+    {
+      "id": 445,
+      "text": "\"I ought not to have listened to her,\" he confided to me one day."
+    },
+    {
+      "id": 446,
+      "text": "\"One never ought to listen to the flowers."
+    },
+    {
+      "id": 447,
+      "text": "One should simply look at them and breathe their fragrance."
+    },
+    {
+      "id": 448,
+      "text": "Mine perfumed all my planet."
+    },
+    {
+      "id": 449,
+      "text": "But I did not know how to take pleasure in all her grace."
+    },
+    {
+      "id": 450,
+      "text": "This tale of claws, which disturbed me so much, should only have filled my heart with tenderness and pity.\""
+    },
+    {
+      "id": 451,
+      "text": "And he continued his confidences:"
+    },
+    {
+      "id": 452,
+      "text": "\"The fact is that I did not know how to understand anything!"
+    },
+    {
+      "id": 453,
+      "text": "I ought to have judged by deeds and not by words."
+    },
+    {
+      "id": 454,
+      "text": "She cast her fragrance and her radiance over me."
+    },
+    {
+      "id": 455,
+      "text": "I ought never to have run away from her..."
+    },
+    {
+      "id": 456,
+      "text": "I ought to have guessed all the affection that lay behind her poor little stratagems."
+    },
+    {
+      "id": 457,
+      "text": "Flowers are so inconsistent!"
+    },
+    {
+      "id": 458,
+      "text": "But I was too young to know how to love her...\""
+    },
+    {
+      "id": 459,
+      "text": "Chapter IX"
+    },
+    {
+      "id": 460,
+      "text": "I believe that for his escape he took advantage of the migration of a flock of wild birds."
+    },
+    {
+      "id": 461,
+      "text": "On the morning of his departure he put his planet in perfect order."
+    },
+    {
+      "id": 462,
+      "text": "He carefully cleaned out his active volcanoes."
+    },
+    {
+      "id": 463,
+      "text": "He possessed two active volcanoes; and they were very convenient for heating his breakfast in the morning."
+    },
+    {
+      "id": 464,
+      "text": "He also had one volcano that was extinct."
+    },
+    {
+      "id": 465,
+      "text": "But, as he said, \"One never knows!\""
+    },
+    {
+      "id": 466,
+      "text": "So he cleaned out the extinct volcano, too."
+    },
+    {
+      "id": 467,
+      "text": "If they are well cleaned out, volcanoes burn slowly and steadily, without any eruptions."
+    },
+    {
+      "id": 468,
+      "text": "Volcanic eruptions are like fires in a chimney."
+    },
+    {
+      "id": 469,
+      "text": "On our earth we are obviously much too small to clean out our volcanoes."
+    },
+    {
+      "id": 470,
+      "text": "That is why they bring no end of trouble upon us."
+    },
+    {
+      "id": 471,
+      "text": "The little prince also pulled up, with a certain sense of dejection, the last little shoots of the baobabs."
+    },
+    {
+      "id": 472,
+      "text": "He believed that he would never want to return."
+    },
+    {
+      "id": 473,
+      "text": "But on this last morning all these familiar tasks seemed very precious to him."
+    },
+    {
+      "id": 474,
+      "text": "And when he watered the flower for the last time, and prepared to place her under the shelter of her glass globe, he realised that he was very close to tears."
+    },
+    {
+      "id": 475,
+      "text": "\"Goodbye,\" he said to the flower."
+    },
+    {
+      "id": 476,
+      "text": "But she made no answer."
+    },
+    {
+      "id": 477,
+      "text": "\"Goodbye,\" he said again."
+    },
+    {
+      "id": 478,
+      "text": "The flower coughed."
+    },
+    {
+      "id": 479,
+      "text": "But it was not because she had a cold."
+    },
+    {
+      "id": 480,
+      "text": "\"I have been silly,\" she said to him, at last."
+    },
+    {
+      "id": 481,
+      "text": "\"I ask your forgiveness."
+    },
+    {
+      "id": 482,
+      "text": "Try to be happy...\""
+    },
+    {
+      "id": 483,
+      "text": "He was surprised by this absence of reproaches."
+    },
+    {
+      "id": 484,
+      "text": "He stood there all bewildered, the glass globe held arrested in mid-air."
+    },
+    {
+      "id": 485,
+      "text": "He did not understand this quiet sweetness."
+    },
+    {
+      "id": 486,
+      "text": "\"Of course I love you,\" the flower said to him."
+    },
+    {
+      "id": 487,
+      "text": "\"It is my fault that you have not known it all the while."
+    },
+    {
+      "id": 488,
+      "text": "That is of no importance."
+    },
+    {
+      "id": 489,
+      "text": "But you-- you have been just as foolish as I."
+    },
+    {
+      "id": 490,
+      "text": "Try to be happy... let the glass globe be."
+    },
+    {
+      "id": 491,
+      "text": "I don't want it any more.\""
+    },
+    {
+      "id": 492,
+      "text": "\"But the wind--\""
+    },
+    {
+      "id": 493,
+      "text": "\"My cold is not so bad as all that... the cool night air will do me good."
+    },
+    {
+      "id": 494,
+      "text": "I am a flower.\""
+    },
+    {
+      "id": 495,
+      "text": "\"But the animals--\""
+    },
+    {
+      "id": 496,
+      "text": "\"Well, I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies."
+    },
+    {
+      "id": 497,
+      "text": "It seems that they are very beautiful."
+    },
+    {
+      "id": 498,
+      "text": "And if not the butterflies-- and the caterpillars-- who will call upon me?"
+    },
+    {
+      "id": 499,
+      "text": "You will be far away... as for the large animals-- I am not at all afraid of any of them."
+    },
+    {
+      "id": 500,
+      "text": "I have my claws.\""
+    },
+    {
+      "id": 501,
+      "text": "And, naïvely, she showed her four thorns."
+    },
+    {
+      "id": 502,
+      "text": "Then she added:"
+    },
+    {
+      "id": 503,
+      "text": "\"Don't linger like this."
+    },
+    {
+      "id": 504,
+      "text": "You have decided to go away."
+    },
+    {
+      "id": 505,
+      "text": "Now go!\""
+    },
+    {
+      "id": 506,
+      "text": "For she did not want him to see her crying."
+    },
+    {
+      "id": 507,
+      "text": "She was such a proud flower..."
+    },
+    {
+      "id": 508,
+      "text": "Chapter X"
+    },
+    {
+      "id": 509,
+      "text": "He found himself in the neighbourhood of the asteroids 325, 326, 327, 328, 329, and 330."
+    },
+    {
+      "id": 510,
+      "text": "He began, therefore, by visiting them, in order to add to his knowledge."
+    },
+    {
+      "id": 511,
+      "text": "The first of them was inhabited by a king."
+    },
+    {
+      "id": 512,
+      "text": "Clad in royal purple and ermine, he was seated upon a throne which was at the same time both simple and majestic."
+    },
+    {
+      "id": 513,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 514,
+      "text": "Here is a subject,\" exclaimed the king, when he saw the little prince coming."
+    },
+    {
+      "id": 515,
+      "text": "And the little prince asked himself:"
+    },
+    {
+      "id": 516,
+      "text": "\"How could he recognize me when he had never seen me before?\""
+    },
+    {
+      "id": 517,
+      "text": "He did not know how the world is simplified for kings."
+    },
+    {
+      "id": 518,
+      "text": "To them, all men are subjects."
+    },
+    {
+      "id": 519,
+      "text": "\"Approach, so that I may see you better,\" said the king, who felt consumingly proud of being at last a king over somebody."
+    },
+    {
+      "id": 520,
+      "text": "The little prince looked everywhere to find a place to sit down; but the entire planet was crammed and obstructed by the king's magnificent ermine robe."
+    },
+    {
+      "id": 521,
+      "text": "So he remained standing upright, and, since he was tired, he yawned."
+    },
+    {
+      "id": 522,
+      "text": "\"It is contrary to etiquette to yawn in the presence of a king,\" the monarch said to him."
+    },
+    {
+      "id": 523,
+      "text": "\"I forbid you to do so.\""
+    },
+    {
+      "id": 524,
+      "text": "\"I can't help it."
+    },
+    {
+      "id": 525,
+      "text": "I can't stop myself,\" replied the little prince, thoroughly embarrassed."
+    },
+    {
+      "id": 526,
+      "text": "\"I have come on a long journey, and I have had no sleep...\""
+    },
+    {
+      "id": 527,
+      "text": "\"Ah, then,\" the king said."
+    },
+    {
+      "id": 528,
+      "text": "\"I order you to yawn."
+    },
+    {
+      "id": 529,
+      "text": "It is years since I have seen anyone yawning."
+    },
+    {
+      "id": 530,
+      "text": "Yawns, to me, are objects of curiosity."
+    },
+    {
+      "id": 531,
+      "text": "Come, now!"
+    },
+    {
+      "id": 532,
+      "text": "Yawn again!"
+    },
+    {
+      "id": 533,
+      "text": "It is an order.\""
+    },
+    {
+      "id": 534,
+      "text": "\"That frightens me..."
+    },
+    {
+      "id": 535,
+      "text": "I cannot, any more...\" murmured the little prince, now completely abashed."
+    },
+    {
+      "id": 536,
+      "text": "\"Hum!"
+    },
+    {
+      "id": 537,
+      "text": "Hum!\""
+    },
+    {
+      "id": 538,
+      "text": "replied the king."
+    },
+    {
+      "id": 539,
+      "text": "\"Then I-- I order you sometimes to yawn and sometimes to--\""
+    },
+    {
+      "id": 540,
+      "text": "He sputtered a little, and seemed vexed."
+    },
+    {
+      "id": 541,
+      "text": "For what the king fundamentally insisted upon was that his authority should be respected."
+    },
+    {
+      "id": 542,
+      "text": "He tolerated no disobedience."
+    },
+    {
+      "id": 543,
+      "text": "He was an absolute monarch."
+    },
+    {
+      "id": 544,
+      "text": "But, because he was a very good man, he made his orders reasonable."
+    },
+    {
+      "id": 545,
+      "text": "\"If I ordered a general,\" he would say, by way of example, \"if I ordered a general to change himself into a sea bird, and if the general did not obey me, that would not be the fault of the general."
+    },
+    {
+      "id": 546,
+      "text": "It would be my fault.\""
+    },
+    {
+      "id": 547,
+      "text": "\"May I sit down?\""
+    },
+    {
+      "id": 548,
+      "text": "came now a timid inquiry from the little prince."
+    },
+    {
+      "id": 549,
+      "text": "\"I order you to do so,\" the king answered him, and majestically gathered in a fold of his ermine mantle."
+    },
+    {
+      "id": 550,
+      "text": "But the little prince was wondering..."
+    },
+    {
+      "id": 551,
+      "text": "The planet was tiny."
+    },
+    {
+      "id": 552,
+      "text": "Over what could this king really rule?"
+    },
+    {
+      "id": 553,
+      "text": "\"Sire,\" he said to him, \"I beg that you will excuse my asking you a question--\""
+    },
+    {
+      "id": 554,
+      "text": "\"I order you to ask me a question,\" the king hastened to assure him."
+    },
+    {
+      "id": 555,
+      "text": "\"Sire-- over what do you rule?\""
+    },
+    {
+      "id": 556,
+      "text": "\"Over everything,\" said the king, with magnificent simplicity."
+    },
+    {
+      "id": 557,
+      "text": "\"Over everything?\""
+    },
+    {
+      "id": 558,
+      "text": "The king made a gesture, which took in his planet, the other planets, and all the stars."
+    },
+    {
+      "id": 559,
+      "text": "\"Over all that?\""
+    },
+    {
+      "id": 560,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 561,
+      "text": "\"Over all that,\" the king answered."
+    },
+    {
+      "id": 562,
+      "text": "For his rule was not only absolute: it was also universal."
+    },
+    {
+      "id": 563,
+      "text": "\"And the stars obey you?\""
+    },
+    {
+      "id": 564,
+      "text": "\"Certainly they do,\" the king said."
+    },
+    {
+      "id": 565,
+      "text": "\"They obey instantly."
+    },
+    {
+      "id": 566,
+      "text": "I do not permit insubordination.\""
+    },
+    {
+      "id": 567,
+      "text": "Such power was a thing for the little prince to marvel at."
+    },
+    {
+      "id": 568,
+      "text": "If he had been master of such complete authority, he would have been able to watch the sunset, not forty-four times in one day, but seventy-two, or even a hundred, or even two hundred times, without ever having to move his chair."
+    },
+    {
+      "id": 569,
+      "text": "And because he felt a bit sad as he remembered his little planet, which he had forsaken, he plucked up his courage to ask the king a favour:"
+    },
+    {
+      "id": 570,
+      "text": "\"I should like to see a sunset... do me that kindness... Order the sun to set...\""
+    },
+    {
+      "id": 571,
+      "text": "\"If I ordered a general to fly from one flower to another like a butterfly, or to write a tragic drama, or to change himself into a sea bird, and if the general did not carry out the order that he had received, which one of us would be in the wrong?\""
+    },
+    {
+      "id": 572,
+      "text": "the king demanded."
+    },
+    {
+      "id": 573,
+      "text": "\"The general, or myself?\""
+    },
+    {
+      "id": 574,
+      "text": "\"You,\" said the little prince firmly."
+    },
+    {
+      "id": 575,
+      "text": "\"Exactly."
+    },
+    {
+      "id": 576,
+      "text": "One much require from each one the duty which each one can perform,\" the king went on."
+    },
+    {
+      "id": 577,
+      "text": "\"Accepted authority rests first of all on reason."
+    },
+    {
+      "id": 578,
+      "text": "If you ordered your people to go and throw themselves into the sea, they would rise up in revolution."
+    },
+    {
+      "id": 579,
+      "text": "I have the right to require obedience because my orders are reasonable.\""
+    },
+    {
+      "id": 580,
+      "text": "\"Then my sunset?\""
+    },
+    {
+      "id": 581,
+      "text": "the little prince reminded him: for he never forgot a question once he had asked it."
+    },
+    {
+      "id": 582,
+      "text": "\"You shall have your sunset."
+    },
+    {
+      "id": 583,
+      "text": "I shall command it."
+    },
+    {
+      "id": 584,
+      "text": "But, according to my science of government, I shall wait until conditions are favourable.\""
+    },
+    {
+      "id": 585,
+      "text": "\"When will that be?\""
+    },
+    {
+      "id": 586,
+      "text": "inquired the little prince."
+    },
+    {
+      "id": 587,
+      "text": "\"Hum!"
+    },
+    {
+      "id": 588,
+      "text": "Hum!\""
+    },
+    {
+      "id": 589,
+      "text": "replied the king; and before saying anything else he consulted a bulky almanac."
+    },
+    {
+      "id": 590,
+      "text": "\"Hum!"
+    },
+    {
+      "id": 591,
+      "text": "Hum!"
+    },
+    {
+      "id": 592,
+      "text": "That will be about-- about-- that will be this evening about twenty minutes to eight."
+    },
+    {
+      "id": 593,
+      "text": "And you will see how well I am obeyed.\""
+    },
+    {
+      "id": 594,
+      "text": "The little prince yawned."
+    },
+    {
+      "id": 595,
+      "text": "He was regretting his lost sunset."
+    },
+    {
+      "id": 596,
+      "text": "And then, too, he was already beginning to be a little bored."
+    },
+    {
+      "id": 597,
+      "text": "\"I have nothing more to do here,\" he said to the king."
+    },
+    {
+      "id": 598,
+      "text": "\"So I shall set out on my way again.\""
+    },
+    {
+      "id": 599,
+      "text": "\"Do not go,\" said the king, who was very proud of having a subject."
+    },
+    {
+      "id": 600,
+      "text": "\"Do not go."
+    },
+    {
+      "id": 601,
+      "text": "I will make you a Minister!\""
+    },
+    {
+      "id": 602,
+      "text": "\"Minister of what?\""
+    },
+    {
+      "id": 603,
+      "text": "\"Minster of-- of Justice!\""
+    },
+    {
+      "id": 604,
+      "text": "\"But there is nobody here to judge!\""
+    },
+    {
+      "id": 605,
+      "text": "\"We do not know that,\" the king said to him."
+    },
+    {
+      "id": 606,
+      "text": "\"I have not yet made a complete tour of my kingdom."
+    },
+    {
+      "id": 607,
+      "text": "I am very old."
+    },
+    {
+      "id": 608,
+      "text": "There is no room here for a carriage."
+    },
+    {
+      "id": 609,
+      "text": "And it tires me to walk.\""
+    },
+    {
+      "id": 610,
+      "text": "\"Oh, but I have looked already!\""
+    },
+    {
+      "id": 611,
+      "text": "said the little prince, turning around to give one more glance to the other side of the planet."
+    },
+    {
+      "id": 612,
+      "text": "On that side, as on this, there was nobody at all..."
+    },
+    {
+      "id": 613,
+      "text": "\"Then you shall judge yourself,\" the king answered."
+    },
+    {
+      "id": 614,
+      "text": "\"that is the most difficult thing of all."
+    },
+    {
+      "id": 615,
+      "text": "It is much more difficult to judge oneself than to judge others."
+    },
+    {
+      "id": 616,
+      "text": "If you succeed in judging yourself rightly, then you are indeed a man of true wisdom.\""
+    },
+    {
+      "id": 617,
+      "text": "\"Yes,\" said the little prince, \"but I can judge myself anywhere."
+    },
+    {
+      "id": 618,
+      "text": "I do not need to live on this planet."
+    },
+    {
+      "id": 619,
+      "text": "\"Hum!"
+    },
+    {
+      "id": 620,
+      "text": "Hum!\""
+    },
+    {
+      "id": 621,
+      "text": "said the king."
+    },
+    {
+      "id": 622,
+      "text": "\"I have good reason to believe that somewhere on my planet there is an old rat."
+    },
+    {
+      "id": 623,
+      "text": "I hear him at night."
+    },
+    {
+      "id": 624,
+      "text": "You can judge this old rat."
+    },
+    {
+      "id": 625,
+      "text": "From time to time you will condemn him to death."
+    },
+    {
+      "id": 626,
+      "text": "Thus his life will depend on your justice."
+    },
+    {
+      "id": 627,
+      "text": "But you will pardon him on each occasion; for he must be treated thriftily."
+    },
+    {
+      "id": 628,
+      "text": "He is the only one we have.\""
+    },
+    {
+      "id": 629,
+      "text": "\"I,\" replied the little prince, \"do not like to condemn anyone to death."
+    },
+    {
+      "id": 630,
+      "text": "And now I think I will go on my way.\""
+    },
+    {
+      "id": 631,
+      "text": "\"No,\" said the king."
+    },
+    {
+      "id": 632,
+      "text": "But the little prince, having now completed his preparations for departure, had no wish to grieve the old monarch."
+    },
+    {
+      "id": 633,
+      "text": "\"If Your Majesty wishes to be promptly obeyed,\" he said, \"he should be able to give me a reasonable order."
+    },
+    {
+      "id": 634,
+      "text": "He should be able, for example, to order me to be gone by the end of one minute."
+    },
+    {
+      "id": 635,
+      "text": "It seems to me that conditions are favourable...\""
+    },
+    {
+      "id": 636,
+      "text": "As the king made no answer, the little prince hesitated a moment."
+    },
+    {
+      "id": 637,
+      "text": "Then, with a sigh, he took his leave."
+    },
+    {
+      "id": 638,
+      "text": "\"I made you my Ambassador,\" the king called out, hastily."
+    },
+    {
+      "id": 639,
+      "text": "He had a magnificent air of authority."
+    },
+    {
+      "id": 640,
+      "text": "\"The grown-ups are very strange,\" the little prince said to himself, as he continued on his journey."
+    },
+    {
+      "id": 641,
+      "text": "Chapter XI"
+    },
+    {
+      "id": 642,
+      "text": "The second planet was inhabited by a conceited man."
+    },
+    {
+      "id": 643,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 644,
+      "text": "Ah!"
+    },
+    {
+      "id": 645,
+      "text": "I am about to receive a visit from an admirer!\""
+    },
+    {
+      "id": 646,
+      "text": "he exclaimed from afar, when he first saw the little prince coming."
+    },
+    {
+      "id": 647,
+      "text": "For, to conceited men, all other men are admirers."
+    },
+    {
+      "id": 648,
+      "text": "\"Good morning,\" said the little prince."
+    },
+    {
+      "id": 649,
+      "text": "\"That is a queer hat you are wearing.\""
+    },
+    {
+      "id": 650,
+      "text": "\"It is a hat for salutes,\" the conceited man replied."
+    },
+    {
+      "id": 651,
+      "text": "\"It is to raise in salute when people acclaim me."
+    },
+    {
+      "id": 652,
+      "text": "Unfortunately, nobody at all ever passes this way.\""
+    },
+    {
+      "id": 653,
+      "text": "\"Yes?\""
+    },
+    {
+      "id": 654,
+      "text": "said the little prince, who did not understand what the conceited man was talking about."
+    },
+    {
+      "id": 655,
+      "text": "\"Clap your hands, one against the other,\" the conceited man now directed him."
+    },
+    {
+      "id": 656,
+      "text": "The little prince clapped his hands."
+    },
+    {
+      "id": 657,
+      "text": "The conceited man raised his hat in a modest salute."
+    },
+    {
+      "id": 658,
+      "text": "\"This is more entertaining than the visit to the king,\" the little prince said to himself."
+    },
+    {
+      "id": 659,
+      "text": "And he began again to clap his hands, one against the other."
+    },
+    {
+      "id": 660,
+      "text": "The conceited man against raised his hat in salute."
+    },
+    {
+      "id": 661,
+      "text": "After five minutes of this exercise the little prince grew tired of the game's monotony."
+    },
+    {
+      "id": 662,
+      "text": "\"And what should one do to make the hat come down?\""
+    },
+    {
+      "id": 663,
+      "text": "he asked."
+    },
+    {
+      "id": 664,
+      "text": "But the conceited man did not hear him."
+    },
+    {
+      "id": 665,
+      "text": "Conceited people never hear anything but praise."
+    },
+    {
+      "id": 666,
+      "text": "\"Do you really admire me very much?\""
+    },
+    {
+      "id": 667,
+      "text": "he demanded of the little prince."
+    },
+    {
+      "id": 668,
+      "text": "\"What does that mean-- 'admire'?\""
+    },
+    {
+      "id": 669,
+      "text": "\"To admire mean that you regard me as the handsomest, the best-dressed, the richest, and the most intelligent man on this planet.\""
+    },
+    {
+      "id": 670,
+      "text": "\"But you are the only man on your planet!\""
+    },
+    {
+      "id": 671,
+      "text": "\"Do me this kindness."
+    },
+    {
+      "id": 672,
+      "text": "Admire me just the same.\""
+    },
+    {
+      "id": 673,
+      "text": "\"I admire you,\" said the little prince, shrugging his shoulders slightly, \"but what is there in that to interest you so much?\""
+    },
+    {
+      "id": 674,
+      "text": "And the little prince went away."
+    },
+    {
+      "id": 675,
+      "text": "\"The grown-ups are certainly very odd,\" he said to himself, as he continued on his journey."
+    },
+    {
+      "id": 676,
+      "text": "Chapter XII"
+    },
+    {
+      "id": 677,
+      "text": "The next planet was inhabited by a tippler."
+    },
+    {
+      "id": 678,
+      "text": "This was a very short visit, but it plunged the little prince into deep dejection."
+    },
+    {
+      "id": 679,
+      "text": "\"What are you doing there?\""
+    },
+    {
+      "id": 680,
+      "text": "he said to the tippler, whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles."
+    },
+    {
+      "id": 681,
+      "text": "\"I am drinking,\" replied the tippler, with a lugubrious air."
+    },
+    {
+      "id": 682,
+      "text": "\"Why are you drinking?\""
+    },
+    {
+      "id": 683,
+      "text": "demanded the little prince."
+    },
+    {
+      "id": 684,
+      "text": "\"So that I may forget,\" replied the tippler."
+    },
+    {
+      "id": 685,
+      "text": "\"Forget what?\""
+    },
+    {
+      "id": 686,
+      "text": "inquired the little prince, who already was sorry for him."
+    },
+    {
+      "id": 687,
+      "text": "\"Forget that I am ashamed,\" the tippler confessed, hanging his head."
+    },
+    {
+      "id": 688,
+      "text": "\"Ashamed of what?\""
+    },
+    {
+      "id": 689,
+      "text": "insisted the little prince, who wanted to help him."
+    },
+    {
+      "id": 690,
+      "text": "\"Ashamed of drinking!\""
+    },
+    {
+      "id": 691,
+      "text": "The tippler brought his speech to an end, and shut himself up in an impregnable silence."
+    },
+    {
+      "id": 692,
+      "text": "And the little prince went away, puzzled."
+    },
+    {
+      "id": 693,
+      "text": "\"The grown-ups are certainly very, very odd,\" he said to himself, as he continued on his journey."
+    },
+    {
+      "id": 694,
+      "text": "Chapter XIII"
+    },
+    {
+      "id": 695,
+      "text": "The fourth planet belonged to a businessman."
+    },
+    {
+      "id": 696,
+      "text": "This man was so much occupied that he did not even raise his head at the little prince's arrival."
+    },
+    {
+      "id": 697,
+      "text": "\"Good morning,\" the little prince said to him."
+    },
+    {
+      "id": 698,
+      "text": "\"Your cigarette has gone out.\""
+    },
+    {
+      "id": 699,
+      "text": "\"Three and two make five."
+    },
+    {
+      "id": 700,
+      "text": "Five and seven make twelve."
+    },
+    {
+      "id": 701,
+      "text": "Twelve and three make fifteen."
+    },
+    {
+      "id": 702,
+      "text": "Good morning."
+    },
+    {
+      "id": 703,
+      "text": "Fifteen and seven make twenty-two."
+    },
+    {
+      "id": 704,
+      "text": "Twenty-two and six make twenty-eight."
+    },
+    {
+      "id": 705,
+      "text": "I haven't time to light it again."
+    },
+    {
+      "id": 706,
+      "text": "Twenty-six and five make thirty-one."
+    },
+    {
+      "id": 707,
+      "text": "Phew!"
+    },
+    {
+      "id": 708,
+      "text": "Then that makes five-hundred-and-one-million, six-hundred-twenty-two-thousand, seven-hundred-thirty-one.\""
+    },
+    {
+      "id": 709,
+      "text": "\"Five hundred million what?\""
+    },
+    {
+      "id": 710,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 711,
+      "text": "\"Eh?"
+    },
+    {
+      "id": 712,
+      "text": "Are you still there?"
+    },
+    {
+      "id": 713,
+      "text": "Five-hundred-and-one million-- I can't stop..."
+    },
+    {
+      "id": 714,
+      "text": "I have so much to do!"
+    },
+    {
+      "id": 715,
+      "text": "I am concerned with matters of consequence."
+    },
+    {
+      "id": 716,
+      "text": "I don't amuse myself with balderdash."
+    },
+    {
+      "id": 717,
+      "text": "Two and five make seven...\""
+    },
+    {
+      "id": 718,
+      "text": "\"Five-hundred-and-one million what?\""
+    },
+    {
+      "id": 719,
+      "text": "repeated the little prince, who never in his life had let go of a question once he had asked it."
+    },
+    {
+      "id": 720,
+      "text": "The businessman raised his head."
+    },
+    {
+      "id": 721,
+      "text": "\"During the fifty-four years that I have inhabited this planet, I have been disturbed only three times."
+    },
+    {
+      "id": 722,
+      "text": "The first time was twenty-two years ago, when some giddy goose fell from goodness knows where."
+    },
+    {
+      "id": 723,
+      "text": "He made the most frightful noise that resounded all over the place, and I made four mistakes in my addition."
+    },
+    {
+      "id": 724,
+      "text": "The second time, eleven years ago, I was disturbed by an attack of rheumatism."
+    },
+    {
+      "id": 725,
+      "text": "I don't get enough exercise."
+    },
+    {
+      "id": 726,
+      "text": "I have no time for loafing."
+    },
+    {
+      "id": 727,
+      "text": "The third time-- well, this is it!"
+    },
+    {
+      "id": 728,
+      "text": "I was saying, then, five-hundred-and-one millions--\""
+    },
+    {
+      "id": 729,
+      "text": "\"Millions of what?\""
+    },
+    {
+      "id": 730,
+      "text": "The businessman suddenly realized that there was no hope of being left in peace until he answered this question."
+    },
+    {
+      "id": 731,
+      "text": "\"Millions of those little objects,\" he said, \"which one sometimes sees in the sky.\""
+    },
+    {
+      "id": 732,
+      "text": "\"Flies?\""
+    },
+    {
+      "id": 733,
+      "text": "\"Oh, no."
+    },
+    {
+      "id": 734,
+      "text": "Little glittering objects.\""
+    },
+    {
+      "id": 735,
+      "text": "\"Bees?\""
+    },
+    {
+      "id": 736,
+      "text": "\"Oh, no."
+    },
+    {
+      "id": 737,
+      "text": "Little golden objects that set lazy men to idle dreaming."
+    },
+    {
+      "id": 738,
+      "text": "As for me, I am concerned with matters of consequence."
+    },
+    {
+      "id": 739,
+      "text": "There is no time for idle dreaming in my life.\""
+    },
+    {
+      "id": 740,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 741,
+      "text": "You mean the stars?\""
+    },
+    {
+      "id": 742,
+      "text": "\"Yes, that's it."
+    },
+    {
+      "id": 743,
+      "text": "The stars.\""
+    },
+    {
+      "id": 744,
+      "text": "\"And what do you do with five-hundred millions of stars?\""
+    },
+    {
+      "id": 745,
+      "text": "\"Five-hundred-and-one million, six-hundred-twenty-two thousand, seven-hundred-thirty-one."
+    },
+    {
+      "id": 746,
+      "text": "I am concerned with matters of consequence: I am accurate.\""
+    },
+    {
+      "id": 747,
+      "text": "\"And what do you do with these stars?\""
+    },
+    {
+      "id": 748,
+      "text": "\"What do I do with them?\""
+    },
+    {
+      "id": 749,
+      "text": "\"Yes.\""
+    },
+    {
+      "id": 750,
+      "text": "\"Nothing."
+    },
+    {
+      "id": 751,
+      "text": "I own them.\""
+    },
+    {
+      "id": 752,
+      "text": "\"You own the stars?\""
+    },
+    {
+      "id": 753,
+      "text": "\"Yes.\""
+    },
+    {
+      "id": 754,
+      "text": "\"But I have already seen a king who--\""
+    },
+    {
+      "id": 755,
+      "text": "\"Kings do not own, they reign over."
+    },
+    {
+      "id": 756,
+      "text": "It is a very different matter.\""
+    },
+    {
+      "id": 757,
+      "text": "\"And what good does it do you to own the stars?\""
+    },
+    {
+      "id": 758,
+      "text": "\"It does me the good of making me rich.\""
+    },
+    {
+      "id": 759,
+      "text": "\"And what good does it do you to be rich?\""
+    },
+    {
+      "id": 760,
+      "text": "\"It makes it possible for me to buy more stars, if any are ever discovered.\""
+    },
+    {
+      "id": 761,
+      "text": "\"This man,\" the little prince said to himself, \"reasons a little like my poor tippler...\""
+    },
+    {
+      "id": 762,
+      "text": "Nevertheless, he still had some more questions."
+    },
+    {
+      "id": 763,
+      "text": "\"How is it possible for one to own the stars?\""
+    },
+    {
+      "id": 764,
+      "text": "\"To whom do they belong?\""
+    },
+    {
+      "id": 765,
+      "text": "the businessman retorted, peevishly."
+    },
+    {
+      "id": 766,
+      "text": "\"I don't know."
+    },
+    {
+      "id": 767,
+      "text": "To nobody.\""
+    },
+    {
+      "id": 768,
+      "text": "\"Then they belong to me, because I was the first person to think of it.\""
+    },
+    {
+      "id": 769,
+      "text": "\"Is that all that is necessary?\""
+    },
+    {
+      "id": 770,
+      "text": "\"Certainly."
+    },
+    {
+      "id": 771,
+      "text": "When you find a diamond that belongs to nobody, it is yours."
+    },
+    {
+      "id": 772,
+      "text": "When you discover an island that belongs to nobody, it is yours."
+    },
+    {
+      "id": 773,
+      "text": "When you get an idea before any one else, you take out a patent on it: it is yours."
+    },
+    {
+      "id": 774,
+      "text": "So with me: I own the stars, because nobody else before me ever thought of owning them.\""
+    },
+    {
+      "id": 775,
+      "text": "\"Yes, that is true,\" said the little prince."
+    },
+    {
+      "id": 776,
+      "text": "\"And what do you do with them?\""
+    },
+    {
+      "id": 777,
+      "text": "\"I administer them,\" replied the businessman."
+    },
+    {
+      "id": 778,
+      "text": "\"I count them and recount them."
+    },
+    {
+      "id": 779,
+      "text": "It is difficult."
+    },
+    {
+      "id": 780,
+      "text": "But I am a man who is naturally interested in matters of consequence.\""
+    },
+    {
+      "id": 781,
+      "text": "The little prince was still not satisfied."
+    },
+    {
+      "id": 782,
+      "text": "\"If I owned a silk scarf,\" he said, \"I could put it around my neck and take it away with me."
+    },
+    {
+      "id": 783,
+      "text": "If I owned a flower, I could pluck that flower and take it away with me."
+    },
+    {
+      "id": 784,
+      "text": "But you cannot pluck the stars from heaven...\""
+    },
+    {
+      "id": 785,
+      "text": "\"No."
+    },
+    {
+      "id": 786,
+      "text": "But I can put them in the bank.\""
+    },
+    {
+      "id": 787,
+      "text": "\"Whatever does that mean?\""
+    },
+    {
+      "id": 788,
+      "text": "\"That means that I write the number of my stars on a little paper."
+    },
+    {
+      "id": 789,
+      "text": "And then I put this paper in a drawer and lock it with a key.\""
+    },
+    {
+      "id": 790,
+      "text": "\"And that is all?\""
+    },
+    {
+      "id": 791,
+      "text": "\"That is enough,\" said the businessman."
+    },
+    {
+      "id": 792,
+      "text": "\"It is entertaining,\" thought the little prince."
+    },
+    {
+      "id": 793,
+      "text": "\"It is rather poetic."
+    },
+    {
+      "id": 794,
+      "text": "But it is of no great consequence.\""
+    },
+    {
+      "id": 795,
+      "text": "On matters of consequence, the little prince had ideas which were very different from those of the grown-ups."
+    },
+    {
+      "id": 796,
+      "text": "\"I myself own a flower,\" he continued his conversation with the businessman, \"which I water every day."
+    },
+    {
+      "id": 797,
+      "text": "I own three volcanoes, which I clean out every week (for I also clean out the one that is extinct; one never knows)."
+    },
+    {
+      "id": 798,
+      "text": "It is of some use to my volcanoes, and it is of some use to my flower, that I own them."
+    },
+    {
+      "id": 799,
+      "text": "But you are of no use to the stars...\""
+    },
+    {
+      "id": 800,
+      "text": "The businessman opened his mouth, but he found nothing to say in answer."
+    },
+    {
+      "id": 801,
+      "text": "And the little prince went away."
+    },
+    {
+      "id": 802,
+      "text": "\"The grown-ups are certainly altogether extraordinary,\" he said simply, talking to himself as he continued on his journey."
+    },
+    {
+      "id": 803,
+      "text": "Chapter XIV"
+    },
+    {
+      "id": 804,
+      "text": "The fifth planet was very strange."
+    },
+    {
+      "id": 805,
+      "text": "It was the smallest of all."
+    },
+    {
+      "id": 806,
+      "text": "There was just enough room on it for a street lamp and a lamplighter."
+    },
+    {
+      "id": 807,
+      "text": "The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter, somewhere in the heavens, on a planet, which had no people, and not one house."
+    },
+    {
+      "id": 808,
+      "text": "But he said to himself, nevertheless:"
+    },
+    {
+      "id": 809,
+      "text": "\"It may well be that this man is absurd."
+    },
+    {
+      "id": 810,
+      "text": "But he is not so absurd as the king, the conceited man, the businessman, and the tippler."
+    },
+    {
+      "id": 811,
+      "text": "For at least his work has some meaning."
+    },
+    {
+      "id": 812,
+      "text": "When he lights his street lamp, it is as if he brought one more star to life, or one flower."
+    },
+    {
+      "id": 813,
+      "text": "When he puts out his lamp, he sends the flower, or the star, to sleep."
+    },
+    {
+      "id": 814,
+      "text": "That is a beautiful occupation."
+    },
+    {
+      "id": 815,
+      "text": "And since it is beautiful, it is truly useful.\""
+    },
+    {
+      "id": 816,
+      "text": "When he arrived on the planet he respectfully saluted the lamplighter."
+    },
+    {
+      "id": 817,
+      "text": "\"Good morning."
+    },
+    {
+      "id": 818,
+      "text": "Why have you just put out your lamp?\""
+    },
+    {
+      "id": 819,
+      "text": "\"Those are the orders,\" replied the lamplighter."
+    },
+    {
+      "id": 820,
+      "text": "\"Good morning.\""
+    },
+    {
+      "id": 821,
+      "text": "\"What are the orders?\""
+    },
+    {
+      "id": 822,
+      "text": "\"The orders are that I put out my lamp."
+    },
+    {
+      "id": 823,
+      "text": "Good evening.\""
+    },
+    {
+      "id": 824,
+      "text": "And he lighted his lamp again."
+    },
+    {
+      "id": 825,
+      "text": "\"But why have you just lighted it again?\""
+    },
+    {
+      "id": 826,
+      "text": "\"Those are the orders,\" replied the lamplighter."
+    },
+    {
+      "id": 827,
+      "text": "\"I do not understand,\" said the little prince."
+    },
+    {
+      "id": 828,
+      "text": "\"There is nothing to understand,\" said the lamplighter."
+    },
+    {
+      "id": 829,
+      "text": "\"Orders are orders."
+    },
+    {
+      "id": 830,
+      "text": "Good morning.\""
+    },
+    {
+      "id": 831,
+      "text": "And he put out his lamp."
+    },
+    {
+      "id": 832,
+      "text": "Then he mopped his forehead with a handkerchief decorated with red squares."
+    },
+    {
+      "id": 833,
+      "text": "\"I follow a terrible profession."
+    },
+    {
+      "id": 834,
+      "text": "In the old days it was reasonable."
+    },
+    {
+      "id": 835,
+      "text": "I put the lamp out in the morning, and in the evening I lighted it again."
+    },
+    {
+      "id": 836,
+      "text": "I had the rest of the day for relaxation and the rest of the night for sleep.\""
+    },
+    {
+      "id": 837,
+      "text": "\"And the orders have been changed since that time?\""
+    },
+    {
+      "id": 838,
+      "text": "\"The orders have not been changed,\" said the lamplighter."
+    },
+    {
+      "id": 839,
+      "text": "\"That is the tragedy!"
+    },
+    {
+      "id": 840,
+      "text": "From year to year the planet has turned more rapidly and the orders have not been changed!\""
+    },
+    {
+      "id": 841,
+      "text": "\"Then what?\""
+    },
+    {
+      "id": 842,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 843,
+      "text": "\"Then-- the planet now makes a complete turn every minute, and I no longer have a single second for repose."
+    },
+    {
+      "id": 844,
+      "text": "Once every minute I have to light my lamp and put it out!\""
+    },
+    {
+      "id": 845,
+      "text": "\"That is very funny!"
+    },
+    {
+      "id": 846,
+      "text": "A day lasts only one minute, here where you live!\""
+    },
+    {
+      "id": 847,
+      "text": "\"It is not funny at all!\""
+    },
+    {
+      "id": 848,
+      "text": "said the lamplighter."
+    },
+    {
+      "id": 849,
+      "text": "\"While we have been talking together a month has gone by.\""
+    },
+    {
+      "id": 850,
+      "text": "\"A month?\""
+    },
+    {
+      "id": 851,
+      "text": "\"Yes, a month."
+    },
+    {
+      "id": 852,
+      "text": "Thirty minutes."
+    },
+    {
+      "id": 853,
+      "text": "Thirty days."
+    },
+    {
+      "id": 854,
+      "text": "Good evening.\""
+    },
+    {
+      "id": 855,
+      "text": "And he lighted his lamp again."
+    },
+    {
+      "id": 856,
+      "text": "As the little prince watched him, he felt that he loved this lamplighter who was so faithful to his orders."
+    },
+    {
+      "id": 857,
+      "text": "He remembered the sunsets, which he himself had gone to seek, in other days, merely by pulling up his chair; and he wanted to help his friend."
+    },
+    {
+      "id": 858,
+      "text": "\"You know,\" he said, \"I can tell you a way you can rest whenever you want to...\""
+    },
+    {
+      "id": 859,
+      "text": "\"I always want to rest,\" said the lamplighter."
+    },
+    {
+      "id": 860,
+      "text": "For it is possible for a man to be faithful and lazy at the same time."
+    },
+    {
+      "id": 861,
+      "text": "The little prince went on with his explanation:"
+    },
+    {
+      "id": 862,
+      "text": "\"Your planet is so small that three strides will take you all the way around it."
+    },
+    {
+      "id": 863,
+      "text": "To be always in the sunshine, you need only walk along rather slowly."
+    },
+    {
+      "id": 864,
+      "text": "When you want to rest, you will walk-- and the day will last as long as you like.\""
+    },
+    {
+      "id": 865,
+      "text": "\"That doesn't do me much good,\" said the lamplighter."
+    },
+    {
+      "id": 866,
+      "text": "\"The one thing I love in life is to sleep.\""
+    },
+    {
+      "id": 867,
+      "text": "\"Then you're unlucky,\" said the little prince."
+    },
+    {
+      "id": 868,
+      "text": "\"I am unlucky,\" said the lamplighter."
+    },
+    {
+      "id": 869,
+      "text": "\"Good morning.\""
+    },
+    {
+      "id": 870,
+      "text": "And he put out his lamp."
+    },
+    {
+      "id": 871,
+      "text": "\"That man,\" said the little prince to himself, as he continued farther on his journey, \"that man would be scorned by all the others: by the king, by the conceited man, by the tippler, by the businessman."
+    },
+    {
+      "id": 872,
+      "text": "Nevertheless he is the only one of them all who does not seem to me ridiculous."
+    },
+    {
+      "id": 873,
+      "text": "Perhaps that is because he is thinking of something else besides himself.\""
+    },
+    {
+      "id": 874,
+      "text": "He breathed a sigh of regret, and said to himself, again:"
+    },
+    {
+      "id": 875,
+      "text": "\"That man is the only one of them all whom I could have made my friend."
+    },
+    {
+      "id": 876,
+      "text": "But his planet is indeed too small."
+    },
+    {
+      "id": 877,
+      "text": "There is no room on it for two people...\""
+    },
+    {
+      "id": 878,
+      "text": "What the little prince did not dare confess was that he was sorry most of all to leave this planet, because it was blest every day with 1440 sunsets!"
+    },
+    {
+      "id": 879,
+      "text": "Chapter XV"
+    },
+    {
+      "id": 880,
+      "text": "The sixth planet was ten times larger than the last one."
+    },
+    {
+      "id": 881,
+      "text": "It was inhabited by an old gentleman who wrote voluminous books."
+    },
+    {
+      "id": 882,
+      "text": "\"Oh, look!"
+    },
+    {
+      "id": 883,
+      "text": "Here is an explorer!\""
+    },
+    {
+      "id": 884,
+      "text": "he exclaimed to himself when he saw the little prince coming."
+    },
+    {
+      "id": 885,
+      "text": "The little prince sat down on the table and panted a little."
+    },
+    {
+      "id": 886,
+      "text": "He had already travelled so much and so far!"
+    },
+    {
+      "id": 887,
+      "text": "\"Where do you come from?\""
+    },
+    {
+      "id": 888,
+      "text": "the old gentleman said to him."
+    },
+    {
+      "id": 889,
+      "text": "\"What is that big book?\""
+    },
+    {
+      "id": 890,
+      "text": "said the little prince."
+    },
+    {
+      "id": 891,
+      "text": "\"What are you doing?\""
+    },
+    {
+      "id": 892,
+      "text": "\"I am a geographer,\" the old gentleman said to him."
+    },
+    {
+      "id": 893,
+      "text": "\"What is a geographer?\""
+    },
+    {
+      "id": 894,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 895,
+      "text": "\"A geographer is a scholar who knows the location of all the seas, rivers, towns, mountains, and deserts.\""
+    },
+    {
+      "id": 896,
+      "text": "\"That is very interesting,\" said the little prince."
+    },
+    {
+      "id": 897,
+      "text": "\"Here at last is a man who has a real profession!\""
+    },
+    {
+      "id": 898,
+      "text": "And he cast a look around him at the planet of the geographer."
+    },
+    {
+      "id": 899,
+      "text": "It was the most magnificent and stately planet that he had ever seen."
+    },
+    {
+      "id": 900,
+      "text": "\"Your planet is very beautiful,\" he said."
+    },
+    {
+      "id": 901,
+      "text": "\"Has it any oceans?\""
+    },
+    {
+      "id": 902,
+      "text": "\"I couldn't tell you,\" said the geographer."
+    },
+    {
+      "id": 903,
+      "text": "\"Ah!\""
+    },
+    {
+      "id": 904,
+      "text": "The little prince was disappointed."
+    },
+    {
+      "id": 905,
+      "text": "\"Has it any mountains?\""
+    },
+    {
+      "id": 906,
+      "text": "\"I couldn't tell you,\" said the geographer."
+    },
+    {
+      "id": 907,
+      "text": "\"And towns, and rivers, and deserts?\""
+    },
+    {
+      "id": 908,
+      "text": "\"I couldn't tell you that, either.\""
+    },
+    {
+      "id": 909,
+      "text": "\"But you are a geographer!\""
+    },
+    {
+      "id": 910,
+      "text": "\"Exactly,\" the geographer said."
+    },
+    {
+      "id": 911,
+      "text": "\"But I am not an explorer."
+    },
+    {
+      "id": 912,
+      "text": "I haven't a single explorer on my planet."
+    },
+    {
+      "id": 913,
+      "text": "It is not the geographer who goes out to count the towns, the rivers, the mountains, the seas, the oceans, and the deserts."
+    },
+    {
+      "id": 914,
+      "text": "The geographer is much too important to go loafing about."
+    },
+    {
+      "id": 915,
+      "text": "He does not leave his desk."
+    },
+    {
+      "id": 916,
+      "text": "But he receives the explorers in his study."
+    },
+    {
+      "id": 917,
+      "text": "He asks them questions, and he notes down what they recall of their travels."
+    },
+    {
+      "id": 918,
+      "text": "And if the recollections of any one among them seem interesting to him, the geographer orders an inquiry into that explorer's moral character.\""
+    },
+    {
+      "id": 919,
+      "text": "\"Why is that?\""
+    },
+    {
+      "id": 920,
+      "text": "\"Because an explorer who told lies would bring disaster on the books of the geographer."
+    },
+    {
+      "id": 921,
+      "text": "So would an explorer who drank too much.\""
+    },
+    {
+      "id": 922,
+      "text": "\"Why is that?\""
+    },
+    {
+      "id": 923,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 924,
+      "text": "\"Because intoxicated men see double."
+    },
+    {
+      "id": 925,
+      "text": "Then the geographer would note down two mountains in a place where there was only one.\""
+    },
+    {
+      "id": 926,
+      "text": "\"I know some one,\" said the little prince, \"who would make a bad explorer.\""
+    },
+    {
+      "id": 927,
+      "text": "\"That is possible."
+    },
+    {
+      "id": 928,
+      "text": "Then, when the moral character of the explorer is shown to be good, an inquiry is ordered into his discovery.\""
+    },
+    {
+      "id": 929,
+      "text": "\"One goes to see it?\""
+    },
+    {
+      "id": 930,
+      "text": "\"No."
+    },
+    {
+      "id": 931,
+      "text": "That would be too complicated."
+    },
+    {
+      "id": 932,
+      "text": "But one requires the explorer to furnish proofs."
+    },
+    {
+      "id": 933,
+      "text": "For example, if the discovery in question is that of a large mountain, one requires that large stones be brought back from it.\""
+    },
+    {
+      "id": 934,
+      "text": "The geographer was suddenly stirred to excitement."
+    },
+    {
+      "id": 935,
+      "text": "\"But you-- you come from far away!"
+    },
+    {
+      "id": 936,
+      "text": "You are an explorer!"
+    },
+    {
+      "id": 937,
+      "text": "You shall describe your planet to me!\""
+    },
+    {
+      "id": 938,
+      "text": "And, having opened his big register, the geographer sharpened his pencil."
+    },
+    {
+      "id": 939,
+      "text": "The recitals of explorers are put down first in pencil."
+    },
+    {
+      "id": 940,
+      "text": "One waits until the explorer has furnished proofs, before putting them down in ink."
+    },
+    {
+      "id": 941,
+      "text": "\"Well?\""
+    },
+    {
+      "id": 942,
+      "text": "said the geographer expectantly."
+    },
+    {
+      "id": 943,
+      "text": "\"Oh, where I live,\" said the little prince, \"it is not very interesting."
+    },
+    {
+      "id": 944,
+      "text": "It is all so small."
+    },
+    {
+      "id": 945,
+      "text": "I have three volcanoes."
+    },
+    {
+      "id": 946,
+      "text": "Two volcanoes are active and the other is extinct."
+    },
+    {
+      "id": 947,
+      "text": "But one never knows.\""
+    },
+    {
+      "id": 948,
+      "text": "\"One never knows,\" said the geographer."
+    },
+    {
+      "id": 949,
+      "text": "\"I have also a flower.\""
+    },
+    {
+      "id": 950,
+      "text": "\"We do not record flowers,\" said the geographer."
+    },
+    {
+      "id": 951,
+      "text": "\"Why is that?"
+    },
+    {
+      "id": 952,
+      "text": "The flower is the most beautiful thing on my planet!\""
+    },
+    {
+      "id": 953,
+      "text": "\"We do not record them,\" said the geographer, \"because they are ephemeral.\""
+    },
+    {
+      "id": 954,
+      "text": "\"What does that mean-- 'ephemeral'?\""
+    },
+    {
+      "id": 955,
+      "text": "\"Geographies,\" said the geographer, \"are the books which, of all books, are most concerned with matters of consequence."
+    },
+    {
+      "id": 956,
+      "text": "They never become old-fashioned."
+    },
+    {
+      "id": 957,
+      "text": "It is very rarely that a mountain changes its position."
+    },
+    {
+      "id": 958,
+      "text": "It is very rarely that an ocean empties itself of its waters."
+    },
+    {
+      "id": 959,
+      "text": "We write of eternal things.\""
+    },
+    {
+      "id": 960,
+      "text": "\"But extinct volcanoes may come to life again,\" the little prince interrupted."
+    },
+    {
+      "id": 961,
+      "text": "\"What does that mean-- 'ephemeral'?\""
+    },
+    {
+      "id": 962,
+      "text": "\"Whether volcanoes are extinct or alive, it comes to the same thing for us,\" said the geographer."
+    },
+    {
+      "id": 963,
+      "text": "\"The thing that matters to us is the mountain."
+    },
+    {
+      "id": 964,
+      "text": "It does not change.\""
+    },
+    {
+      "id": 965,
+      "text": "\"But what does that mean-- 'ephemeral'?\""
+    },
+    {
+      "id": 966,
+      "text": "repeated the little prince, who never in his life had let go of a question, once he had asked it."
+    },
+    {
+      "id": 967,
+      "text": "\"It means, 'which is in danger of speedy disappearance.'\""
+    },
+    {
+      "id": 968,
+      "text": "\"Is my flower in danger of speedy disappearance?\""
+    },
+    {
+      "id": 969,
+      "text": "\"Certainly it is.\""
+    },
+    {
+      "id": 970,
+      "text": "\"My flower is ephemeral,\" the little prince said to himself, \"and she has only four thorns to defend herself against the world."
+    },
+    {
+      "id": 971,
+      "text": "And I have left her on my planet, all alone!\""
+    },
+    {
+      "id": 972,
+      "text": "That was his first moment of regret."
+    },
+    {
+      "id": 973,
+      "text": "But he took courage once more."
+    },
+    {
+      "id": 974,
+      "text": "\"What place would you advise me to visit now?\""
+    },
+    {
+      "id": 975,
+      "text": "he asked."
+    },
+    {
+      "id": 976,
+      "text": "\"The planet Earth,\" replied the geographer."
+    },
+    {
+      "id": 977,
+      "text": "\"It has a good reputation.\""
+    },
+    {
+      "id": 978,
+      "text": "And the little prince went away, thinking of his flower."
+    },
+    {
+      "id": 979,
+      "text": "Chapter XVI"
+    },
+    {
+      "id": 980,
+      "text": "So then the seventh planet was the Earth."
+    },
+    {
+      "id": 981,
+      "text": "The Earth is not just an ordinary planet!"
+    },
+    {
+      "id": 982,
+      "text": "One can count; there are 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, and 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups."
+    },
+    {
+      "id": 983,
+      "text": "To give you an idea of the size of the Earth, I will tell you that before the invention of electricity it was necessary to maintain, over the whole of the six continents, a veritable army of 462,511 lamplighters for the street lamps."
+    },
+    {
+      "id": 984,
+      "text": "Seen from a slight distance, that would make a splendid spectacle."
+    },
+    {
+      "id": 985,
+      "text": "The movements of this army would be regulated like those of the ballet in the opera."
+    },
+    {
+      "id": 986,
+      "text": "First would come the turn of the lamplighters of New Zealand and Australia."
+    },
+    {
+      "id": 987,
+      "text": "Having set their lamps alight, these would go off to sleep."
+    },
+    {
+      "id": 988,
+      "text": "Next, the lamplighters of China and Siberia would enter for their steps in the dance, and then they too would be waved back into the wings."
+    },
+    {
+      "id": 989,
+      "text": "After that would come the turn of the lamplighters of Russia and the Indies; then those of Africa and Europe, then those of South America; then those of South America; then those of North America."
+    },
+    {
+      "id": 990,
+      "text": "And never would they make a mistake in the order of their entry upon the stage."
+    },
+    {
+      "id": 991,
+      "text": "It would be magnificent."
+    },
+    {
+      "id": 992,
+      "text": "Only the man who was in charge of the single lamp at the North Pole, and his colleague who was responsible for the single lamp at the South Pole-- only these two would live free from toil and care: they would be busy twice a year."
+    },
+    {
+      "id": 993,
+      "text": "Chapter XVII"
+    },
+    {
+      "id": 994,
+      "text": "When one wishes to play the wit, he sometimes wanders a little from the truth."
+    },
+    {
+      "id": 995,
+      "text": "I have not been altogether honest in what I have told you about the lamplighters."
+    },
+    {
+      "id": 996,
+      "text": "And I realize that I run the risk of giving a false idea of our planet to those who do not know it."
+    },
+    {
+      "id": 997,
+      "text": "Men occupy a very small place upon the Earth."
+    },
+    {
+      "id": 998,
+      "text": "If the two billion inhabitants who people its surface were all to stand upright and somewhat crowded together, as they do for some big public assembly, they could easily be put into one public square twenty miles long and twenty miles wide."
+    },
+    {
+      "id": 999,
+      "text": "All humanity could be piled up on a small Pacific islet."
+    },
+    {
+      "id": 1000,
+      "text": "The grown-ups, to be sure, will not believe you when you tell them that."
+    },
+    {
+      "id": 1001,
+      "text": "They imagine that they fill a great deal of space."
+    },
+    {
+      "id": 1002,
+      "text": "They fancy themselves as important as the baobabs."
+    },
+    {
+      "id": 1003,
+      "text": "You should advise them, then, to make their own calculations."
+    },
+    {
+      "id": 1004,
+      "text": "They adore figures, and that will please them."
+    },
+    {
+      "id": 1005,
+      "text": "But do not waste your time on this extra task."
+    },
+    {
+      "id": 1006,
+      "text": "It is unnecessary."
+    },
+    {
+      "id": 1007,
+      "text": "You have, I know, confidence in me."
+    },
+    {
+      "id": 1008,
+      "text": "When the little prince arrived on the Earth, he was very much surprised not to see any people."
+    },
+    {
+      "id": 1009,
+      "text": "He was beginning to be afraid he had come to the wrong planet, when a coil of gold, the colour of the moonlight, flashed across the sand."
+    },
+    {
+      "id": 1010,
+      "text": "\"Good evening,\" said the little prince courteously."
+    },
+    {
+      "id": 1011,
+      "text": "\"Good evening,\" said the snake."
+    },
+    {
+      "id": 1012,
+      "text": "\"What planet is this on which I have come down?\""
+    },
+    {
+      "id": 1013,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 1014,
+      "text": "\"This is the Earth; this is Africa,\" the snake answered."
+    },
+    {
+      "id": 1015,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 1016,
+      "text": "Then there are no people on the Earth?\""
+    },
+    {
+      "id": 1017,
+      "text": "\"This is the desert."
+    },
+    {
+      "id": 1018,
+      "text": "There are no people in the desert."
+    },
+    {
+      "id": 1019,
+      "text": "The Earth is large,\" said the snake."
+    },
+    {
+      "id": 1020,
+      "text": "The little prince sat down on a stone, and raised his eyes toward the sky."
+    },
+    {
+      "id": 1021,
+      "text": "\"I wonder,\" he said, \"whether the stars are set alight in heaven so that one day each one of us may find his own again... Look at my planet."
+    },
+    {
+      "id": 1022,
+      "text": "It is right there above us."
+    },
+    {
+      "id": 1023,
+      "text": "But how far away it is!\""
+    },
+    {
+      "id": 1024,
+      "text": "\"It is beautiful,\" the snake said."
+    },
+    {
+      "id": 1025,
+      "text": "\"What has brought you here?\""
+    },
+    {
+      "id": 1026,
+      "text": "\"I have been having some trouble with a flower,\" said the little prince."
+    },
+    {
+      "id": 1027,
+      "text": "\"Ah!\""
+    },
+    {
+      "id": 1028,
+      "text": "said the snake."
+    },
+    {
+      "id": 1029,
+      "text": "And they were both silent."
+    },
+    {
+      "id": 1030,
+      "text": "\"Where are the men?\""
+    },
+    {
+      "id": 1031,
+      "text": "the little prince at last took up the conversation again."
+    },
+    {
+      "id": 1032,
+      "text": "\"It is a little lonely in the desert...\""
+    },
+    {
+      "id": 1033,
+      "text": "\"It is also lonely among men,\" the snake said."
+    },
+    {
+      "id": 1034,
+      "text": "The little prince gazed at him for a long time."
+    },
+    {
+      "id": 1035,
+      "text": "\"You are a funny animal,\" he said at last."
+    },
+    {
+      "id": 1036,
+      "text": "\"You are no thicker than a finger...\""
+    },
+    {
+      "id": 1037,
+      "text": "\"But I am more powerful than the finger of a king,\" said the snake."
+    },
+    {
+      "id": 1038,
+      "text": "The little prince smiled."
+    },
+    {
+      "id": 1039,
+      "text": "\"You are not very powerful."
+    },
+    {
+      "id": 1040,
+      "text": "You haven't even any feet."
+    },
+    {
+      "id": 1041,
+      "text": "You cannot even travel...\""
+    },
+    {
+      "id": 1042,
+      "text": "\"I can carry you farther than any ship could take you,\" said the snake."
+    },
+    {
+      "id": 1043,
+      "text": "He twined himself around the little prince's ankle, like a golden bracelet."
+    },
+    {
+      "id": 1044,
+      "text": "\"Whomever I touch, I send back to the earth from whence he came,\" the snake spoke again."
+    },
+    {
+      "id": 1045,
+      "text": "\"But you are innocent and true, and you come from a star...\""
+    },
+    {
+      "id": 1046,
+      "text": "The little prince made no reply."
+    },
+    {
+      "id": 1047,
+      "text": "\"You move me to pity-- you are so weak on this Earth made of granite,\" the snake said."
+    },
+    {
+      "id": 1048,
+      "text": "\"I can help you, some day, if you grow too homesick for your own planet."
+    },
+    {
+      "id": 1049,
+      "text": "I can--\""
+    },
+    {
+      "id": 1050,
+      "text": "\"Oh!"
+    },
+    {
+      "id": 1051,
+      "text": "I understand you very well,\" said the little prince."
+    },
+    {
+      "id": 1052,
+      "text": "\"But why do you always speak in riddles?\""
+    },
+    {
+      "id": 1053,
+      "text": "\"I solve them all,\" said the snake."
+    },
+    {
+      "id": 1054,
+      "text": "And they were both silent."
+    },
+    {
+      "id": 1055,
+      "text": "Chapter XVIII"
+    },
+    {
+      "id": 1056,
+      "text": "The little prince crossed the desert and met with only one flower."
+    },
+    {
+      "id": 1057,
+      "text": "It was a flower with three petals, a flower of no account at all."
+    },
+    {
+      "id": 1058,
+      "text": "\"Good morning,\" said the little prince."
+    },
+    {
+      "id": 1059,
+      "text": "\"Good morning,\" said the flower."
+    },
+    {
+      "id": 1060,
+      "text": "\"Where are the men?\""
+    },
+    {
+      "id": 1061,
+      "text": "the little prince asked, politely."
+    },
+    {
+      "id": 1062,
+      "text": "The flower had once seen a caravan passing."
+    },
+    {
+      "id": 1063,
+      "text": "\"Men?\""
+    },
+    {
+      "id": 1064,
+      "text": "she echoed."
+    },
+    {
+      "id": 1065,
+      "text": "\"I think there are six or seven of them in existence."
+    },
+    {
+      "id": 1066,
+      "text": "I saw them, several years ago."
+    },
+    {
+      "id": 1067,
+      "text": "But one never knows where to find them."
+    },
+    {
+      "id": 1068,
+      "text": "The wind blows them away."
+    },
+    {
+      "id": 1069,
+      "text": "They have no roots, and that makes their life very difficult.\""
+    },
+    {
+      "id": 1070,
+      "text": "\"Goodbye,\" said the little prince."
+    },
+    {
+      "id": 1071,
+      "text": "\"Goodbye,\" said the flower."
+    },
+    {
+      "id": 1072,
+      "text": "Chapter XIX"
+    },
+    {
+      "id": 1073,
+      "text": "After that, the little prince climbed a high mountain."
+    },
+    {
+      "id": 1074,
+      "text": "The only mountains he had ever known were the three volcanoes, which came up to his knees."
+    },
+    {
+      "id": 1075,
+      "text": "And he used the extinct volcano as a footstool."
+    },
+    {
+      "id": 1076,
+      "text": "\"From a mountain as high as this one,\" he said to himself, \"I shall be able to see the whole planet at one glance, and all the people...\""
+    },
+    {
+      "id": 1077,
+      "text": "But he saw nothing, save peaks of rock that were sharpened like needles."
+    },
+    {
+      "id": 1078,
+      "text": "\"Good morning,\" he said courteously."
+    },
+    {
+      "id": 1079,
+      "text": "\"Good morning--Good morning--Good morning,\" answered the echo."
+    },
+    {
+      "id": 1080,
+      "text": "\"Who are you?\""
+    },
+    {
+      "id": 1081,
+      "text": "said the little prince."
+    },
+    {
+      "id": 1082,
+      "text": "\"Who are you--Who are you--Who are you?\""
+    },
+    {
+      "id": 1083,
+      "text": "answered the echo."
+    },
+    {
+      "id": 1084,
+      "text": "\"Be my friends."
+    },
+    {
+      "id": 1085,
+      "text": "I am all alone,\" he said."
+    },
+    {
+      "id": 1086,
+      "text": "\"I am all alone--all alone--all alone,\" answered the echo."
+    },
+    {
+      "id": 1087,
+      "text": "\"What a queer planet!\""
+    },
+    {
+      "id": 1088,
+      "text": "he thought."
+    },
+    {
+      "id": 1089,
+      "text": "\"It is altogether dry, and altogether pointed, and altogether harsh and forbidding."
+    },
+    {
+      "id": 1090,
+      "text": "And the people have no imagination."
+    },
+    {
+      "id": 1091,
+      "text": "They repeat whatever one says to them... On my planet I had a flower; she always was the first to speak...\""
+    },
+    {
+      "id": 1092,
+      "text": "Chapter XX"
+    },
+    {
+      "id": 1093,
+      "text": "But it happened that after walking for a long time through sand, and rocks, and snow, the little prince at last came upon a road."
+    },
+    {
+      "id": 1094,
+      "text": "And all roads lead to the abodes of men."
+    },
+    {
+      "id": 1095,
+      "text": "\"Good morning,\" he said."
+    },
+    {
+      "id": 1096,
+      "text": "He was standing before a garden, all a-bloom with roses."
+    },
+    {
+      "id": 1097,
+      "text": "\"Good morning,\" said the roses."
+    },
+    {
+      "id": 1098,
+      "text": "The little prince gazed at them."
+    },
+    {
+      "id": 1099,
+      "text": "They all looked like his flower."
+    },
+    {
+      "id": 1100,
+      "text": "\"Who are you?\""
+    },
+    {
+      "id": 1101,
+      "text": "he demanded, thunderstruck."
+    },
+    {
+      "id": 1102,
+      "text": "\"We are roses,\" the roses said."
+    },
+    {
+      "id": 1103,
+      "text": "And he was overcome with sadness."
+    },
+    {
+      "id": 1104,
+      "text": "His flower had told him that she was the only one of her kind in all the universe."
+    },
+    {
+      "id": 1105,
+      "text": "And here were five thousand of them, all alike, in one single garden!"
+    },
+    {
+      "id": 1106,
+      "text": "\"She would be very much annoyed,\" he said to himself, \"if she should see that... she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at."
+    },
+    {
+      "id": 1107,
+      "text": "And I should be obliged to pretend that I was nursing her back to life-- for if I did not do that, to humble myself also, she would really allow herself to die...\""
+    },
+    {
+      "id": 1108,
+      "text": "Then he went on with his reflections: \"I thought that I was rich, with a flower that was unique in all the world; and all I had was a common rose."
+    },
+    {
+      "id": 1109,
+      "text": "A common rose, and three volcanoes that come up to my knees-- and one of them perhaps extinct forever... that doesn't make me a very great prince...\""
+    },
+    {
+      "id": 1110,
+      "text": "And he lay down in the grass and cried."
+    },
+    {
+      "id": 1111,
+      "text": "Chapter XXI"
+    },
+    {
+      "id": 1112,
+      "text": "It was then that the fox appeared."
+    },
+    {
+      "id": 1113,
+      "text": "\"Good morning,\" said the fox."
+    },
+    {
+      "id": 1114,
+      "text": "\"Good morning,\" the little prince responded politely, although when he turned around he saw nothing."
+    },
+    {
+      "id": 1115,
+      "text": "\"I am right here,\" the voice said, \"under the apple tree.\""
+    },
+    {
+      "id": 1116,
+      "text": "\"Who are you?\""
+    },
+    {
+      "id": 1117,
+      "text": "asked the little prince, and added, \"You are very pretty to look at.\""
+    },
+    {
+      "id": 1118,
+      "text": "\"I am a fox,\" said the fox."
+    },
+    {
+      "id": 1119,
+      "text": "\"Come and play with me,\" proposed the little prince."
+    },
+    {
+      "id": 1120,
+      "text": "\"I am so unhappy.\""
+    },
+    {
+      "id": 1121,
+      "text": "\"I cannot play with you,\" the fox said."
+    },
+    {
+      "id": 1122,
+      "text": "\"I am not tamed.\""
+    },
+    {
+      "id": 1123,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 1124,
+      "text": "Please excuse me,\" said the little prince."
+    },
+    {
+      "id": 1125,
+      "text": "But, after some thought, he added: \"What does that mean-- 'tame'?\""
+    },
+    {
+      "id": 1126,
+      "text": "\"You do not live here,\" said the fox."
+    },
+    {
+      "id": 1127,
+      "text": "\"What is it that you are looking for?\""
+    },
+    {
+      "id": 1128,
+      "text": "\"I am looking for men,\" said the little prince."
+    },
+    {
+      "id": 1129,
+      "text": "\"What does that mean-- 'tame'?\""
+    },
+    {
+      "id": 1130,
+      "text": "\"Men,\" said the fox."
+    },
+    {
+      "id": 1131,
+      "text": "\"They have guns, and they hunt."
+    },
+    {
+      "id": 1132,
+      "text": "It is very disturbing."
+    },
+    {
+      "id": 1133,
+      "text": "They also raise chickens."
+    },
+    {
+      "id": 1134,
+      "text": "These are their only interests."
+    },
+    {
+      "id": 1135,
+      "text": "Are you looking for chickens?\""
+    },
+    {
+      "id": 1136,
+      "text": "\"No,\" said the little prince."
+    },
+    {
+      "id": 1137,
+      "text": "\"I am looking for friends."
+    },
+    {
+      "id": 1138,
+      "text": "What does that mean-- 'tame'?\""
+    },
+    {
+      "id": 1139,
+      "text": "\"It is an act too often neglected,\" said the fox."
+    },
+    {
+      "id": 1140,
+      "text": "It means to establish ties.\""
+    },
+    {
+      "id": 1141,
+      "text": "\"'To establish ties'?\""
+    },
+    {
+      "id": 1142,
+      "text": "\"Just that,\" said the fox."
+    },
+    {
+      "id": 1143,
+      "text": "\"To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys."
+    },
+    {
+      "id": 1144,
+      "text": "And I have no need of you."
+    },
+    {
+      "id": 1145,
+      "text": "And you, on your part, have no need of me."
+    },
+    {
+      "id": 1146,
+      "text": "To you, I am nothing more than a fox like a hundred thousand other foxes."
+    },
+    {
+      "id": 1147,
+      "text": "But if you tame me, then we shall need each other."
+    },
+    {
+      "id": 1148,
+      "text": "To me, you will be unique in all the world."
+    },
+    {
+      "id": 1149,
+      "text": "To you, I shall be unique in all the world...\""
+    },
+    {
+      "id": 1150,
+      "text": "\"I am beginning to understand,\" said the little prince."
+    },
+    {
+      "id": 1151,
+      "text": "\"There is a flower..."
+    },
+    {
+      "id": 1152,
+      "text": "I think that she has tamed me...\""
+    },
+    {
+      "id": 1153,
+      "text": "\"It is possible,\" said the fox."
+    },
+    {
+      "id": 1154,
+      "text": "\"On the Earth one sees all sorts of things.\""
+    },
+    {
+      "id": 1155,
+      "text": "\"Oh, but this is not on the Earth!\""
+    },
+    {
+      "id": 1156,
+      "text": "said the little prince."
+    },
+    {
+      "id": 1157,
+      "text": "The fox seemed perplexed, and very curious."
+    },
+    {
+      "id": 1158,
+      "text": "\"On another planet?\""
+    },
+    {
+      "id": 1159,
+      "text": "\"Yes.\""
+    },
+    {
+      "id": 1160,
+      "text": "\"Are there hunters on this planet?\""
+    },
+    {
+      "id": 1161,
+      "text": "\"No.\""
+    },
+    {
+      "id": 1162,
+      "text": "\"Ah, that is interesting!"
+    },
+    {
+      "id": 1163,
+      "text": "Are there chickens?\""
+    },
+    {
+      "id": 1164,
+      "text": "\"No.\""
+    },
+    {
+      "id": 1165,
+      "text": "\"Nothing is perfect,\" sighed the fox."
+    },
+    {
+      "id": 1166,
+      "text": "But he came back to his idea."
+    },
+    {
+      "id": 1167,
+      "text": "\"My life is very monotonous,\" the fox said."
+    },
+    {
+      "id": 1168,
+      "text": "\"I hunt chickens; men hunt me."
+    },
+    {
+      "id": 1169,
+      "text": "All the chickens are just alike, and all the men are just alike."
+    },
+    {
+      "id": 1170,
+      "text": "And, in consequence, I am a little bored."
+    },
+    {
+      "id": 1171,
+      "text": "But if you tame me, it will be as if the sun came to shine on my life."
+    },
+    {
+      "id": 1172,
+      "text": "I shall know the sound of a step that will be different from all the others."
+    },
+    {
+      "id": 1173,
+      "text": "Other steps send me hurrying back underneath the ground."
+    },
+    {
+      "id": 1174,
+      "text": "Yours will call me, like music, out of my burrow."
+    },
+    {
+      "id": 1175,
+      "text": "And then look: you see the grain-fields down yonder?"
+    },
+    {
+      "id": 1176,
+      "text": "I do not eat bread."
+    },
+    {
+      "id": 1177,
+      "text": "Wheat is of no use to me."
+    },
+    {
+      "id": 1178,
+      "text": "The wheat fields have nothing to say to me."
+    },
+    {
+      "id": 1179,
+      "text": "And that is sad."
+    },
+    {
+      "id": 1180,
+      "text": "But you have hair that is the colour of gold."
+    },
+    {
+      "id": 1181,
+      "text": "Think how wonderful that will be when you have tamed me!"
+    },
+    {
+      "id": 1182,
+      "text": "The grain, which is also golden, will bring me back the thought of you."
+    },
+    {
+      "id": 1183,
+      "text": "And I shall love to listen to the wind in the wheat...\""
+    },
+    {
+      "id": 1184,
+      "text": "The fox gazed at the little prince, for a long time."
+    },
+    {
+      "id": 1185,
+      "text": "\"Please-- tame me!\""
+    },
+    {
+      "id": 1186,
+      "text": "he said."
+    },
+    {
+      "id": 1187,
+      "text": "\"I want to, very much,\" the little prince replied."
+    },
+    {
+      "id": 1188,
+      "text": "\"But I have not much time."
+    },
+    {
+      "id": 1189,
+      "text": "I have friends to discover, and a great many things to understand.\""
+    },
+    {
+      "id": 1190,
+      "text": "\"One only understands the things that one tames,\" said the fox."
+    },
+    {
+      "id": 1191,
+      "text": "\"Men have no more time to understand anything."
+    },
+    {
+      "id": 1192,
+      "text": "They buy things all ready made at the shops."
+    },
+    {
+      "id": 1193,
+      "text": "But there is no shop anywhere where one can buy friendship, and so men have no friends any more."
+    },
+    {
+      "id": 1194,
+      "text": "If you want a friend, tame me...\""
+    },
+    {
+      "id": 1195,
+      "text": "\"What must I do, to tame you?\""
+    },
+    {
+      "id": 1196,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 1197,
+      "text": "\"You must be very patient,\" replied the fox."
+    },
+    {
+      "id": 1198,
+      "text": "\"First you will sit down at a little distance from me-- like that-- in the grass."
+    },
+    {
+      "id": 1199,
+      "text": "I shall look at you out of the corner of my eye, and you will say nothing."
+    },
+    {
+      "id": 1200,
+      "text": "Words are the source of misunderstandings."
+    },
+    {
+      "id": 1201,
+      "text": "But you will sit a little closer to me, every day...\""
+    },
+    {
+      "id": 1202,
+      "text": "The next day the little prince came back."
+    },
+    {
+      "id": 1203,
+      "text": "\"It would have been better to come back at the same hour,\" said the fox."
+    },
+    {
+      "id": 1204,
+      "text": "\"If, for example, you come at four o'clock in the afternoon, then at three o'clock I shall begin to be happy."
+    },
+    {
+      "id": 1205,
+      "text": "I shall feel happier and happier as the hour advances."
+    },
+    {
+      "id": 1206,
+      "text": "At four o'clock, I shall already be worrying and jumping about."
+    },
+    {
+      "id": 1207,
+      "text": "I shall show you how happy I am!"
+    },
+    {
+      "id": 1208,
+      "text": "But if you come at just any time, I shall never know at what hour my heart is to be ready to greet you... One must observe the proper rites...\""
+    },
+    {
+      "id": 1209,
+      "text": "\"What is a rite?\""
+    },
+    {
+      "id": 1210,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 1211,
+      "text": "\"Those also are actions too often neglected,\" said the fox."
+    },
+    {
+      "id": 1212,
+      "text": "\"They are what make one day different from other days, one hour from other hours."
+    },
+    {
+      "id": 1213,
+      "text": "There is a rite, for example, among my hunters."
+    },
+    {
+      "id": 1214,
+      "text": "Every Thursday they dance with the village girls."
+    },
+    {
+      "id": 1215,
+      "text": "So Thursday is a wonderful day for me!"
+    },
+    {
+      "id": 1216,
+      "text": "I can take a walk as far as the vineyards."
+    },
+    {
+      "id": 1217,
+      "text": "But if the hunters danced at just any time, every day would be like every other day, and I should never have any vacation at all.\""
+    },
+    {
+      "id": 1218,
+      "text": "So the little prince tamed the fox."
+    },
+    {
+      "id": 1219,
+      "text": "And when the hour of his departure drew near--"
+    },
+    {
+      "id": 1220,
+      "text": "\"Ah,\" said the fox, \"I shall cry.\""
+    },
+    {
+      "id": 1221,
+      "text": "\"It is your own fault,\" said the little prince."
+    },
+    {
+      "id": 1222,
+      "text": "\"I never wished you any sort of harm; but you wanted me to tame you...\""
+    },
+    {
+      "id": 1223,
+      "text": "\"Yes, that is so,\" said the fox."
+    },
+    {
+      "id": 1224,
+      "text": "\"But now you are going to cry!\""
+    },
+    {
+      "id": 1225,
+      "text": "said the little prince."
+    },
+    {
+      "id": 1226,
+      "text": "\"Yes, that is so,\" said the fox."
+    },
+    {
+      "id": 1227,
+      "text": "\"Then it has done you no good at all!\""
+    },
+    {
+      "id": 1228,
+      "text": "\"It has done me good,\" said the fox, \"because of the colour of the wheat fields.\""
+    },
+    {
+      "id": 1229,
+      "text": "And then he added:"
+    },
+    {
+      "id": 1230,
+      "text": "\"Go and look again at the roses."
+    },
+    {
+      "id": 1231,
+      "text": "You will understand now that yours is unique in all the world."
+    },
+    {
+      "id": 1232,
+      "text": "Then come back to say goodbye to me, and I will make you a present of a secret.\""
+    },
+    {
+      "id": 1233,
+      "text": "The little prince went away, to look again at the roses."
+    },
+    {
+      "id": 1234,
+      "text": "\"You are not at all like my rose,\" he said."
+    },
+    {
+      "id": 1235,
+      "text": "\"As yet you are nothing."
+    },
+    {
+      "id": 1236,
+      "text": "No one has tamed you, and you have tamed no one."
+    },
+    {
+      "id": 1237,
+      "text": "You are like my fox when I first knew him."
+    },
+    {
+      "id": 1238,
+      "text": "He was only a fox like a hundred thousand other foxes."
+    },
+    {
+      "id": 1239,
+      "text": "But I have made him my friend, and now he is unique in all the world.\""
+    },
+    {
+      "id": 1240,
+      "text": "And the roses were very much embarrassed."
+    },
+    {
+      "id": 1241,
+      "text": "\"You are beautiful, but you are empty,\" he went on."
+    },
+    {
+      "id": 1242,
+      "text": "\"One could not die for you."
+    },
+    {
+      "id": 1243,
+      "text": "To be sure, an ordinary passer-by would think that my rose looked just like you-- the rose that belongs to me."
+    },
+    {
+      "id": 1244,
+      "text": "But in herself alone she is more important than all the hundreds of you other roses: because it is she that I have watered; because it is she that I have put under the glass globe; because it is she that I have sheltered behind the screen; because it is for her that I have killed the caterpillars (except the two or three that we saved to become butterflies); because it is she that I have listened to, when she grumbled, or boasted, or even sometimes when she said nothing."
+    },
+    {
+      "id": 1245,
+      "text": "Because she is my rose."
+    },
+    {
+      "id": 1246,
+      "text": "And he went back to meet the fox."
+    },
+    {
+      "id": 1247,
+      "text": "\"Goodbye,\" he said."
+    },
+    {
+      "id": 1248,
+      "text": "\"Goodbye,\" said the fox."
+    },
+    {
+      "id": 1249,
+      "text": "\"And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.\""
+    },
+    {
+      "id": 1250,
+      "text": "\"What is essential is invisible to the eye,\" the little prince repeated, so that he would be sure to remember."
+    },
+    {
+      "id": 1251,
+      "text": "\"It is the time you have wasted for your rose that makes your rose so important.\""
+    },
+    {
+      "id": 1252,
+      "text": "\"It is the time I have wasted for my rose--\" said the little prince, so that he would be sure to remember."
+    },
+    {
+      "id": 1253,
+      "text": "\"Men have forgotten this truth,\" said the fox."
+    },
+    {
+      "id": 1254,
+      "text": "\"But you must not forget it."
+    },
+    {
+      "id": 1255,
+      "text": "You become responsible, forever, for what you have tamed."
+    },
+    {
+      "id": 1256,
+      "text": "You are responsible for your rose...\""
+    },
+    {
+      "id": 1257,
+      "text": "\"I am responsible for my rose,\" the little prince repeated, so that he would be sure to remember."
+    },
+    {
+      "id": 1258,
+      "text": "Chapter XXII"
+    },
+    {
+      "id": 1259,
+      "text": "\"Good morning,\" said the little prince."
+    },
+    {
+      "id": 1260,
+      "text": "\"Good morning,\" said the railway switchman."
+    },
+    {
+      "id": 1261,
+      "text": "\"What do you do here?\""
+    },
+    {
+      "id": 1262,
+      "text": "the little prince asked."
+    },
+    {
+      "id": 1263,
+      "text": "\"I sort out travellers, in bundles of a thousand,\" said the switchman."
+    },
+    {
+      "id": 1264,
+      "text": "\"I send off the trains that carry them; now to the right, now to the left.\""
+    },
+    {
+      "id": 1265,
+      "text": "And a brilliantly lighted express train shook the switchman's cabin as it rushed by with a roar like thunder."
+    },
+    {
+      "id": 1266,
+      "text": "\"They are in a great hurry,\" said the little prince."
+    },
+    {
+      "id": 1267,
+      "text": "\"What are they looking for?\""
+    },
+    {
+      "id": 1268,
+      "text": "\"Not even the locomotive engineer knows that,\" said the switchman."
+    },
+    {
+      "id": 1269,
+      "text": "And a second brilliantly lighted express thundered by, in the opposite direction."
+    },
+    {
+      "id": 1270,
+      "text": "\"Are they coming back already?\""
+    },
+    {
+      "id": 1271,
+      "text": "demanded the little prince."
+    },
+    {
+      "id": 1272,
+      "text": "\"These are not the same ones,\" said the switchman."
+    },
+    {
+      "id": 1273,
+      "text": "\"It is an exchange.\""
+    },
+    {
+      "id": 1274,
+      "text": "\"Were they not satisfied where they were?\""
+    },
+    {
+      "id": 1275,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 1276,
+      "text": "\"No one is ever satisfied where he is,\" said the switchman."
+    },
+    {
+      "id": 1277,
+      "text": "And they heard the roaring thunder of a third brilliantly lighted express."
+    },
+    {
+      "id": 1278,
+      "text": "\"Are they pursuing the first travellers?\""
+    },
+    {
+      "id": 1279,
+      "text": "demanded the little prince."
+    },
+    {
+      "id": 1280,
+      "text": "\"They are pursuing nothing at all,\" said the switchman."
+    },
+    {
+      "id": 1281,
+      "text": "\"They are asleep in there, or if they are not asleep they are yawning."
+    },
+    {
+      "id": 1282,
+      "text": "Only the children are flattening their noses against the windowpanes.\""
+    },
+    {
+      "id": 1283,
+      "text": "\"Only the children know what they are looking for,\" said the little prince."
+    },
+    {
+      "id": 1284,
+      "text": "\"They waste their time over a rag doll and it becomes very important to them; and if anybody takes it away from them, they cry...\""
+    },
+    {
+      "id": 1285,
+      "text": "\"They are lucky,\" the switchman said."
+    },
+    {
+      "id": 1286,
+      "text": "Chapter XXIII"
+    },
+    {
+      "id": 1287,
+      "text": "\"Good morning,\" said the little prince."
+    },
+    {
+      "id": 1288,
+      "text": "\"Good morning,\" said the merchant."
+    },
+    {
+      "id": 1289,
+      "text": "This was a merchant who sold pills that had been invented to quench thirst."
+    },
+    {
+      "id": 1290,
+      "text": "You need only swallow one pill a week, and you would feel no need of anything to drink."
+    },
+    {
+      "id": 1291,
+      "text": "\"Why are you selling those?\""
+    },
+    {
+      "id": 1292,
+      "text": "asked the little prince."
+    },
+    {
+      "id": 1293,
+      "text": "\"Because they save a tremendous amount of time,\" said the merchant."
+    },
+    {
+      "id": 1294,
+      "text": "\"Computations have been made by experts."
+    },
+    {
+      "id": 1295,
+      "text": "With these pills, you save fifty-three minutes in every week.\""
+    },
+    {
+      "id": 1296,
+      "text": "\"And what do I do with those fifty-three minutes?\""
+    },
+    {
+      "id": 1297,
+      "text": "\"Anything you like...\""
+    },
+    {
+      "id": 1298,
+      "text": "\"As for me,\" said the little prince to himself, \"if I had fifty-three minutes to spend as I liked, I should walk at my leisure toward a spring of fresh water.\""
+    },
+    {
+      "id": 1299,
+      "text": "Chapter XXIV"
+    },
+    {
+      "id": 1300,
+      "text": "It was now the eighth day since I had had my accident in the desert, and I had listened to the story of the merchant as I was drinking the last drop of my water supply."
+    },
+    {
+      "id": 1301,
+      "text": "\"Ah,\" I said to the little prince, \"these memories of yours are very charming; but I have not yet succeeded in repairing my plane; I have nothing more to drink; and I, too, should be very happy if I could walk at my leisure toward a spring of fresh water!\""
+    },
+    {
+      "id": 1302,
+      "text": "\"My friend the fox--\" the little prince said to me."
+    },
+    {
+      "id": 1303,
+      "text": "\"My dear little man, this is no longer a matter that has anything to do with the fox!\""
+    },
+    {
+      "id": 1304,
+      "text": "\"Why not?\""
+    },
+    {
+      "id": 1305,
+      "text": "\"Because I am about to die of thirst...\""
+    },
+    {
+      "id": 1306,
+      "text": "He did not follow my reasoning, and he answered me:"
+    },
+    {
+      "id": 1307,
+      "text": "\"It is a good thing to have had a friend, even if one is about to die."
+    },
+    {
+      "id": 1308,
+      "text": "I, for instance, am very glad to have had a fox as a friend...\""
+    },
+    {
+      "id": 1309,
+      "text": "\"He has no way of guessing the danger,\" I said to myself."
+    },
+    {
+      "id": 1310,
+      "text": "\"He has never been either hungry or thirsty."
+    },
+    {
+      "id": 1311,
+      "text": "A little sunshine is all he needs...\""
+    },
+    {
+      "id": 1312,
+      "text": "But he looked at me steadily, and replied to my thought:"
+    },
+    {
+      "id": 1313,
+      "text": "\"I am thirsty, too."
+    },
+    {
+      "id": 1314,
+      "text": "Let us look for a well...\""
+    },
+    {
+      "id": 1315,
+      "text": "I made a gesture of weariness."
+    },
+    {
+      "id": 1316,
+      "text": "It is absurd to look for a well, at random, in the immensity of the desert."
+    },
+    {
+      "id": 1317,
+      "text": "But nevertheless we started walking."
+    },
+    {
+      "id": 1318,
+      "text": "When we had trudged along for several hours, in silence, the darkness fell, and the stars began to come out."
+    },
+    {
+      "id": 1319,
+      "text": "Thirst had made me a little feverish, and I looked at them as if I were in a dream."
+    },
+    {
+      "id": 1320,
+      "text": "The little prince's last words came reeling back into my memory:"
+    },
+    {
+      "id": 1321,
+      "text": "\"Then you are thirsty, too?\""
+    },
+    {
+      "id": 1322,
+      "text": "I demanded."
+    },
+    {
+      "id": 1323,
+      "text": "But he did not reply to my question."
+    },
+    {
+      "id": 1324,
+      "text": "He merely said to me:"
+    },
+    {
+      "id": 1325,
+      "text": "\"Water may also be good for the heart...\""
+    },
+    {
+      "id": 1326,
+      "text": "I did not understand this answer, but I said nothing."
+    },
+    {
+      "id": 1327,
+      "text": "I knew very well that it was impossible to cross-examine him."
+    },
+    {
+      "id": 1328,
+      "text": "He was tired."
+    },
+    {
+      "id": 1329,
+      "text": "He sat down."
+    },
+    {
+      "id": 1330,
+      "text": "I sat down beside him."
+    },
+    {
+      "id": 1331,
+      "text": "And, after a little silence, he spoke again: \"The stars are beautiful, because of a flower that cannot be seen.\""
+    },
+    {
+      "id": 1332,
+      "text": "I replied, \"Yes, that is so.\""
+    },
+    {
+      "id": 1333,
+      "text": "And, without saying anything more, I looked across the ridges of sand that were stretched out before us in the moonlight."
+    },
+    {
+      "id": 1334,
+      "text": "\"The desert is beautiful,\" the little prince added."
+    },
+    {
+      "id": 1335,
+      "text": "And that was true."
+    },
+    {
+      "id": 1336,
+      "text": "I have always loved the desert."
+    },
+    {
+      "id": 1337,
+      "text": "One sits down on a desert sand dune, sees nothing, hears nothing."
+    },
+    {
+      "id": 1338,
+      "text": "Yet through the silence something throbs, and gleams..."
+    },
+    {
+      "id": 1339,
+      "text": "\"What makes the desert beautiful,\" said the little prince, \"is that somewhere it hides a well...\""
+    },
+    {
+      "id": 1340,
+      "text": "I was astonished by a sudden understanding of that mysterious radiation of the sands."
+    },
+    {
+      "id": 1341,
+      "text": "When I was a little boy I lived in an old house, and legend told us that a treasure was buried there."
+    },
+    {
+      "id": 1342,
+      "text": "To be sure, no one had ever known how to find it; perhaps no one had ever even looked for it."
+    },
+    {
+      "id": 1343,
+      "text": "But it cast an enchantment over that house."
+    },
+    {
+      "id": 1344,
+      "text": "My home was hiding a secret in the depths of its heart..."
+    },
+    {
+      "id": 1345,
+      "text": "\"Yes,\" I said to the little prince."
+    },
+    {
+      "id": 1346,
+      "text": "\"The house, the stars, the desert-- what gives them their beauty is something that is invisible!\""
+    },
+    {
+      "id": 1347,
+      "text": "\"I am glad,\" he said, \"that you agree with my fox.\""
+    },
+    {
+      "id": 1348,
+      "text": "As the little prince dropped off to sleep, I took him in my arms and set out walking once more."
+    },
+    {
+      "id": 1349,
+      "text": "I felt deeply moved, and stirred."
+    },
+    {
+      "id": 1350,
+      "text": "It seemed to me that I was carrying a very fragile treasure."
+    },
+    {
+      "id": 1351,
+      "text": "It seemed to me, even, that there was nothing more fragile on all Earth."
+    },
+    {
+      "id": 1352,
+      "text": "In the moonlight I looked at his pale forehead, his closed eyes, his locks of hair that trembled in the wind, and I said to myself: \"What I see here is nothing but a shell."
+    },
+    {
+      "id": 1353,
+      "text": "What is most important is invisible...\""
+    },
+    {
+      "id": 1354,
+      "text": "As his lips opened slightly with the suspicious of a half-smile, I said to myself, again: \"What moves me so deeply, about this little prince who is sleeping here, is his loyalty to a flower-- the image of a rose that shines through his whole being like the flame of a lamp, even when he is asleep...\"  And I felt him to be more fragile still."
+    },
+    {
+      "id": 1355,
+      "text": "I felt the need of protecting him, as if he himself were a flame that might be extinguished by a little puff of wind..."
+    },
+    {
+      "id": 1356,
+      "text": "And, as I walked on so, I found the well, at daybreak."
+    },
+    {
+      "id": 1357,
+      "text": "Chapter XXV"
+    },
+    {
+      "id": 1358,
+      "text": "\"Men,\" said the little prince, \"set out on their way in express trains, but they do not know what they are looking for."
+    },
+    {
+      "id": 1359,
+      "text": "Then they rush about, and get excited, and turn round and round...\""
+    },
+    {
+      "id": 1360,
+      "text": "And he added: \"It is not worth the trouble...\""
+    },
+    {
+      "id": 1361,
+      "text": "The well that we had come to was not like the wells of the Sahara."
+    },
+    {
+      "id": 1362,
+      "text": "The wells of the Sahara are mere holes dug in the sand."
+    },
+    {
+      "id": 1363,
+      "text": "This one was like a well in a village."
+    },
+    {
+      "id": 1364,
+      "text": "But there was no village here, and I thought I must be dreaming..."
+    },
+    {
+      "id": 1365,
+      "text": "\"It is strange,\" I said to the little prince."
+    },
+    {
+      "id": 1366,
+      "text": "\"Everything is ready for use: the pulley, the bucket, the rope...\""
+    },
+    {
+      "id": 1367,
+      "text": "He laughed, touched the rope, and set the pulley to working."
+    },
+    {
+      "id": 1368,
+      "text": "And the pulley moaned, like an old weathervane, which the wind has long since forgotten."
+    },
+    {
+      "id": 1369,
+      "text": "\"Do you hear?\""
+    },
+    {
+      "id": 1370,
+      "text": "said the little prince."
+    },
+    {
+      "id": 1371,
+      "text": "\"We have wakened the well, and it is singing...\""
+    },
+    {
+      "id": 1372,
+      "text": "I did not want him to tire himself with the rope."
+    },
+    {
+      "id": 1373,
+      "text": "\"Leave it to me,\" I said."
+    },
+    {
+      "id": 1374,
+      "text": "\"It is too heavy for you.\""
+    },
+    {
+      "id": 1375,
+      "text": "I hoisted the bucket slowly to the edge of the well and set it there-- happy, tired as I was, over my achievement."
+    },
+    {
+      "id": 1376,
+      "text": "The song of the pulley was still in my ears, and I could see the sunlight shimmer in the still trembling water."
+    },
+    {
+      "id": 1377,
+      "text": "\"I am thirsty for this water,\" said the little prince."
+    },
+    {
+      "id": 1378,
+      "text": "\"Give me some of it to drink...\""
+    },
+    {
+      "id": 1379,
+      "text": "And I understood what he had been looking for."
+    },
+    {
+      "id": 1380,
+      "text": "I raised the bucket to his lips."
+    },
+    {
+      "id": 1381,
+      "text": "He drank, his eyes closed."
+    },
+    {
+      "id": 1382,
+      "text": "It was as sweet as some special festival treat."
+    },
+    {
+      "id": 1383,
+      "text": "This water was indeed a different thing from ordinary nourishment."
+    },
+    {
+      "id": 1384,
+      "text": "Its sweetness was born of the walk under the stars, the song of the pulley, and the effort of my arms."
+    },
+    {
+      "id": 1385,
+      "text": "It was good for the heart, like a present."
+    },
+    {
+      "id": 1386,
+      "text": "When I was a little boy, the lights of the Christmas tree, the music of the Midnight Mass, the tenderness of smiling faces, used to make up, so, the radiance of the gifts I received."
+    },
+    {
+      "id": 1387,
+      "text": "\"The men where you live,\" said the little prince, \"raise five thousand roses in the same garden-- and they do not find in it what they are looking for.\""
+    },
+    {
+      "id": 1388,
+      "text": "\"They do not find it,\" I replied."
+    },
+    {
+      "id": 1389,
+      "text": "\"And yet what they are looking for could be found in one single rose, or in a little water.\""
+    },
+    {
+      "id": 1390,
+      "text": "\"Yes, that is true,\" I said."
+    },
+    {
+      "id": 1391,
+      "text": "And the little prince added:"
+    },
+    {
+      "id": 1392,
+      "text": "\"But the eyes are blind."
+    },
+    {
+      "id": 1393,
+      "text": "One must look with the heart...\""
+    },
+    {
+      "id": 1394,
+      "text": "I had drunk the water."
+    },
+    {
+      "id": 1395,
+      "text": "I breathed easily."
+    },
+    {
+      "id": 1396,
+      "text": "At sunrise the sand is the colour of honey."
+    },
+    {
+      "id": 1397,
+      "text": "And that honey colour was making me happy, too."
+    },
+    {
+      "id": 1398,
+      "text": "What brought me, then, this sense of grief?"
+    },
+    {
+      "id": 1399,
+      "text": "\"You must keep your promise,\" said the little prince, softly, as he sat down beside me once more."
+    },
+    {
+      "id": 1400,
+      "text": "\"What promise?\""
+    },
+    {
+      "id": 1401,
+      "text": "\"You know-- a muzzle for my sheep..."
+    },
+    {
+      "id": 1402,
+      "text": "I am responsible for this flower...\""
+    },
+    {
+      "id": 1403,
+      "text": "I took my rough drafts of drawings out of my pocket."
+    },
+    {
+      "id": 1404,
+      "text": "The little prince looked them over, and laughed as he said:"
+    },
+    {
+      "id": 1405,
+      "text": "\"Your baobabs-- they look a little like cabbages.\""
+    },
+    {
+      "id": 1406,
+      "text": "\"Oh!\""
+    },
+    {
+      "id": 1407,
+      "text": "I had been so proud of my baobabs!"
+    },
+    {
+      "id": 1408,
+      "text": "\"Your fox-- his ears look a little like horns; and they are too long.\""
+    },
+    {
+      "id": 1409,
+      "text": "And he laughed again."
+    },
+    {
+      "id": 1410,
+      "text": "\"You are not fair, little prince,\" I said."
+    },
+    {
+      "id": 1411,
+      "text": "\"I don't know how to draw anything except boa constrictors from the outside and boa constrictors from the inside.\""
+    },
+    {
+      "id": 1412,
+      "text": "\"Oh, that will be all right,\" he said, \"children understand.\""
+    },
+    {
+      "id": 1413,
+      "text": "So then I made a pencil sketch of a muzzle."
+    },
+    {
+      "id": 1414,
+      "text": "And as I gave it to him my heart was torn."
+    },
+    {
+      "id": 1415,
+      "text": "\"You have plans that I do not know about,\" I said."
+    },
+    {
+      "id": 1416,
+      "text": "But he did not answer me."
+    },
+    {
+      "id": 1417,
+      "text": "He said to me, instead:"
+    },
+    {
+      "id": 1418,
+      "text": "\"You know-- my descent to the earth..."
+    },
+    {
+      "id": 1419,
+      "text": "Tomorrow will be its anniversary.\""
+    },
+    {
+      "id": 1420,
+      "text": "Then, after a silence, he went on:"
+    },
+    {
+      "id": 1421,
+      "text": "\"I came down very near here.\""
+    },
+    {
+      "id": 1422,
+      "text": "And he flushed."
+    },
+    {
+      "id": 1423,
+      "text": "And once again, without understanding why, I had a queer sense of sorrow."
+    },
+    {
+      "id": 1424,
+      "text": "One question, however, occurred to me:"
+    },
+    {
+      "id": 1425,
+      "text": "\"Then it was not by chance that on the morning when I first met you-- a week ago-- you were strolling along like that, all alone, a thousand miles from any inhabited region?"
+    },
+    {
+      "id": 1426,
+      "text": "You were on the your back to the place where you landed?\""
+    },
+    {
+      "id": 1427,
+      "text": "The little prince flushed again."
+    },
+    {
+      "id": 1428,
+      "text": "And I added, with some hesitancy:"
+    },
+    {
+      "id": 1429,
+      "text": "\"Perhaps it was because of the anniversary?\""
+    },
+    {
+      "id": 1430,
+      "text": "The little prince flushed once more."
+    },
+    {
+      "id": 1431,
+      "text": "He never answered questions-- but when one flushes does that not mean \"Yes\"?"
+    },
+    {
+      "id": 1432,
+      "text": "\"Ah,\" I said to him, \"I am a little frightened--\""
+    },
+    {
+      "id": 1433,
+      "text": "But he interrupted me."
+    },
+    {
+      "id": 1434,
+      "text": "\"Now you must work."
+    },
+    {
+      "id": 1435,
+      "text": "You must return to your engine."
+    },
+    {
+      "id": 1436,
+      "text": "I will be waiting for you here."
+    },
+    {
+      "id": 1437,
+      "text": "Come back tomorrow evening...\""
+    },
+    {
+      "id": 1438,
+      "text": "But I was not reassured."
+    },
+    {
+      "id": 1439,
+      "text": "I remembered the fox."
+    },
+    {
+      "id": 1440,
+      "text": "One runs the risk of weeping a little, if one lets himself be tamed..."
+    },
+    {
+      "id": 1441,
+      "text": "Chapter XXVI"
+    },
+    {
+      "id": 1442,
+      "text": "Beside the well there was the ruin of an old stonewall."
+    },
+    {
+      "id": 1443,
+      "text": "When I came back from my work, the next evening, I saw from some distance away my little price sitting on top of a wall, with his feet dangling."
+    },
+    {
+      "id": 1444,
+      "text": "And I heard him say:"
+    },
+    {
+      "id": 1445,
+      "text": "\"Then you don't remember."
+    },
+    {
+      "id": 1446,
+      "text": "This is not the exact spot.\""
+    },
+    {
+      "id": 1447,
+      "text": "Another voice must have answered him, for he replied to it:"
+    },
+    {
+      "id": 1448,
+      "text": "\"Yes, yes!"
+    },
+    {
+      "id": 1449,
+      "text": "It is the right day, but this is not the place.\""
+    },
+    {
+      "id": 1450,
+      "text": "I continued my walk toward the wall."
+    },
+    {
+      "id": 1451,
+      "text": "At no time did I see or hear anyone."
+    },
+    {
+      "id": 1452,
+      "text": "The little prince, however, replied once again:"
+    },
+    {
+      "id": 1453,
+      "text": "\"--Exactly."
+    },
+    {
+      "id": 1454,
+      "text": "You will see where my track begins, in the sand."
+    },
+    {
+      "id": 1455,
+      "text": "You have nothing to do but wait for me there."
+    },
+    {
+      "id": 1456,
+      "text": "I shall be there tonight.\""
+    },
+    {
+      "id": 1457,
+      "text": "I was only twenty metres from the wall, and I still saw nothing."
+    },
+    {
+      "id": 1458,
+      "text": "After a silence the little prince spoke again:"
+    },
+    {
+      "id": 1459,
+      "text": "\"You have good poison?"
+    },
+    {
+      "id": 1460,
+      "text": "You are sure that it will not make me suffer too long?\""
+    },
+    {
+      "id": 1461,
+      "text": "I stopped in my tracks, my heart torn asunder; but still I did not understand."
+    },
+    {
+      "id": 1462,
+      "text": "\"Now go away,\" said the little prince."
+    },
+    {
+      "id": 1463,
+      "text": "\"I want to get down from the wall.\""
+    },
+    {
+      "id": 1464,
+      "text": "I dropped my eyes, then, to the foot of the wall-- and I leaped into the air."
+    },
+    {
+      "id": 1465,
+      "text": "There before me, facing the little prince, was one of those yellow snakes that take just thirty seconds to bring your life to an end."
+    },
+    {
+      "id": 1466,
+      "text": "Even as I was digging into my pocked to get out my revolver I made a running step back."
+    },
+    {
+      "id": 1467,
+      "text": "But, at the noise I made, the snake let himself flow easily across the sand like the dying spray of a fountain, and, in no apparent hurry, disappeared, with a light metallic sound, among the stones."
+    },
+    {
+      "id": 1468,
+      "text": "I reached the wall just in time to catch my little man in my arms; his face was white as snow."
+    },
+    {
+      "id": 1469,
+      "text": "\"What does this mean?\""
+    },
+    {
+      "id": 1470,
+      "text": "I demanded."
+    },
+    {
+      "id": 1471,
+      "text": "\"Why are you talking with snakes?\""
+    },
+    {
+      "id": 1472,
+      "text": "I had loosened the golden muffler that he always wore."
+    },
+    {
+      "id": 1473,
+      "text": "I had moistened his temples, and had given him some water to drink."
+    },
+    {
+      "id": 1474,
+      "text": "And now I did not dare ask him any more questions."
+    },
+    {
+      "id": 1475,
+      "text": "He looked at me very gravely, and put his arms around my neck."
+    },
+    {
+      "id": 1476,
+      "text": "I felt his heart beating like the heart of a dying bird, shot with someone's rifle..."
+    },
+    {
+      "id": 1477,
+      "text": "\"I am glad that you have found what was the matter with your engine,\" he said."
+    },
+    {
+      "id": 1478,
+      "text": "\"Now you can go back home--\""
+    },
+    {
+      "id": 1479,
+      "text": "\"How do you know about that?\""
+    },
+    {
+      "id": 1480,
+      "text": "I was just coming to tell him that my work had been successful, beyond anything that I had dared to hope."
+    },
+    {
+      "id": 1481,
+      "text": "He made no answer to my question, but he added: \"I, too, am going back home today...\""
+    },
+    {
+      "id": 1482,
+      "text": "Then, sadly-- \"It is much farther... it is much more difficult...\""
+    },
+    {
+      "id": 1483,
+      "text": "I realised clearly that something extraordinary was happening."
+    },
+    {
+      "id": 1484,
+      "text": "I was holding him close in my arms as if he were a little child; and yet it seemed to me that he was rushing headlong toward an abyss from which I could do nothing to restrain him..."
+    },
+    {
+      "id": 1485,
+      "text": "His look was very serious, like some one lost far away."
+    },
+    {
+      "id": 1486,
+      "text": "\"I have your sheep."
+    },
+    {
+      "id": 1487,
+      "text": "And I have the sheep's box."
+    },
+    {
+      "id": 1488,
+      "text": "And I have the muzzle...\""
+    },
+    {
+      "id": 1489,
+      "text": "And he gave me a sad smile."
+    },
+    {
+      "id": 1490,
+      "text": "I waited a long time."
+    },
+    {
+      "id": 1491,
+      "text": "I could see that he was reviving little by little."
+    },
+    {
+      "id": 1492,
+      "text": "\"Dear little man,\" I said to him, \"you are afraid...\""
+    },
+    {
+      "id": 1493,
+      "text": "He was afraid, there was no doubt about that."
+    },
+    {
+      "id": 1494,
+      "text": "But he laughed lightly."
+    },
+    {
+      "id": 1495,
+      "text": "\"I shall be much more afraid this evening...\""
+    },
+    {
+      "id": 1496,
+      "text": "Once again I felt myself frozen by the sense of something irreparable."
+    },
+    {
+      "id": 1497,
+      "text": "And I knew that I could not bear the thought of never hearing that laughter any more."
+    },
+    {
+      "id": 1498,
+      "text": "For me, it was like a spring of fresh water in the desert."
+    },
+    {
+      "id": 1499,
+      "text": "\"Little man,\" I said, \"I want to hear you laugh again.\""
+    },
+    {
+      "id": 1500,
+      "text": "But he said to me:"
+    },
+    {
+      "id": 1501,
+      "text": "\"Tonight, it will be a year... my star, then, can be found right above the place where I came to the Earth, a year ago...\""
+    },
+    {
+      "id": 1502,
+      "text": "\"Little man,\" I said, \"tell me that it is only a bad dream-- this affair of the snake, and the meeting-place, and the star...\""
+    },
+    {
+      "id": 1503,
+      "text": "But he did not answer my plea."
+    },
+    {
+      "id": 1504,
+      "text": "He said to me, instead:"
+    },
+    {
+      "id": 1505,
+      "text": "\"The thing that is important is the thing that is not seen...\""
+    },
+    {
+      "id": 1506,
+      "text": "\"Yes, I know...\""
+    },
+    {
+      "id": 1507,
+      "text": "\"It is just as it is with the flower."
+    },
+    {
+      "id": 1508,
+      "text": "If you love a flower that lives on a star, it is sweet to look at the sky at night."
+    },
+    {
+      "id": 1509,
+      "text": "All the stars are a-bloom with flowers...\""
+    },
+    {
+      "id": 1510,
+      "text": "\"Yes, I know...\""
+    },
+    {
+      "id": 1511,
+      "text": "\"It is just as it is with the water."
+    },
+    {
+      "id": 1512,
+      "text": "Because of the pulley, and the rope, what you gave me to drink was like music."
+    },
+    {
+      "id": 1513,
+      "text": "You remember-- how good it was.\""
+    },
+    {
+      "id": 1514,
+      "text": "\"Yes, I know...\""
+    },
+    {
+      "id": 1515,
+      "text": "\"And at night you will look up at the stars."
+    },
+    {
+      "id": 1516,
+      "text": "Where I live everything is so small that I cannot show you where my star is to be found."
+    },
+    {
+      "id": 1517,
+      "text": "It is better, like that."
+    },
+    {
+      "id": 1518,
+      "text": "My star will just be one of the stars, for you."
+    },
+    {
+      "id": 1519,
+      "text": "And so you will love to watch all the stars in the heavens... they will all be your friends."
+    },
+    {
+      "id": 1520,
+      "text": "And, besides, I am going to make you a present...\""
+    },
+    {
+      "id": 1521,
+      "text": "He laughed again."
+    },
+    {
+      "id": 1522,
+      "text": "\"Ah, little prince, dear little prince!"
+    },
+    {
+      "id": 1523,
+      "text": "I love to hear that laughter!\""
+    },
+    {
+      "id": 1524,
+      "text": "\"That is my present."
+    },
+    {
+      "id": 1525,
+      "text": "Just that."
+    },
+    {
+      "id": 1526,
+      "text": "It will be as it was when we drank the water...\""
+    },
+    {
+      "id": 1527,
+      "text": "\"What are you trying to say?\""
+    },
+    {
+      "id": 1528,
+      "text": "\"All men have the stars,\" he answered, \"but they are not the same things for different people."
+    },
+    {
+      "id": 1529,
+      "text": "For some, who are travellers, the stars are guides."
+    },
+    {
+      "id": 1530,
+      "text": "For others they are no more than little lights in the sky."
+    },
+    {
+      "id": 1531,
+      "text": "For others, who are scholars, they are problems."
+    },
+    {
+      "id": 1532,
+      "text": "For my businessman they were wealth."
+    },
+    {
+      "id": 1533,
+      "text": "But all these stars are silent."
+    },
+    {
+      "id": 1534,
+      "text": "You-- you alone-- will have the stars as no one else has them--\""
+    },
+    {
+      "id": 1535,
+      "text": "\"What are you trying to say?\""
+    },
+    {
+      "id": 1536,
+      "text": "\"In one of the stars I shall be living."
+    },
+    {
+      "id": 1537,
+      "text": "In one of them I shall be laughing."
+    },
+    {
+      "id": 1538,
+      "text": "And so it will be as if all the stars were laughing, when you look at the sky at night... you-- only you-- will have stars that can laugh!\""
+    },
+    {
+      "id": 1539,
+      "text": "And he laughed again."
+    },
+    {
+      "id": 1540,
+      "text": "\"And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me."
+    },
+    {
+      "id": 1541,
+      "text": "You will always be my friend."
+    },
+    {
+      "id": 1542,
+      "text": "You will want to laugh with me."
+    },
+    {
+      "id": 1543,
+      "text": "And you will sometimes open your window, so, for that pleasure... and your friends will be properly astonished to see you laughing as you look up at the sky!"
+    },
+    {
+      "id": 1544,
+      "text": "Then you will say to them, 'Yes, the stars always make me laugh!'"
+    },
+    {
+      "id": 1545,
+      "text": "And they will think you are crazy."
+    },
+    {
+      "id": 1546,
+      "text": "It will be a very shabby trick that I shall have played on you...\""
+    },
+    {
+      "id": 1547,
+      "text": "And he laughed again."
+    },
+    {
+      "id": 1548,
+      "text": "\"It will be as if, in place of the stars, I had given you a great number of little bells that knew how to laugh...\""
+    },
+    {
+      "id": 1549,
+      "text": "And he laughed again."
+    },
+    {
+      "id": 1550,
+      "text": "Then he quickly became serious:"
+    },
+    {
+      "id": 1551,
+      "text": "\"Tonight-- you know... do not come,\" said the little prince."
+    },
+    {
+      "id": 1552,
+      "text": "\"I shall not leave you,\" I said."
+    },
+    {
+      "id": 1553,
+      "text": "\"I shall look as if I were suffering."
+    },
+    {
+      "id": 1554,
+      "text": "I shall look a little as if I were dying."
+    },
+    {
+      "id": 1555,
+      "text": "It is like that."
+    },
+    {
+      "id": 1556,
+      "text": "Do not come to see that."
+    },
+    {
+      "id": 1557,
+      "text": "It is not worth the trouble...\""
+    },
+    {
+      "id": 1558,
+      "text": "\"I shall not leave you.\""
+    },
+    {
+      "id": 1559,
+      "text": "But he was worried."
+    },
+    {
+      "id": 1560,
+      "text": "\"I tell you-- it is also because of the snake."
+    },
+    {
+      "id": 1561,
+      "text": "He must not bite you."
+    },
+    {
+      "id": 1562,
+      "text": "Snakes-- they are malicious creatures."
+    },
+    {
+      "id": 1563,
+      "text": "This one might bite you just for fun...\""
+    },
+    {
+      "id": 1564,
+      "text": "\"I shall not leave you.\""
+    },
+    {
+      "id": 1565,
+      "text": "But a thought came to reassure him:"
+    },
+    {
+      "id": 1566,
+      "text": "\"It is true that they have no more poison for a second bite.\""
+    },
+    {
+      "id": 1567,
+      "text": "That night I did not see him set out on his way."
+    },
+    {
+      "id": 1568,
+      "text": "He got away from me without making a sound."
+    },
+    {
+      "id": 1569,
+      "text": "When I succeeded in catching up with him he was walking along with a quick and resolute step."
+    },
+    {
+      "id": 1570,
+      "text": "He said to me merely:"
+    },
+    {
+      "id": 1571,
+      "text": "\"Ah!"
+    },
+    {
+      "id": 1572,
+      "text": "You are there...\""
+    },
+    {
+      "id": 1573,
+      "text": "And he took me by the hand."
+    },
+    {
+      "id": 1574,
+      "text": "But he was still worrying."
+    },
+    {
+      "id": 1575,
+      "text": "\"It was wrong of you to come."
+    },
+    {
+      "id": 1576,
+      "text": "You will suffer."
+    },
+    {
+      "id": 1577,
+      "text": "I shall look as if I were dead; and that will not be true...\""
+    },
+    {
+      "id": 1578,
+      "text": "I said nothing."
+    },
+    {
+      "id": 1579,
+      "text": "\"You understand... it is too far."
+    },
+    {
+      "id": 1580,
+      "text": "I cannot carry this body with me."
+    },
+    {
+      "id": 1581,
+      "text": "It is too heavy.\""
+    },
+    {
+      "id": 1582,
+      "text": "I said nothing."
+    },
+    {
+      "id": 1583,
+      "text": "\"But it will be like an old abandoned shell."
+    },
+    {
+      "id": 1584,
+      "text": "There is nothing sad about old shells...\""
+    },
+    {
+      "id": 1585,
+      "text": "I said nothing."
+    },
+    {
+      "id": 1586,
+      "text": "He was a little discouraged."
+    },
+    {
+      "id": 1587,
+      "text": "But he made one more effort:"
+    },
+    {
+      "id": 1588,
+      "text": "\"You know, it will be very nice."
+    },
+    {
+      "id": 1589,
+      "text": "I, too, shall look at the stars."
+    },
+    {
+      "id": 1590,
+      "text": "All the stars will be wells with a rusty pulley."
+    },
+    {
+      "id": 1591,
+      "text": "All the stars will pour out fresh water for me to drink...\""
+    },
+    {
+      "id": 1592,
+      "text": "I said nothing."
+    },
+    {
+      "id": 1593,
+      "text": "\"That will be so amusing!"
+    },
+    {
+      "id": 1594,
+      "text": "You will have five hundred million little bells, and I shall have five hundred million springs of fresh water...\""
+    },
+    {
+      "id": 1595,
+      "text": "And he too said nothing more, because he was crying..."
+    },
+    {
+      "id": 1596,
+      "text": "\"Here it is."
+    },
+    {
+      "id": 1597,
+      "text": "Let me go on by myself.\""
+    },
+    {
+      "id": 1598,
+      "text": "And he sat down, because he was afraid."
+    },
+    {
+      "id": 1599,
+      "text": "Then he said, again:"
+    },
+    {
+      "id": 1600,
+      "text": "\"You know-- my flower..."
+    },
+    {
+      "id": 1601,
+      "text": "I am responsible for her."
+    },
+    {
+      "id": 1602,
+      "text": "And she is so weak!"
+    },
+    {
+      "id": 1603,
+      "text": "She is so naïve!"
+    },
+    {
+      "id": 1604,
+      "text": "She has four thorns, of no use at all, to protect herself against all the world...\""
+    },
+    {
+      "id": 1605,
+      "text": "I too sat down, because I was not able to stand up any longer."
+    },
+    {
+      "id": 1606,
+      "text": "\"There now-- that is all...\""
+    },
+    {
+      "id": 1607,
+      "text": "He still hesitated a little; then he got up."
+    },
+    {
+      "id": 1608,
+      "text": "He took one step."
+    },
+    {
+      "id": 1609,
+      "text": "I could not move."
+    },
+    {
+      "id": 1610,
+      "text": "There was nothing but a flash of yellow close to his ankle."
+    },
+    {
+      "id": 1611,
+      "text": "He remained motionless for an instant."
+    },
+    {
+      "id": 1612,
+      "text": "He did not cry out."
+    },
+    {
+      "id": 1613,
+      "text": "He fell as gently as a tree falls."
+    },
+    {
+      "id": 1614,
+      "text": "There was not even any sound, because of the sand."
+    },
+    {
+      "id": 1615,
+      "text": "Chapter XXVII"
+    },
+    {
+      "id": 1616,
+      "text": "And now six years have already gone by..."
+    },
+    {
+      "id": 1617,
+      "text": "I have never yet told this story."
+    },
+    {
+      "id": 1618,
+      "text": "The companions who met me on my return were well content to see me alive."
+    },
+    {
+      "id": 1619,
+      "text": "I was sad, but I told them:  \"I am tired.\""
+    },
+    {
+      "id": 1620,
+      "text": "Now my sorrow is comforted a little."
+    },
+    {
+      "id": 1621,
+      "text": "That is to say-- not entirely."
+    },
+    {
+      "id": 1622,
+      "text": "But I know that he did go back to his planet, because I did not find his body at daybreak."
+    },
+    {
+      "id": 1623,
+      "text": "It was not such a heavy body... and at night I love to listen to the stars."
+    },
+    {
+      "id": 1624,
+      "text": "It is like five hundred million little bells..."
+    },
+    {
+      "id": 1625,
+      "text": "But there is one extraordinary thing... when I drew the muzzle for the little prince, I forgot to add the leather strap to it."
+    },
+    {
+      "id": 1626,
+      "text": "He will never have been able to fasten it on his sheep."
+    },
+    {
+      "id": 1627,
+      "text": "So now I keep wondering: what is happening on his planet?"
+    },
+    {
+      "id": 1628,
+      "text": "Perhaps the sheep has eaten the flower..."
+    },
+    {
+      "id": 1629,
+      "text": "At one time I say to myself: \"Surely not!"
+    },
+    {
+      "id": 1630,
+      "text": "The little prince shuts his flower under her glass globe every night, and he watches over his sheep very carefully...\"  Then I am happy."
+    },
+    {
+      "id": 1631,
+      "text": "And there is sweetness in the laughter of all the stars."
+    },
+    {
+      "id": 1632,
+      "text": "But at another time I say to myself: \"At some moment or other one is absent-minded, and that is enough!"
+    },
+    {
+      "id": 1633,
+      "text": "On some one evening he forgot the glass globe, or the sheep got out, without making any noise, in the night...\"  And then the little bells are changed to tears..."
+    },
+    {
+      "id": 1634,
+      "text": "Here, then, is a great mystery."
+    },
+    {
+      "id": 1635,
+      "text": "For you who also love the little prince, and for me, nothing in the universe can be the same if somewhere, we do not know where, a sheep that we never saw has-- yes or no?-- eaten a rose..."
+    },
+    {
+      "id": 1636,
+      "text": "Look up at the sky."
+    },
+    {
+      "id": 1637,
+      "text": "Ask yourselves: is it yes or no?"
+    },
+    {
+      "id": 1638,
+      "text": "Has the sheep eaten the flower?"
+    },
+    {
+      "id": 1639,
+      "text": "And you will see how everything changes..."
+    },
+    {
+      "id": 1640,
+      "text": "And no grown-up will ever understand that this is a matter of so much importance!"
+    },
+    {
+      "id": 1641,
+      "text": "This is, to me, the loveliest and saddest landscape in the world."
+    },
+    {
+      "id": 1642,
+      "text": "It is the same as that on the preceding page, but I have drawn it again to impress it on your memory."
+    },
+    {
+      "id": 1643,
+      "text": "It is here that the little prince appeared on Earth, and disappeared."
+    },
+    {
+      "id": 1644,
+      "text": "Look at it carefully so that you will be sure to recognise it in case you travel some day to the African desert."
+    },
+    {
+      "id": 1645,
+      "text": "And, if you should come upon this spot, please do not hurry on."
+    },
+    {
+      "id": 1646,
+      "text": "Wait for a time, exactly under the star."
+    },
+    {
+      "id": 1647,
+      "text": "Then, if a little man appears who laughs, who has golden hair and who refuses to answer questions, you will know who he is."
+    },
+    {
+      "id": 1648,
+      "text": "If this should happen, please comfort me."
+    },
+    {
+      "id": 1649,
+      "text": "Send me word that he has come back."
+    },
+    {
+      "id": 1650,
+      "text": "Saint-Exupéry: A Short Biography"
+    },
+    {
+      "id": 1651,
+      "text": "His friends called him Saint-Ex."
+    },
+    {
+      "id": 1652,
+      "text": "In reality, he was named Antoine de Saint-Exupéry."
+    },
+    {
+      "id": 1653,
+      "text": "He is one of the greatest French writers."
+    },
+    {
+      "id": 1654,
+      "text": "He is also one of the pioneers of aviation."
+    },
+    {
+      "id": 1655,
+      "text": "Here is his story."
+    },
+    {
+      "id": 1656,
+      "text": "Saint-Exupéry was born in Lyon in 1900."
+    },
+    {
+      "id": 1657,
+      "text": "At an early age, he dreamt of adventure."
+    },
+    {
+      "id": 1658,
+      "text": "His greatest ambition was to be an officer in the Navy."
+    },
+    {
+      "id": 1659,
+      "text": "In order to become a Naval officer, one had to pass a very difficult exam."
+    },
+    {
+      "id": 1660,
+      "text": "Saint-Exupéry took the exam and failed... there was, fortunately, another solution-- aviation."
+    },
+    {
+      "id": 1661,
+      "text": "At this time, aviation was extremely dangerous."
+    },
+    {
+      "id": 1662,
+      "text": "Danger, risk-- this is precisely for what Saint-Exupéry wished."
+    },
+    {
+      "id": 1663,
+      "text": "During his military service, he learned to pilot airplanes."
+    },
+    {
+      "id": 1664,
+      "text": "Saint-Exupéry had only one idea in his head: to fly."
+    },
+    {
+      "id": 1665,
+      "text": "After his military service, he presented himself to the director of an airline company and expressed to him his desire to become a pilot."
+    },
+    {
+      "id": 1666,
+      "text": "The director told him, \"Do like everyone else."
+    },
+    {
+      "id": 1667,
+      "text": "First, you must become a mechanic.\""
+    },
+    {
+      "id": 1668,
+      "text": "Saint-Exupéry worked to become a mechanic."
+    },
+    {
+      "id": 1669,
+      "text": "In 1927, he finally reached his goal."
+    },
+    {
+      "id": 1670,
+      "text": "He was the pilot of a formation."
+    },
+    {
+      "id": 1671,
+      "text": "He completed dangerous missions over the Mediterranean, over the Sahara."
+    },
+    {
+      "id": 1672,
+      "text": "He had many accidents over the middle of the desert."
+    },
+    {
+      "id": 1673,
+      "text": "Later, he was named the director of his own aviation company in South America."
+    },
+    {
+      "id": 1674,
+      "text": "There also, he accomplished many dangerous missions over the Andes."
+    },
+    {
+      "id": 1675,
+      "text": "For Saint-Exupéry, flying wasn't just piloting an airplane."
+    },
+    {
+      "id": 1676,
+      "text": "It was also meditating, reflecting."
+    },
+    {
+      "id": 1677,
+      "text": "During his missions, Saint-Exupéry thought deeply about solitude, friendship, the meaning of life, the human condition, and liberty."
+    },
+    {
+      "id": 1678,
+      "text": "He published his reflections."
+    },
+    {
+      "id": 1679,
+      "text": "His books had immediate success."
+    },
+    {
+      "id": 1680,
+      "text": "Unfortunately, the aviation company for which Saint-Exupéry worked was having serious financial problems."
+    },
+    {
+      "id": 1681,
+      "text": "Saint-Exupéry had to quit the company."
+    },
+    {
+      "id": 1682,
+      "text": "He became a journalist."
+    },
+    {
+      "id": 1683,
+      "text": "He went to Spain, Russia, and Germany."
+    },
+    {
+      "id": 1684,
+      "text": "He flew when he could."
+    },
+    {
+      "id": 1685,
+      "text": "In 1939, France went to war with Germany."
+    },
+    {
+      "id": 1686,
+      "text": "Saint-Exupéry enlisted immediately in the army."
+    },
+    {
+      "id": 1687,
+      "text": "Defeat came soon."
+    },
+    {
+      "id": 1688,
+      "text": "France was occupied by Hitler's troops."
+    },
+    {
+      "id": 1689,
+      "text": "Saint-Exupéry didn't accept the defeat."
+    },
+    {
+      "id": 1690,
+      "text": "He decided to leave France."
+    },
+    {
+      "id": 1691,
+      "text": "He settled in the United States, where he continued to write."
+    },
+    {
+      "id": 1692,
+      "text": "It was in New York that he published The Little Prince, one of his most celebrated books."
+    },
+    {
+      "id": 1693,
+      "text": "In 1942, American troops landed in North Africa."
+    },
+    {
+      "id": 1694,
+      "text": "Saint-Exupéry decided to join the American army."
+    },
+    {
+      "id": 1695,
+      "text": "At age 42, he volunteered to be a pilot."
+    },
+    {
+      "id": 1696,
+      "text": "He was told that he was too old."
+    },
+    {
+      "id": 1697,
+      "text": "He persisted."
+    },
+    {
+      "id": 1698,
+      "text": "Finally he obtained satisfaction."
+    },
+    {
+      "id": 1699,
+      "text": "He was given an airplane."
+    },
+    {
+      "id": 1700,
+      "text": "He accomplished many missions over occupied France."
+    },
+    {
+      "id": 1701,
+      "text": "On the 31st of July, 1944, Saint-Exupéry left for his last mission."
+    },
+    {
+      "id": 1702,
+      "text": "His airplane was destroyed by Germans over the Mediterranean."
+    },
+    {
+      "id": 1703,
+      "text": "On that day, Saint-Exupéry didn't return... in the open sky, he found risk, death, and glory."
+    }
+  ]
+}
