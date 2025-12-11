@@ -1,0 +1,30 @@
+# sent_id = cairo-1
+# text = Кыыс табаарыһыгар сурук суруйбута.
+# glossing = girl friend-POSS.3SG-DAT letter write-PST.3SG
+# text[en] = The girl wrote a letter to her friend.
+1	Кыыс	кыыс	NOUN	_	_	4	nsubj	_	_
+2	табаарыһыгар	табаарыс	NOUN	_	_	4	obl	_	_
+3	сурук	сурук	NOUN	_	_	4	obj	_	_
+4	суруйбута	суруй	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-2
+# text = Ардах түһэ турар дии саныыбын.
+# text[en] = I think that it is raining.
+1	Ардах	ардах	NOUN	_	_	2	nsubj	_	_
+2	түһэ	түс	VERB	_	_	4	ccomp	_	_
+3	турар	тур	AUX	_	_	2	aux	_	_
+4	дии	диэ	VERB	_	_	5	advcl	_	_
+5	саныыбын	санаа	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-6
+# text = Кини эбэтэ медсестра этэ.
+# glossing = His/her grand mother-POSS.3SG nurse-COP.PST.3SG
+# text[en] = His/her grandmother was a nurse.
+1	Кини	кини	PRON	_	_	2	nmod:poss	_	_
+2	эбэтэ	эбэ	NOUN	_	_	3	nsubj	_	_
+3	медсестра	медсестра	NOUN	_	_	0	root	_	_
+4	этэ	э	AUX	_	_	3	cop	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
