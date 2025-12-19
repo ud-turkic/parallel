@@ -1,0 +1,88 @@
+# sent_id = cairo-1
+# parallel_id = cairo/1
+# text = Кыз дустына хат язды.
+# translit = Qız dust-ı-na xat yaz-dı.
+# glossing = girl friend-POSS.3SG-DAT letter write-PST.3
+# issue: obl vs. ind.object
+# text[en] = The girl wrote a letter to her friend.
+# text[az] = Qız yoldaşına namә yazdı.
+# text[uz] = Qiz do'stiga xat yozdi.
+# text[tr] = Kız arkadaşına mektup yazdı.
+# text[ky] = Кыз досуна кат жазды.
+1	Кыз	кыз	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	Translit=Qız
+2	дустына	дус	NOUN	_	Case=Dat|Number=Sing	4	obl	_	Translit=dustına
+3	хат	хат	NOUN	_	Case=Nom|Number=Sing	4	obj	_	Translit=xat
+4	язды	жаз	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=yazdı
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-2
+# parallel_id = cairo/2/alt1
+# text = Яңгыр ява дип уйлыйм.
+# translit = Yañğır yaw-a di-p uylıym.
+# glossing = rain rain-PRES.3SG say-CVB think:PRES.1SG
+# issue: (It) is raining
+# text[en] = I think that it is raining.
+# text[az] = Fikr elirәm yağış yağır.
+# text[uz] = Menimcha, yomg'ir yog'yapti.
+# text[tr] = Yağmur yağdığını zannediyorum.
+# text[ky] = Жамгыр жаап жатат деп ойлойм.
+1	Яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=Yañğır
+2	ява	ява	VERB	_	Number=Sing|Person=3|Tense=Pres	4	ccomp	_	Translit=yawa
+3	дип	ди	AUX	_	VerbForm=Conv	2	mark	_	Translit=dip
+4	уйлыйм	уйла	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=uylıym
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo-2.1
+# parallel_id = cairo/2/alt2
+# text = Яңгыр ява бугай.
+# translit = Yañğır yaw-a buğay.
+# glossing = rain rain-PRES.3SG seemingly
+# issue: (It) is raining; evidentiality; annotation of бугай
+# text[en] = I think that it is raining.
+# text[az] = Fikr elirәm yağış yağır.
+# text[uz] = Menimcha, yomg'ir yog'yapti.
+# text[tr] = Sanırım yağmur yağıyor.
+# text[ky] = Жамгыр жаап жатат окшойт.
+1	Яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=Yañğır
+2	ява	ява	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=yawa
+3	бугай	бугай	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=buğay
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cairo-3.1
+# parallel_id = cairo/3/alt1
+# text = Ул тәмәке тартуны һәм эчүне ташларга тырышты.
+# translit = Ul tämäke tart-u-nı häm eç-ü-ne taşla-rğa tırış-tı.
+# glossing = he/she cigarette pull-VN-ACC and drink-VN-ACC stop-INF try-PST.3
+# issue:
+# text[en] = He/She tried to stop smoking and drinking.
+# text[az] = O çalışdı kı siqar çekmә vә әlkol içmәni tәrkidә.
+# text[uz] = U chekish va ichishni tashlashga harakat qildi.
+# text[tr] = O sigara ve alkol içmeyi bırakmayı denedi.
+# text[ky] = Ал тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=Ul
+2	тәмәке	тәмәке	NOUN	_	Case=Nom|Number=Sing	3	obj	_	Translit=tämäke
+3	тартуны	тарт	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	obj	_	Translit=tartunı
+4	һәм	һәм	CCONJ	_	_	5	cc	_	Translit=häm
+5	эчүне	эч	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=eçüne
+6	ташларга	ташла	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=taşlarğa
+7	тырышты	тырыш	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=tırıştı
+8	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = cairo-3.2
+# parallel_id = cairo/3/alt2
+# text = Тәмәке тартуны һәм эчүне ташларга тырышты.
+# translit = Tämäke tart-u-nı häm eç-ü-ne taşla-rğa tırış-tı.
+# glossing = he/she cigarette pull-VN-ACC and drink-VN-ACC stop-INF try-PST.3
+# issue:
+# text[en] = He/She tried to stop smoking and drinking.
+# text[az] = Siqar çekmә vә әlkol içmәni tәrkitmәyә çalışdı.
+# text[uz] = Chekish va ichishni tashlashga harakat qildi.
+# text[tr] = Sigara ve alkol içmeyi bırakmayı denedi.
+# text[ky] = Тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
+1	Тәмәке	тәмәке	NOUN	_	Case=Nom|Number=Sing	2	obj	_	Translit=Tämäke
+2	тартуны	тарт	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	5	obj	_	Translit=tartunı
+3	һәм	һәм	CCONJ	_	_	4	cc	_	Translit=häm
+4	эчүне	эч	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	2	conj	_	Translit=eçüne
+5	ташларга	ташла	VERB	_	VerbForm=Inf	6	xcomp	_	Translit=taşlarğa
+6	тырышты	тырыш	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=tırıştı
+7	.	.	PUNCT	_	_	9	punct	_	_
