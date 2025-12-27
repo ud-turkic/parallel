@@ -1,0 +1,237 @@
+# sent_id = 1
+# text = Къыз оьзюню къурдашына кагъыз язды . 
+# text_en = The girl wrote a letter to her friend .
+1	Къыз	къыз	NOUN	_	_	5	nsubj	_	_
+2	оьзюню	оьз	PRON	_	_	3	nmod	_	_
+3	къурдашына	къурдаш	NOUN	_	_	5	obl	_	_
+4	кагъыз	кагъыз	NOUN	_	_	5	obj	_	_
+5	язды	язмакъ	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2
+# text = Янгур ява деп эсиме геле . 
+# text_en = I think that it is raining .
+1	Янгур	Yañur 	NOUN	_	5	2	nsubj	_	_
+2	ява	yavmaq	VERB	_	_	5	ccomp	_	_
+3	деп	demek	SCONJ	_	_	2	mark	_	_
+4	эсиме	эс	NOUN	_	_	5	compound:lvc	_	_
+5	геле	гелмек	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 3
+# text = Ол тамакю тартывун ва ичкисин ташламагъа къаст эте эди . 
+# text_en = He tried to stop smoking and drinking .
+1	Ол	Ол	PRON	_	_	8	nsubj	_	_
+2	тамакю	тамакю	NOUN	_	_	3	obj	_	_
+3	тартывун	тартмакъ	VERB	_	_	6	ccomp	_	_
+4	ва	ва	CCONJ	_	_	5	cc	_	_
+5	ичкисин	ички	NOUN	_	_	3	conj	_	_
+6	ташламагъа	ташламакъ	VERB	_	_	8	ccomp	_	_
+7	къаст	къаст	NOUN	_	_	8	compound:lvc	_	_
+8	эте	этмек	VERB	_	_	0	root	_	_
+9	эди	эди	VERB	_	_	8	aux	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 4
+# text = Сен гетмеге сюемисен ?
+# text_en = Do you want to go ?
+1	Сен	Сен	PRON	_	_	3	nsubj	_	_
+2	гетмеге	гетмеге	VERB	_	_	3	xcomp	_	_
+3	сюемисен	сюемек	VERB	_	_	0	root	_	_
+4	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Сэм , терезени ач !
+# text_en = Sam , open the window !
+1	Сэм	Сэм	PROPN	_	_	4	vocative	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	терезени	терезе	NOUN	_	_	4	obj	_	_
+4	ач	ачмакъ	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6
+# text = Ол эрине машинни жувдуртду . 
+# text_en = She made her husband wash the car .
+1	Ол	Ol	PRON	_	_	4	nsubj	_	_
+2	эрине	эр	NOUN	_	_	4	obj	_	_
+3	машинни	машин	NOUN	_	_	4	iobj	_	_
+4	жувдуртду	жувмакъ	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Piternı xonşusu çalnı qızıl tüsge sırladı .
+# text_en = Peter ’s neighbor painted the fence red .
+1	Питерны	Питер	PROPN	_	_	2	nmod	_	_
+2	хоншусу	хону	NOUN	_	_	6	nsubj	_	_
+3	чалны	чал	NOUN	_	_	6	obj	_	_
+4	къызыл	къызыл	ADJ	_	_	5	amod	_	_
+5	тюсге	тюс	NOUN	_	_	6	obl	_	_
+6	сырлады	сырланмакъ	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# text = Мени атам сеникинден къолай . 
+# text_en = My dad is cooler than yours .
+1	Мени	Men 	PRON	_	_	2	nmod:poss	_	_
+2	атам	ata	NOUN	_	_	4	nsubj	_	_
+3	сеникинден	_	NOUN	_	_	4	obl	_	_
+4	къолай	къолай	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 9
+# text = Мэри багъырны , Питер гюмюшню , Джейн буса алтын утду . 
+# text_en = Mary won bronze , Peter silver , and Jane gold .
+1	Мэри	Мэри	PROPN	_	_	10	nsubj	_	_
+2	багъырны	_	NOUN	_	_	10	obj	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Питер	_	PROPN	_	_	1	conj	_	_
+5	гюмюшню	_	NOUN	_	_	4	orphan	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Жейн	_	PROPN	_	_	1	conj	_	_
+8	буса	_	CCONJ	_	_	7	cc	_	_
+9	алтын	_	NOUN	_	_	7	orphan	_	_
+10	утду	_	VERB	_	_	0	root	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+
+
+# sent_id = 10
+# text = Игуасу уллу яда гиччи уьлкеми ?
+# text_en = Is Iguazu a big or a small country ?
+1	Игуасу	Игуасу	PROPN	_	_	5	nsubj	_	_
+2	уллу	уллу	ADJ	_	_	5	amod	_	_
+3	яда	яда	CCONJ	_	_	4	cc	_	_
+4	гиччи	_	ADJ	_	_	5	amod	_	_
+5	уьлкеми	уьлке	NOUN	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 11
+# text = Я Питер Смит, я Мэри Браун сайланып болмай эди . 
+# text_en = Neither Peter Smith nor Mary Brown could be selected .
+1	Я	_	CCONJ	_	_	2	cc	_	_
+2	Питер	_	PROPN	_	_	8	nsubj	_	_
+3	Смит	_	PROPN	_	_	2	flat	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	я	_	CCONJ	_	_	6	cc	_	_
+6	Мэри	_	PROPN	_	_	2	conj	_	_
+7	Браун	_	PROPN	_	_	6	flat	_	_
+8	сайланып	сайламакъ	VERB	_	_	0	root	_	_
+9	болмай	болмакъ	AUX	_	_	8	aux	_	_
+10	эди	эди	AUX	_	_	8	aux	_	_
+11	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 12
+# text = Ким язгъанындан оланы гьеч англаву ёкъ . 
+# text_en = They have no idea who wrote it .
+1	Ким	Ким	PRON	_	_	2	nsubj	_	_
+2	язгъанындан	яз	VERB	_	_	5	acl	_	_
+3	оланы	ол	PRON	_	_	5	nmod	_	_
+4	гьеч	гьеч	DET	_	_	5	det	_	_
+5	англаву	англав	NOUN	_	_	6	nsubj	_	_
+6	йокъ	йокъ	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 13
+# text = Сен негер къарайсан ?
+# text_en = What are you looking at ?
+1	Сен	сен	PRON	_	_	3	nsubj	_	_
+2	негер	негер	PRON	_	_	3	obl	_	_
+3	къарайсан	къарамакъ	VERB	_	_	0	root	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 14
+# text = Къачан гелип боларсыз деп ойлашасыз ?
+# text_en = When do you think you can come ?
+1	Къачан	къачан	ADV	_	_	2	advmod	_	_
+2	гелип	гел	VERB	_	_	5	ccomp	_	_
+3	боларсыз	бол	VERB	_	_	2	aux	_	_
+4	деп	де	ADV	_	_	2	mark	_	_
+5	ойлашасыз	ойла	VERB	_	_	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+
+
+# sent_id = 15
+# text = Ол машин алды , ону уланкъардашы буса янгыз аякъмашин . 
+# text_en = He bought a car but his brother just a bike .
+1	Ол	ол	PRON	_	_	3	nsubj	_	_
+2	машин	машин	NOUN	_	_	3	obj	_	_
+3	алды	ал	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ону	о	PRON	_	_	6	nmod:poss	_	_
+6	уланкъардашы	уланкъардаш	NOUN	_	_	3	conj	_	_
+7	буса	буса	CCONJ	_	_	6	cc	_	_
+8	янгыз	янгыз	ADV	_	_	9	advmod	_	_
+9	аякъмашин	аякъмашин	NOUN	_	_	6	orphan	_	_
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 16
+# text = Питер де , Мэри де къучакълашдылар, сонг уьйден чыкъдылар .
+# text_en = Peter and Mary hugged each other and then left the room .
+1	Питер	_	PROPN	_	_	6	nsubj	_	_
+2	де	_	ADV	_	_	1	cc	_	_
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	Мери	_	PROPN	_	_	1	conj	_	_
+5	де	_	ADV	_	_	4	cc	_	_
+6	къучакълашдылар	къучакълаш	VERB	_	_	10	advcl	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	сонг	сонг	ADV	_	_	6	aux	_	_
+9	уьйден	уьй	NOUN	_	_	10	obl	_	_
+10	чыкъдылар	чыкъ	VERB	_	_	0	root	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 17
+# text = О чачларын онгарма герек эди , амма шо гюн нечик де этмеди . 
+# text_en = She should have been doing her hair but for some reason she would n't that day .
+1	О	о	PRON	_	_	3	nsubj	_	_
+2	чачларын	чач	NOUN	_	_	3	obj	_	_
+3	онгарма	онгар	VERB	_	_	4	csubj	_	_
+4	герек	герек	VERB	_	_	0	root	_	_
+5	эди	эди	AUX	_	_	4	cop	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	амма	амма	CCONJ	_	_	12	cc	_	_
+8	шо	şo	DET	_	_	9	det	_	_
+9	гюн	гюн	NOUN	_	_	12	obl	_	_
+10	нечик	нечик	ADV	_	_	12	advmod	_	_
+11	де	де	ADV	_	_	10	advmod:emph	_	_
+12	этмеди	эт	VERB	_	_	4	conj	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 18
+# text = Мен ону артындан етишмей эдим , неге тюгюл ол бек чаба эди .
+# text_en = I was n't able to keep up , because he ran too fast .
+1	Мен	мен	PRON	_	_	4	nsubj	_	_
+2	ону	ol	PRON	_	_	4	obj	_	_
+3	артындан	арт	ADV	_	_	4	advmod	_	_
+4	етишмей	етиш	VERB	_	_	0	root	_	_
+5	эдим	эди	AUX	_	_	4	aux	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	неге	неге	CCONJ	_	_	_	_	_	_
+8	тюгюл	тюгюл	PART	_	_	7	fixed	_	_
+9	ол	ол	PRON	_	_	11	nsubj	_	_
+10	бек	бек	ADV	_	_	_	_	_	_
+11	чаба	чап	VERB	_	_	10	advmod	_	_
+12	эди	эди	AUX	_	_	11	aux	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 19
+# text = О кагъыз Питерден ва тюнегюн етишген . 
+# text_en = This letter is from Peter and it was delivered yesterday .
+1	О	о	DET	_	_	2	det	_	_
+2	кагъыз	кагъыз	NOUN	_	_	6	nsubj:pass	_	_
+3	Питерден	Питер	PROPN	_	_	2	nmod	_	_
+4	ва	ва	CCONJ	_	_	6	cc	_	_
+5	тюнегюн	тюнегюн	ADV	_	_	6	advmod	_	_
+6	етишген	етиш	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 20
+# text = Ол Парижде , Францияны тахшагьарында оьсген .
+# text_en = She grew up in Paris , the capital of France .
+1	Ол	ол	NOUN	_	_	6	nsubj	_	_
+2	Парижде	Париж	PRON	_	_	6	obj	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	Францияны	Франция	NOUN	_	_	5	nmod:poss	_	_
+5	тахшагьарында	тахшагьар	NOUN	_	_	2	acl	_	_
+6	оьсген	оьс	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
