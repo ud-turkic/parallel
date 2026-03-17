@@ -7,7 +7,7 @@ import argparse
 import os
 from pathlib import Path
 from collections import Counter, defaultdict
-from conllu.conllu import Treebank, Sentence
+from conllu import Treebank, Sentence
 
 def count_tokens(conllu_file):
     """Count tokens in a CoNLL-U file with various statistics."""

@@ -1,4 +1,4 @@
-from conllu.conllu import Treebank
+from conllu import Treebank
 import argparse
 
 def get_args():

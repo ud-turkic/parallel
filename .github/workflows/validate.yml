@@ -1,0 +1,43 @@
+name: UD Validation
+
+on:
+  push:
+    paths:
+      - '*.conllu'
+      - 'run_validation.py'
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install regex udapi
+
+      - name: Clone UD tools
+        run: git clone --depth 1 https://github.com/UniversalDependencies/tools.git
+
+      - name: Run validation
+        run: python run_validation.py
+
+      - name: Show validation results
+        run: cat validation.log
+
+      - name: Commit updated validation.log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add validation.log
+          git diff --cached --quiet || git commit -m "ci: update validation.log"
+          git push
+
+      - name: Fail if validation errors
+        run: grep -q '^\*\*\* PASSED \*\*\*' validation.log
