@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'data/*.conllu'
+      - 'scripts/validate_parallel.py'
   workflow_dispatch:
 
 permissions:
@@ -54,6 +55,9 @@ jobs:
               echo "- **$base**: FAILED ($errors)"
             fi
           done
+
+      - name: Run parallel consistency checks
+        run: python scripts/validate_parallel.py
 
       - name: Commit validation logs
         run: |
