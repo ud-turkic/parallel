@@ -3,8 +3,7 @@ name: UD Validation
 on:
   push:
     paths:
-      - '*.conllu'
-      - 'run_validation.py'
+      - 'data/*.conllu'
 
 permissions:
   contents: write
@@ -26,7 +25,12 @@ jobs:
         run: git clone --depth 1 https://github.com/UniversalDependencies/tools.git
 
       - name: Run validation
-        run: python run_validation.py
+        run: |
+          for f in data/*.conllu; do
+            lang=$(echo "$(basename "$f")" | grep -oP '^\w+(?=_)')
+            echo "=== Validating $f (lang=$lang) ==="
+            python tools/validate.py --lang "$lang" --max-err 0 "$f" 2>&1 | tee -a validation.log
+          done
 
       - name: Show validation results
         run: cat validation.log

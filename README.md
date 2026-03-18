@@ -16,6 +16,19 @@ Tools and data for developing parallel Universal Dependencies treebanks across T
 | tt | Tatar | TueCL | ct |
 | uz | Uzbek | TueCL | aa |
 
+## Repository Structure
+
+```
+parallel/
+├── data/              CoNLL-U treebank files
+├── scripts/           Parallel-specific processing scripts
+├── analyses/          Jupyter notebooks for cross-linguistic analysis
+├── little-prince/     Little Prince text extraction (parallel source)
+├── docs/              Reference documents
+├── pyproject.toml
+└── README.md
+```
+
 ## Setup
 
 ```bash
@@ -27,41 +40,35 @@ pip install -e .
 
 ## Scripts
 
-### Validation
-
-```bash
-# Validate CoNLL-U files against UD standards
-python run_validation.py -f *.conllu
-```
-
-### Comparison & Statistics
-
-```bash
-# Compare two treebanks with matching sentence IDs
-python compare_treebanks.py treebank1.conllu treebank2.conllu
-
-# Count tokens and gather POS/feature/deprel statistics
-python count_tokens.py <conllu_file>
-```
-
 ### Data Preparation
 
 ```bash
-# Generate parallel sentence markdown table
-python tabulate_parallel_sentences.py <args>
-
 # Convert plain text to CoNLL-U (NLTK tokenization)
-python parse.py -i1 <cairo_sents> -i2 <udtw23_sents> -i3 <general_sents>
+python scripts/parse.py -i1 <cairo_sents> -i2 <udtw23_sents> -i3 <general_sents>
+
+# Generate parallel sentence markdown table
+python scripts/tabulate_parallel_sentences.py --turkish data/tr_tuecl-ud-test.cc.conllu --azerbaijani data/az_tuecl-ud-test.se.conllu
 
 # List all sentences from CoNLL-U to markdown
-python list_sentences.py <args>
+python scripts/list_sentences.py data/<file>.conllu --output sentence_list.md
 ```
 
-### Fixes
+### Validation, Comparison & Statistics
+
+Generic UD tools have moved to [ud-turkic/tools](https://github.com/ud-turkic/tools):
 
 ```bash
-# Fix SpaceAfter=No annotations using validation log
-python fix_spaceafters.py <args>
+# Validate CoNLL-U files
+python run_validation.py -f data/*.conllu
+
+# Compare two treebanks
+python compare_treebanks.py data/treebank1.conllu data/treebank2.conllu
+
+# Count tokens and statistics
+python count_tokens.py data/<file>.conllu
+
+# Fix SpaceAfter=No annotations
+python fix_spaceafters.py <error_log> data/<file>.conllu
 ```
 
 ## Analysis Notebooks
@@ -100,6 +107,6 @@ The `little-prince/` directory contains extracted text from The Little Prince in
 
 ## Related Repositories
 
-- [ud-turkic/tools](https://github.com/ud-turkic/tools) — Shared tooling (cross-language clustering, annotation tables)
+- [ud-turkic/tools](https://github.com/ud-turkic/tools) — Shared UD tooling (validation, comparison, token counting, clustering)
 - [ud-turkic/general](https://github.com/ud-turkic/general) — Group coordination and meeting notes
 - [ud-turkic/dissemination](https://github.com/ud-turkic/dissemination) — Academic papers
