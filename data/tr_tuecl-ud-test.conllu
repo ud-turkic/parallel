@@ -1,4 +1,5 @@
 # sent_id = cairo-1
+# parallel_id = cairo/1
 # text = Kız arkadaşına mektup yazdı.
 # text[en] = The girl wrote a letter to her friend.
 1	Kız	kız	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -8,6 +9,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-2
+# parallel_id = cairo/2
 # text = Yağmur yağdığını zannediyorum.
 # text[en] = I think that it is raining.
 1	Yağmur	yağmur	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -16,6 +18,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-3.1
+# parallel_id = cairo/3/alt1
 # text = O sigara ve alkol içmeyi bırakmayı denedi.
 # text[en] = He tried to stop smoking and drinking.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
@@ -28,6 +31,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-3.2
+# parallel_id = cairo/3/alt2
 # text = Sigara ve alkol içmeyi bırakmayı denedi.
 # text[en] = He tried to stop smoking and drinking.
 1	Sigara	sigara	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
@@ -39,6 +43,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-4.1
+# parallel_id = cairo/4/alt1
 # text = Sen gitmek istiyor musun?
 # text[en] = Do you want to go?
 # note = "musun" may need to be split.
@@ -49,6 +54,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-4.2
+# parallel_id = cairo/4/alt2
 # text = Gitmek istiyor musun?
 # text[en] = Do you want to go?
 1	Gitmek	git	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
@@ -57,6 +63,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-5
+# parallel_id = cairo/5
 # text = Sam, pencereyi aç!
 # text[en] = Sam, open the window!
 1	Sam	Sam	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No
@@ -66,6 +73,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.1
+# parallel_id = cairo/6/alt1
 # text = O kocasına arabayı yıkattırdı.
 # text[en] = She made her husband wash the car.
 # note = translation may need to be adjusted. (double causative)
@@ -76,6 +84,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.2
+# parallel_id = cairo/6/alt2
 # text = Kocasına arabayı yıkattırdı.
 # text[en] = She made her husband wash the car.
 1	Kocasına	koca	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
@@ -84,6 +93,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-7
+# parallel_id = cairo/7
 # text = Peter'in komşusu çiti kırmızı boyadı.
 # text[en] = Peter's neighbor painted the fence red.
 # note = what about "kırmızıya boyadı"?
@@ -95,6 +105,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-8
+# parallel_id = cairo/8
 # text = Benim babam seninkinden daha harika.
 # text[en] = My dad is cooler than yours.
 # note = "-ki" may need to be split.
@@ -108,6 +119,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-9
+# parallel_id = cairo/9
 # text = Mary bronz kazandı, Peter gümüş, Jane altın.
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 1	Mary	Mary	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -122,6 +134,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-10
+# parallel_id = cairo/10
 # text = İguazu büyük bir ülke mi, yoksa küçük mü?
 # text[en] = Is Iguazu a big or a small country?
 1	İguazu	İguazu	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -136,6 +149,7 @@
 10	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-11
+# parallel_id = cairo/11
 # text = Ne Peter Smith ne de Mary Brown seçilebilir.
 # text[en] = Neither Peter Smith nor Mary Brown could be selected.
 1	Ne	ne	CCONJ	_	_	3	cc	_	_
@@ -149,6 +163,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-12.1
+# parallel_id = cairo/12/alt1
 # text = Onlar kimin yazdığını hiç bilmiyorlar.
 # text[en] = They have no idea who wrote it.
 1	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
@@ -159,6 +174,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-12.2
+# parallel_id = cairo/12/alt2
 # text = Kimin yazdığını hiç bilmiyorlar.
 # text[en] = They have no idea who wrote it.
 1	Kimin	kim	PRON	_	Case=Gen|Number=Sing|PronType=Int	2	nsubj	_	_
@@ -168,6 +184,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-13.1
+# parallel_id = cairo/13/alt1
 # text = Sen neye bakıyorsun?
 # text[en] = What are you looking at?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -176,6 +193,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.2
+# parallel_id = cairo/13/alt2
 # text = Neye bakıyorsun?
 # text[en] = What are you looking at?
 1	Neye	ne	PRON	_	Case=Dat|Number=Sing|PronType=Int	2	obl	_	_
@@ -183,6 +201,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-14.1
+# parallel_id = cairo/14/alt1
 # text = Sen ne zaman gelebileceğini zannediyorsun?
 # text[en] = When do you think you can come?
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
@@ -193,6 +212,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-14.2
+# parallel_id = cairo/14/alt2
 # text = Ne zaman gelebileceğini zannediyorsun?
 # text[en] = When do you think you can come?
 1	Ne	ne	DET	_	PronType=Int	2	det	_	_
@@ -202,6 +222,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-15.1
+# parallel_id = cairo/15/alt1
 # text = O araba aldı ama erkek kardeşi sadece bisiklet.
 # text[en] = He bought a car but his brother just a bike.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -215,6 +236,7 @@
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-15.2
+# parallel_id = cairo/15/alt2
 # text = Araba aldı ama erkek kardeşi sadece bisiklet.
 # text[en] = He bought a car but his brother just a bike.
 1	Araba	araba	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
@@ -227,6 +249,7 @@
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-16
+# parallel_id = cairo/16
 # text = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
 # text[en] = Peter and Mary hugged each other and then left the room.
 1	Peter	Peter	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -242,6 +265,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-17.1
+# parallel_id = cairo/17/alt1
 # text = O saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -258,6 +282,7 @@
 11	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-17.2
+# parallel_id = cairo/17/alt2
 # text = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
 1	Saçını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	_
@@ -273,6 +298,7 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-18
+# parallel_id = cairo/18
 # text = Ayak uyduramadım çünkü fazla hızlı koştu.
 # text[en] = I wasn't able to keep up, because he ran too fast.
 1	Ayak	ayak	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
@@ -284,6 +310,7 @@
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-19
+# parallel_id = cairo/19
 # text = Bu mektup Peter'den ve dün iletildi.
 # text[en] = This letter is from Peter and it was delivered yesterday.
 1	Bu	bu	DET	_	Definite=Def|PronType=Dem	2	det	_	_
@@ -295,6 +322,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-20.1
+# parallel_id = cairo/20/alt1
 # text = O Fransanın başkenti Paris'te büyüdü.
 # text[en] = She grew up in Paris, the capital of France.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -305,6 +333,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-20.2
+# parallel_id = cairo/20/alt2
 # text = Fransanın başkenti Paris'te büyüdü.
 # text[en] = She grew up in Paris, the capital of France.
 1	Fransanın	Fransa	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -314,6 +343,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-1
+# parallel_id = tuecl/udtw23-1
 # text = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
 # text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, but didn't clean the kitchen's.
 # type = both uses of -ki, compound (vs nmod:poss), multi-word expressions
@@ -333,6 +363,7 @@
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = udtw23-2
+# parallel_id = tuecl/udtw23-2
 # text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
 # text[en] = I always tell you this, don't talk about me on the phone with your friend in the morning.
 # type = oblique vs object, oblique (?) as temporal modifier
@@ -350,6 +381,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = udtw23-3
+# parallel_id = tuecl/udtw23-3
 # text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
 # text[en] = The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.
 # type = participle, multiple TAM marker/copula, oblique
@@ -375,6 +407,7 @@
 20	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-4
+# parallel_id = tuecl/udtw23-4
 # text = Ayşe bir doktor.
 # text[en] = Ayşe is a doctor.
 # type = null morpheme copula
@@ -384,6 +417,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-5
+# parallel_id = tuecl/udtw23-5
 # text = Çözmeye çalıştığımız sorun kitaplıkta beş kitaplık yer bile olmaması.
 # text[en] = The (problem) we're trying to solve is that the library doesn't even have room for five books.
 # type = null morpheme copula with multiple subjects, productive/lexicalized derivation
@@ -399,6 +433,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = udtw23-6
+# parallel_id = tuecl/udtw23-6
 # text = Anneannesi hemşireydi.
 # text[en] = His/her grandmother was a nurse.
 # type = copula
@@ -409,6 +444,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-7
+# parallel_id = tuecl/udtw23-7
 # text = Peki kitaplıktakiler nerede idi?
 # text[en] = So where were the [ones] on the bookshelf?
 # type = copula "idi", derivation, -ki
@@ -421,6 +457,7 @@
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-8
+# parallel_id = tuecl/udtw23-8
 # text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
 # text[en] = Sude was not at the office for three hours, and Ayşe was not at home.
 # type = temporal modifier / oblique, existential, "değil" negation
@@ -443,6 +480,7 @@
 14	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = udtw23-9
+# parallel_id = tuecl/udtw23-9
 # text = Markette meyve var ama güzel değil.
 # text[en] = There is fruit in the market, but it's not pretty.
 # type = existential, "değil" negation
@@ -455,6 +493,7 @@
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-10
+# parallel_id = tuecl/udtw23-10
 # text = Deniz doktor olacak, bilmiş ol!
 # text[en] = Deniz will be a doctor, (so that) you know!
 # type = copula, light verb auxiliary
@@ -467,6 +506,7 @@
 7	!	!	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-11
+# parallel_id = tuecl/udtw23-11
 # text = Deniz uyumuş idi.
 # text[en] = Deniz was asleep.
 # type = copula
@@ -476,6 +516,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-12
+# parallel_id = tuecl/udtw23-12
 # text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
 # text[en] = He/She must have been so surprised as the meeting was being announced that he/she kept looking at me.
 # type = converb, copula / AUX
@@ -491,6 +532,7 @@
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-13
+# parallel_id = tuecl/udtw23-13
 # text = Hırkam evde miymiş?
 # text[en] = Was my cardigan at home?
 # type = question particle
@@ -500,6 +542,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
+# parallel_id = tuecl/udtw23-14
 # text = Bugün mü yapılacak etkinlik?
 # text[en] = Is the event to be held today?
 # type = question particle
@@ -510,6 +553,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-15
+# parallel_id = tuecl/udtw23-15
 # text = Sonuçlar açıklanmış, değil mi?
 # text[en] = The results have been announced, haven't they?
 # type = question particle, tag question
@@ -521,6 +565,7 @@
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-16
+# parallel_id = tuecl/udtw23-16
 # text = Ayşe bu kitabı okumamış değil.
 # text[en] = It's not the case that Ayşe hasn't read this book.
 # type = negation, participle
@@ -532,6 +577,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-17
+# parallel_id = tuecl/udtw23-17
 # text = Genel olarak okumayı değil, resim yapmayı seviyor.
 # text[en] = In general, he/she likes to paint, not to read.
 # type = negation, participle
@@ -546,6 +592,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = udtw23-18
+# parallel_id = tuecl/udtw23-18
 # text = Okuduklarını değil, okuyacaklarını anlatıyor.
 # text[en] = He/She tells what she will read, not what he/she has read.
 # type = negation, participle
@@ -557,6 +604,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-19
+# parallel_id = tuecl/udtw23-19
 # text = Bunun mavisi daha güzel, bana maviyi verir misin?
 # text[en] = The blue [one] of this is prettier, can you give me the blue?
 # type = zero A -> N derivation, -si
@@ -572,6 +620,7 @@
 10	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-20
+# parallel_id = tuecl/udtw23-20
 # text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
 # text[en] = We must make the young abandon unattainable goals.
 # type = multiple TAM markers, multi-word expressions
@@ -584,6 +633,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-21
+# parallel_id = tuecl/udtw23-21
 # text = Öğretmen kitabı alıp okula gitti.
 # text[en] = The teacher took the book and left for school.
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -594,6 +644,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-22
+# parallel_id = tuecl/udtw23-22
 # text = Öğretmen kitabı okula götürdü.
 # text[en] = The teacher took the book to school.
 1	Öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -603,6 +654,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1
+# parallel_id = tuecl/1
 # text = Deniz uyudu.
 # text[en] = Deniz slept.
 # type = simple sentence (intransitive)
@@ -611,6 +663,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
+# parallel_id = tuecl/2
 # text = Deniz kitap okuyor.
 # text[en] = Deniz is reading a book.
 # type = simple sentence (transitive)
@@ -620,6 +673,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 3
+# parallel_id = tuecl/3
 # text = Deniz akşamları evde kitap okur.
 # text[en] = Deniz reads books in the evenings.
 # type = simple sentence (with modifiers)
@@ -631,6 +685,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 4
+# parallel_id = tuecl/4
 # text = Deniz kardeşine kitabı verdi.
 # text[en] = Deniz gave the book to his/her sister/brother.
 # type = object/oblique (dative modifier)
@@ -641,6 +696,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 5
+# parallel_id = tuecl/5
 # text = Deniz kitabı eve götürdü.
 # text[en] = Deniz took the book home.
 # type = object/oblique (dative modifier)
@@ -651,6 +707,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 6
+# parallel_id = tuecl/6
 # text = Öğretmen çocuklara ders verdi.
 # text[en] = The teacher lectured the children.
 # type = object/oblique (dative modifier)
@@ -661,6 +718,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 7
+# parallel_id = tuecl/7
 # text = Deniz arkadaşına bir kitap aldı.
 # text[en] = Deniz bought a book for her/his friend.
 # type = object/oblique (dative modifier)
@@ -672,6 +730,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 8
+# parallel_id = tuecl/8
 # text = Deniz kardeşiyle barıştı.
 # text[en] = Deniz made peace with her sister/brother.
 # type = object/oblique (comitative)
@@ -681,6 +740,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 9
+# parallel_id = tuecl/9
 # text = Deniz arkadaşlarından yakınıyor.
 # text[en] = Deniz is complaining about his/her friend.
 # type = object/oblique (ablative modifier)
@@ -690,6 +750,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 10
+# parallel_id = tuecl/10
 # text = Deniz erkenden uyudu.
 # text[en] = Deniz slept early.
 # type = object/oblique (ablative as modifier)
@@ -699,6 +760,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 11
+# parallel_id = tuecl/11
 # text = Deniz arkadaşının yaptığı yemekten iki tabak yedi.
 # text[en] = Deniz ate two plates from (of) the meal his/her friend cooked.
 # type = object/oblique (ablative, part/whole)
@@ -712,6 +774,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 12
+# parallel_id = tuecl/12
 # text = Deniz üç saat uyudu.
 # text[en] = Deniz slept for three hours.
 # type = object/oblique (non-case marked duration modifier)
@@ -722,6 +785,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13
+# parallel_id = tuecl/13
 # text = Deniz çok hızlı.
 # text[en] = Deniz is very fast.
 # type = copula (adjectival predicate)
@@ -731,6 +795,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 14
+# parallel_id = tuecl/14
 # text = Deniz öğrenci.
 # text[en] = Deniz is a student.
 # type = copula (nominal predicate)
@@ -739,6 +804,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 15
+# parallel_id = tuecl/15
 # text = Deniz öğrencidir.
 # text[en] = Deniz is a student.
 # type = copula (nominal predicate with -dir)
@@ -749,6 +815,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 16
+# parallel_id = tuecl/16
 # text = Deniz doktor olacak.
 # text[en] = Deniz will become a doctor.
 # type = copula ('become')
@@ -758,6 +825,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 17
+# parallel_id = tuecl/17
 # text = Deniz evde.
 # text[en] = Deniz is at home.
 # type = copula (with case marking)
@@ -766,6 +834,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
+# parallel_id = tuecl/18
 # text = Deniz evdeydi.
 # text[en] = Deniz was at home.
 # type = copula (non-zero copular suffix)
@@ -776,6 +845,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 19
+# parallel_id = tuecl/19
 # text = Deniz evde idi.
 # text[en] = Deniz was at home.
 # type = copula (non-suffix copula)
@@ -785,6 +855,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 20
+# parallel_id = tuecl/20
 # text = Hediye Deniz içindi.
 # text[en] = The present was for Deniz.
 # type = copula (copular suffix attached to postposition)
@@ -796,6 +867,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 21
+# parallel_id = tuecl/21
 # text = Deniz uyumuştu.
 # text[en] = Deniz had slept.
 # type = copula as auxiliary (complex tense with copular suffix)
@@ -804,6 +876,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 22
+# parallel_id = tuecl/22
 # text = Deniz uyumuş idi.
 # text[en] = Deniz had slept.
 # type = copula as auxiliary (with non-affixal copula)
@@ -813,6 +886,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 23
+# parallel_id = tuecl/23
 # text = Deniz uyumuş olacak.
 # text[en] = Deniz will have been asleep.
 # type = copula as auxiliary (with auxiliary 'ol')
@@ -822,6 +896,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 24
+# parallel_id = tuecl/24
 # text = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
 # text[en] = His/her mother's dream was for Deniz to study in a good school.
 # type = copula with subordinate clauses (verbal-noun with differing subjects)
@@ -837,6 +912,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 25
+# parallel_id = tuecl/25
 # text = Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
 # text[en] = The fact that Deniz did not study in a good school worried her mother.
 # type = copula with subordinate clauses (alternation with no double subject)
@@ -850,6 +926,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 26
+# parallel_id = tuecl/26
 # text = Masada çok kitap var, kitaplıkta yok.
 # text[en] = There are many books on the table, none in the bookshelf.
 # type = existential (positive/negative)
@@ -863,6 +940,7 @@
 8	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 27
+# parallel_id = tuecl/27
 # text = Deniz'in hiç kitabı yok.
 # text[en] = Deniz does not have any books.
 # type = existential (expression of possession)
@@ -873,6 +951,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 28
+# parallel_id = tuecl/28
 # text = Deniz evde değildi.
 # text[en] = Deniz was not at home.
 # type = negation (nominal predicate)
@@ -884,6 +963,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 29
+# parallel_id = tuecl/29
 # text = Deniz zamanında uyumuyor.
 # text[en] = Deniz does not sleep on time.
 # type = negation (simple)
@@ -893,6 +973,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 30
+# parallel_id = tuecl/30
 # text = Deniz uyuyamıyor.
 # text[en] = Deniz cannot sleep.
 # type = negation (with -abil)
@@ -901,6 +982,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 31
+# parallel_id = tuecl/31
 # text = Deniz zamanında uyuyamayabilir.
 # text[en] = Deniz may not be able to sleep on time.
 # type = negation (with double -abil)
@@ -910,6 +992,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 32
+# parallel_id = tuecl/32
 # text = Deniz annesini görmemiş oldu.
 # text[en] = (It turned out that) Deniz did not see her/his mother.
 # type = negation (with auxiliary -ol)
@@ -920,6 +1003,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 33
+# parallel_id = tuecl/33
 # text = Deniz annesini görmüş olmadı.
 # text[en] = (It turned out that) Deniz did not see her/his mother.
 # type = negation (negation on auxiliary)
@@ -930,6 +1014,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 34
+# parallel_id = tuecl/34
 # text = Deniz annesini görmemiş olmadı.
 # text[en] = (It turned out that) Deniz did not not-see her/his mother.
 # type = negation (double negation)
@@ -940,6 +1025,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 35
+# parallel_id = tuecl/35
 # text = Okuduklarını anlamıyor.
 # text[en] = He/she does not understand things he/she reads.
 # type = negation (simple)
@@ -948,6 +1034,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 36
+# parallel_id = tuecl/36
 # text = Okuduklarını anlıyor değil.
 # text[en] = He/she does not understand things he/she reads.
 # type = negation (alternative form)
@@ -957,6 +1044,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 37
+# parallel_id = tuecl/37
 # text = Okuduklarını anlamıyor değil.
 # text[en] = It is not that he/she does not understand things he/she reads.
 # type = negation (double negation)
@@ -966,6 +1054,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 38
+# parallel_id = tuecl/38
 # text = Okumayı değil, resim yapmayı seviyor.
 # text[en] = (He/she does) not (like) reading, (but) he/she likes painting.
 # type = negation (coordination with 'değil' and elision)
@@ -978,6 +1067,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 39
+# parallel_id = tuecl/39
 # text = Deniz odada değildi.
 # text[en] = Deniz was not in the room.
 # type = negation (simple negation with değil)
@@ -989,6 +1079,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
+# parallel_id = tuecl/40
 # text = Deniz odada yoktu.
 # text[en] = Deniz was not in the room.
 # type = negation (with yok)
@@ -1000,6 +1091,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
+# parallel_id = tuecl/41
 # text = Deniz kitap okumak istiyor.
 # text[en] = Deniz wants to read books.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1010,6 +1102,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 42
+# parallel_id = tuecl/42
 # text = Deniz kitap okumayı istiyor.
 # text[en] = Deniz wants to read books.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1020,6 +1113,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 43
+# parallel_id = tuecl/43
 # text = Deniz babasının kendisine kitap okumasını istiyor.
 # text[en] = Deniz wants her/his father to read him/her (a) book.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1032,6 +1126,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 44
+# parallel_id = tuecl/44
 # text = Deniz kendi kendine olmayı seviyor.
 # text[en] = Deniz wants to be by himself/herself.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1043,6 +1138,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 45
+# parallel_id = tuecl/45
 # text = Annesinin kitap okuması Deniz'in uyumasını kolaylaştırıyor.
 # text[en] = When her/his mother reads, it becomes easier for Deniz to sleep.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1055,6 +1151,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 46
+# parallel_id = tuecl/46
 # text = Çocuklara kitap okumak gelişimleri için önemli.
 # text[en] = Reading to children is important for their development.
 # type = clausal arguments/modifiers (non-finite verbs)
@@ -1067,6 +1164,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 47
+# parallel_id = tuecl/47
 # text = Deniz kitap okuyarak uyuyor.
 # text[en] = Deniz reads before sleep (lit: Deniz sleeps by reading).
 # type = clausal arguments/modifiers (converb)
@@ -1077,6 +1175,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 48
+# parallel_id = tuecl/48
 # text = Deniz tatil olduğunu unutup okula gitmiş.
 # text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
 # type = clausal arguments/modifiers (converb)
@@ -1089,6 +1188,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 49
+# parallel_id = tuecl/49
 # text = Deniz tatil olduğunu unutup çantasını alıp okula gitmiş.
 # text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
 # type = clausal arguments/modifiers (multiple converbs)
@@ -1103,6 +1203,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 50
+# parallel_id = tuecl/50
 # text = Deniz geç uyursa okula geç kalır.
 # text[en] = If Deniz sleeps late, he/she would be late.
 # type = clausal arguments/modifiers (conditional)
@@ -1115,6 +1216,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 51
+# parallel_id = tuecl/51
 # text = Deniz geç uyursa okula geç kalacak.
 # text[en] = If Deniz sleeps late, he/she will be late.
 # type = clausal arguments/modifiers (conditional with future)
@@ -1127,6 +1229,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 52
+# parallel_id = tuecl/52
 # text = Çocuk uyumuş olsaydı film izleyecektik.
 # text[en] = If the child had slept, we'd watch a movie.
 # type = clausal arguments/modifiers (past conditional)
@@ -1138,6 +1241,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 53
+# parallel_id = tuecl/53
 # text = Eğer çocuk eve gitmeden uyursa vardığımızda uyandırmamız gerekecek.
 # text[en] = If the child sleeps before we arrive home, we will need to wake him/her up.
 # type = clausal arguments/modifiers (complex conditional)
@@ -1152,6 +1256,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 54
+# parallel_id = tuecl/54
 # text = Boş ver.
 # text[en] = Nevermind.
 # type = MWE / segmentation
@@ -1160,6 +1265,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 55
+# parallel_id = tuecl/55
 # text = Boşver.
 # text[en] = Nevermind.
 # type = MWE / segmentation (typo)
@@ -1167,6 +1273,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 56
+# parallel_id = tuecl/56
 # text = Çocuğun erken uyuyacağını zannediyorum.
 # text[en] = I think that the child will sleep early.
 # type = MWE / segmentation
@@ -1177,6 +1284,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 57
+# parallel_id = tuecl/57
 # text = Deniz kardeşinden nefret ediyor.
 # text[en] = Deniz hates his/her brother/sister.
 # type = MWE / segmentation
@@ -1187,6 +1295,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 58
+# parallel_id = tuecl/58
 # text = Yarını iple çekiyorum.
 # text[en] = I am looking forward to tomorrow.
 # type = MWE / segmentation (idiomatic)
@@ -1196,6 +1305,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 59
+# parallel_id = tuecl/59
 # text = Hastane halkın hizmetine sunuldu.
 # text[en] = The hospital was made available to the public.
 # type = MWE / segmentation
@@ -1206,6 +1316,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 60
+# parallel_id = tuecl/60
 # text = Büyük evdeki çocuk kitap okuyor.
 # text[en] = The child in the big house is reading (a) book.
 # type = MWE / segmentation (-ki)
@@ -1217,6 +1328,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 61
+# parallel_id = tuecl/61
 # text = Büyük evdeki kitap okuyor.
 # text[en] = The one in the big house is reading (a) book.
 # type = MWE / segmentation (-ki, zero derivation)
@@ -1229,6 +1341,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 62
+# parallel_id = tuecl/62
 # text = Büyük evdeki çocuğun saçları sarı, küçük evdekininki kahverengi.
 # text[en] = The hair of the child in the big house is blond, the one of the one in the small house is brown.
 # type = MWE / segmentation (-ki, possessive)
@@ -1247,6 +1360,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 63
+# parallel_id = tuecl/63
 # text = Soğanları koyu pembeleşinceye kadar kavurun.
 # text[en] = Fry the onions until they become dark pink.
 # type = MWE / segmentation
@@ -1258,6 +1372,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 64
+# parallel_id = tuecl/64
 # text = Evin önünde üç arabalık park yeri var.
 # text[en] = There is a three-car parking place in front of the house.
 # type = MWE / segmentation
@@ -1271,6 +1386,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 65
+# parallel_id = tuecl/65
 # text = Kutsal kitapsız dinler de var.
 # text[en] = There are religions without holy books.
 # type = MWE / segmentation
@@ -1282,6 +1398,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 66
+# parallel_id = tuecl/66
 # text = Küçük pencereli evde yeterince ışık yok.
 # text[en] = There is not enough light in the house with small windows.
 # type = MWE / segmentation
@@ -1294,6 +1411,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 67
+# parallel_id = tuecl/67
 # text = Deniz eve geldi mi?
 # text[en] = Did Deniz come home?
 # type = question particle
@@ -1304,6 +1422,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 68
+# parallel_id = tuecl/68
 # text = Deniz eve gelmiş miydi?
 # text[en] = Had Deniz come home?
 # type = question particle (with copula/auxiliary)
@@ -1314,6 +1433,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 69
+# parallel_id = tuecl/69
 # text = Deniz evde mi?
 # text[en] = Is Deniz at home?
 # type = question particle (copular)
@@ -1323,6 +1443,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 70
+# parallel_id = tuecl/70
 # text = Deniz evde midir?
 # text[en] = Is Deniz at home?
 # type = question particle (copular with additional affix)
@@ -1332,6 +1453,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 71
+# parallel_id = tuecl/71
 # text = Deniz evde miydi?
 # text[en] = Was Deniz at home?
 # type = question particle (copular)
@@ -1341,6 +1463,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 72
+# parallel_id = tuecl/72
 # text = Deniz evde değil miydi?
 # text[en] = Was Deniz not at home?
 # type = question particle (with negation)
@@ -1351,6 +1474,7 @@
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 73
+# parallel_id = tuecl/73
 # text = Deniz evde yok mu?
 # text[en] = Is Deniz not at home?
 # type = question particle (negation with 'yok')
@@ -1361,6 +1485,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 74
+# parallel_id = tuecl/74
 # text = Evde ekmek var mı?
 # text[en] = Is there (any) bread at home?
 # type = question particle (existential)
@@ -1371,6 +1496,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 75
+# parallel_id = tuecl/75
 # text = Evde mi ekmek var?
 # text[en] = Is there (any) bread at home?
 # type = question particle (focus on location)
@@ -1381,6 +1507,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 76
+# parallel_id = tuecl/76
 # text = Evde ekmek mi var?
 # text[en] = Is there (any) bread at home?
 # type = question particle (focus on object)
@@ -1391,6 +1518,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 77
+# parallel_id = tuecl/77
 # text = Okuduğunuzu anlıyor muydunuz?
 # text[en] = Were you understanding what you read?
 # type = question particle (multiple affixes)
@@ -1400,6 +1528,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 78
+# parallel_id = tuecl/78
 # text = Sabah Deniz kitabı Ayhan'a verdi mi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # type = question particle
@@ -1412,6 +1541,7 @@
 7	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 79
+# parallel_id = tuecl/79
 # text = Sabah Deniz mi kitabı Ayhan'a verdi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # type = question particle (focus on subject)
@@ -1424,6 +1554,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 80
+# parallel_id = tuecl/80
 # text = Sabah Deniz kitabı mı Ayhan'a verdi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # type = question particle (focus on object)
@@ -1436,6 +1567,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 81
+# parallel_id = tuecl/81
 # text = Sabah Deniz kitabı Ayhan'a mı verdi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # type = question particle (focus on indirect object)
@@ -1448,6 +1580,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 82
+# parallel_id = tuecl/82
 # text = Deniz kitabı Ayhan'a sabah mı verdi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # type = question particle (focus on time)
@@ -1460,6 +1593,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 83
+# parallel_id = tuecl/83
 # text = Bana maviyi verir misin?
 # text[en] = Can you give me the blue one?
 # type = miscellaneous (zero A->N derivation)
@@ -1470,6 +1604,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 84
+# parallel_id = tuecl/84
 # text = Bunun mavisi daha güzel.
 # text[en] = The blue (version) of this is nicer.
 # type = miscellaneous (-si, (pro)nominals)
@@ -1480,6 +1615,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 85
+# parallel_id = tuecl/85
 # text = Benim arabam Deniz'inkinin mavisi.
 # text[en] = My car is the blue (version) of Deniz'.
 # type = miscellaneous (complex possessive)
@@ -1492,6 +1628,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 86
+# parallel_id = tuecl/86
 # text = Kitap okunuyor.
 # text[en] = The book is being read.
 # type = miscellaneous (passive)
@@ -1500,6 +1637,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 87
+# parallel_id = tuecl/87
 # text = Kitap bütün okullarda okutturulacak.
 # text[en] = The book will be made to be made to be read in all schools.
 # type = miscellaneous (double causative)
@@ -1510,6 +1648,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 88
+# parallel_id = tuecl/88
 # text = Deniz uyutuldu.
 # text[en] = Deniz was made to sleep.
 # type = miscellaneous (passive/causative)
@@ -1518,6 +1657,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89
+# parallel_id = tuecl/89
 # text = Onlar gitti.
 # text[en] = They left.
 1	Onlar	o	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
@@ -1525,6 +1665,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 90
+# parallel_id = tuecl/90
 # text = O gitti.
 # text[en] = He/She left.
 1	O	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -1532,6 +1673,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 91
+# parallel_id = tuecl/91
 # text = Deniz buralara gelir, boş vakitlerinde kitap okur idi.
 # text[en] = Deniz used to come here and read a book in her free time.
 # type = miscellaneous (idi + epenthesis)
@@ -1547,6 +1689,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 92
+# parallel_id = tuecl/92
 # text = Sen de bizimle geliyorsun, değil mi?
 # text[en] = You are coming with us, aren't you?
 # type = miscellaneous (tag question)
@@ -1560,6 +1703,7 @@
 8	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 93
+# parallel_id = tuecl/93
 # text = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
 # text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
 # type = miscellaneous (ki connecting sentences, MWE)
@@ -1578,6 +1722,7 @@
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 94
+# parallel_id = tuecl/94
 # text = Sen önce temizliği bitir de ütüyü hallederiz.
 # text[en] = You finish the cleaning first, then we will handle the ironing.
 # type = miscellaneous (de connecting sentences, -lIk derivation)
@@ -1591,6 +1736,7 @@
 8	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 95
+# parallel_id = tuecl/95
 # text = Sözde Ayşe Hakan'ın ödevi yapmasına yardım etmişmiş.
 # text[en] = Seemingly Ayşe helped Hakan do his homework.
 # type = miscellaneous (mişmiş/mışmış evidentiality)
@@ -1604,6 +1750,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 96
+# parallel_id = tuecl/96
 # text = Genel olarak başarılı bir filmdi.
 # text[en] = It was a successful film overall.
 # type = miscellaneous (N/Adj + olarak)
@@ -1617,6 +1764,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 97
+# parallel_id = tuecl/97
 # text = Elma ağaçları Nisan-Mayıs aylarında çiçek açıp, karşılıklı tozlaşır.
 # text[en] = Apple trees bloom (approximately) April to May and cross-pollinate.
 1	Elma	elma	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
