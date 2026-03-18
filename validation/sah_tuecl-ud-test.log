@@ -1,0 +1,21 @@
+[Line 16 Sent cairo-2]: [L5 MORPHO aux-lemma] 'тур' is not an auxiliary in language [sah]
+
+The following 4 auxiliaries are currently documented in language [sah]:
+баар, буол, суох, э
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=sah for details.
+
+
+[Line 25 Sent udtw23-6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nmod:poss'
+
+The following 38 relations are currently permitted in language [sah]:
+acl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, dep, det, det:poss, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nsubj, nummod, obj, obl, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+MORPHO errors: 1
+SYNTAX errors: 1
+*** FAILED *** with 2 errors

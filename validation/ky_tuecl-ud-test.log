@@ -1,0 +1,89 @@
+[Line 184 Sent cairo-7]: [L3 WARNING pron-det-without-prontype] The word 'Питердин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 202 Sent cairo-7.1]: [L3 WARNING pron-det-without-prontype] The word 'Питердин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 222 Sent cairo-8]: [L3 WARNING pron-det-without-prontype] The word 'сени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 223 Sent cairo-8]: [L3 WARNING pron-det-without-prontype] The word 'кинен' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 323 Sent cairo-12.1]: [L3 WARNING pron-det-without-prontype] The word 'кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 339 Sent cairo-12.2]: [L3 WARNING pron-det-without-prontype] The word 'Кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 356 Sent cairo-12.3]: [L3 WARNING pron-det-without-prontype] The word 'кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 359 Sent cairo-12.3]: [L3 WARNING pron-det-without-prontype] The word 'эч' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 375 Sent cairo-12.4]: [L3 WARNING pron-det-without-prontype] The word 'Кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 378 Sent cairo-12.4]: [L3 WARNING pron-det-without-prontype] The word 'эч' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 395 Sent cairo-13.1]: [L3 WARNING pron-det-without-prontype] The word 'эмнени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 410 Sent cairo-13.2]: [L3 WARNING pron-det-without-prontype] The word 'Эмнени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 466 Sent cairo-15.1]: [L3 WARNING pron-det-without-prontype] The word 'анын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 488 Sent cairo-15.2]: [L3 WARNING pron-det-without-prontype] The word 'анын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 509 Sent cairo-16]: [L3 WARNING pron-det-without-prontype] The word 'бири' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 509 Sent cairo-16]: [L3 WARNING fixed-without-extpos] Fixed expression 'бири бирин' does not have the 'ExtPos' feature
+[Line 511 Sent cairo-16]: [L3 WARNING pron-det-without-prontype] The word 'бирин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 514 Sent cairo-16]: [L3 WARNING pron-det-without-prontype] The word 'андан' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 537 Sent cairo-16.1]: [L3 WARNING pron-det-without-prontype] The word 'андан' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 563 Sent cairo-17.1]: [L3 WARNING pron-det-without-prontype] The word 'ошол' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 587 Sent cairo-17.2]: [L3 WARNING pron-det-without-prontype] The word 'ошол' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 603 Sent cairo-18]: [L3 WARNING pron-det-without-prontype] The word 'Ага' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 609 Sent cairo-18]: [L3 WARNING pron-det-without-prontype] The word 'ал' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 625 Sent cairo-19]: [L3 WARNING pron-det-without-prontype] The word 'Бул' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 629 Sent cairo-19]: [L3 WARNING pron-det-without-prontype] The word 'ал' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 719 Sent udtw23-1]: [L3 WARNING fixed-without-extpos] Fixed expression 'шаша буша' does not have the 'ExtPos' feature
+[Line 726 Sent udtw23-1]: [L3 WARNING pron-det-without-prontype] The word 'кын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 741 Sent udtw23-2]: [L3 WARNING pron-det-without-prontype] The word 'Мен' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 742 Sent udtw23-2]: [L3 WARNING pron-det-without-prontype] The word 'сага' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 743 Sent udtw23-2]: [L3 WARNING pron-det-without-prontype] The word 'муну' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 748 Sent udtw23-2]: [L3 WARNING fixed-without-extpos] Fixed expression 'эртең менен' does not have the 'ExtPos' feature
+[Line 754 Sent udtw23-2]: [L3 WARNING pron-det-without-prontype] The word 'мен' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 779 Sent udtw23-3]: [L3 WARNING fixed-without-extpos] Fixed expression 'дагы эле' does not have the 'ExtPos' feature
+[Line 785 Sent udtw23-3]: [L3 WARNING fixed-without-extpos] Fixed expression 'ал эми' does not have the 'ExtPos' feature
+[Line 788 Sent udtw23-3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'буюртма') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 821 Sent udtw23-5]: [L3 WARNING pron-det-without-prontype] The word 'Биз' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 829 Sent udtw23-5]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'орундун') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 847 Sent udtw23-5.1]: [L3 WARNING pron-det-without-prontype] The word 'Биз' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 855 Sent udtw23-5.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'орундун') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 873 Sent udtw23-5.2]: [L3 WARNING pron-det-without-prontype] The word 'Биз' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 881 Sent udtw23-5.2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'орундун') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 899 Sent udtw23-6]: [L3 WARNING pron-det-without-prontype] The word 'Анын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 922 Sent udtw23-7]: [L3 WARNING pron-det-without-prontype] The word 'гилер' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1019 Sent udtw23-12]: [L3 WARNING fixed-without-extpos] Fixed expression 'боло тургандыгы' does not have the 'ExtPos' feature
+[Line 1031 Sent udtw23-12]: [L3 WARNING pron-det-without-prontype] The word 'мени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1084 Sent udtw23-14]: [L3 WARNING fixed-without-extpos] Fixed expression 'Иш чара' does not have the 'ExtPos' feature
+[Line 1121 Sent udtw23-16]: [L3 WARNING pron-det-without-prontype] The word 'бул' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1138 Sent udtw23-16.1]: [L3 WARNING pron-det-without-prontype] The word 'бул' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1156 Sent udtw23-17]: [L3 WARNING pron-det-without-prontype] The word 'ал' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1197 Sent udtw23-19]: [L3 WARNING pron-det-without-prontype] The word 'Мунун' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1719 Sent 26]: [L3 WARNING pron-det-without-prontype] The word 'көп' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1740 Sent 26.1]: [L3 WARNING pron-det-without-prontype] The word 'көп' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1760 Sent 27]: [L3 WARNING pron-det-without-prontype] The word 'эч' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1760 Sent 27]: [L3 WARNING fixed-without-extpos] Fixed expression 'эч бир' does not have the 'ExtPos' feature
+[Line 1793 Sent 29]: [L3 WARNING pron-det-without-prontype] The word 'өз' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1825 Sent 31]: [L3 WARNING pron-det-without-prontype] The word 'өз' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1894 Sent 35]: [L3 WARNING pron-det-without-prontype] The word 'дарын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1911 Sent 36]: [L3 WARNING pron-det-without-prontype] The word 'дарын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1929 Sent 37]: [L3 WARNING pron-det-without-prontype] The word 'дарын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2032 Sent 43]: [L3 WARNING pron-det-without-prontype] The word 'ага' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2052 Sent 44]: [L3 WARNING pron-det-without-prontype] The word 'өзү' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2052 Sent 44]: [L3 WARNING fixed-without-extpos] Fixed expression 'өзү менен өзү' does not have the 'ExtPos' feature
+[Line 2054 Sent 44]: [L3 WARNING pron-det-without-prontype] The word 'өзү' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2092 Sent 46]: [L3 WARNING pron-det-without-prontype] The word 'алардын' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2419 Sent 61]: [L3 WARNING pron-det-without-prontype] The word 'гү' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2754 Sent 78]: [L3 WARNING fixed-without-extpos] Fixed expression 'Эртең менен' does not have the 'ExtPos' feature
+[Line 2774 Sent 79]: [L3 WARNING fixed-without-extpos] Fixed expression 'Эртең менен' does not have the 'ExtPos' feature
+[Line 2794 Sent 80]: [L3 WARNING fixed-without-extpos] Fixed expression 'Эртең менен' does not have the 'ExtPos' feature
+[Line 2814 Sent 81]: [L3 WARNING fixed-without-extpos] Fixed expression 'Эртең менен' does not have the 'ExtPos' feature
+[Line 2837 Sent 82]: [L3 WARNING fixed-without-extpos] Fixed expression 'эртең менен' does not have the 'ExtPos' feature
+[Line 2854 Sent 83]: [L3 WARNING pron-det-without-prontype] The word 'Мага' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2871 Sent 84]: [L3 WARNING pron-det-without-prontype] The word 'Мунун' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2886 Sent 85]: [L3 WARNING pron-det-without-prontype] The word 'Менин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2890 Sent 85]: [L3 WARNING pron-det-without-prontype] The word 'кинин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2920 Sent 87]: [L3 WARNING pron-det-without-prontype] The word 'бардык' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2949 Sent 89]: [L3 WARNING pron-det-without-prontype] The word 'Алар' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2963 Sent 89.1]: [L3 WARNING pron-det-without-prontype] The word 'Алар' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2992 Sent 91]: [L3 WARNING pron-det-without-prontype] The word 'бул' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3015 Sent 92]: [L3 WARNING pron-det-without-prontype] The word 'биз' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3036 Sent 93]: [L3 WARNING pron-det-without-prontype] The word 'Ал' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3039 Sent 93]: [L3 WARNING pron-det-without-prontype] The word 'бир' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3043 Sent 93]: [L3 WARNING pron-det-without-prontype] The word 'аны' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3072 Sent 94]: [L3 WARNING pron-det-without-prontype] The word 'биз' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3133 Sent 96]: [L3 WARNING pron-det-without-prontype] The word 'бир' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3203 Sent 97.2]: [L1 FORMAT missing-empty-line] Missing empty line after the sentence.
+Warnings: 80
+FORMAT errors: 1
+SYNTAX errors: 4
+*** FAILED *** with 5 errors

@@ -1,0 +1,11 @@
+[Line 116 Sent cairo-8]: [L3 WARNING pron-det-without-prontype] The word 'kinden' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 158 Sent cairo-11]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne de' does not have the 'ExtPos' feature
+[Line 1122 Sent 43]: [L3 WARNING pron-det-without-prontype] The word 'kendisine' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1134 Sent 44]: [L3 WARNING pron-det-without-prontype] The word 'kendi' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1134 Sent 44]: [L3 WARNING fixed-without-extpos] Fixed expression 'kendi kendine' does not have the 'ExtPos' feature
+[Line 1135 Sent 44]: [L3 WARNING pron-det-without-prontype] The word 'kendine' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1626 Sent 85]: [L3 WARNING pron-det-without-prontype] The word 'kinin' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1645 Sent 87]: [L3 WARNING pron-det-without-prontype] The word 'bütün' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1681 Sent 91]: [L3 WARNING pron-det-without-prontype] The word 'buralara' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 9
+*** PASSED ***

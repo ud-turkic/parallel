@@ -1,0 +1,19 @@
+[Line 125 Sent cairo-8]: [L3 WARNING pron-det-without-prontype] The word 'kindən' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 152 Sent cairo-10]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 249 Sent cairo-15.1]: [L3 WARNING pron-det-without-prontype] The word 'O' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 342 Sent cairo-19]: [L3 WARNING pron-det-without-prontype] The word 'Bu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 394 Sent udtw23-1]: [L3 WARNING pron-det-without-prontype] The word 'kını' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 492 Sent udtw23-7]: [L3 WARNING pron-det-without-prontype] The word 'kılar' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 600 Sent udtw23-15]: [L3 WARNING pron-det-without-prontype] The word 'belə' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 945 Sent 24]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 958 Sent 25]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1152 Sent 43]: [L3 WARNING pron-det-without-prontype] The word 'ona' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1164 Sent 44]: [L3 WARNING pron-det-without-prontype] The word 'özünə' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1643 Sent 85]: [L3 WARNING pron-det-without-prontype] The word 'kinin' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1662 Sent 87]: [L3 WARNING pron-det-without-prontype] The word 'tamam' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1699 Sent 91]: [L3 WARNING pron-det-without-prontype] The word 'buralara' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1728 Sent 93]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1734 Sent 93]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1777 Sent 96]: [L3 WARNING pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+Warnings: 17
+*** PASSED ***

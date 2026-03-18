@@ -1,0 +1,16 @@
+[Line 228 Sent cairo-16]: [L3 WARNING pron-det-without-prontype] The word 'bir-birlarini' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 323 Sent udtw23-1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'stolni') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 420 Sent udtw23-7]: [L3 WARNING pron-det-without-prontype] The word 'qayerda' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 485 Sent udtw23-12]: [L3 WARNING pron-det-without-prontype] The word 'menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 545 Sent udtw23-18]: [L3 WARNING pron-det-without-prontype] The word 'Nimani' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 549 Sent udtw23-18]: [L3 WARNING pron-det-without-prontype] The word 'nimani' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 561 Sent udtw23-19]: [L3 WARNING pron-det-without-prontype] The word 'menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 695 Sent 11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'likopcha') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1163 Sent 60]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'bola') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1182 Sent 62]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'bolaning') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1210 Sent 64]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'joyi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1376 Sent 83]: [L3 WARNING pron-det-without-prontype] The word 'Menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1456 Sent 92]: [L3 WARNING pron-det-without-prontype] The word 'biz' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 8
+SYNTAX errors: 5
+*** FAILED *** with 5 errors
