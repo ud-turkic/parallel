@@ -1,38 +1,16 @@
 import argparse
 import os
 
+from conllu import parse_metadata
+
 
 def extract_sentences_from_conllu(filepath):
     """Extract sentence IDs, text and English translations from a CONLLU file."""
-    sentences = {}
-    current_id = None
-    current_text = None
-    current_en = None
-
-    with open(filepath, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-
-            # Extract sentence ID
-            if line.startswith("# sent_id = "):
-                current_id = line[len("# sent_id = ") :]
-                current_text = None
-                current_en = None
-
-            # Extract text
-            elif line.startswith("# text = "):
-                current_text = line[len("# text = ") :]
-
-            # Extract English translation
-            elif line.startswith("# text[en] = "):
-                current_en = line[len("# text[en] = ") :]
-
-            # End of sentence block, store the collected information
-            elif not line or line.startswith("#") or line.startswith("1\t"):
-                if current_id and current_text:
-                    sentences[current_id] = {"text": current_text, "en": current_en}
-
-    return sentences
+    return {
+        s["sent_id"]: {"text": s["text"], "en": s["text_en"]}
+        for s in parse_metadata(filepath)
+        if s["sent_id"] and s["text"]
+    }
 
 
 def sort_sentence_ids(ids):

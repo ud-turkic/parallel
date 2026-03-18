@@ -12,11 +12,12 @@ Usage:
 """
 
 import argparse
-import re
 import sys
 import urllib.request
 import collections
 from pathlib import Path
+
+from conllu import FIELDS, parse_tokens
 
 # Language code -> UD repo name
 PUBLISHED_TREEBANKS = {
@@ -27,18 +28,6 @@ PUBLISHED_TREEBANKS = {
 }
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-CONLLU_FIELDS = [
-    "id",
-    "form",
-    "lemma",
-    "upos",
-    "xpos",
-    "feats",
-    "head",
-    "deprel",
-    "deps",
-    "misc",
-]
 
 
 def fetch_published(lang_code, repo_name, cache_dir):
@@ -56,42 +45,6 @@ def fetch_published(lang_code, repo_name, cache_dir):
         print(f"  Failed to fetch {filename}: {e}", file=sys.stderr)
         return None
     return cached
-
-
-def parse_conllu(filepath):
-    """Parse a CoNLL-U file into a dict of sent_id -> (text, tokens)."""
-    sentences = {}
-    current_lines = []
-    current_sent_id = None
-    current_text = None
-
-    sent_id_re = re.compile(r"# sent_id\s*=\s*(.+)")
-    text_re = re.compile(r"# text\s*=\s*(.+)")
-
-    with open(filepath, encoding="utf-8") as f:
-        for line in f:
-            line = line.rstrip("\n")
-            if not line.strip():
-                if current_sent_id and current_lines:
-                    sentences[current_sent_id] = (current_text, current_lines)
-                    current_lines = []
-                    current_sent_id = None
-                    current_text = None
-                continue
-            if line.startswith("#"):
-                m = sent_id_re.match(line)
-                if m:
-                    current_sent_id = m.group(1).strip()
-                m = text_re.match(line)
-                if m:
-                    current_text = m.group(1).strip()
-            else:
-                current_lines.append(line)
-
-        if current_sent_id and current_lines:
-            sentences[current_sent_id] = (current_text, current_lines)
-
-    return sentences
 
 
 def compare_sentences(local_sents, published_sents):
@@ -150,7 +103,7 @@ def compare_sentences(local_sents, published_sents):
                 continue
 
             diff_fields = []
-            for i, name in enumerate(CONLLU_FIELDS):
+            for i, name in enumerate(FIELDS):
                 if local_fields[i] != pub_fields[i]:
                     diff_fields.append((name, local_fields[i], pub_fields[i]))
                     result["field_counts"][name] += 1
@@ -297,8 +250,8 @@ def main():
         print(f"  Local:     {local_path.name}")
         print(f"  Published: {published_path.name}")
 
-        local_sents = parse_conllu(local_path)
-        pub_sents = parse_conllu(published_path)
+        local_sents = parse_tokens(local_path)
+        pub_sents = parse_tokens(published_path)
         result = compare_sentences(local_sents, pub_sents)
         report = format_report(lang, local_path, published_path, result)
         reports.append(report)

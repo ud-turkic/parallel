@@ -18,60 +18,11 @@ import re
 import sys
 from pathlib import Path
 
+from conllu import parse_metadata
+
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 SENT_ID_RE = re.compile(r"^(cairo-\d+(\.\d+)?|udtw23-\d+(\.\d+)?|\d+(\.\d+)?)$")
-
-
-def parse_conllu_metadata(filepath):
-    """Parse a CoNLL-U file, extracting metadata and token counts per sentence."""
-    sentences = []
-    current = {"sent_id": None, "text": None, "text_en": None, "token_count": 0}
-    in_sentence = False
-
-    with open(filepath, encoding="utf-8") as f:
-        for line_num, line in enumerate(f, 1):
-            line = line.rstrip("\n")
-
-            if not line.strip():
-                if current["sent_id"] is not None:
-                    current["last_line"] = line_num
-                    sentences.append(current)
-                    current = {
-                        "sent_id": None,
-                        "text": None,
-                        "text_en": None,
-                        "token_count": 0,
-                    }
-                    in_sentence = False
-                continue
-
-            if line.startswith("# sent_id"):
-                m = re.match(r"# sent_id\s*=\s*(.+)", line)
-                if m:
-                    current["sent_id"] = m.group(1).strip()
-                    current["first_line"] = line_num
-                    in_sentence = True
-            elif line.startswith("# text[en]"):
-                m = re.match(r"# text\[en\]\s*=\s*(.+)", line)
-                if m:
-                    current["text_en"] = m.group(1).strip()
-            elif line.startswith("# text"):
-                m = re.match(r"# text\s*=\s*(.+)", line)
-                if m:
-                    current["text"] = m.group(1).strip()
-            elif not line.startswith("#") and in_sentence:
-                fields = line.split("\t")
-                # Count only regular tokens (not MWT ranges like 1-2, not empty nodes like 1.1)
-                if fields[0].isdigit():
-                    current["token_count"] += 1
-
-        # Handle file not ending with blank line
-        if current["sent_id"] is not None:
-            current["last_line"] = line_num
-            sentences.append(current)
-
-    return sentences
 
 
 class ValidationResult:
@@ -100,7 +51,7 @@ class ValidationResult:
 
 def validate_single_file(filepath, result):
     """Per-file checks: sent_id format, metadata presence, duplicates."""
-    sentences = parse_conllu_metadata(filepath)
+    sentences = parse_metadata(filepath)
     name = filepath.name
 
     if not sentences:
