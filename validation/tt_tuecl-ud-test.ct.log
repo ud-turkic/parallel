@@ -1,0 +1,19 @@
+[Line 31 Sent cairo-2]: [L5 MORPHO aux-lemma] 'ди' is not an auxiliary in language [tt]
+
+The following 17 auxiliaries are currently documented in language [tt]:
+ал, бар, башла, бетер, бир, бул, иде, икән, кал, кил, кирәк, мөмкин, тиеш, тор, түгел, чык, үт
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=tt for details.
+
+
+[Line 31 Sent cairo-2]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'AUX' ('дип dip')
+[Line 32 Sent cairo-2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'уйлыйм uylıym' lacks the 'Mood' feature
+[Line 48 Sent cairo-2.1]: [L5 MORPHO aux-lemma] 'бугай' is not an auxiliary in language [tt]
+[Line 47 Sent cairo-2.1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ява yawa' lacks the 'Mood' feature
+[Line 69 Sent cairo-3.1]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '9'.
+[Line 88 Sent cairo-3.2]: [L1 FORMAT missing-empty-line] Missing empty line after the sentence.
+[Line 88 Sent cairo-3.2]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '9'.
+Warnings: 2
+FORMAT errors: 1
+MORPHO errors: 2
+SYNTAX errors: 3
+*** FAILED *** with 6 errors

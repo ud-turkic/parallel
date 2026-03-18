@@ -1,0 +1,19 @@
+[Line 205 Sent cairo-16]: [L3 WARNING pron-det-without-prontype] The word 'bir-birlarini' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 291 Sent udtw23-1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'stolni') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 382 Sent udtw23-7]: [L3 WARNING pron-det-without-prontype] The word 'qayerda' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 442 Sent udtw23-12]: [L3 WARNING pron-det-without-prontype] The word 'menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 496 Sent udtw23-18]: [L3 WARNING pron-det-without-prontype] The word 'Nimani' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 500 Sent udtw23-18]: [L3 WARNING pron-det-without-prontype] The word 'nimani' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 511 Sent udtw23-19]: [L3 WARNING pron-det-without-prontype] The word 'menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 605 Sent 8]: [L1 FORMAT number-of-columns] The line has 5 columns but 10 are expected.
+[Line 631 Sent 11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'likopcha') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1050 Sent 60]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'bola') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1067 Sent 62]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'bolaning') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1093 Sent 64]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'joyi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1240 Sent 83]: [L3 WARNING pron-det-without-prontype] The word 'Menga' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1311 Sent 92]: [L3 WARNING pron-det-without-prontype] The word 'biz' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1380 Sent 97]: [L1 FORMAT missing-empty-line] Missing empty line after the sentence.
+Warnings: 8
+FORMAT errors: 2
+SYNTAX errors: 5
+*** FAILED *** with 7 errors

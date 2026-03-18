@@ -1,0 +1,140 @@
+[Line 4 Sent 1]: [L2 METADATA text-trailing-whitespace] The text attribute must not end with whitespace.
+[Line 4 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+
+No dependency relation types have been permitted for language [kum].
+They can be permitted at the address below (if the language has an ISO code and is registered with UD):
+https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl
+
+
+[Line 5 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nmod'
+[Line 6 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obl'
+[Line 7 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obj'
+[Line 8 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 9 Sent 1]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 14 Sent 2]: [L1 FORMAT trailing-whitespace] Trailing whitespace not allowed in column LEMMA: 'Yañur '.
+[Line 5 Sent 1]: [L3 WARNING pron-det-without-prontype] The word 'оьзюню' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 14 Sent 2]: [L2 MORPHO invalid-feature] Spurious morphological feature: '5'. Should be of the form Feature=Value and must start with [A-Z] and only contain [A-Za-z0-9].
+[Line 24 Sent 3]: [L2 METADATA text-trailing-whitespace] The text attribute must not end with whitespace.
+[Line 24 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 25 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obj'
+[Line 26 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'ccomp'
+[Line 27 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc'
+[Line 28 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'conj'
+[Line 29 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'ccomp'
+[Line 30 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'compound:lvc'
+[Line 31 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 32 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'aux'
+[Line 33 Sent 3]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 24 Sent 3]: [L3 WARNING pron-det-without-prontype] The word 'Ол' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 32 Sent 3]: [L3 SYNTAX rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB' ('эди')
+[Line 38 Sent 4]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 39 Sent 4]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'xcomp'
+[Line 40 Sent 4]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 41 Sent 4]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 38 Sent 4]: [L3 WARNING pron-det-without-prontype] The word 'Сен' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 50 Sent 5]: [L2 METADATA text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[5] is '.' but text is '!...'
+[Line 46 Sent 5]: [L2 METADATA text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: '!'
+[Line 46 Sent 5]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'vocative'
+[Line 47 Sent 5]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 48 Sent 5]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obj'
+[Line 49 Sent 5]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 50 Sent 5]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 55 Sent 6]: [L2 METADATA text-trailing-whitespace] The text attribute must not end with whitespace.
+[Line 55 Sent 6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 56 Sent 6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obj'
+[Line 57 Sent 6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'iobj'
+[Line 58 Sent 6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 59 Sent 6]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 55 Sent 6]: [L3 WARNING pron-det-without-prontype] The word 'Ол' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 64 Sent 7]: [L2 METADATA text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'Питерны' but text is 'Piternı xonşusu çalnı qızıl...'
+[Line 64 Sent 7]: [L2 METADATA text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Piternı xonşusu çalnı qızıl tüsge sırladı .'
+[Line 64 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nmod'
+[Line 65 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 66 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obj'
+[Line 67 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'amod'
+[Line 68 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obl'
+[Line 69 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 70 Sent 7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 75 Sent 8]: [L1 FORMAT trailing-whitespace] Trailing whitespace not allowed in column LEMMA: 'Men '.
+[Line 75 Sent 8]: [L2 METADATA text-trailing-whitespace] The text attribute must not end with whitespace.
+[Line 75 Sent 8]: [L4 FORMAT invalid-word-with-space] 'Men ' in column LEMMA is not on the list of exceptions allowed to contain whitespace.
+
+No tokens with spaces have been permitted for language [kum].
+They can be permitted at the address below (if the language has an ISO code and is registered with UD):
+https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_token_with_space.pl
+
+
+[Line 75 Sent 8]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nmod:poss'
+[Line 76 Sent 8]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 77 Sent 8]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obl'
+[Line 78 Sent 8]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 79 Sent 8]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 75 Sent 8]: [L3 WARNING pron-det-without-prontype] The word 'Мени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 86 Sent 9]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 86 Sent 9]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 89 Sent 9]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 89 Sent 9]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 96 Sent 9]: [L1 FORMAT empty-sentence] Sentence must not be empty. Only one empty line is expected after every sentence.
+[Line 97 Sent 9]: [L1 FORMAT empty-sentence] Sentence must not be empty. Only one empty line is expected after every sentence.
+[Line 101 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 102 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'amod'
+[Line 103 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc'
+[Line 104 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'amod'
+[Line 105 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 106 Sent 10]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 114 Sent 11]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 114 Sent 11]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 132 Sent 12]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 132 Sent 12]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 140 Sent 13]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 140 Sent 13]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 145 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'advmod'
+[Line 146 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'ccomp'
+[Line 147 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'aux'
+[Line 148 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'mark'
+[Line 149 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 150 Sent 14]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 147 Sent 14]: [L3 SYNTAX rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB' ('боларсыз')
+[Line 152 Sent 14]: [L1 FORMAT empty-sentence] Sentence must not be empty. Only one empty line is expected after every sentence.
+[Line 153 Sent 14]: [L1 FORMAT empty-sentence] Sentence must not be empty. Only one empty line is expected after every sentence.
+[Line 160 Sent 15]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 160 Sent 15]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 166 Sent 15]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 166 Sent 15]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 174 Sent 16]: [L2 METADATA text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'Мери' but text is 'Мэри де къучакълашдылар,...'
+[Line 171 Sent 16]: [L2 METADATA text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Мэри де къучакълашдылар, сонг уьйден чыкъдылар .'
+[Line 171 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'nsubj'
+[Line 172 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc'
+[Line 173 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 174 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'conj'
+[Line 175 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc'
+[Line 176 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'advcl'
+[Line 177 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 178 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'aux'
+[Line 179 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'obl'
+[Line 180 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'root'
+[Line 181 Sent 16]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'punct'
+[Line 178 Sent 16]: [L3 SYNTAX rel-upos-aux] 'aux' should be 'AUX' but it is 'ADV' ('сонг')
+[Line 191 Sent 17]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 191 Sent 17]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 198 Sent 17]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 198 Sent 17]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 208 Sent 18]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 208 Sent 18]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 209 Sent 18]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 209 Sent 18]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 212 Sent 18]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 212 Sent 18]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 215 Sent 18]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 215 Sent 18]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 226 Sent 19]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 226 Sent 19]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+[Line 237 Sent 20]: [L1 FORMAT missing-empty-line] Missing empty line after the sentence.
+[Line 233 Sent 20]: [L2 FORMAT invalid-head] Invalid HEAD: '_'.
+[Line 233 Sent 20]: [L2 SYNTAX unknown-head] Undefined HEAD (no such ID): '_'.
+Warnings: 5
+FORMAT errors: 23
+MORPHO errors: 1
+SYNTAX errors: 83
+METADATA errors: 10
+*** FAILED *** with 117 errors
