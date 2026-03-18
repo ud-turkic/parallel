@@ -27,22 +27,44 @@ jobs:
 
       - name: Run validation
         run: |
+          mkdir -p validation
+          failed=0
           for f in data/*.conllu; do
-            lang=$(echo "$(basename "$f")" | grep -oP '^\w+(?=_)')
+            base=$(basename "$f" .conllu)
+            lang=$(echo "$base" | grep -oP '^\w+(?=_)')
+            log="validation/${base}.log"
             echo "=== Validating $f (lang=$lang) ==="
-            python tools/validate.py --lang "$lang" --max-err 0 "$f" 2>&1 | tee -a validation.log
+            python tools/validate.py --lang "$lang" --max-err 0 "$f" 2>&1 | tee "$log"
+            if ! grep -q '^\*\*\* PASSED \*\*\*' "$log"; then
+              failed=1
+            fi
+          done
+          echo "failed=$failed" >> "$GITHUB_ENV"
+
+      - name: Show summary
+        run: |
+          echo "## Validation Summary"
+          echo ""
+          for log in validation/*.log; do
+            base=$(basename "$log" .log)
+            if grep -q '^\*\*\* PASSED \*\*\*' "$log"; then
+              echo "- **$base**: PASSED"
+            else
+              errors=$(grep -oP '\d+ errors' "$log" | head -1)
+              echo "- **$base**: FAILED ($errors)"
+            fi
           done
 
-      - name: Show validation results
-        run: cat validation.log
-
-      - name: Commit updated validation.log
+      - name: Commit validation logs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f validation.log
-          git diff --cached --quiet || git commit -m "ci: update validation.log"
+          git add -f validation/
+          git diff --cached --quiet || git commit -m "ci: update validation logs"
           git push
 
-      - name: Fail if validation errors
-        run: grep -q '^\*\*\* PASSED \*\*\*' validation.log
+      - name: Fail if any treebank has errors
+        if: env.failed == '1'
+        run: |
+          echo "Some treebanks failed validation. See individual logs in validation/."
+          exit 1
